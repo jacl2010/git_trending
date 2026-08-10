@@ -1,0 +1,762 @@
+{
+  "title": "GitHub Php Languages Monthly Trending",
+  "description": "Monthly Trending of Php Languages in GitHub",
+  "link": "https://github.com/isboyjc/github-trending-api",
+  "pubDate": "Mon, 10 Aug 2026 08:24:18 GMT",
+  "items": [
+    {
+      "title": "coollabsio/coolify",
+      "url": "https://github.com/coollabsio/coolify",
+      "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": "60,325",
+      "forks": "5,243",
+      "addStars": "2,213",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5845193?s=40&v=4",
+          "name": "andrasbacsai",
+          "url": "https://github.com/andrasbacsai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/122374094?s=40&v=4",
+          "name": "peaklabs-dev",
+          "url": "https://github.com/peaklabs-dev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/162910371?s=40&v=4",
+          "name": "ShadowArcanist",
+          "url": "https://github.com/ShadowArcanist"
+        }
+      ]
+    },
+    {
+      "title": "grokability/snipe-it",
+      "url": "https://github.com/grokability/snipe-it",
+      "description": "A free open source IT asset/license management system",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": "14,787",
+      "forks": "3,956",
+      "addStars": "773",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/197404?s=40&v=4",
+          "name": "snipe",
+          "url": "https://github.com/snipe"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1141514?s=40&v=4",
+          "name": "marcusmoore",
+          "url": "https://github.com/marcusmoore"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47435081?s=40&v=4",
+          "name": "Godmartinz",
+          "url": "https://github.com/Godmartinz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/36335?s=40&v=4",
+          "name": "uberbrady",
+          "url": "https://github.com/uberbrady"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7305753?s=40&v=4",
+          "name": "spencerrlongg",
+          "url": "https://github.com/spencerrlongg"
+        }
+      ]
+    },
+    {
+      "title": "Leantime/leantime",
+      "url": "https://github.com/Leantime/leantime",
+      "description": "Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": "11,291",
+      "forks": "1,099",
+      "addStars": "1,110",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47038998?s=40&v=4",
+          "name": "marcelfolaron",
+          "url": "https://github.com/marcelfolaron"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10230144?s=40&v=4",
+          "name": "diderich",
+          "url": "https://github.com/diderich"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/55953099?s=40&v=4",
+          "name": "gloriafolaron",
+          "url": "https://github.com/gloriafolaron"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18671860?s=40&v=4",
+          "name": "broskees",
+          "url": "https://github.com/broskees"
+        }
+      ]
+    },
+    {
+      "title": "pestphp/pest",
+      "url": "https://github.com/pestphp/pest",
+      "description": "The elegant testing framework for PHP developers and AI agents.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": "11,644",
+      "forks": "521",
+      "addStars": "93",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5457236?s=40&v=4",
+          "name": "nunomaduro",
+          "url": "https://github.com/nunomaduro"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12202279?s=40&v=4",
+          "name": "lukeraymonddowning",
+          "url": "https://github.com/lukeraymonddowning"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8792274?s=40&v=4",
+          "name": "fabio-ivona",
+          "url": "https://github.com/fabio-ivona"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1899334?s=40&v=4",
+          "name": "owenvoke",
+          "url": "https://github.com/owenvoke"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18744334?s=40&v=4",
+          "name": "jordanbrauer",
+          "url": "https://github.com/jordanbrauer"
+        }
+      ]
+    },
+    {
+      "title": "easychen/opc-methodology",
+      "url": "https://github.com/easychen/opc-methodology",
+      "description": "《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": "16,602",
+      "forks": "1,901",
+      "addStars": "462",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1294760?s=40&v=4",
+          "name": "easychen",
+          "url": "https://github.com/easychen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1312723?s=40&v=4",
+          "name": "liul85",
+          "url": "https://github.com/liul85"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1646590?s=40&v=4",
+          "name": "mzlogin",
+          "url": "https://github.com/mzlogin"
+        }
+      ]
+    },
+    {
+      "title": "woocommerce/woocommerce",
+      "url": "https://github.com/woocommerce/woocommerce",
+      "description": "A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": "10,454",
+      "forks": "10,675",
+      "addStars": "83",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/90977?s=40&v=4",
+          "name": "mikejolley",
+          "url": "https://github.com/mikejolley"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1264099?s=40&v=4",
+          "name": "claudiosanches",
+          "url": "https://github.com/claudiosanches"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3616980?s=40&v=4",
+          "name": "Aljullu",
+          "url": "https://github.com/Aljullu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7317227?s=40&v=4",
+          "name": "claudiulodro",
+          "url": "https://github.com/claudiulodro"
+        }
+      ]
+    },
+    {
+      "title": "danielmiessler/SecLists",
+      "url": "https://github.com/danielmiessler/SecLists",
+      "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": "72,723",
+      "forks": "25,073",
+      "addStars": "773",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/535942?s=40&v=4",
+          "name": "g0tmi1k",
+          "url": "https://github.com/g0tmi1k"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46269721?s=40&v=4",
+          "name": "ItsIgnacioPortal",
+          "url": "https://github.com/ItsIgnacioPortal"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12743076?s=40&v=4",
+          "name": "throwaway-people",
+          "url": "https://github.com/throwaway-people"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/50654?s=40&v=4",
+          "name": "danielmiessler",
+          "url": "https://github.com/danielmiessler"
+        }
+      ]
+    },
+    {
+      "title": "matomo-org/matomo",
+      "url": "https://github.com/matomo-org/matomo",
+      "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": "21,751",
+      "forks": "2,883",
+      "addStars": "101",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/466765?s=40&v=4",
+          "name": "mattab",
+          "url": "https://github.com/mattab"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1579355?s=40&v=4",
+          "name": "sgiehl",
+          "url": "https://github.com/sgiehl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/273120?s=40&v=4",
+          "name": "tsteur",
+          "url": "https://github.com/tsteur"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/922051?s=40&v=4",
+          "name": "robocoder",
+          "url": "https://github.com/robocoder"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/125140?s=40&v=4",
+          "name": "diosmosis",
+          "url": "https://github.com/diosmosis"
+        }
+      ]
+    },
+    {
+      "title": "laravel/framework",
+      "url": "https://github.com/laravel/framework",
+      "description": "Laravel is a web application framework with expressive, elegant syntax.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": "34,858",
+      "forks": "11,948",
+      "addStars": "99",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/463230?s=40&v=4",
+          "name": "taylorotwell",
+          "url": "https://github.com/taylorotwell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2829600?s=40&v=4",
+          "name": "GrahamCampbell",
+          "url": "https://github.com/GrahamCampbell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/594614?s=40&v=4",
+          "name": "driesvints",
+          "url": "https://github.com/driesvints"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12684601?s=40&v=4",
+          "name": "TBlindaruk",
+          "url": "https://github.com/TBlindaruk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4332182?s=40&v=4",
+          "name": "themsaid",
+          "url": "https://github.com/themsaid"
+        }
+      ]
+    },
+    {
+      "title": "glpi-project/glpi",
+      "url": "https://github.com/glpi-project/glpi",
+      "description": "GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": "6,209",
+      "forks": "1,767",
+      "addStars": "124",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4816762?s=40&v=4",
+          "name": "moyooo",
+          "url": "https://github.com/moyooo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33253653?s=40&v=4",
+          "name": "cedric-anne",
+          "url": "https://github.com/cedric-anne"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/224733?s=40&v=4",
+          "name": "trasher",
+          "url": "https://github.com/trasher"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17678637?s=40&v=4",
+          "name": "cconard96",
+          "url": "https://github.com/cconard96"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/418844?s=40&v=4",
+          "name": "orthagh",
+          "url": "https://github.com/orthagh"
+        }
+      ]
+    },
+    {
+      "title": "invoiceninja/invoiceninja",
+      "url": "https://github.com/invoiceninja/invoiceninja",
+      "description": "A source-available invoice, quote, project and time-tracking app built with Laravel",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": "9,984",
+      "forks": "2,684",
+      "addStars": "125",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5827962?s=40&v=4",
+          "name": "turbo124",
+          "url": "https://github.com/turbo124"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4629496?s=40&v=4",
+          "name": "hillelcoren",
+          "url": "https://github.com/hillelcoren"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13711415?s=40&v=4",
+          "name": "beganovich",
+          "url": "https://github.com/beganovich"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28981528?s=40&v=4",
+          "name": "LarsK1",
+          "url": "https://github.com/LarsK1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52678724?s=40&v=4",
+          "name": "paulwer",
+          "url": "https://github.com/paulwer"
+        }
+      ]
+    },
+    {
+      "title": "elementor/elementor",
+      "url": "https://github.com/elementor/elementor",
+      "description": "The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": "7,043",
+      "forks": "1,561",
+      "addStars": "105",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/902548?s=40&v=4",
+          "name": "KingYes",
+          "url": "https://github.com/KingYes"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5265263?s=40&v=4",
+          "name": "kobizz",
+          "url": "https://github.com/kobizz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21468434?s=40&v=4",
+          "name": "matipojo",
+          "url": "https://github.com/matipojo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48412871?s=40&v=4",
+          "name": "elementorbot",
+          "url": "https://github.com/elementorbot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10234691?s=40&v=4",
+          "name": "iNewLegend",
+          "url": "https://github.com/iNewLegend"
+        }
+      ]
+    },
+    {
+      "title": "opnsense/core",
+      "url": "https://github.com/opnsense/core",
+      "description": "OPNsense GUI, API and systems backend",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": "4,593",
+      "forks": "979",
+      "addStars": "82",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1915288?s=40&v=4",
+          "name": "fichtner",
+          "url": "https://github.com/fichtner"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9783985?s=40&v=4",
+          "name": "AdSchellevis",
+          "url": "https://github.com/AdSchellevis"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33954429?s=40&v=4",
+          "name": "swhite2",
+          "url": "https://github.com/swhite2"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/79600909?s=40&v=4",
+          "name": "Monviech",
+          "url": "https://github.com/Monviech"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9606698?s=40&v=4",
+          "name": "jschellevis",
+          "url": "https://github.com/jschellevis"
+        }
+      ]
+    },
+    {
+      "title": "WordPress/wordpress-develop",
+      "url": "https://github.com/WordPress/wordpress-develop",
+      "description": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": "3,400",
+      "forks": "3,584",
+      "addStars": "46",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2047747?s=40&v=4",
+          "name": "ryanboren",
+          "url": "https://github.com/ryanboren"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/144512?s=40&v=4",
+          "name": "SergeyBiryukov",
+          "url": "https://github.com/SergeyBiryukov"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/272784?s=40&v=4",
+          "name": "nacin",
+          "url": "https://github.com/nacin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/743931?s=40&v=4",
+          "name": "azaozz",
+          "url": "https://github.com/azaozz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52932?s=40&v=4",
+          "name": "staylor",
+          "url": "https://github.com/staylor"
+        }
+      ]
+    },
+    {
+      "title": "pterodactyl/panel",
+      "url": "https://github.com/pterodactyl/panel",
+      "description": "Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": "9,127",
+      "forks": "2,637",
+      "addStars": "136",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/418376?s=40&v=4",
+          "name": "DaneEveritt",
+          "url": "https://github.com/DaneEveritt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26559841?s=40&v=4",
+          "name": "matthewpi",
+          "url": "https://github.com/matthewpi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1710904?s=40&v=4",
+          "name": "schrej",
+          "url": "https://github.com/schrej"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1757840?s=40&v=4",
+          "name": "notAreYouScared",
+          "url": "https://github.com/notAreYouScared"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1296882?s=40&v=4",
+          "name": "lancepioch",
+          "url": "https://github.com/lancepioch"
+        }
+      ]
+    },
+    {
+      "title": "filamentphp/filament",
+      "url": "https://github.com/filamentphp/filament",
+      "description": "A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": "31,745",
+      "forks": "4,195",
+      "addStars": "423",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/41773797?s=40&v=4",
+          "name": "danharrin",
+          "url": "https://github.com/danharrin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44533235?s=40&v=4",
+          "name": "zepfietje",
+          "url": "https://github.com/zepfietje"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/881938?s=40&v=4",
+          "name": "ryanscherler",
+          "url": "https://github.com/ryanscherler"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/41837763?s=40&v=4",
+          "name": "ryangjchandler",
+          "url": "https://github.com/ryangjchandler"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/59207045?s=40&v=4",
+          "name": "ralphjsmit",
+          "url": "https://github.com/ralphjsmit"
+        }
+      ]
+    },
+    {
+      "title": "PrestaShop/PrestaShop",
+      "url": "https://github.com/PrestaShop/PrestaShop",
+      "description": "PrestaShop is the universal open-source software platform to build your e-commerce solution.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": "9,186",
+      "forks": "5,047",
+      "addStars": "59",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13801017?s=40&v=4",
+          "name": "jolelievre",
+          "url": "https://github.com/jolelievre"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1533248?s=40&v=4",
+          "name": "Progi1984",
+          "url": "https://github.com/Progi1984"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3099551?s=40&v=4",
+          "name": "gRoussac",
+          "url": "https://github.com/gRoussac"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31609858?s=40&v=4",
+          "name": "zuk3975",
+          "url": "https://github.com/zuk3975"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2787216?s=40&v=4",
+          "name": "rGaillard",
+          "url": "https://github.com/rGaillard"
+        }
+      ]
+    },
+    {
+      "title": "pmmp/PocketMine-MP",
+      "url": "https://github.com/pmmp/PocketMine-MP",
+      "description": "Custom server software for Minecraft: Bedrock, built from scratch in PHP, C and C++",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": "3,573",
+      "forks": "1,679",
+      "addStars": "26",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14214667?s=40&v=4",
+          "name": "dktapps",
+          "url": "https://github.com/dktapps"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/516482?s=40&v=4",
+          "name": "shoghicp",
+          "url": "https://github.com/shoghicp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5618466?s=40&v=4",
+          "name": "PEMapModder",
+          "url": "https://github.com/PEMapModder"
+        }
+      ]
+    },
+    {
+      "title": "DenverCoder1/github-readme-streak-stats",
+      "url": "https://github.com/DenverCoder1/github-readme-streak-stats",
+      "description": "🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": "7,064",
+      "forks": "1,622",
+      "addStars": "103",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20955511?s=40&v=4",
+          "name": "DenverCoder1",
+          "url": "https://github.com/DenverCoder1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/86386385?s=40&v=4",
+          "name": "FajarKim",
+          "url": "https://github.com/FajarKim"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30869493?s=40&v=4",
+          "name": "schmelto",
+          "url": "https://github.com/schmelto"
+        }
+      ]
+    },
+    {
+      "title": "lizhipay/acg-faka",
+      "url": "https://github.com/lizhipay/acg-faka",
+      "description": "个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": "5,434",
+      "forks": "1,066",
+      "addStars": "223",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/68234346?s=40&v=4",
+          "name": "lizhipay",
+          "url": "https://github.com/lizhipay"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/49012056?s=40&v=4",
+          "name": "x1nchen",
+          "url": "https://github.com/x1nchen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/140334442?s=40&v=4",
+          "name": "LuckerYan",
+          "url": "https://github.com/LuckerYan"
+        }
+      ]
+    },
+    {
+      "title": "Paymenter/Paymenter",
+      "url": "https://github.com/Paymenter/Paymenter",
+      "description": "Free and open-source webshop solution for hostings",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": "2,204",
+      "forks": "466",
+      "addStars": "424",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/88144943?s=40&v=4",
+          "name": "CorwinDev",
+          "url": "https://github.com/CorwinDev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47200577?s=40&v=4",
+          "name": "zvikasdongre",
+          "url": "https://github.com/zvikasdongre"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15818451?s=40&v=4",
+          "name": "iamdarkle",
+          "url": "https://github.com/iamdarkle"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7601383?s=40&v=4",
+          "name": "gps949",
+          "url": "https://github.com/gps949"
+        }
+      ]
+    },
+    {
+      "title": "magento/magento2",
+      "url": "https://github.com/magento/magento2",
+      "description": "Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": "12,166",
+      "forks": "9,354",
+      "addStars": "35",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31669971?s=40&v=4",
+          "name": "magento-engcom-team",
+          "url": "https://github.com/magento-engcom-team"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9741905?s=40&v=4",
+          "name": "slavvka",
+          "url": "https://github.com/slavvka"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12795788?s=40&v=4",
+          "name": "zakdma",
+          "url": "https://github.com/zakdma"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7325075?s=40&v=4",
+          "name": "okorshenko",
+          "url": "https://github.com/okorshenko"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1119622?s=40&v=4",
+          "name": "rganin",
+          "url": "https://github.com/rganin"
+        }
+      ]
+    }
+  ]
+}

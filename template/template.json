@@ -1,0 +1,7 @@
+{
+  "title": "GitHub {{language}} Languages {{since}} Trending",
+  "description": "{{since}} Trending of {{language}} Languages in GitHub",
+  "link": "https://github.com/jacl2010/git_trending",
+  "pubDate": "{{pubDate}}",
+  "items": []
+}

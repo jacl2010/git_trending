@@ -1,0 +1,634 @@
+{
+  "title": "GitHub Kotlin Languages Weekly Trending",
+  "description": "Weekly Trending of Kotlin Languages in GitHub",
+  "link": "https://github.com/isboyjc/github-trending-api",
+  "pubDate": "Mon, 10 Aug 2026 08:24:18 GMT",
+  "items": [
+    {
+      "title": "embabel/embabel-agent",
+      "url": "https://github.com/embabel/embabel-agent",
+      "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "4,074",
+      "forks": "402",
+      "addStars": "195",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1916583?s=40&v=4",
+          "name": "johnsonr",
+          "url": "https://github.com/johnsonr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2858254?s=40&v=4",
+          "name": "alexheifetz",
+          "url": "https://github.com/alexheifetz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/165492669?s=40&v=4",
+          "name": "igordayen",
+          "url": "https://github.com/igordayen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/430321?s=40&v=4",
+          "name": "jasperblues",
+          "url": "https://github.com/jasperblues"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/330665?s=40&v=4",
+          "name": "poutsma",
+          "url": "https://github.com/poutsma"
+        }
+      ]
+    },
+    {
+      "title": "JingMatrix/Vector",
+      "url": "https://github.com/JingMatrix/Vector",
+      "description": "Modern Xposed Framework",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "12,057",
+      "forks": "809",
+      "addStars": "127",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5022927?s=40&v=4",
+          "name": "yujincheng08",
+          "url": "https://github.com/yujincheng08"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26996262?s=40&v=4",
+          "name": "vvb2060",
+          "url": "https://github.com/vvb2060"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3291602?s=40&v=4",
+          "name": "solohsu",
+          "url": "https://github.com/solohsu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24476093?s=40&v=4",
+          "name": "JingMatrix",
+          "url": "https://github.com/JingMatrix"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/40033067?s=40&v=4",
+          "name": "Howard20181",
+          "url": "https://github.com/Howard20181"
+        }
+      ]
+    },
+    {
+      "title": "bannedbook/fanqiang",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "50,164",
+      "forks": "8,281",
+      "addStars": "778",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4361923?s=40&v=4",
+          "name": "bannedbook",
+          "url": "https://github.com/bannedbook"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/50905019?s=40&v=4",
+          "name": "crazyetiii",
+          "url": "https://github.com/crazyetiii"
+        }
+      ]
+    },
+    {
+      "title": "maxrave-dev/SimpMusic",
+      "url": "https://github.com/maxrave-dev/SimpMusic",
+      "description": "A cross-platform music app using YouTube Music for backend",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "10,375",
+      "forks": "518",
+      "addStars": "156",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/113747128?s=40&v=4",
+          "name": "maxrave-dev",
+          "url": "https://github.com/maxrave-dev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/87689078?s=40&v=4",
+          "name": "RounakDadsena",
+          "url": "https://github.com/RounakDadsena"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/102886591?s=40&v=4",
+          "name": "spiicez21",
+          "url": "https://github.com/spiicez21"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96661824?s=40&v=4",
+          "name": "CrazyWolf13",
+          "url": "https://github.com/CrazyWolf13"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/62717259?s=40&v=4",
+          "name": "ilianoKokoro",
+          "url": "https://github.com/ilianoKokoro"
+        }
+      ]
+    },
+    {
+      "title": "2dust/v2rayNG",
+      "url": "https://github.com/2dust/v2rayNG",
+      "description": "A V2Ray client for Android, support Xray core and v2fly core",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "60,909",
+      "forks": "7,917",
+      "addStars": "438",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31833384?s=40&v=4",
+          "name": "2dust",
+          "url": "https://github.com/2dust"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1588741?s=40&v=4",
+          "name": "yuhan6665",
+          "url": "https://github.com/yuhan6665"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/132823494?s=40&v=4",
+          "name": "codewithtamim",
+          "url": "https://github.com/codewithtamim"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25316928?s=40&v=4",
+          "name": "solokot",
+          "url": "https://github.com/solokot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63148255?s=40&v=4",
+          "name": "hosseinabaspanah",
+          "url": "https://github.com/hosseinabaspanah"
+        }
+      ]
+    },
+    {
+      "title": "rikkahub/rikkahub",
+      "url": "https://github.com/rikkahub/rikkahub",
+      "description": "RikkaHub is an Android APP that supports for multiple LLM providers.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "6,773",
+      "forks": "545",
+      "addStars": "212",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21152113?s=40&v=4",
+          "name": "re-ovo",
+          "url": "https://github.com/re-ovo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/176464082?s=40&v=4",
+          "name": "jacob-sheng",
+          "url": "https://github.com/jacob-sheng"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46769726?s=40&v=4",
+          "name": "Cyli00",
+          "url": "https://github.com/Cyli00"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/130730471?s=40&v=4",
+          "name": "EDWINCHENC",
+          "url": "https://github.com/EDWINCHENC"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/138278463?s=40&v=4",
+          "name": "jingkarqi",
+          "url": "https://github.com/jingkarqi"
+        }
+      ]
+    },
+    {
+      "title": "Dev4Mod/WaEnhancer",
+      "url": "https://github.com/Dev4Mod/WaEnhancer",
+      "description": "WhatsApp tools for Android",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "1,630",
+      "forks": "216",
+      "addStars": "24",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15899174?s=40&v=4",
+          "name": "Dev4Mod",
+          "url": "https://github.com/Dev4Mod"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45714956?s=40&v=4",
+          "name": "frknkrc44",
+          "url": "https://github.com/frknkrc44"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/72978007?s=40&v=4",
+          "name": "mubashardev",
+          "url": "https://github.com/mubashardev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/68740307?s=40&v=4",
+          "name": "masbentoooredoo",
+          "url": "https://github.com/masbentoooredoo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/160529153?s=40&v=4",
+          "name": "zhongerxll",
+          "url": "https://github.com/zhongerxll"
+        }
+      ]
+    },
+    {
+      "title": "tharunbirla/LibreCuts",
+      "url": "https://github.com/tharunbirla/LibreCuts",
+      "description": "LibreCuts is a free, open-source video editor for Android that prioritizes simplicity and efficiency.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "444",
+      "forks": "61",
+      "addStars": "75",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/95176683?s=40&v=4",
+          "name": "tharunbirla",
+          "url": "https://github.com/tharunbirla"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4369174?s=40&v=4",
+          "name": "Keyaku",
+          "url": "https://github.com/Keyaku"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4960210?s=40&v=4",
+          "name": "PulsarFX",
+          "url": "https://github.com/PulsarFX"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
+      "title": "JetBrains/kotlin",
+      "url": "https://github.com/JetBrains/kotlin",
+      "description": "The Kotlin Programming Language.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "53,332",
+      "forks": "6,390",
+      "addStars": "158",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/292714?s=40&v=4",
+          "name": "udalov",
+          "url": "https://github.com/udalov"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1127631?s=40&v=4",
+          "name": "mglukhikh",
+          "url": "https://github.com/mglukhikh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14974409?s=40&v=4",
+          "name": "demiurg906",
+          "url": "https://github.com/demiurg906"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/908958?s=40&v=4",
+          "name": "goodwinnk",
+          "url": "https://github.com/goodwinnk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22503910?s=40&v=4",
+          "name": "dimonchik0036",
+          "url": "https://github.com/dimonchik0036"
+        }
+      ]
+    },
+    {
+      "title": "thejaustin/ShizukuPlus",
+      "url": "https://github.com/thejaustin/ShizukuPlus",
+      "description": "[ UNSTABLE ] Shizuku+ goes deeper than the OG Shizuku. Take a look inside, and see what you find.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "662",
+      "forks": "40",
+      "addStars": "78",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12999176?s=40&v=4",
+          "name": "RikkaW",
+          "url": "https://github.com/RikkaW"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10579902?s=40&v=4",
+          "name": "thejaustin",
+          "url": "https://github.com/thejaustin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/80229487?s=40&v=4",
+          "name": "thedjchi",
+          "url": "https://github.com/thedjchi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/224605497?s=40&v=4",
+          "name": "qwencoder",
+          "url": "https://github.com/qwencoder"
+        }
+      ]
+    },
+    {
+      "title": "RikkaApps/Shizuku",
+      "url": "https://github.com/RikkaApps/Shizuku",
+      "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "28,624",
+      "forks": "2,822",
+      "addStars": "341",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12999176?s=40&v=4",
+          "name": "RikkaW",
+          "url": "https://github.com/RikkaW"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26996262?s=40&v=4",
+          "name": "vvb2060",
+          "url": "https://github.com/vvb2060"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13131972?s=40&v=4",
+          "name": "haruue",
+          "url": "https://github.com/haruue"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22442525?s=40&v=4",
+          "name": "ryuunoakaihitomi",
+          "url": "https://github.com/ryuunoakaihitomi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/50289872?s=40&v=4",
+          "name": "tclement0922",
+          "url": "https://github.com/tclement0922"
+        }
+      ]
+    },
+    {
+      "title": "LegadoTeam/legado",
+      "url": "https://github.com/LegadoTeam/legado",
+      "description": "Legado 3.0 Book Reader with powerful controls",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "669",
+      "forks": "192",
+      "addStars": "174",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8674809?s=40&v=4",
+          "name": "821938089",
+          "url": "https://github.com/821938089"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/82232510?s=40&v=4",
+          "name": "Xwite",
+          "url": "https://github.com/Xwite"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/69211489?s=40&v=4",
+          "name": "mgz0227",
+          "url": "https://github.com/mgz0227"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/59725261?s=40&v=4",
+          "name": "Luoyacheng",
+          "url": "https://github.com/Luoyacheng"
+        }
+      ]
+    },
+    {
+      "title": "mpv-android/mpv-android",
+      "url": "https://github.com/mpv-android/mpv-android",
+      "description": "Video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "3,456",
+      "forks": "449",
+      "addStars": "32",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1042418?s=40&v=4",
+          "name": "sfan5",
+          "url": "https://github.com/sfan5"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/27182?s=40&v=4",
+          "name": "jeeb",
+          "url": "https://github.com/jeeb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1065521?s=40&v=4",
+          "name": "xyzz",
+          "url": "https://github.com/xyzz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2567?s=40&v=4",
+          "name": "tmm1",
+          "url": "https://github.com/tmm1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/36733368?s=40&v=4",
+          "name": "obscenelyvague",
+          "url": "https://github.com/obscenelyvague"
+        }
+      ]
+    },
+    {
+      "title": "keiyoushi/extensions-source",
+      "url": "https://github.com/keiyoushi/extensions-source",
+      "description": "Source code of extensions in https://github.com/keiyoushi/extensions",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "4,511",
+      "forks": "1,549",
+      "addStars": "37",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48650614?s=40&v=4",
+          "name": "AwkwardPeak7",
+          "url": "https://github.com/AwkwardPeak7"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13540478?s=40&v=4",
+          "name": "vetleledaal",
+          "url": "https://github.com/vetleledaal"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/156493704?s=40&v=4",
+          "name": "choppeh",
+          "url": "https://github.com/choppeh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/90949336?s=40&v=4",
+          "name": "bapeey",
+          "url": "https://github.com/bapeey"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/92439990?s=40&v=4",
+          "name": "beer-psi",
+          "url": "https://github.com/beer-psi"
+        }
+      ]
+    },
+    {
+      "title": "mihonapp/mihon",
+      "url": "https://github.com/mihonapp/mihon",
+      "description": "Free and open source manga reader for Android",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "22,709",
+      "forks": "1,398",
+      "addStars": "260",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/59261191?s=40&v=4",
+          "name": "AntsyLich",
+          "url": "https://github.com/AntsyLich"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
+          "name": "renovate-bot",
+          "url": "https://github.com/renovate-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39014446?s=40&v=4",
+          "name": "MajorTanya",
+          "url": "https://github.com/MajorTanya"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10836780?s=40&v=4",
+          "name": "Soitora",
+          "url": "https://github.com/Soitora"
+        }
+      ]
+    },
+    {
+      "title": "home-assistant/android",
+      "url": "https://github.com/home-assistant/android",
+      "description": "Home Assistant Companion for Android",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "3,797",
+      "forks": "1,033",
+      "addStars": "15",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1634145?s=40&v=4",
+          "name": "dshokouhi",
+          "url": "https://github.com/dshokouhi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6560631?s=40&v=4",
+          "name": "TimoPtr",
+          "url": "https://github.com/TimoPtr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8148535?s=40&v=4",
+          "name": "jpelgrom",
+          "url": "https://github.com/jpelgrom"
+        }
+      ]
+    },
+    {
+      "title": "gkd-kit/gkd",
+      "url": "https://github.com/gkd-kit/gkd",
+      "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "40,790",
+      "forks": "1,929",
+      "addStars": "175",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38517192?s=40&v=4",
+          "name": "lisonge",
+          "url": "https://github.com/lisonge"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4233744?s=40&v=4",
+          "name": "tiann",
+          "url": "https://github.com/tiann"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/121001029?s=40&v=4",
+          "name": "cjy0812",
+          "url": "https://github.com/cjy0812"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17351112?s=40&v=4",
+          "name": "fansangg",
+          "url": "https://github.com/fansangg"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/85251920?s=40&v=4",
+          "name": "Lin-arm",
+          "url": "https://github.com/Lin-arm"
+        }
+      ]
+    },
+    {
+      "title": "sfsakhawat999/mpvRex",
+      "url": "https://github.com/sfsakhawat999/mpvRex",
+      "description": "A modern Android video player powered by libmpv, built with Jetpack Compose.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "509",
+      "forks": "31",
+      "addStars": "55",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44324616?s=40&v=4",
+          "name": "estiaksoyeb",
+          "url": "https://github.com/estiaksoyeb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/227117361?s=40&v=4",
+          "name": "marlboro-advance",
+          "url": "https://github.com/marlboro-advance"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/75839432?s=40&v=4",
+          "name": "sfsakhawat999",
+          "url": "https://github.com/sfsakhawat999"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/193402786?s=40&v=4",
+          "name": "AhmedRX20",
+          "url": "https://github.com/AhmedRX20"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/243861229?s=40&v=4",
+          "name": "easoyeb",
+          "url": "https://github.com/easoyeb"
+        }
+      ]
+    }
+  ]
+}

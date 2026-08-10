@@ -1,0 +1,597 @@
+{
+  "title": "GitHub Mdx Languages Daily Trending",
+  "description": "Daily Trending of Mdx Languages in GitHub",
+  "link": "https://github.com/isboyjc/github-trending-api",
+  "pubDate": "Mon, 10 Aug 2026 08:24:18 GMT",
+  "items": [
+    {
+      "title": "withastro/docs",
+      "url": "https://github.com/withastro/docs",
+      "description": "Astro documentation",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": "1,674",
+      "forks": "1,877",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/61414485?s=40&v=4",
+          "name": "yanthomasdev",
+          "url": "https://github.com/yanthomasdev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5098874?s=40&v=4",
+          "name": "sarah11918",
+          "url": "https://github.com/sarah11918"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39112954?s=40&v=4",
+          "name": "jsparkdev",
+          "url": "https://github.com/jsparkdev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/59021693?s=40&v=4",
+          "name": "ArmandPhilippot",
+          "url": "https://github.com/ArmandPhilippot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/357379?s=40&v=4",
+          "name": "delucis",
+          "url": "https://github.com/delucis"
+        }
+      ]
+    },
+    {
+      "title": "dair-ai/Prompt-Engineering-Guide",
+      "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+      "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": "77,380",
+      "forks": "8,503",
+      "addStars": "14",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7049564?s=40&v=4",
+          "name": "omarsar",
+          "url": "https://github.com/omarsar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/129090711?s=40&v=4",
+          "name": "S4MFI",
+          "url": "https://github.com/S4MFI"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/50868?s=40&v=4",
+          "name": "behrends",
+          "url": "https://github.com/behrends"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/53365307?s=40&v=4",
+          "name": "ThunderCatXp",
+          "url": "https://github.com/ThunderCatXp"
+        }
+      ]
+    },
+    {
+      "title": "cloudflare/cloudflare-docs",
+      "url": "https://github.com/cloudflare/cloudflare-docs",
+      "description": "Cloudflare’s documentation",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": "5,067",
+      "forks": "16,279",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/680496?s=40&v=4",
+          "name": "pedrosousa",
+          "url": "https://github.com/pedrosousa"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26727299?s=40&v=4",
+          "name": "kodster28",
+          "url": "https://github.com/kodster28"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/83226960?s=40&v=4",
+          "name": "marciocloudflare",
+          "url": "https://github.com/marciocloudflare"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/70746074?s=40&v=4",
+          "name": "deadlypants1973",
+          "url": "https://github.com/deadlypants1973"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/101146722?s=40&v=4",
+          "name": "ranbel",
+          "url": "https://github.com/ranbel"
+        }
+      ]
+    },
+    {
+      "title": "detekt/detekt",
+      "url": "https://github.com/detekt/detekt",
+      "description": "Static code analysis for Kotlin",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": "7,023",
+      "forks": "857",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20924106?s=40&v=4",
+          "name": "arturbosch",
+          "url": "https://github.com/arturbosch"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30376729?s=40&v=4",
+          "name": "schalkms",
+          "url": "https://github.com/schalkms"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/170028?s=40&v=4",
+          "name": "3flex",
+          "url": "https://github.com/3flex"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/721244?s=40&v=4",
+          "name": "BraisGabin",
+          "url": "https://github.com/BraisGabin"
+        }
+      ]
+    },
+    {
+      "title": "huggingface/course",
+      "url": "https://github.com/huggingface/course",
+      "description": "The Hugging Face course on Transformers",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": "4,117",
+      "forks": "1,387",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26859204?s=40&v=4",
+          "name": "lewtun",
+          "url": "https://github.com/lewtun"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5528894?s=40&v=4",
+          "name": "kambizG",
+          "url": "https://github.com/kambizG"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19620375?s=40&v=4",
+          "name": "burtenshaw",
+          "url": "https://github.com/burtenshaw"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17560478?s=40&v=4",
+          "name": "artyomboyko",
+          "url": "https://github.com/artyomboyko"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/66115008?s=40&v=4",
+          "name": "eduard-balamatiuc",
+          "url": "https://github.com/eduard-balamatiuc"
+        }
+      ]
+    },
+    {
+      "title": "langfuse/langfuse-docs",
+      "url": "https://github.com/langfuse/langfuse-docs",
+      "description": "🪢 Langfuse documentation -- Langfuse is the open source LLM Engineering Platform. Observability, evals, prompt management, playground and metrics to debug and improve LLM apps",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": "232",
+      "forks": "276",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2834609?s=40&v=4",
+          "name": "marcklingen",
+          "url": "https://github.com/marcklingen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+          "name": "actions-user",
+          "url": "https://github.com/actions-user"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48529566?s=40&v=4",
+          "name": "jannikmaierhoefer",
+          "url": "https://github.com/jannikmaierhoefer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17686849?s=40&v=4",
+          "name": "maxdeichmann",
+          "url": "https://github.com/maxdeichmann"
+        }
+      ]
+    },
+    {
+      "title": "npm/documentation",
+      "url": "https://github.com/npm/documentation",
+      "description": "Documentation for the npm registry, website, and command-line interface.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": "694",
+      "forks": "4,128",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/105249312?s=40&v=4",
+          "name": "npm-cli-bot",
+          "url": "https://github.com/npm-cli-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/542108?s=40&v=4",
+          "name": "lukekarrys",
+          "url": "https://github.com/lukekarrys"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/498775?s=40&v=4",
+          "name": "MylesBorins",
+          "url": "https://github.com/MylesBorins"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/36607?s=40&v=4",
+          "name": "wraithgar",
+          "url": "https://github.com/wraithgar"
+        }
+      ]
+    },
+    {
+      "title": "rainbow-me/rainbowkit",
+      "url": "https://github.com/rainbow-me/rainbowkit",
+      "description": "The best way to connect a wallet 🌈 🧰",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": "2,836",
+      "forks": "791",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4412473?s=40&v=4",
+          "name": "DanielSinclair",
+          "url": "https://github.com/DanielSinclair"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35937217?s=40&v=4",
+          "name": "v1rtl",
+          "url": "https://github.com/v1rtl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/696693?s=40&v=4",
+          "name": "markdalgleish",
+          "url": "https://github.com/markdalgleish"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16931094?s=40&v=4",
+          "name": "nicoglennon",
+          "url": "https://github.com/nicoglennon"
+        }
+      ]
+    },
+    {
+      "title": "discord/discord-api-docs",
+      "url": "https://github.com/discord/discord-api-docs",
+      "description": "Official Discord Developer Docs",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": "6,455",
+      "forks": "1,373",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11778454?s=40&v=4",
+          "name": "advaith1",
+          "url": "https://github.com/advaith1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4193854?s=40&v=4",
+          "name": "msciotti",
+          "url": "https://github.com/msciotti"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3411005?s=40&v=4",
+          "name": "shaydewael",
+          "url": "https://github.com/shaydewael"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/298370?s=40&v=4",
+          "name": "markmandel",
+          "url": "https://github.com/markmandel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2942184?s=40&v=4",
+          "name": "night",
+          "url": "https://github.com/night"
+        }
+      ]
+    },
+    {
+      "title": "ionic-team/capacitor-docs",
+      "url": "https://github.com/ionic-team/capacitor-docs",
+      "description": "",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": "48",
+      "forks": "738",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1637892?s=40&v=4",
+          "name": "jcesarmobile",
+          "url": "https://github.com/jcesarmobile"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2721089?s=40&v=4",
+          "name": "liamdebeasi",
+          "url": "https://github.com/liamdebeasi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/714118?s=40&v=4",
+          "name": "ltm",
+          "url": "https://github.com/ltm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2545368?s=40&v=4",
+          "name": "dotNetkow",
+          "url": "https://github.com/dotNetkow"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6577830?s=40&v=4",
+          "name": "brandyscarney",
+          "url": "https://github.com/brandyscarney"
+        }
+      ]
+    },
+    {
+      "title": "prisma/web",
+      "url": "https://github.com/prisma/web",
+      "description": "📚 Prisma Web Monorepo",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": "1,095",
+      "forks": "983",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8801572?s=40&v=4",
+          "name": "nilubava",
+          "url": "https://github.com/nilubava"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4058327?s=40&v=4",
+          "name": "nikolasburk",
+          "url": "https://github.com/nikolasburk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/183673?s=40&v=4",
+          "name": "janpio",
+          "url": "https://github.com/janpio"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4829245?s=40&v=4",
+          "name": "jharrell",
+          "url": "https://github.com/jharrell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/64993082?s=40&v=4",
+          "name": "ankur-arch",
+          "url": "https://github.com/ankur-arch"
+        }
+      ]
+    },
+    {
+      "title": "all-contributors/allcontributors.org",
+      "url": "https://github.com/all-contributors/allcontributors.org",
+      "description": "✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": "8,088",
+      "forks": "1,727",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3534236?s=40&v=4",
+          "name": "jakebolam",
+          "url": "https://github.com/jakebolam"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8260834?s=40&v=4",
+          "name": "Berkmann18",
+          "url": "https://github.com/Berkmann18"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/23616154?s=40&v=4",
+          "name": "JimMadge",
+          "url": "https://github.com/JimMadge"
+        }
+      ]
+    },
+    {
+      "title": "mintlify/docs",
+      "url": "https://github.com/mintlify/docs",
+      "description": "Official Mintlify documentation",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": "428",
+      "forks": "237",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/56270045?s=40&v=4",
+          "name": "ethanpalm",
+          "url": "https://github.com/ethanpalm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44352119?s=40&v=4",
+          "name": "handotdev",
+          "url": "https://github.com/handotdev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/55263191?s=40&v=4",
+          "name": "hahnbeelee",
+          "url": "https://github.com/hahnbeelee"
+        }
+      ]
+    },
+    {
+      "title": "stellar/stellar-docs",
+      "url": "https://github.com/stellar/stellar-docs",
+      "description": "Documentation for Stellar",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": "133",
+      "forks": "290",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/92327786?s=40&v=4",
+          "name": "briwylde08",
+          "url": "https://github.com/briwylde08"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2024293?s=40&v=4",
+          "name": "ElliotFriend",
+          "url": "https://github.com/ElliotFriend"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4383610?s=40&v=4",
+          "name": "kalepail",
+          "url": "https://github.com/kalepail"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/734336?s=40&v=4",
+          "name": "janewang",
+          "url": "https://github.com/janewang"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/351529?s=40&v=4",
+          "name": "leighmcculloch",
+          "url": "https://github.com/leighmcculloch"
+        }
+      ]
+    },
+    {
+      "title": "hashicorp/web-unified-docs",
+      "url": "https://github.com/hashicorp/web-unified-docs",
+      "description": "Hashicorp Unified Docs",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": "78",
+      "forks": "252",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/62622282?s=40&v=4",
+          "name": "hashibot-web",
+          "url": "https://github.com/hashibot-web"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47586768?s=40&v=4",
+          "name": "trujillo-adam",
+          "url": "https://github.com/trujillo-adam"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/62406755?s=40&v=4",
+          "name": "schavis",
+          "url": "https://github.com/schavis"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/76443935?s=40&v=4",
+          "name": "Dan-Heath",
+          "url": "https://github.com/Dan-Heath"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26799583?s=40&v=4",
+          "name": "aimeeu",
+          "url": "https://github.com/aimeeu"
+        }
+      ]
+    },
+    {
+      "title": "JSONbored/awesome-claude",
+      "url": "https://github.com/JSONbored/awesome-claude",
+      "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP package.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": "288",
+      "forks": "118",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/49853598?s=40&v=4",
+          "name": "JSONbored",
+          "url": "https://github.com/JSONbored"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/287075021?s=40&v=4",
+          "name": "oktofeesh1",
+          "url": "https://github.com/oktofeesh1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/156195510?s=40&v=4",
+          "name": "kiannidev",
+          "url": "https://github.com/kiannidev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/164088955?s=40&v=4",
+          "name": "RealDiligent",
+          "url": "https://github.com/RealDiligent"
+        }
+      ]
+    },
+    {
+      "title": "wandb/docs",
+      "url": "https://github.com/wandb/docs",
+      "description": "The product documentation for Weights & Biases, published at https://docs.wandb.ai",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": "23",
+      "forks": "54",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15202580?s=40&v=4",
+          "name": "ngrayluna",
+          "url": "https://github.com/ngrayluna"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7674613?s=40&v=4",
+          "name": "mdlinville",
+          "url": "https://github.com/mdlinville"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5439615?s=40&v=4",
+          "name": "johndmulhausen",
+          "url": "https://github.com/johndmulhausen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17599248?s=40&v=4",
+          "name": "dbrian57",
+          "url": "https://github.com/dbrian57"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11450487?s=40&v=4",
+          "name": "bcsherma",
+          "url": "https://github.com/bcsherma"
+        }
+      ]
+    }
+  ]
+}

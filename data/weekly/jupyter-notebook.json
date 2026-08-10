@@ -1,0 +1,681 @@
+{
+  "title": "GitHub Jupyter-notebook Languages Weekly Trending",
+  "description": "Weekly Trending of Jupyter-notebook Languages in GitHub",
+  "link": "https://github.com/isboyjc/github-trending-api",
+  "pubDate": "Mon, 10 Aug 2026 08:24:18 GMT",
+  "items": [
+    {
+      "title": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "30,452",
+      "forks": "3,245",
+      "addStars": "5,129",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
+          "name": "lyogavin",
+          "url": "https://github.com/lyogavin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&v=4",
+          "name": "eltociear",
+          "url": "https://github.com/eltociear"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/69672640?s=40&v=4",
+          "name": "NavodPeiris",
+          "url": "https://github.com/NavodPeiris"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
+      "title": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "64,244",
+      "forks": "12,422",
+      "addStars": "5,514",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
+          "name": "leestott",
+          "url": "https://github.com/leestott"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
+          "name": "skytin1004",
+          "url": "https://github.com/skytin1004"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1450004?s=40&v=4",
+          "name": "jlooper",
+          "url": "https://github.com/jlooper"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2892110?s=40&v=4",
+          "name": "shwars",
+          "url": "https://github.com/shwars"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44121227?s=40&v=4",
+          "name": "BethanyJep",
+          "url": "https://github.com/BethanyJep"
+        }
+      ]
+    },
+    {
+      "title": "DataExpert-io/data-engineer-handbook",
+      "url": "https://github.com/DataExpert-io/data-engineer-handbook",
+      "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "43,549",
+      "forks": "9,072",
+      "addStars": "824",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4583288?s=40&v=4",
+          "name": "EcZachly",
+          "url": "https://github.com/EcZachly"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/72290009?s=40&v=4",
+          "name": "ry-v1",
+          "url": "https://github.com/ry-v1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/188408630?s=40&v=4",
+          "name": "isangwanrahul",
+          "url": "https://github.com/isangwanrahul"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/57084343?s=40&v=4",
+          "name": "evil-in",
+          "url": "https://github.com/evil-in"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6037277?s=40&v=4",
+          "name": "damaradiprabowo",
+          "url": "https://github.com/damaradiprabowo"
+        }
+      ]
+    },
+    {
+      "title": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "description": "21 Lessons, Get Started Building with Generative AI",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "117,230",
+      "forks": "61,906",
+      "addStars": "2,488",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
+          "name": "skytin1004",
+          "url": "https://github.com/skytin1004"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7462909?s=40&v=4",
+          "name": "koreyspace",
+          "url": "https://github.com/koreyspace"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
+          "name": "leestott",
+          "url": "https://github.com/leestott"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/64026625?s=40&v=4",
+          "name": "john0isaac",
+          "url": "https://github.com/john0isaac"
+        }
+      ]
+    },
+    {
+      "title": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "48,578",
+      "forks": "5,822",
+      "addStars": "1,481",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/59903352?s=40&v=4",
+          "name": "Lordog",
+          "url": "https://github.com/Lordog"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7037265?s=40&v=4",
+          "name": "cooelf",
+          "url": "https://github.com/cooelf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33388552?s=40&v=4",
+          "name": "zwhe99",
+          "url": "https://github.com/zwhe99"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45898026?s=40&v=4",
+          "name": "dongdongzhaoUP",
+          "url": "https://github.com/dongdongzhaoUP"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18722770?s=40&v=4",
+          "name": "scofield7419",
+          "url": "https://github.com/scofield7419"
+        }
+      ]
+    },
+    {
+      "title": "karpathy/micrograd",
+      "url": "https://github.com/karpathy/micrograd",
+      "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "17,069",
+      "forks": "2,716",
+      "addStars": "121",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4",
+          "name": "karpathy",
+          "url": "https://github.com/karpathy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1837749?s=40&v=4",
+          "name": "bpesquet",
+          "url": "https://github.com/bpesquet"
+        }
+      ]
+    },
+    {
+      "title": "microsoft/ML-For-Beginners",
+      "url": "https://github.com/microsoft/ML-For-Beginners",
+      "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "89,218",
+      "forks": "21,876",
+      "addStars": "332",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1450004?s=40&v=4",
+          "name": "jlooper",
+          "url": "https://github.com/jlooper"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
+          "name": "skytin1004",
+          "url": "https://github.com/skytin1004"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
+          "name": "leestott",
+          "url": "https://github.com/leestott"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3022824?s=40&v=4",
+          "name": "hereje",
+          "url": "https://github.com/hereje"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/55969597?s=40&v=4",
+          "name": "Vidushi-Gupta",
+          "url": "https://github.com/Vidushi-Gupta"
+        }
+      ]
+    },
+    {
+      "title": "neo4j-labs/llm-graph-builder",
+      "url": "https://github.com/neo4j-labs/llm-graph-builder",
+      "description": "Neo4j graph construction from unstructured data using LLMs",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "5,151",
+      "forks": "866",
+      "addStars": "165",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/101251502?s=40&v=4",
+          "name": "kartikpersistent",
+          "url": "https://github.com/kartikpersistent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/156313631?s=40&v=4",
+          "name": "prakriti-solankey",
+          "url": "https://github.com/prakriti-solankey"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/121786590?s=40&v=4",
+          "name": "praveshkumar1988",
+          "url": "https://github.com/praveshkumar1988"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/156318202?s=40&v=4",
+          "name": "aashipandya",
+          "url": "https://github.com/aashipandya"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/165021735?s=40&v=4",
+          "name": "vasanthasaikalluri",
+          "url": "https://github.com/vasanthasaikalluri"
+        }
+      ]
+    },
+    {
+      "title": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "18 Lessons to Get Started Building AI Agents",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "71,773",
+      "forks": "23,770",
+      "addStars": "794",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
+          "name": "leestott",
+          "url": "https://github.com/leestott"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
+          "name": "skytin1004",
+          "url": "https://github.com/skytin1004"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7462909?s=40&v=4",
+          "name": "koreyspace",
+          "url": "https://github.com/koreyspace"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/40815708?s=40&v=4",
+          "name": "hyoshioka0128",
+          "url": "https://github.com/hyoshioka0128"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/93383164?s=40&v=4",
+          "name": "ShivamGoyal03",
+          "url": "https://github.com/ShivamGoyal03"
+        }
+      ]
+    },
+    {
+      "title": "charliedream1/ai_quant_trade",
+      "url": "https://github.com/charliedream1/ai_quant_trade",
+      "description": "股票AI操盘手：从学习、模拟到实盘，一站式平台。包含股票知识、策略实例、大模型、因子挖掘、传统策略、机器学习、深度学习、强化学习、图网络、高频交易、C++部署和聚宽实例代码等，可以方便学习、模拟及实盘交易",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "6,129",
+      "forks": "1,173",
+      "addStars": "86",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15007828?s=40&v=4",
+          "name": "charliedream1",
+          "url": "https://github.com/charliedream1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/272135137?s=40&v=4",
+          "name": "traeagent",
+          "url": "https://github.com/traeagent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/128672421?s=40&v=4",
+          "name": "wangdaoer",
+          "url": "https://github.com/wangdaoer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20527528?s=40&v=4",
+          "name": "InnovationLou",
+          "url": "https://github.com/InnovationLou"
+        }
+      ]
+    },
+    {
+      "title": "Infrasys-AI/AISystem",
+      "url": "https://github.com/Infrasys-AI/AISystem",
+      "description": "AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "17,538",
+      "forks": "2,458",
+      "addStars": "109",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6355024?s=40&v=4",
+          "name": "chenzomi12",
+          "url": "https://github.com/chenzomi12"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19512601?s=40&v=4",
+          "name": "engin-work",
+          "url": "https://github.com/engin-work"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43023492?s=40&v=4",
+          "name": "XcodeHw",
+          "url": "https://github.com/XcodeHw"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/51015745?s=40&v=4",
+          "name": "sfs999",
+          "url": "https://github.com/sfs999"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/103377433?s=40&v=4",
+          "name": "DEGger21",
+          "url": "https://github.com/DEGger21"
+        }
+      ]
+    },
+    {
+      "title": "mrdbourke/zero-to-mastery-ml",
+      "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
+      "description": "All course materials for the Zero to Mastery Machine Learning and Data Science course.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "6,713",
+      "forks": "4,186",
+      "addStars": "114",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16750345?s=40&v=4",
+          "name": "mrdbourke",
+          "url": "https://github.com/mrdbourke"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2018931?s=40&v=4",
+          "name": "dmathewwws",
+          "url": "https://github.com/dmathewwws"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30333942?s=40&v=4",
+          "name": "rzmk",
+          "url": "https://github.com/rzmk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37115281?s=40&v=4",
+          "name": "DJreyaB",
+          "url": "https://github.com/DJreyaB"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10990484?s=40&v=4",
+          "name": "suzukikijai",
+          "url": "https://github.com/suzukikijai"
+        }
+      ]
+    },
+    {
+      "title": "jackfrued/Python-100-Days",
+      "url": "https://github.com/jackfrued/Python-100-Days",
+      "description": "Python - 100天从新手到大师",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "185,049",
+      "forks": "55,690",
+      "addStars": "322",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7474657?s=40&v=4",
+          "name": "jackfrued",
+          "url": "https://github.com/jackfrued"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13017944?s=40&v=4",
+          "name": "MathDance",
+          "url": "https://github.com/MathDance"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10865729?s=40&v=4",
+          "name": "geekya215",
+          "url": "https://github.com/geekya215"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/599268?s=40&v=4",
+          "name": "jankeromnes",
+          "url": "https://github.com/jankeromnes"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2331406?s=40&v=4",
+          "name": "royaso",
+          "url": "https://github.com/royaso"
+        }
+      ]
+    },
+    {
+      "title": "borglab/gtsam",
+      "url": "https://github.com/borglab/gtsam",
+      "description": "GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "3,624",
+      "forks": "977",
+      "addStars": "15",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10515273?s=40&v=4",
+          "name": "dellaert",
+          "url": "https://github.com/dellaert"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/975964?s=40&v=4",
+          "name": "varunagrawal",
+          "url": "https://github.com/varunagrawal"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2013079?s=40&v=4",
+          "name": "richardroberts",
+          "url": "https://github.com/richardroberts"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/242310?s=40&v=4",
+          "name": "alexgc",
+          "url": "https://github.com/alexgc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3386039?s=40&v=4",
+          "name": "thduynguyen",
+          "url": "https://github.com/thduynguyen"
+        }
+      ]
+    },
+    {
+      "title": "dscripka/openWakeWord",
+      "url": "https://github.com/dscripka/openWakeWord",
+      "description": "An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "2,651",
+      "forks": "319",
+      "addStars": "46",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9630975?s=40&v=4",
+          "name": "dscripka",
+          "url": "https://github.com/dscripka"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31319367?s=40&v=4",
+          "name": "AmateurAcademic",
+          "url": "https://github.com/AmateurAcademic"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8081130?s=40&v=4",
+          "name": "s-knibbs",
+          "url": "https://github.com/s-knibbs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/918457?s=40&v=4",
+          "name": "MeinAccount",
+          "url": "https://github.com/MeinAccount"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6059967?s=40&v=4",
+          "name": "dlipatov",
+          "url": "https://github.com/dlipatov"
+        }
+      ]
+    },
+    {
+      "title": "pathwaycom/llm-app",
+      "url": "https://github.com/pathwaycom/llm-app",
+      "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "59,083",
+      "forks": "1,466",
+      "addStars": "106",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63911408?s=40&v=4",
+          "name": "berkecanrizai",
+          "url": "https://github.com/berkecanrizai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2479355?s=40&v=4",
+          "name": "szymondudycz",
+          "url": "https://github.com/szymondudycz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/106311100?s=40&v=4",
+          "name": "pw-ppodhajski",
+          "url": "https://github.com/pw-ppodhajski"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15914792?s=40&v=4",
+          "name": "dxtrous",
+          "url": "https://github.com/dxtrous"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/123164531?s=40&v=4",
+          "name": "mdmalhou",
+          "url": "https://github.com/mdmalhou"
+        }
+      ]
+    },
+    {
+      "title": "stefan-jansen/machine-learning-for-trading",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "description": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "20,368",
+      "forks": "5,501",
+      "addStars": "132",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4275885?s=40&v=4",
+          "name": "stefan-jansen",
+          "url": "https://github.com/stefan-jansen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38852608?s=40&v=4",
+          "name": "minggnim",
+          "url": "https://github.com/minggnim"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7924802?s=40&v=4",
+          "name": "shlomiku",
+          "url": "https://github.com/shlomiku"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15233913?s=40&v=4",
+          "name": "KarlosQ",
+          "url": "https://github.com/KarlosQ"
+        }
+      ]
+    },
+    {
+      "title": "langchain-ai/rag-from-scratch",
+      "url": "https://github.com/langchain-ai/rag-from-scratch",
+      "description": "",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "9,085",
+      "forks": "2,150",
+      "addStars": "66",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
+          "name": "rlancemartin",
+          "url": "https://github.com/rlancemartin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/61371264?s=40&v=4",
+          "name": "mdrxy",
+          "url": "https://github.com/mdrxy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2493537?s=40&v=4",
+          "name": "Thawab",
+          "url": "https://github.com/Thawab"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/49557684?s=40&v=4",
+          "name": "svilupp",
+          "url": "https://github.com/svilupp"
+        }
+      ]
+    },
+    {
+      "title": "Infrasys-AI/AIInfra",
+      "url": "https://github.com/Infrasys-AI/AIInfra",
+      "description": "AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "7,898",
+      "forks": "1,017",
+      "addStars": "90",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6355024?s=40&v=4",
+          "name": "chenzomi12",
+          "url": "https://github.com/chenzomi12"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31882593?s=40&v=4",
+          "name": "cyz6668",
+          "url": "https://github.com/cyz6668"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/138859253?s=40&v=4",
+          "name": "KuaaMU",
+          "url": "https://github.com/KuaaMU"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38579506?s=40&v=4",
+          "name": "jiayaozhang",
+          "url": "https://github.com/jiayaozhang"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5894125?s=40&v=4",
+          "name": "keyplay",
+          "url": "https://github.com/keyplay"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "title": "GitHub Plpgsql Languages Monthly Trending",
+  "description": "Monthly Trending of Plpgsql Languages in GitHub",
+  "link": "https://github.com/isboyjc/github-trending-api",
+  "pubDate": "Mon, 10 Aug 2026 08:24:18 GMT",
+  "items": [
+    {
+      "title": "openmaptiles/openmaptiles",
+      "url": "https://github.com/openmaptiles/openmaptiles",
+      "description": "OpenMapTiles Vector Tile Schema Implementation",
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "stars": "3,134",
+      "forks": "673",
+      "addStars": "32",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1288339?s=40&v=4",
+          "name": "lukasmartinelli",
+          "url": "https://github.com/lukasmartinelli"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2271850?s=40&v=4",
+          "name": "jirik",
+          "url": "https://github.com/jirik"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1641515?s=40&v=4",
+          "name": "nyurik",
+          "url": "https://github.com/nyurik"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2217320?s=40&v=4",
+          "name": "ImreSamu",
+          "url": "https://github.com/ImreSamu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3254090?s=40&v=4",
+          "name": "ZeLonewolf",
+          "url": "https://github.com/ZeLonewolf"
+        }
+      ]
+    },
+    {
+      "title": "guchengwuyue/yshop-drink",
+      "url": "https://github.com/guchengwuyue/yshop-drink",
+      "description": "yshop意象点餐(扫码点餐)系统，在线点餐(外卖与自取)小程序模式，支持多门店模式，支持saas多租户模式，基础技术Java17+sprringboot3+vue3+uniapp(vue3)（支持H5、微信小程序） 采用当前流行技术组合的前后端分离点餐系统： SpringBoot3、Spring Security OAuth2、MybatisPlus、SpringSecurity、jwt、redis、Vue3的前后端分离的系统",
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "stars": "1,512",
+      "forks": "384",
+      "addStars": "51",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20570512?s=40&v=4",
+          "name": "guchengwuyue",
+          "url": "https://github.com/guchengwuyue"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44218168?s=40&v=4",
+          "name": "df1009",
+          "url": "https://github.com/df1009"
+        }
+      ]
+    },
+    {
+      "title": "Snowflake-Labs/modern-data-engineering-snowflake",
+      "url": "https://github.com/Snowflake-Labs/modern-data-engineering-snowflake",
+      "description": "Companion repository that goes along with Snowflake's \"Introduction to Modern Data Engineering with Snowflake\" course on Coursera",
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "stars": "190",
+      "forks": "263",
+      "addStars": "15",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/125584630?s=40&v=4",
+          "name": "sfc-gh-ghernandez",
+          "url": "https://github.com/sfc-gh-ghernandez"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/69192509?s=40&v=4",
+          "name": "sfc-gh-dszmolka",
+          "url": "https://github.com/sfc-gh-dszmolka"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/184685488?s=40&v=4",
+          "name": "sfc-gh-mborins",
+          "url": "https://github.com/sfc-gh-mborins"
+        }
+      ]
+    },
+    {
+      "title": "pgpartman/pg_partman",
+      "url": "https://github.com/pgpartman/pg_partman",
+      "description": "Partition management extension for PostgreSQL",
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "stars": "2,790",
+      "forks": "318",
+      "addStars": "36",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/825402?s=40&v=4",
+          "name": "keithf4",
+          "url": "https://github.com/keithf4"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/125331?s=40&v=4",
+          "name": "jcoleman",
+          "url": "https://github.com/jcoleman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46604?s=40&v=4",
+          "name": "theory",
+          "url": "https://github.com/theory"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4621?s=40&v=4",
+          "name": "bradediger",
+          "url": "https://github.com/bradediger"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24803131?s=40&v=4",
+          "name": "vitaly-burovoy",
+          "url": "https://github.com/vitaly-burovoy"
+        }
+      ]
+    },
+    {
+      "title": "NikolayS/PgQue",
+      "url": "https://github.com/NikolayS/PgQue",
+      "description": "PgQue – Zero-bloat Postgres queue built on top of on battle-proven Skype's PgQ. One SQL file to install, pg_cron to tick https://pgque.dev",
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "stars": "1,781",
+      "forks": "38",
+      "addStars": "68",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1345402?s=40&v=4",
+          "name": "NikolayS",
+          "url": "https://github.com/NikolayS"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48270?s=40&v=4",
+          "name": "dlt",
+          "url": "https://github.com/dlt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/280144521?s=40&v=4",
+          "name": "samo-agent",
+          "url": "https://github.com/samo-agent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/110803307?s=40&v=4",
+          "name": "hobostay",
+          "url": "https://github.com/hobostay"
+        }
+      ]
+    },
+    {
+      "title": "pgmq/pgmq",
+      "url": "https://github.com/pgmq/pgmq",
+      "description": "A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "5,070",
+      "forks": "141",
+      "addStars": "63",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15756360?s=40&v=4",
+          "name": "ChuckHend",
+          "url": "https://github.com/ChuckHend"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14948182?s=40&v=4",
+          "name": "v0idpwn",
+          "url": "https://github.com/v0idpwn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3319370?s=40&v=4",
+          "name": "spencewenski",
+          "url": "https://github.com/spencewenski"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10198108?s=40&v=4",
+          "name": "tavallaie",
+          "url": "https://github.com/tavallaie"
+        }
+      ]
+    }
+  ]
+}

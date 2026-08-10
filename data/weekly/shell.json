@@ -1,0 +1,439 @@
+{
+  "title": "GitHub Shell Languages Weekly Trending",
+  "description": "Weekly Trending of Shell Languages in GitHub",
+  "link": "https://github.com/isboyjc/github-trending-api",
+  "pubDate": "Mon, 10 Aug 2026 08:24:18 GMT",
+  "items": [
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "211,798",
+      "forks": "18,304",
+      "addStars": "11,536",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
+          "name": "mattpocock",
+          "url": "https://github.com/mattpocock"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&v=4",
+          "name": "gabimoncha",
+          "url": "https://github.com/gabimoncha"
+        }
+      ]
+    },
+    {
+      "title": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "24,435",
+      "forks": "2,460",
+      "addStars": "183",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
+          "name": "dhh",
+          "url": "https://github.com/dhh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
+          "name": "ryanrhughes",
+          "url": "https://github.com/ryanrhughes"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/77543049?s=40&v=4",
+          "name": "tahayvr",
+          "url": "https://github.com/tahayvr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26983?s=40&v=4",
+          "name": "pomartel",
+          "url": "https://github.com/pomartel"
+        }
+      ]
+    },
+    {
+      "title": "Astrosp/Awesome-OSINT-List",
+      "url": "https://github.com/Astrosp/Awesome-OSINT-List",
+      "description": "📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "4,151",
+      "forks": "545",
+      "addStars": "200",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43451156?s=40&v=4",
+          "name": "Astrosp",
+          "url": "https://github.com/Astrosp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65706193?s=40&v=4",
+          "name": "vil02",
+          "url": "https://github.com/vil02"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "269,933",
+      "forks": "24,128",
+      "addStars": "4,932",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
+          "name": "obra",
+          "url": "https://github.com/obra"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
+          "name": "arittr",
+          "url": "https://github.com/arittr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&v=4",
+          "name": "clkao",
+          "url": "https://github.com/clkao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&v=4",
+          "name": "jjshanks",
+          "url": "https://github.com/jjshanks"
+        }
+      ]
+    },
+    {
+      "title": "InfinityLoop1308/PipePipe",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "description": "An open-source Android app to let you browse YouTube and other services freely.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "5,860",
+      "forks": "191",
+      "addStars": "72",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96324692?s=40&v=4",
+          "name": "InfinityLoop1308",
+          "url": "https://github.com/InfinityLoop1308"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/62299611?s=40&v=4",
+          "name": "wh201906",
+          "url": "https://github.com/wh201906"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3509797?s=40&v=4",
+          "name": "Korb",
+          "url": "https://github.com/Korb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/138765817?s=40&v=4",
+          "name": "Priveetee",
+          "url": "https://github.com/Priveetee"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/155876573?s=40&v=4",
+          "name": "yurtpage",
+          "url": "https://github.com/yurtpage"
+        }
+      ]
+    },
+    {
+      "title": "d3/d3",
+      "url": "https://github.com/d3/d3",
+      "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "113,424",
+      "forks": "22,687",
+      "addStars": "117",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/230541?s=40&v=4",
+          "name": "mbostock",
+          "url": "https://github.com/mbostock"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31223?s=40&v=4",
+          "name": "jasondavies",
+          "url": "https://github.com/jasondavies"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7001?s=40&v=4",
+          "name": "Fil",
+          "url": "https://github.com/Fil"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1175380?s=40&v=4",
+          "name": "kitmonisit",
+          "url": "https://github.com/kitmonisit"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/536984?s=40&v=4",
+          "name": "27359794",
+          "url": "https://github.com/27359794"
+        }
+      ]
+    },
+    {
+      "title": "google/oss-fuzz",
+      "url": "https://github.com/google/oss-fuzz",
+      "description": "OSS-Fuzz - continuous fuzzing for open source software.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "12,534",
+      "forks": "2,850",
+      "addStars": "51",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/657617?s=40&v=4",
+          "name": "DavidKorczynski",
+          "url": "https://github.com/DavidKorczynski"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31354670?s=40&v=4",
+          "name": "jonathanmetzman",
+          "url": "https://github.com/jonathanmetzman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/759062?s=40&v=4",
+          "name": "oliverchang",
+          "url": "https://github.com/oliverchang"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3236?s=40&v=4",
+          "name": "mikea",
+          "url": "https://github.com/mikea"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8731250?s=40&v=4",
+          "name": "inferno-chromium",
+          "url": "https://github.com/inferno-chromium"
+        }
+      ]
+    },
+    {
+      "title": "themactep/thingino-firmware",
+      "url": "https://github.com/themactep/thingino-firmware",
+      "description": "Open-source firmware for Ingenic SoC IP cameras",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "2,008",
+      "forks": "284",
+      "addStars": "69",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37488?s=40&v=4",
+          "name": "themactep",
+          "url": "https://github.com/themactep"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12115272?s=40&v=4",
+          "name": "gtxaspec",
+          "url": "https://github.com/gtxaspec"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1177251?s=40&v=4",
+          "name": "Lu-Fi",
+          "url": "https://github.com/Lu-Fi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/479892?s=40&v=4",
+          "name": "matteius",
+          "url": "https://github.com/matteius"
+        }
+      ]
+    },
+    {
+      "title": "xiv3r/Burpsuite-Professional",
+      "url": "https://github.com/xiv3r/Burpsuite-Professional",
+      "description": "Burpsuite Professional Latest Version 2026",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "2,861",
+      "forks": "693",
+      "addStars": "44",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/117867334?s=40&v=4",
+          "name": "xiv3r",
+          "url": "https://github.com/xiv3r"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44690395?s=40&v=4",
+          "name": "rabin-thami",
+          "url": "https://github.com/rabin-thami"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44894135?s=40&v=4",
+          "name": "ruban-s",
+          "url": "https://github.com/ruban-s"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/75609068?s=40&v=4",
+          "name": "theusuurper",
+          "url": "https://github.com/theusuurper"
+        }
+      ]
+    },
+    {
+      "title": "dockur/windows",
+      "url": "https://github.com/dockur/windows",
+      "description": "Windows inside a Docker container.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "52,804",
+      "forks": "4,601",
+      "addStars": "106",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5763256?s=40&v=4",
+          "name": "kroese",
+          "url": "https://github.com/kroese"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46193371?s=40&v=4",
+          "name": "hellodword",
+          "url": "https://github.com/hellodword"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/557021?s=40&v=4",
+          "name": "star3am",
+          "url": "https://github.com/star3am"
+        }
+      ]
+    },
+    {
+      "title": "bitnami/containers",
+      "url": "https://github.com/bitnami/containers",
+      "description": "Bitnami container images",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "4,449",
+      "forks": "6,841",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13025337?s=40&v=4",
+          "name": "bitnami-bot",
+          "url": "https://github.com/bitnami-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4026184?s=40&v=4",
+          "name": "tompizmor",
+          "url": "https://github.com/tompizmor"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/23502572?s=40&v=4",
+          "name": "fmulero",
+          "url": "https://github.com/fmulero"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13216600?s=40&v=4",
+          "name": "carrodher",
+          "url": "https://github.com/carrodher"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11521627?s=40&v=4",
+          "name": "dgomezleon",
+          "url": "https://github.com/dgomezleon"
+        }
+      ]
+    },
+    {
+      "title": "a2aproject/A2A",
+      "url": "https://github.com/a2aproject/A2A",
+      "description": "Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "25,270",
+      "forks": "2,562",
+      "addStars": "119",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13262395?s=40&v=4",
+          "name": "holtskinner",
+          "url": "https://github.com/holtskinner"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/203041561?s=40&v=4",
+          "name": "DJ-os",
+          "url": "https://github.com/DJ-os"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/203023368?s=40&v=4",
+          "name": "kthota-g",
+          "url": "https://github.com/kthota-g"
+        }
+      ]
+    },
+    {
+      "title": "kholia/OSX-KVM",
+      "url": "https://github.com/kholia/OSX-KVM",
+      "description": "Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "23,529",
+      "forks": "2,038",
+      "addStars": "45",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/79528?s=40&v=4",
+          "name": "kholia",
+          "url": "https://github.com/kholia"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1921411?s=40&v=4",
+          "name": "thenickdude",
+          "url": "https://github.com/thenickdude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2706884?s=40&v=4",
+          "name": "ink-splatters",
+          "url": "https://github.com/ink-splatters"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43924?s=40&v=4",
+          "name": "cynthia",
+          "url": "https://github.com/cynthia"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65906298?s=40&v=4",
+          "name": "sickcodes",
+          "url": "https://github.com/sickcodes"
+        }
+      ]
+    }
+  ]
+}
