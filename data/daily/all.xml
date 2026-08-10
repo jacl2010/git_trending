@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Mon, 10 Aug 2026 12:43:01 GMT</pubDate>
+    <pubDate>Mon, 10 Aug 2026 18:51:36 GMT</pubDate>
     <item>
       <title>semantica-agi/semantica</title>
       <link>https://github.com/semantica-agi/semantica</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/semantica-agi/semantica</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,701</stars>
-      <forks>421</forks>
+      <stars>3,953</stars>
+      <forks>473</forks>
       <addStars>967</addStars>
       <contributors>
         <contributor>
@@ -44,8 +44,8 @@
       <guid>https://github.com/msitarzewski/agency-agents</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>141,404</stars>
-      <forks>23,062</forks>
+      <stars>141,660</stars>
+      <forks>23,120</forks>
       <addStars>1,352</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/NanmiCoder/MediaCrawler</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>60,749</stars>
-      <forks>11,946</forks>
+      <stars>60,934</stars>
+      <forks>12,001</forks>
       <addStars>215</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/addyosmani/agent-skills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>85,495</stars>
-      <forks>9,196</forks>
+      <stars>85,655</stars>
+      <forks>9,221</forks>
       <addStars>659</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/paperclipai/paperclip</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>76,186</stars>
-      <forks>14,181</forks>
+      <stars>76,350</stars>
+      <forks>14,196</forks>
       <addStars>167</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/PrimeIntellect-ai/prime-agent</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>12,547</stars>
-      <forks>1,263</forks>
+      <stars>12,841</stars>
+      <forks>1,299</forks>
       <addStars>2,655</addStars>
       <contributors>
         <contributor>
@@ -234,9 +234,9 @@
       <guid>https://github.com/LadybirdBrowser/ladybird</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>65,151</stars>
-      <forks>3,113</forks>
-      <addStars>190</addStars>
+      <stars>65,206</stars>
+      <forks>3,117</forks>
+      <addStars>106</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5954907?s=40&amp;v=4</avatar>
@@ -272,9 +272,9 @@
       <guid>https://github.com/ruvnet/RuView</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>89,180</stars>
-      <forks>11,873</forks>
-      <addStars>156</addStars>
+      <stars>89,283</stars>
+      <forks>11,881</forks>
+      <addStars>186</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4</avatar>
@@ -300,9 +300,9 @@
       <guid>https://github.com/danielmiessler/LifeOS</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>17,661</stars>
-      <forks>2,360</forks>
-      <addStars>143</addStars>
+      <stars>17,799</stars>
+      <forks>2,362</forks>
+      <addStars>357</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/50654?s=40&amp;v=4</avatar>
@@ -338,8 +338,8 @@
       <guid>https://github.com/firecrawl/firecrawl</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>164,622</stars>
-      <forks>9,265</forks>
+      <stars>164,892</stars>
+      <forks>9,275</forks>
       <addStars>815</addStars>
       <contributors>
         <contributor>
@@ -371,9 +371,9 @@
       <guid>https://github.com/TauricResearch/TradingAgents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>96,972</stars>
-      <forks>18,715</forks>
-      <addStars>598</addStars>
+      <stars>97,111</stars>
+      <forks>18,724</forks>
+      <addStars>234</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/48253104?s=40&amp;v=4</avatar>
@@ -409,8 +409,8 @@
       <guid>https://github.com/google-deepmind/weathernext</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,244</stars>
-      <forks>947</forks>
+      <stars>7,300</stars>
+      <forks>950</forks>
       <addStars>327</addStars>
       <contributors>
         <contributor>
@@ -447,8 +447,8 @@
       <guid>https://github.com/vitali87/code-graph-rag</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,364</stars>
-      <forks>539</forks>
+      <stars>3,452</stars>
+      <forks>542</forks>
       <addStars>682</addStars>
       <contributors>
         <contributor>
@@ -475,8 +475,8 @@
       <guid>https://github.com/pingdotgg/t3code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>17,857</stars>
-      <forks>4,034</forks>
+      <stars>17,948</stars>
+      <forks>4,057</forks>
       <addStars>388</addStars>
       <contributors>
         <contributor>
@@ -513,8 +513,8 @@
       <guid>https://github.com/Comfy-Org/ComfyUI</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>126,015</stars>
-      <forks>14,880</forks>
+      <stars>126,187</stars>
+      <forks>14,890</forks>
       <addStars>921</addStars>
       <contributors>
         <contributor>
@@ -551,8 +551,8 @@
       <guid>https://github.com/opa334/Dopamine</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>5,911</stars>
-      <forks>6,185</forks>
+      <stars>5,980</stars>
+      <forks>6,191</forks>
       <addStars>95</addStars>
       <contributors>
         <contributor>

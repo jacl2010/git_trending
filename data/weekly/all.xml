@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Mon, 10 Aug 2026 12:43:01 GMT</pubDate>
+    <pubDate>Mon, 10 Aug 2026 18:51:36 GMT</pubDate>
     <item>
       <title>huangruiteng/loopx</title>
       <link>https://github.com/huangruiteng/loopx</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/huangruiteng/loopx</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,869</stars>
+      <stars>3,915</stars>
       <forks>313</forks>
       <addStars>3,518</addStars>
       <contributors>
@@ -49,8 +49,8 @@
       <guid>https://github.com/firecrawl/pdf-inspector</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>14,199</stars>
-      <forks>965</forks>
+      <stars>14,310</stars>
+      <forks>978</forks>
       <addStars>8,641</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/TencentCloud/TencentDB-Agent-Memory</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>19,193</stars>
-      <forks>1,731</forks>
+      <stars>19,328</stars>
+      <forks>1,742</forks>
       <addStars>8,003</addStars>
       <contributors>
         <contributor>
@@ -110,8 +110,8 @@
       <guid>https://github.com/zhaoxuya520/reverse-skill</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>23,101</stars>
-      <forks>3,142</forks>
+      <stars>23,252</stars>
+      <forks>3,159</forks>
       <addStars>9,784</addStars>
       <contributors>
         <contributor>
@@ -148,8 +148,8 @@
       <guid>https://github.com/esengine/DeepSeek-Reasonix</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>33,638</stars>
-      <forks>2,183</forks>
+      <stars>33,684</stars>
+      <forks>2,191</forks>
       <addStars>4,709</addStars>
       <contributors>
         <contributor>
@@ -186,8 +186,8 @@
       <guid>https://github.com/lyogavin/airllm</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>30,493</stars>
-      <forks>3,252</forks>
+      <stars>30,545</stars>
+      <forks>3,256</forks>
       <addStars>5,129</addStars>
       <contributors>
         <contributor>
@@ -224,8 +224,8 @@
       <guid>https://github.com/semantica-agi/semantica</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,701</stars>
-      <forks>421</forks>
+      <stars>3,953</stars>
+      <forks>473</forks>
       <addStars>1,102</addStars>
       <contributors>
         <contributor>
@@ -257,7 +257,7 @@
       <guid>https://github.com/google/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>17,517</stars>
+      <stars>17,566</stars>
       <forks>1,403</forks>
       <addStars>1,626</addStars>
       <contributors>
@@ -295,8 +295,8 @@
       <guid>https://github.com/virgiliojr94/book-to-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>19,764</stars>
-      <forks>2,117</forks>
+      <stars>19,911</stars>
+      <forks>2,127</forks>
       <addStars>4,121</addStars>
       <contributors>
         <contributor>
@@ -328,7 +328,7 @@
       <guid>https://github.com/unclebob/swarm-forge</guid>
       <language>Clojure</language>
       <languageColor>#db5855</languageColor>
-      <stars>2,089</stars>
+      <stars>2,102</stars>
       <forks>220</forks>
       <addStars>562</addStars>
       <contributors>
@@ -361,7 +361,7 @@
       <guid>https://github.com/drawdb-io/drawdb</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>38,708</stars>
+      <stars>38,727</stars>
       <forks>3,164</forks>
       <addStars>331</addStars>
       <contributors>
@@ -394,8 +394,8 @@
       <guid>https://github.com/usekaneo/kaneo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>7,993</stars>
-      <forks>636</forks>
+      <stars>8,029</stars>
+      <forks>639</forks>
       <addStars>1,952</addStars>
       <contributors>
         <contributor>
@@ -422,8 +422,8 @@
       <guid>https://github.com/microsoft/AI-For-Beginners</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>64,322</stars>
-      <forks>12,440</forks>
+      <stars>64,388</stars>
+      <forks>12,463</forks>
       <addStars>5,514</addStars>
       <contributors>
         <contributor>
@@ -460,8 +460,8 @@
       <guid>https://github.com/Comfy-Org/ComfyUI</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>126,015</stars>
-      <forks>14,880</forks>
+      <stars>126,187</stars>
+      <forks>14,890</forks>
       <addStars>2,018</addStars>
       <contributors>
         <contributor>
@@ -498,8 +498,8 @@
       <guid>https://github.com/vitali87/code-graph-rag</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,365</stars>
-      <forks>539</forks>
+      <stars>3,452</stars>
+      <forks>542</forks>
       <addStars>236</addStars>
       <contributors>
         <contributor>
@@ -526,8 +526,8 @@
       <guid>https://github.com/goauthentik/authentik</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>24,451</stars>
-      <forks>1,869</forks>
+      <stars>24,493</stars>
+      <forks>1,872</forks>
       <addStars>1,579</addStars>
       <contributors>
         <contributor>
@@ -549,8 +549,8 @@
       <guid>https://github.com/DataExpert-io/data-engineer-handbook</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>43,560</stars>
-      <forks>9,081</forks>
+      <stars>43,585</stars>
+      <forks>9,084</forks>
       <addStars>824</addStars>
       <contributors>
         <contributor>
