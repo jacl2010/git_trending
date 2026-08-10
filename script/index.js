@@ -7,11 +7,8 @@
  */
 const axios = require('axios');
 const { parse } = require('./parse')
-const { BASE_URL, DATA_BASE_URL } = require('./base')
+const { BASE_URL } = require('./base')
 const { save } = require('./save')
-
-const path = require('path');
-const { readFileSync } = require('fs');
 
 const instance = axios.create({
   baseURL: BASE_URL,
@@ -36,43 +33,21 @@ async function run (since = 'daily', language = 'all') {
   await save(parse(data), since, language)
 };
 
-function convertToSlug(str) {
-  return str
-    .toLowerCase()
-    .replace(/\s+/g, '-')
-    .replace(/^-|-$/g, '');
+async function fetchRequiredTrending(fetchTrending = run) {
+  console.log('get', 'all')
+  await fetchTrending('daily', 'all')
+  await fetchTrending('weekly', 'all')
+  console.log('done')
 }
 
-function delay(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
+if (require.main === module) {
+  fetchRequiredTrending().catch(error => {
+    console.error('Error fetching required trending data:', error)
+    process.exitCode = 1
+  })
 }
 
-(async () => {
-  try {
-    console.log('get', 'all')
-    await run('daily', 'all')
-    await run('weekly', 'all')
-    await run('monthly', 'all')
-    console.log('done')
-  } catch (error) {
-    console.error('Error language all:', error);
-  }
-
-  let languages = readFileSync(path.resolve(__dirname, DATA_BASE_URL, 'languages.json'), 'utf8');
-  languages = JSON.parse(languages);
-
-  console.log("Number of languages: ", languages.length)
-
-  for(const langObj of languages){
-    try {
-      await delay(6 * 60)
-      console.log('get', convertToSlug(langObj.name))
-      await run('daily', convertToSlug(langObj.name))
-      await run('weekly', convertToSlug(langObj.name))
-      await run('monthly', convertToSlug(langObj.name))
-      console.log('done')
-    } catch (error) {
-      console.error(`Error language ${convertToSlug(langObj.name)}:`, error);
-    }
-  }
-})();
+module.exports = {
+  fetchRequiredTrending,
+  run
+}

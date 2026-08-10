@@ -5,7 +5,7 @@
   "scripts": {
     "build": "node ./script/index.js",
     "gen:lang": "node ./script/language.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node --test",
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs && node ./script/copy.js",
     "docs:preview": "vitepress preview docs"
