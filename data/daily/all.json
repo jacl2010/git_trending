@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Mon, 10 Aug 2026 18:51:36 GMT",
+  "pubDate": "Tue, 11 Aug 2026 01:50:21 GMT",
   "items": [
     {
       "title": "semantica-agi/semantica",
@@ -10,9 +10,9 @@
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,953",
-      "forks": "473",
-      "addStars": "967",
+      "stars": "4,154",
+      "forks": "484",
+      "addStars": "970",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/98801504?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "141,660",
-      "forks": "23,120",
-      "addStars": "1,352",
+      "stars": "141,866",
+      "forks": "23,136",
+      "addStars": "1,349",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1972242?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "60,934",
-      "forks": "12,001",
-      "addStars": "215",
+      "stars": "61,081",
+      "forks": "12,013",
+      "addStars": "259",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/47178017?s=40&v=4",
@@ -116,8 +116,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "85,655",
-      "forks": "9,221",
+      "stars": "85,763",
+      "forks": "9,229",
       "addStars": "659",
       "contributors": [
         {
@@ -153,9 +153,9 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "76,350",
-      "forks": "14,196",
-      "addStars": "167",
+      "stars": "76,530",
+      "forks": "14,210",
+      "addStars": "198",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/34892728?s=40&v=4",
@@ -190,9 +190,9 @@
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "12,841",
-      "forks": "1,299",
-      "addStars": "2,655",
+      "stars": "13,125",
+      "forks": "1,333",
+      "addStars": "2,642",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/46242684?s=40&v=4",
@@ -227,9 +227,9 @@
       "description": "Truly independent web browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "65,206",
-      "forks": "3,117",
-      "addStars": "106",
+      "stars": "65,268",
+      "forks": "3,120",
+      "addStars": "56",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5954907?s=40&v=4",
@@ -264,9 +264,9 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "89,283",
-      "forks": "11,881",
-      "addStars": "186",
+      "stars": "89,380",
+      "forks": "11,894",
+      "addStars": "154",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
@@ -291,9 +291,9 @@
       "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,799",
-      "forks": "2,362",
-      "addStars": "357",
+      "stars": "17,943",
+      "forks": "2,366",
+      "addStars": "315",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/50654?s=40&v=4",
@@ -328,9 +328,9 @@
       "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "164,892",
-      "forks": "9,275",
-      "addStars": "815",
+      "stars": "165,116",
+      "forks": "9,287",
+      "addStars": "835",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20311743?s=40&v=4",
@@ -360,9 +360,9 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "97,111",
-      "forks": "18,724",
-      "addStars": "234",
+      "stars": "97,243",
+      "forks": "18,736",
+      "addStars": "177",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
@@ -397,9 +397,9 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,300",
-      "forks": "950",
-      "addStars": "327",
+      "stars": "7,361",
+      "forks": "954",
+      "addStars": "325",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/12649253?s=40&v=4",
@@ -434,8 +434,8 @@
       "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,452",
-      "forks": "542",
+      "stars": "3,548",
+      "forks": "548",
       "addStars": "682",
       "contributors": [
         {
@@ -461,9 +461,9 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,948",
-      "forks": "4,057",
-      "addStars": "388",
+      "stars": "18,037",
+      "forks": "4,076",
+      "addStars": "389",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
@@ -498,9 +498,9 @@
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "126,187",
-      "forks": "14,890",
-      "addStars": "921",
+      "stars": "126,345",
+      "forks": "14,903",
+      "addStars": "922",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/121283862?s=40&v=4",
@@ -535,9 +535,9 @@
       "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "5,980",
-      "forks": "6,191",
-      "addStars": "95",
+      "stars": "6,041",
+      "forks": "6,193",
+      "addStars": "111",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/18235760?s=40&v=4",
