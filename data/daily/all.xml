@@ -3,7 +3,45 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Tue, 11 Aug 2026 12:39:47 GMT</pubDate>
+    <pubDate>Tue, 11 Aug 2026 18:56:58 GMT</pubDate>
+    <item>
+      <title>cathrynlavery/diagram-design</title>
+      <link>https://github.com/cathrynlavery/diagram-design</link>
+      <description>29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.</description>
+      <guid>https://github.com/cathrynlavery/diagram-design</guid>
+      <language>HTML</language>
+      <languageColor>#e34c26</languageColor>
+      <stars>6,383</stars>
+      <forks>419</forks>
+      <addStars>1,612</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/50469282?s=40&amp;v=4</avatar>
+          <name>cathrynlavery</name>
+          <url>https://github.com/cathrynlavery</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/19864447?s=40&amp;v=4</avatar>
+          <name>web-flow</name>
+          <url>https://github.com/web-flow</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/123718991?s=40&amp;v=4</avatar>
+          <name>ActArtech</name>
+          <url>https://github.com/ActArtech</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/648893?s=40&amp;v=4</avatar>
+          <name>aristide</name>
+          <url>https://github.com/aristide</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/25800298?s=40&amp;v=4</avatar>
+          <name>ssyting1</name>
+          <url>https://github.com/ssyting1</url>
+        </contributor>
+      </contributors>
+    </item>
     <item>
       <title>msitarzewski/agency-agents</title>
       <link>https://github.com/msitarzewski/agency-agents</link>
@@ -11,8 +49,8 @@
       <guid>https://github.com/msitarzewski/agency-agents</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>142,357</stars>
-      <forks>23,187</forks>
+      <stars>142,866</stars>
+      <forks>23,249</forks>
       <addStars>971</addStars>
       <contributors>
         <contributor>
@@ -49,8 +87,8 @@
       <guid>https://github.com/semantica-agi/semantica</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,571</stars>
-      <forks>508</forks>
+      <stars>4,760</stars>
+      <forks>519</forks>
       <addStars>884</addStars>
       <contributors>
         <contributor>
@@ -82,8 +120,8 @@
       <guid>https://github.com/nvm-sh/nvm</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>94,417</stars>
-      <forks>10,348</forks>
+      <stars>94,454</stars>
+      <forks>10,349</forks>
       <addStars>18</addStars>
       <contributors>
         <contributor>
@@ -120,8 +158,8 @@
       <guid>https://github.com/addyosmani/agent-skills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>86,040</stars>
-      <forks>9,255</forks>
+      <stars>86,147</stars>
+      <forks>9,262</forks>
       <addStars>571</addStars>
       <contributors>
         <contributor>
@@ -158,9 +196,9 @@
       <guid>https://github.com/ZhuLinsen/daily_stock_analysis</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>61,913</stars>
-      <forks>52,355</forks>
-      <addStars>731</addStars>
+      <stars>62,055</stars>
+      <forks>52,412</forks>
+      <addStars>317</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/42829555?s=40&amp;v=4</avatar>
@@ -196,8 +234,8 @@
       <guid>https://github.com/vitali87/code-graph-rag</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,695</stars>
-      <forks>555</forks>
+      <stars>3,765</stars>
+      <forks>558</forks>
       <addStars>339</addStars>
       <contributors>
         <contributor>
@@ -224,8 +262,8 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>167,828</stars>
-      <forks>20,009</forks>
+      <stars>168,000</stars>
+      <forks>20,019</forks>
       <addStars>468</addStars>
       <contributors>
         <contributor>
@@ -262,9 +300,9 @@
       <guid>https://github.com/3b1b/manim</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>89,962</stars>
-      <forks>7,468</forks>
-      <addStars>381</addStars>
+      <stars>90,097</stars>
+      <forks>7,471</forks>
+      <addStars>246</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/11601040?s=40&amp;v=4</avatar>
@@ -300,8 +338,8 @@
       <guid>https://github.com/HKUDS/DeepTutor</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>34,360</stars>
-      <forks>4,397</forks>
+      <stars>34,603</stars>
+      <forks>4,416</forks>
       <addStars>829</addStars>
       <contributors>
         <contributor>
@@ -333,8 +371,8 @@
       <guid>https://github.com/stablyai/orca</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>42,195</stars>
-      <forks>2,947</forks>
+      <stars>42,563</stars>
+      <forks>2,967</forks>
       <addStars>881</addStars>
       <contributors>
         <contributor>
@@ -371,8 +409,8 @@
       <guid>https://github.com/paperclipai/paperclip</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>76,919</stars>
-      <forks>14,225</forks>
+      <stars>77,058</stars>
+      <forks>14,238</forks>
       <addStars>743</addStars>
       <contributors>
         <contributor>
@@ -409,8 +447,8 @@
       <guid>https://github.com/huggingface/transformers</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>163,603</stars>
-      <forks>34,191</forks>
+      <stars>163,723</stars>
+      <forks>34,198</forks>
       <addStars>69</addStars>
       <contributors>
         <contributor>
@@ -447,8 +485,8 @@
       <guid>https://github.com/harveyai/harvey-labs</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>985</stars>
-      <forks>190</forks>
+      <stars>1,041</stars>
+      <forks>194</forks>
       <addStars>24</addStars>
       <contributors>
         <contributor>
@@ -485,9 +523,9 @@
       <guid>https://github.com/jaywcjlove/awesome-mac</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>110,194</stars>
-      <forks>8,400</forks>
-      <addStars>414</addStars>
+      <stars>110,380</stars>
+      <forks>8,411</forks>
+      <addStars>334</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1680273?s=40&amp;v=4</avatar>
@@ -518,8 +556,8 @@
       <guid>https://github.com/calesthio/OpenMontage</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>47,005</stars>
-      <forks>5,868</forks>
+      <stars>47,194</stars>
+      <forks>5,895</forks>
       <addStars>436</addStars>
       <contributors>
         <contributor>
@@ -556,8 +594,8 @@
       <guid>https://github.com/practical-tutorials/project-based-learning</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>278,164</stars>
-      <forks>35,758</forks>
+      <stars>278,331</stars>
+      <forks>35,775</forks>
       <addStars>394</addStars>
       <contributors>
         <contributor>
@@ -594,8 +632,8 @@
       <guid>https://github.com/PrimeIntellect-ai/prime-agent</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>13,663</stars>
-      <forks>1,401</forks>
+      <stars>13,920</stars>
+      <forks>1,439</forks>
       <addStars>1,148</addStars>
       <contributors>
         <contributor>
