@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Tue, 11 Aug 2026 18:56:58 GMT",
+  "pubDate": "Wed, 12 Aug 2026 02:02:42 GMT",
   "items": [
     {
       "title": "cloudflare/computer",
@@ -10,9 +10,9 @@
       "description": "Give your agent a computer 👾",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,565",
-      "forks": "408",
-      "addStars": "6,807",
+      "stars": "7,603",
+      "forks": "409",
+      "addStars": "6,775",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/263346377?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,134",
-      "forks": "342",
-      "addStars": "2,947",
+      "stars": "4,188",
+      "forks": "347",
+      "addStars": "2,687",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/14976749?s=40&v=4",
@@ -57,6 +57,11 @@
           "url": "https://github.com/cocolord"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/96154058?s=40&v=4",
+          "name": "steven-kid",
+          "url": "https://github.com/steven-kid"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/31875147?s=40&v=4",
           "name": "ZaynJarvis",
           "url": "https://github.com/ZaynJarvis"
@@ -65,11 +70,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/291707971?s=40&v=4",
           "name": "Hoey041",
           "url": "https://github.com/Hoey041"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/96154058?s=40&v=4",
-          "name": "steven-kid",
-          "url": "https://github.com/steven-kid"
         }
       ]
     },
@@ -79,9 +79,9 @@
       "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "14,649",
-      "forks": "1,003",
-      "addStars": "7,143",
+      "stars": "14,722",
+      "forks": "1,007",
+      "addStars": "5,367",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1450169?s=40&v=4",
@@ -116,19 +116,19 @@
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "19,820",
-      "forks": "1,789",
-      "addStars": "7,555",
+      "stars": "19,915",
+      "forks": "1,796",
+      "addStars": "7,017",
       "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/95488710?s=40&v=4",
-          "name": "Maxwell-Code07",
-          "url": "https://github.com/Maxwell-Code07"
-        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/277734672?s=40&v=4",
           "name": "Yuntong8888",
           "url": "https://github.com/Yuntong8888"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/95488710?s=40&v=4",
+          "name": "Maxwell-Code07",
+          "url": "https://github.com/Maxwell-Code07"
         }
       ]
     },
@@ -138,9 +138,9 @@
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,760",
-      "forks": "519",
-      "addStars": "2,009",
+      "stars": "4,930",
+      "forks": "531",
+      "addStars": "2,712",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/98801504?s=40&v=4",
@@ -170,9 +170,9 @@
       "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "23,898",
-      "forks": "3,249",
-      "addStars": "8,182",
+      "stars": "23,977",
+      "forks": "3,259",
+      "addStars": "6,730",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/147215175?s=40&v=4",
@@ -207,9 +207,9 @@
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "33,942",
-      "forks": "2,213",
-      "addStars": "4,109",
+      "stars": "33,982",
+      "forks": "2,214",
+      "addStars": "3,517",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32437197?s=40&v=4",
@@ -244,9 +244,9 @@
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,752",
+      "stars": "17,793",
       "forks": "1,416",
-      "addStars": "2,159",
+      "addStars": "2,216",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/277152880?s=40&v=4",
@@ -281,9 +281,9 @@
       "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,765",
-      "forks": "558",
-      "addStars": "920",
+      "stars": "3,845",
+      "forks": "563",
+      "addStars": "1,189",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/22404335?s=40&v=4",
@@ -308,9 +308,9 @@
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,433",
-      "forks": "2,165",
-      "addStars": "4,113",
+      "stars": "20,525",
+      "forks": "2,174",
+      "addStars": "4,155",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/23645449?s=40&v=4",
@@ -340,9 +340,9 @@
       "description": "A simple tool for coordinating several AI agents.",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": "2,160",
+      "stars": "2,175",
       "forks": "229",
-      "addStars": "627",
+      "addStars": "671",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/36901?s=40&v=4",
@@ -372,9 +372,9 @@
       "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "38,838",
-      "forks": "3,168",
-      "addStars": "503",
+      "stars": "38,861",
+      "forks": "3,169",
+      "addStars": "597",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/96800776?s=40&v=4",
@@ -404,9 +404,9 @@
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "126,783",
-      "forks": "14,933",
-      "addStars": "2,842",
+      "stars": "126,834",
+      "forks": "14,934",
+      "addStars": "3,252",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/121283862?s=40&v=4",
@@ -441,9 +441,9 @@
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "30,738",
-      "forks": "3,268",
-      "addStars": "4,042",
+      "stars": "30,778",
+      "forks": "3,273",
+      "addStars": "2,798",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
@@ -478,9 +478,9 @@
       "description": "Truly independent web browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "65,387",
-      "forks": "3,128",
-      "addStars": "508",
+      "stars": "65,410",
+      "forks": "3,129",
+      "addStars": "679",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5954907?s=40&v=4",
@@ -515,9 +515,9 @@
       "description": "The authentication glue you need.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "24,600",
-      "forks": "1,887",
-      "addStars": "1,912",
+      "stars": "24,625",
+      "forks": "1,889",
+      "addStars": "2,003",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1932513?s=40&v=4",
