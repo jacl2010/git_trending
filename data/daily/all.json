@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Thu, 13 Aug 2026 12:43:54 GMT",
+  "pubDate": "Thu, 13 Aug 2026 18:57:18 GMT",
   "items": [
     {
       "title": "cathrynlavery/diagram-design",
@@ -10,9 +10,9 @@
       "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "12,813",
-      "forks": "775",
-      "addStars": "2,855",
+      "stars": "13,830",
+      "forks": "836",
+      "addStars": "4,504",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "6,107",
-      "forks": "657",
-      "addStars": "845",
+      "stars": "6,438",
+      "forks": "678",
+      "addStars": "727",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/98801504?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "168,747",
-      "forks": "20,105",
-      "addStars": "569",
+      "stars": "168,915",
+      "forks": "20,119",
+      "addStars": "383",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,648",
-      "forks": "321",
-      "addStars": "315",
+      "stars": "4,830",
+      "forks": "329",
+      "addStars": "768",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
@@ -153,8 +153,8 @@
       "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "9,676",
-      "forks": "652",
+      "stars": "9,785",
+      "forks": "659",
       "addStars": "83",
       "contributors": [
         {
@@ -190,9 +190,9 @@
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "70,809",
-      "forks": "6,393",
-      "addStars": "592",
+      "stars": "70,962",
+      "forks": "6,402",
+      "addStars": "354",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/23090290?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,403",
-      "forks": "262",
-      "addStars": "227",
+      "stars": "2,520",
+      "forks": "272",
+      "addStars": "1,180",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6412775?s=40&v=4",
@@ -259,8 +259,8 @@
       "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,192",
-      "forks": "1,647",
+      "stars": "12,332",
+      "forks": "1,665",
       "addStars": "166",
       "contributors": [
         {
@@ -296,9 +296,9 @@
       "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,503",
-      "forks": "3,308",
-      "addStars": "74",
+      "stars": "20,592",
+      "forks": "3,312",
+      "addStars": "278",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1687345?s=40&v=4",
@@ -330,12 +330,12 @@
     {
       "title": "NVIDIA-NeMo/Switchyard",
       "url": "https://github.com/NVIDIA-NeMo/Switchyard",
-      "description": "",
+      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,021",
-      "forks": "98",
-      "addStars": "421",
+      "stars": "1,145",
+      "forks": "104",
+      "addStars": "408",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/197974741?s=40&v=4",
@@ -370,9 +370,9 @@
       "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,184",
-      "forks": "527",
-      "addStars": "258",
+      "stars": "6,447",
+      "forks": "594",
+      "addStars": "380",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/180554771?s=40&v=4",
@@ -402,9 +402,9 @@
       "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
       "language": "",
       "languageColor": "",
-      "stars": "45,331",
-      "forks": "3,279",
-      "addStars": "252",
+      "stars": "45,580",
+      "forks": "3,292",
+      "addStars": "411",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10565871?s=40&v=4",
@@ -439,9 +439,9 @@
       "description": "Animation engine for explanatory math videos",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "90,667",
-      "forks": "7,517",
-      "addStars": "506",
+      "stars": "90,777",
+      "forks": "7,523",
+      "addStars": "204",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11601040?s=40&v=4",
@@ -476,9 +476,9 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "144,987",
-      "forks": "23,458",
-      "addStars": "1,873",
+      "stars": "145,114",
+      "forks": "23,479",
+      "addStars": "762",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1972242?s=40&v=4",
@@ -513,9 +513,9 @@
       "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,816",
-      "forks": "1,400",
-      "addStars": "65",
+      "stars": "8,873",
+      "forks": "1,403",
+      "addStars": "201",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/17297304?s=40&v=4",
@@ -535,9 +535,9 @@
       "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,158",
-      "forks": "566",
-      "addStars": "70",
+      "stars": "5,309",
+      "forks": "572",
+      "addStars": "221",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/63157773?s=40&v=4",
@@ -572,9 +572,9 @@
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "87,835",
-      "forks": "10,341",
-      "addStars": "139",
+      "stars": "87,942",
+      "forks": "10,345",
+      "addStars": "473",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8089971?s=40&v=4",
