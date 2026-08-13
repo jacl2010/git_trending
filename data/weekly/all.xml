@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Wed, 12 Aug 2026 18:56:35 GMT</pubDate>
+    <pubDate>Thu, 13 Aug 2026 02:05:12 GMT</pubDate>
     <item>
       <title>cloudflare/computer</title>
       <link>https://github.com/cloudflare/computer</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/cloudflare/computer</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>7,755</stars>
-      <forks>425</forks>
-      <addStars>6,775</addStars>
+      <stars>7,806</stars>
+      <forks>428</forks>
+      <addStars>6,020</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/263346377?s=40&amp;v=4</avatar>
@@ -44,9 +44,9 @@
       <guid>https://github.com/semantica-agi/semantica</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>5,584</stars>
-      <forks>614</forks>
-      <addStars>2,712</addStars>
+      <stars>5,761</stars>
+      <forks>629</forks>
+      <addStars>3,585</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/98801504?s=40&amp;v=4</avatar>
@@ -77,9 +77,9 @@
       <guid>https://github.com/TencentCloud/TencentDB-Agent-Memory</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>20,472</stars>
-      <forks>1,853</forks>
-      <addStars>7,017</addStars>
+      <stars>20,612</stars>
+      <forks>1,870</forks>
+      <addStars>5,720</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/277734672?s=40&amp;v=4</avatar>
@@ -100,9 +100,9 @@
       <guid>https://github.com/huangruiteng/loopx</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,369</stars>
-      <forks>370</forks>
-      <addStars>2,687</addStars>
+      <stars>4,420</stars>
+      <forks>377</forks>
+      <addStars>2,509</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/14976749?s=40&amp;v=4</avatar>
@@ -138,9 +138,9 @@
       <guid>https://github.com/firecrawl/pdf-inspector</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>14,984</stars>
-      <forks>1,033</forks>
-      <addStars>5,367</addStars>
+      <stars>15,051</stars>
+      <forks>1,036</forks>
+      <addStars>4,043</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1450169?s=40&amp;v=4</avatar>
@@ -176,9 +176,9 @@
       <guid>https://github.com/google/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>17,880</stars>
-      <forks>1,421</forks>
-      <addStars>2,216</addStars>
+      <stars>17,915</stars>
+      <forks>1,423</forks>
+      <addStars>2,288</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/277152880?s=40&amp;v=4</avatar>
@@ -214,9 +214,9 @@
       <guid>https://github.com/vitali87/code-graph-rag</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,062</stars>
+      <stars>4,096</stars>
       <forks>574</forks>
-      <addStars>1,189</addStars>
+      <addStars>1,511</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/22404335?s=40&amp;v=4</avatar>
@@ -242,9 +242,9 @@
       <guid>https://github.com/zhaoxuya520/reverse-skill</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>24,404</stars>
-      <forks>3,315</forks>
-      <addStars>6,730</addStars>
+      <stars>24,496</stars>
+      <forks>3,323</forks>
+      <addStars>5,573</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/147215175?s=40&amp;v=4</avatar>
@@ -280,9 +280,9 @@
       <guid>https://github.com/esengine/DeepSeek-Reasonix</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>34,173</stars>
-      <forks>2,245</forks>
-      <addStars>3,517</addStars>
+      <stars>34,220</stars>
+      <forks>2,253</forks>
+      <addStars>2,953</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/32437197?s=40&amp;v=4</avatar>
@@ -318,9 +318,9 @@
       <guid>https://github.com/drawdb-io/drawdb</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>38,925</stars>
-      <forks>3,174</forks>
-      <addStars>597</addStars>
+      <stars>38,948</stars>
+      <forks>3,175</forks>
+      <addStars>665</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/96800776?s=40&amp;v=4</avatar>
@@ -351,9 +351,9 @@
       <guid>https://github.com/virgiliojr94/book-to-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>20,804</stars>
-      <forks>2,197</forks>
-      <addStars>4,155</addStars>
+      <stars>20,877</stars>
+      <forks>2,204</forks>
+      <addStars>3,983</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/23645449?s=40&amp;v=4</avatar>
@@ -371,9 +371,9 @@
           <url>https://github.com/dex0shubham</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/38981901?s=40&amp;v=4</avatar>
-          <name>Marcelluxx</name>
-          <url>https://github.com/Marcelluxx</url>
+          <avatar>https://avatars.githubusercontent.com/u/103170876?s=40&amp;v=4</avatar>
+          <name>Hotragn</name>
+          <url>https://github.com/Hotragn</url>
         </contributor>
       </contributors>
     </item>
@@ -384,9 +384,9 @@
       <guid>https://github.com/Comfy-Org/ComfyUI</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>127,058</stars>
-      <forks>14,966</forks>
-      <addStars>3,252</addStars>
+      <stars>127,100</stars>
+      <forks>14,975</forks>
+      <addStars>3,321</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/121283862?s=40&amp;v=4</avatar>
@@ -422,9 +422,9 @@
       <guid>https://github.com/LadybirdBrowser/ladybird</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>65,467</stars>
+      <stars>65,487</stars>
       <forks>3,129</forks>
-      <addStars>679</addStars>
+      <addStars>743</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5954907?s=40&amp;v=4</avatar>
@@ -460,9 +460,9 @@
       <guid>https://github.com/addyosmani/agent-skills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>86,531</stars>
-      <forks>9,295</forks>
-      <addStars>4,671</addStars>
+      <stars>86,632</stars>
+      <forks>9,306</forks>
+      <addStars>4,817</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/110953?s=40&amp;v=4</avatar>
@@ -498,9 +498,9 @@
       <guid>https://github.com/goauthentik/authentik</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>24,697</stars>
-      <forks>1,891</forks>
-      <addStars>2,003</addStars>
+      <stars>24,717</stars>
+      <forks>1,894</forks>
+      <addStars>2,020</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1932513?s=40&amp;v=4</avatar>
