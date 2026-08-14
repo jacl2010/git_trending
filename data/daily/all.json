@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Fri, 14 Aug 2026 12:40:07 GMT",
+  "pubDate": "Fri, 14 Aug 2026 18:47:19 GMT",
   "items": [
     {
       "title": "cathrynlavery/diagram-design",
@@ -10,8 +10,8 @@
       "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "16,403",
-      "forks": "983",
+      "stars": "16,963",
+      "forks": "1,010",
       "addStars": "3,651",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,304",
-      "forks": "355",
+      "stars": "5,492",
+      "forks": "366",
       "addStars": "661",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,618",
-      "forks": "1,692",
+      "stars": "12,761",
+      "forks": "1,711",
       "addStars": "427",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,836",
-      "forks": "291",
+      "stars": "2,947",
+      "forks": "300",
       "addStars": "435",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,794",
-      "forks": "3,328",
+      "stars": "20,885",
+      "forks": "3,337",
       "addStars": "292",
       "contributors": [
         {
@@ -195,8 +195,8 @@
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "10,096",
-      "forks": "518",
+      "stars": "10,260",
+      "forks": "526",
       "addStars": "153",
       "contributors": [
         {
@@ -232,8 +232,8 @@
       "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,937",
-      "forks": "621",
+      "stars": "7,165",
+      "forks": "633",
       "addStars": "769",
       "contributors": [
         {
@@ -264,8 +264,8 @@
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "128,000",
-      "forks": "11,442",
+      "stars": "128,314",
+      "forks": "11,467",
       "addStars": "1,147",
       "contributors": [
         {
@@ -288,11 +288,11 @@
     {
       "title": "lightningpixel/modly",
       "url": "https://github.com/lightningpixel/modly",
-      "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
+      "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,736",
-      "forks": "595",
+      "stars": "5,853",
+      "forks": "598",
       "addStars": "580",
       "contributors": [
         {
@@ -328,8 +328,8 @@
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "88,284",
-      "forks": "10,370",
+      "stars": "88,354",
+      "forks": "10,379",
       "addStars": "474",
       "contributors": [
         {
@@ -365,9 +365,9 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,724",
-      "forks": "221",
-      "addStars": "54",
+      "stars": "2,776",
+      "forks": "224",
+      "addStars": "69",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
@@ -402,9 +402,9 @@
       "description": "",
       "language": "",
       "languageColor": "",
-      "stars": "5,527",
-      "forks": "684",
-      "addStars": "171",
+      "stars": "5,640",
+      "forks": "688",
+      "addStars": "203",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/13600976?s=40&v=4",
@@ -439,8 +439,8 @@
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,274",
-      "forks": "759",
+      "stars": "7,435",
+      "forks": "772",
       "addStars": "1,183",
       "contributors": [
         {
@@ -471,9 +471,9 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "120,440",
-      "forks": "18,447",
-      "addStars": "130",
+      "stars": "120,555",
+      "forks": "18,459",
+      "addStars": "182",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/71636191?s=40&v=4",
@@ -508,8 +508,8 @@
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "82,893",
-      "forks": "8,215",
+      "stars": "83,032",
+      "forks": "8,226",
       "addStars": "238",
       "contributors": [
         {
@@ -545,8 +545,8 @@
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "71,295",
-      "forks": "6,427",
+      "stars": "71,415",
+      "forks": "6,442",
       "addStars": "502",
       "contributors": [
         {
@@ -577,8 +577,8 @@
       "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "38,775",
-      "forks": "5,236",
+      "stars": "38,961",
+      "forks": "5,254",
       "addStars": "115",
       "contributors": [
         {
