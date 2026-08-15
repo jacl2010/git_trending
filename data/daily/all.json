@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sat, 15 Aug 2026 12:16:40 GMT",
+  "pubDate": "Sat, 15 Aug 2026 18:21:51 GMT",
   "items": [
     {
       "title": "cordiverse/cordis",
@@ -10,8 +10,8 @@
       "description": "Meta-Framework of Spatiotemporal Composability",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,708",
-      "forks": "178",
+      "stars": "3,939",
+      "forks": "192",
       "addStars": "616",
       "contributors": [
         {
@@ -47,9 +47,9 @@
       "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "17,969",
-      "forks": "1,073",
-      "addStars": "3,646",
+      "stars": "18,386",
+      "forks": "1,104",
+      "addStars": "1,619",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,866",
-      "forks": "230",
-      "addStars": "41",
+      "stars": "2,917",
+      "forks": "231",
+      "addStars": "152",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,838",
-      "forks": "391",
-      "addStars": "662",
+      "stars": "5,973",
+      "forks": "399",
+      "addStars": "551",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
@@ -158,9 +158,9 @@
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "71,700",
-      "forks": "6,471",
-      "addStars": "501",
+      "stars": "71,920",
+      "forks": "6,481",
+      "addStars": "435",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/23090290?s=40&v=4",
@@ -190,8 +190,8 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "459,302",
-      "forks": "50,773",
+      "stars": "459,858",
+      "forks": "50,829",
       "addStars": "2,476",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,434",
-      "forks": "240",
+      "stars": "1,555",
+      "forks": "255",
       "addStars": "303",
       "contributors": [
         {
@@ -264,9 +264,9 @@
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "128,841",
-      "forks": "11,519",
-      "addStars": "1,160",
+      "stars": "129,054",
+      "forks": "11,537",
+      "addStars": "901",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/53200638?s=40&v=4",
@@ -291,9 +291,9 @@
       "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,991",
-      "forks": "1,731",
-      "addStars": "427",
+      "stars": "13,045",
+      "forks": "1,738",
+      "addStars": "389",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/51822495?s=40&v=4",
@@ -328,9 +328,9 @@
       "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "10,159",
-      "forks": "687",
-      "addStars": "311",
+      "stars": "10,247",
+      "forks": "692",
+      "addStars": "165",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/224717674?s=40&v=4",
@@ -365,9 +365,9 @@
       "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "39,299",
-      "forks": "5,277",
-      "addStars": "132",
+      "stars": "39,421",
+      "forks": "5,287",
+      "addStars": "553",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/57667706?s=40&v=4",
@@ -402,8 +402,8 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "47,149",
-      "forks": "4,380",
+      "stars": "47,251",
+      "forks": "4,386",
       "addStars": "100",
       "contributors": [
         {
@@ -439,9 +439,9 @@
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "10,617",
-      "forks": "533",
-      "addStars": "165",
+      "stars": "10,799",
+      "forks": "548",
+      "addStars": "546",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/22140958?s=40&v=4",
