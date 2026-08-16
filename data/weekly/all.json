@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sun, 16 Aug 2026 01:22:14 GMT",
+  "pubDate": "Sun, 16 Aug 2026 06:49:11 GMT",
   "items": [
     {
       "title": "cathrynlavery/diagram-design",
@@ -10,8 +10,8 @@
       "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "18,634",
-      "forks": "1,121",
+      "stars": "18,891",
+      "forks": "1,145",
       "addStars": "14,735",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,936",
-      "forks": "813",
+      "stars": "7,996",
+      "forks": "819",
       "addStars": "5,339",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,293",
-      "forks": "1,751",
+      "stars": "16,371",
+      "forks": "1,758",
       "addStars": "8,488",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,121",
-      "forks": "1,741",
+      "stars": "13,177",
+      "forks": "1,746",
       "addStars": "1,059",
       "contributors": [
         {
@@ -153,7 +153,7 @@
       "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,587",
+      "stars": "1,604",
       "forks": "144",
       "addStars": "1,326",
       "contributors": [
@@ -190,8 +190,8 @@
       "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,373",
-      "forks": "594",
+      "stars": "4,381",
+      "forks": "595",
       "addStars": "1,756",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "6,073",
-      "forks": "405",
+      "stars": "6,166",
+      "forks": "411",
       "addStars": "2,488",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,272",
-      "forks": "327",
+      "stars": "3,296",
+      "forks": "329",
       "addStars": "2,434",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "39,544",
-      "forks": "5,296",
+      "stars": "39,652",
+      "forks": "5,305",
       "addStars": "1,047",
       "contributors": [
         {
@@ -328,8 +328,8 @@
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "21,994",
-      "forks": "2,014",
+      "stars": "22,032",
+      "forks": "2,019",
       "addStars": "3,956",
       "contributors": [
         {
@@ -350,7 +350,7 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "87,506",
+      "stars": "87,556",
       "forks": "9,383",
       "addStars": "3,300",
       "contributors": [
@@ -387,7 +387,7 @@
       "description": "Animation engine for explanatory math videos",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "91,236",
+      "stars": "91,260",
       "forks": "7,549",
       "addStars": "2,008",
       "contributors": [
@@ -424,7 +424,7 @@
       "description": "Give your agent a computer 👾",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,254",
+      "stars": "8,283",
       "forks": "450",
       "addStars": "1,966",
       "contributors": [
@@ -456,8 +456,8 @@
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "18,335",
-      "forks": "1,442",
+      "stars": "18,357",
+      "forks": "1,444",
       "addStars": "1,821",
       "contributors": [
         {
@@ -493,7 +493,7 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,522",
+      "stars": "7,531",
       "forks": "961",
       "addStars": "670",
       "contributors": [
@@ -530,8 +530,8 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "78,316",
-      "forks": "14,361",
+      "stars": "78,350",
+      "forks": "14,362",
       "addStars": "2,430",
       "contributors": [
         {
