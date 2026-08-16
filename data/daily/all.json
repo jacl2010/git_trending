@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sun, 16 Aug 2026 12:17:55 GMT",
+  "pubDate": "Sun, 16 Aug 2026 18:22:04 GMT",
   "items": [
     {
       "title": "cordiverse/cordis",
@@ -10,9 +10,9 @@
       "description": "Meta-Framework of Spatiotemporal Composability",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,420",
-      "forks": "220",
-      "addStars": "599",
+      "stars": "4,611",
+      "forks": "239",
+      "addStars": "719",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/33423008?s=40&v=4",
@@ -47,8 +47,8 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "25,083",
-      "forks": "2,556",
+      "stars": "25,259",
+      "forks": "2,576",
       "addStars": "225",
       "contributors": [
         {
@@ -84,9 +84,9 @@
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "72,257",
-      "forks": "6,509",
-      "addStars": "434",
+      "stars": "72,425",
+      "forks": "6,531",
+      "addStars": "580",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/23090290?s=40&v=4",
@@ -116,8 +116,8 @@
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "83,522",
-      "forks": "8,264",
+      "stars": "83,721",
+      "forks": "8,273",
       "addStars": "134",
       "contributors": [
         {
@@ -148,51 +148,14 @@
       ]
     },
     {
-      "title": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "1,539",
-      "forks": "163",
-      "addStars": "41",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
-          "name": "akitaonrails",
-          "url": "https://github.com/akitaonrails"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
-          "name": "djalmajr",
-          "url": "https://github.com/djalmajr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8575320?s=40&v=4",
-          "name": "wblech",
-          "url": "https://github.com/wblech"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1322752?s=40&v=4",
-          "name": "rthiago",
-          "url": "https://github.com/rthiago"
-        }
-      ]
-    },
-    {
       "title": "public-apis/public-apis",
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "460,835",
-      "forks": "50,915",
-      "addStars": "2,260",
+      "stars": "461,359",
+      "forks": "50,972",
+      "addStars": "1,583",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/50463866?s=40&v=4",
@@ -227,9 +190,9 @@
       "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "39,736",
-      "forks": "5,310",
-      "addStars": "544",
+      "stars": "39,886",
+      "forks": "5,322",
+      "addStars": "446",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/57667706?s=40&v=4",
@@ -264,9 +227,9 @@
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "6,277",
-      "forks": "417",
-      "addStars": "547",
+      "stars": "6,446",
+      "forks": "427",
+      "addStars": "447",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
