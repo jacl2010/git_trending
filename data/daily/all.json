@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Mon, 17 Aug 2026 01:20:04 GMT",
+  "pubDate": "Mon, 17 Aug 2026 07:05:38 GMT",
   "items": [
     {
       "title": "cordiverse/cordis",
@@ -10,8 +10,8 @@
       "description": "Meta-Framework of Spatiotemporal Composability",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,746",
-      "forks": "257",
+      "stars": "5,147",
+      "forks": "278",
       "addStars": "720",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "25,403",
-      "forks": "2,592",
+      "stars": "25,624",
+      "forks": "2,610",
       "addStars": "270",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "72,597",
-      "forks": "6,549",
+      "stars": "72,843",
+      "forks": "6,564",
       "addStars": "572",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "83,910",
-      "forks": "8,287",
+      "stars": "84,152",
+      "forks": "8,307",
       "addStars": "150",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "461,788",
-      "forks": "51,011",
+      "stars": "462,314",
+      "forks": "51,058",
       "addStars": "1,588",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "40,043",
-      "forks": "5,331",
+      "stars": "40,246",
+      "forks": "5,338",
       "addStars": "452",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "6,586",
-      "forks": "433",
+      "stars": "6,813",
+      "forks": "440",
       "addStars": "443",
       "contributors": [
         {
