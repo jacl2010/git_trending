@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Mon, 17 Aug 2026 12:21:09 GMT",
+  "pubDate": "Mon, 17 Aug 2026 18:33:04 GMT",
   "items": [
     {
       "title": "harry0703/MoneyPrinterTurbo",
@@ -10,9 +10,9 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "105,275",
-      "forks": "16,008",
-      "addStars": "494",
+      "stars": "105,710",
+      "forks": "16,067",
+      "addStars": "1,275",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "53,627",
-      "forks": "5,747",
-      "addStars": "856",
+      "stars": "53,914",
+      "forks": "5,778",
+      "addStars": "656",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
@@ -74,8 +74,8 @@
       "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "25,676",
-      "forks": "3,358",
+      "stars": "25,790",
+      "forks": "3,367",
       "addStars": "115",
       "contributors": [
         {
@@ -106,13 +106,50 @@
       ]
     },
     {
+      "title": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "1,915",
+      "forks": "189",
+      "addStars": "207",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
+          "name": "akitaonrails",
+          "url": "https://github.com/akitaonrails"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
+          "name": "djalmajr",
+          "url": "https://github.com/djalmajr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8575320?s=40&v=4",
+          "name": "wblech",
+          "url": "https://github.com/wblech"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1322752?s=40&v=4",
+          "name": "rthiago",
+          "url": "https://github.com/rthiago"
+        }
+      ]
+    },
+    {
       "title": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "28,102",
-      "forks": "3,420",
+      "stars": "28,257",
+      "forks": "3,438",
       "addStars": "156",
       "contributors": [
         {
@@ -148,9 +185,9 @@
       "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "32,012",
-      "forks": "1,986",
-      "addStars": "187",
+      "stars": "32,153",
+      "forks": "1,991",
+      "addStars": "239",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1235925?s=40&v=4",
@@ -175,8 +212,8 @@
       "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "64,211",
-      "forks": "12,635",
+      "stars": "64,437",
+      "forks": "12,642",
       "addStars": "147",
       "contributors": [
         {
@@ -212,9 +249,9 @@
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "18,844",
-      "forks": "1,638",
-      "addStars": "60",
+      "stars": "18,917",
+      "forks": "1,643",
+      "addStars": "96",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/64250138?s=40&v=4",
@@ -244,8 +281,8 @@
       "description": "High performance self-hosted photo and video management solution.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "110,847",
-      "forks": "6,561",
+      "stars": "110,997",
+      "forks": "6,567",
       "addStars": "140",
       "contributors": [
         {
@@ -276,8 +313,8 @@
       "description": "Meta-Framework of Spatiotemporal Composability",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,372",
-      "forks": "290",
+      "stars": "5,494",
+      "forks": "292",
       "addStars": "959",
       "contributors": [
         {
@@ -313,8 +350,8 @@
       "description": "A full-featured download manager.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "52,829",
-      "forks": "4,913",
+      "stars": "52,954",
+      "forks": "4,923",
       "addStars": "295",
       "contributors": [
         {
