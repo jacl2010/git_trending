@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Tue, 18 Aug 2026 01:17:05 GMT",
+  "pubDate": "Tue, 18 Aug 2026 06:53:14 GMT",
   "items": [
     {
       "title": "cathrynlavery/diagram-design",
@@ -10,8 +10,8 @@
       "description": "27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "20,710",
-      "forks": "1,271",
+      "stars": "21,012",
+      "forks": "1,296",
       "addStars": "16,260",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,590",
-      "forks": "879",
+      "stars": "8,718",
+      "forks": "894",
       "addStars": "4,746",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,144",
-      "forks": "460",
+      "stars": "7,241",
+      "forks": "470",
       "addStars": "3,627",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,451",
-      "forks": "1,774",
+      "stars": "13,489",
+      "forks": "1,776",
       "addStars": "1,416",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,934",
-      "forks": "1,817",
+      "stars": "17,000",
+      "forks": "1,821",
       "addStars": "4,328",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,562",
-      "forks": "358",
+      "stars": "3,592",
+      "forks": "359",
       "addStars": "2,724",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,543",
-      "forks": "609",
+      "stars": "4,566",
+      "forks": "611",
       "addStars": "1,135",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "73,237",
-      "forks": "6,601",
+      "stars": "73,337",
+      "forks": "6,614",
       "addStars": "3,329",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "Animation engine for explanatory math videos",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "91,503",
-      "forks": "7,560",
+      "stars": "91,532",
+      "forks": "7,561",
       "addStars": "1,724",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "25,999",
-      "forks": "2,646",
+      "stars": "26,095",
+      "forks": "2,659",
       "addStars": "1,477",
       "contributors": [
         {
@@ -360,8 +360,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "88,060",
-      "forks": "9,440",
+      "stars": "88,122",
+      "forks": "9,444",
       "addStars": "2,575",
       "contributors": [
         {
@@ -397,8 +397,8 @@
       "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,376",
-      "forks": "634",
+      "stars": "6,458",
+      "forks": "642",
       "addStars": "1,338",
       "contributors": [
         {
@@ -434,8 +434,8 @@
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,630",
-      "forks": "2,063",
+      "stars": "22,742",
+      "forks": "2,075",
       "addStars": "3,389",
       "contributors": [
         {
@@ -456,8 +456,8 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "170,017",
-      "forks": "20,237",
+      "stars": "170,102",
+      "forks": "20,245",
       "addStars": "2,714",
       "contributors": [
         {

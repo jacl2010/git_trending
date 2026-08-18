@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Tue, 18 Aug 2026 01:17:05 GMT",
+  "pubDate": "Tue, 18 Aug 2026 06:53:14 GMT",
   "items": [
     {
       "title": "harry0703/MoneyPrinterTurbo",
@@ -10,8 +10,8 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "106,081",
-      "forks": "16,124",
+      "stars": "106,815",
+      "forks": "16,210",
       "addStars": "1,189",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "54,208",
-      "forks": "5,799",
+      "stars": "54,537",
+      "forks": "5,821",
       "addStars": "598",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "25,929",
-      "forks": "3,372",
+      "stars": "26,090",
+      "forks": "3,386",
       "addStars": "120",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,076",
-      "forks": "195",
+      "stars": "2,299",
+      "forks": "208",
       "addStars": "207",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "28,450",
-      "forks": "3,447",
+      "stars": "28,635",
+      "forks": "3,458",
       "addStars": "198",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "32,298",
-      "forks": "2,001",
+      "stars": "32,471",
+      "forks": "2,007",
       "addStars": "198",
       "contributors": [
         {
@@ -212,8 +212,8 @@
       "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "64,673",
-      "forks": "12,651",
+      "stars": "65,005",
+      "forks": "12,667",
       "addStars": "218",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "18,997",
-      "forks": "1,645",
+      "stars": "19,102",
+      "forks": "1,646",
       "addStars": "78",
       "contributors": [
         {
@@ -281,8 +281,8 @@
       "description": "High performance self-hosted photo and video management solution.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "111,168",
-      "forks": "6,576",
+      "stars": "111,354",
+      "forks": "6,587",
       "addStars": "175",
       "contributors": [
         {
@@ -313,8 +313,8 @@
       "description": "Meta-Framework of Spatiotemporal Composability",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,602",
-      "forks": "297",
+      "stars": "5,824",
+      "forks": "313",
       "addStars": "957",
       "contributors": [
         {
@@ -350,8 +350,8 @@
       "description": "A full-featured download manager.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "53,090",
-      "forks": "4,929",
+      "stars": "53,271",
+      "forks": "4,933",
       "addStars": "344",
       "contributors": [
         {
