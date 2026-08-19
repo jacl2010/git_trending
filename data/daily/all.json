@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Wed, 19 Aug 2026 06:53:28 GMT",
+  "pubDate": "Wed, 19 Aug 2026 12:22:44 GMT",
   "items": [
     {
       "title": "harry0703/MoneyPrinterTurbo",
@@ -10,8 +10,8 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "109,101",
-      "forks": "16,560",
+      "stars": "109,663",
+      "forks": "16,651",
       "addStars": "2,304",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "local multi-agent harness",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,266",
-      "forks": "260",
+      "stars": "2,441",
+      "forks": "285",
       "addStars": "306",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,917",
-      "forks": "244",
+      "stars": "3,051",
+      "forks": "252",
       "addStars": "648",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "29,644",
-      "forks": "2,316",
+      "stars": "29,821",
+      "forks": "2,319",
       "addStars": "213",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "29,386",
-      "forks": "3,504",
+      "stars": "29,542",
+      "forks": "3,511",
       "addStars": "730",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "464,983",
-      "forks": "51,344",
+      "stars": "465,374",
+      "forks": "51,381",
       "addStars": "1,005",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "26,549",
-      "forks": "2,694",
+      "stars": "26,651",
+      "forks": "2,709",
       "addStars": "356",
       "contributors": [
         {
@@ -264,8 +264,8 @@
       "description": "A full-featured download manager.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "53,854",
-      "forks": "4,954",
+      "stars": "53,964",
+      "forks": "4,958",
       "addStars": "609",
       "contributors": [
         {
@@ -301,8 +301,8 @@
       "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
       "language": "PLSQL",
       "languageColor": "#dad8d8",
-      "stars": "24,416",
-      "forks": "5,605",
+      "stars": "24,503",
+      "forks": "5,617",
       "addStars": "192",
       "contributors": [
         {
@@ -338,8 +338,8 @@
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "19,535",
-      "forks": "1,676",
+      "stars": "19,656",
+      "forks": "1,682",
       "addStars": "370",
       "contributors": [
         {
@@ -370,7 +370,7 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,051",
+      "stars": "16,119",
       "forks": "802",
       "addStars": "535",
       "contributors": [
@@ -407,8 +407,8 @@
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "84,963",
-      "forks": "8,367",
+      "stars": "85,116",
+      "forks": "8,380",
       "addStars": "192",
       "contributors": [
         {
