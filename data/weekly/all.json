@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Thu, 20 Aug 2026 12:24:55 GMT",
+  "pubDate": "Thu, 20 Aug 2026 18:32:55 GMT",
   "items": [
     {
       "title": "cathrynlavery/diagram-design",
@@ -10,8 +10,8 @@
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "23,944",
-      "forks": "1,463",
+      "stars": "24,168",
+      "forks": "1,467",
       "addStars": "14,397",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "30,762",
-      "forks": "2,375",
+      "stars": "30,905",
+      "forks": "2,386",
       "addStars": "1,659",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "26,923",
-      "forks": "2,751",
+      "stars": "26,999",
+      "forks": "2,760",
       "addStars": "2,208",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,008",
-      "forks": "516",
+      "stars": "8,080",
+      "forks": "520",
       "addStars": "3,838",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,725",
-      "forks": "1,030",
+      "stars": "9,783",
+      "forks": "1,042",
       "addStars": "4,005",
       "contributors": [
         {
@@ -190,7 +190,7 @@
       "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,933",
+      "stars": "1,953",
       "forks": "177",
       "addStars": "1,220",
       "contributors": [
@@ -227,8 +227,8 @@
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
       "languageColor": "#ff4c1f",
-      "stars": "27,516",
-      "forks": "2,979",
+      "stars": "27,772",
+      "forks": "2,991",
       "addStars": "641",
       "contributors": [
         {
@@ -264,8 +264,8 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "112,360",
-      "forks": "17,019",
+      "stars": "112,713",
+      "forks": "17,075",
       "addStars": "7,380",
       "contributors": [
         {
@@ -301,8 +301,8 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "466,723",
-      "forks": "51,481",
+      "stars": "467,012",
+      "forks": "51,512",
       "addStars": "10,183",
       "contributors": [
         {
@@ -338,8 +338,8 @@
       "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,785",
-      "forks": "1,798",
+      "stars": "13,813",
+      "forks": "1,799",
       "addStars": "1,704",
       "contributors": [
         {
@@ -375,8 +375,8 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "11,101",
-      "forks": "307",
+      "stars": "11,563",
+      "forks": "316",
       "addStars": "1,492",
       "contributors": [
         {
@@ -407,8 +407,8 @@
       "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,981",
-      "forks": "670",
+      "stars": "7,015",
+      "forks": "671",
       "addStars": "1,797",
       "contributors": [
         {
@@ -444,8 +444,8 @@
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,829",
-      "forks": "368",
+      "stars": "3,852",
+      "forks": "370",
       "addStars": "2,557",
       "contributors": [
         {
@@ -481,8 +481,8 @@
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "74,003",
-      "forks": "6,686",
+      "stars": "74,053",
+      "forks": "6,694",
       "addStars": "3,338",
       "contributors": [
         {
@@ -513,8 +513,8 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,383",
-      "forks": "272",
+      "stars": "3,498",
+      "forks": "276",
       "addStars": "1,717",
       "contributors": [
         {
@@ -550,8 +550,8 @@
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,001",
-      "forks": "1,704",
+      "stars": "20,072",
+      "forks": "1,707",
       "addStars": "1,102",
       "contributors": [
         {
@@ -582,8 +582,8 @@
       "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "33,181",
-      "forks": "2,055",
+      "stars": "33,233",
+      "forks": "2,057",
       "addStars": "1,545",
       "contributors": [
         {
@@ -609,8 +609,8 @@
       "description": "The free coding agent",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,189",
-      "forks": "1,124",
+      "stars": "10,237",
+      "forks": "1,125",
       "addStars": "1,037",
       "contributors": [
         {
