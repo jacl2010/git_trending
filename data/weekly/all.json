@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Fri, 21 Aug 2026 12:24:20 GMT",
+  "pubDate": "Fri, 21 Aug 2026 18:30:24 GMT",
   "items": [
     {
       "title": "cathrynlavery/diagram-design",
@@ -10,8 +10,8 @@
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "24,730",
-      "forks": "1,506",
+      "stars": "24,892",
+      "forks": "1,515",
       "addStars": "11,325",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "31,400",
-      "forks": "2,409",
+      "stars": "31,558",
+      "forks": "2,422",
       "addStars": "2,444",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "27,147",
-      "forks": "2,780",
+      "stars": "27,331",
+      "forks": "2,800",
       "addStars": "2,395",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,243",
-      "forks": "533",
+      "stars": "8,286",
+      "forks": "534",
       "addStars": "3,409",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,993",
-      "forks": "1,069",
+      "stars": "10,036",
+      "forks": "1,072",
       "addStars": "3,674",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,015",
-      "forks": "183",
+      "stars": "2,035",
+      "forks": "182",
       "addStars": "932",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
       "languageColor": "#ff4c1f",
-      "stars": "28,396",
-      "forks": "3,023",
+      "stars": "28,581",
+      "forks": "3,043",
       "addStars": "744",
       "contributors": [
         {
@@ -264,8 +264,8 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "113,502",
-      "forks": "17,216",
+      "stars": "113,727",
+      "forks": "17,256",
       "addStars": "9,712",
       "contributors": [
         {
@@ -301,8 +301,8 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "467,630",
-      "forks": "51,582",
+      "stars": "467,857",
+      "forks": "51,611",
       "addStars": "11,259",
       "contributors": [
         {
@@ -338,8 +338,8 @@
       "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,878",
-      "forks": "1,806",
+      "stars": "13,904",
+      "forks": "1,808",
       "addStars": "1,632",
       "contributors": [
         {
@@ -375,8 +375,8 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,457",
-      "forks": "340",
+      "stars": "12,707",
+      "forks": "346",
       "addStars": "2,674",
       "contributors": [
         {
@@ -407,8 +407,8 @@
       "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,089",
-      "forks": "676",
+      "stars": "7,110",
+      "forks": "678",
       "addStars": "1,855",
       "contributors": [
         {
@@ -444,8 +444,8 @@
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,902",
-      "forks": "371",
+      "stars": "3,925",
+      "forks": "373",
       "addStars": "1,456",
       "contributors": [
         {
@@ -481,8 +481,8 @@
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "74,189",
-      "forks": "6,707",
+      "stars": "74,234",
+      "forks": "6,713",
       "addStars": "3,300",
       "contributors": [
         {
@@ -508,50 +508,13 @@
       ]
     },
     {
-      "title": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "3,838",
-      "forks": "289",
-      "addStars": "1,952",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
-          "name": "akitaonrails",
-          "url": "https://github.com/akitaonrails"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
-          "name": "djalmajr",
-          "url": "https://github.com/djalmajr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8575320?s=40&v=4",
-          "name": "wblech",
-          "url": "https://github.com/wblech"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1322752?s=40&v=4",
-          "name": "rthiago",
-          "url": "https://github.com/rthiago"
-        }
-      ]
-    },
-    {
       "title": "jundot/omlx",
       "url": "https://github.com/jundot/omlx",
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,174",
-      "forks": "1,713",
+      "stars": "20,205",
+      "forks": "1,716",
       "addStars": "1,388",
       "contributors": [
         {
@@ -582,8 +545,8 @@
       "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "33,369",
-      "forks": "2,071",
+      "stars": "33,419",
+      "forks": "2,075",
       "addStars": "1,842",
       "contributors": [
         {
@@ -609,8 +572,8 @@
       "description": "The free coding agent",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,367",
-      "forks": "1,136",
+      "stars": "10,423",
+      "forks": "1,138",
       "addStars": "1,133",
       "contributors": [
         {
