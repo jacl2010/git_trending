@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Fri, 21 Aug 2026 01:21:40 GMT",
+  "pubDate": "Fri, 21 Aug 2026 06:55:52 GMT",
   "items": [
     {
       "title": "modular/modular",
@@ -10,8 +10,8 @@
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
       "languageColor": "#ff4c1f",
-      "stars": "27,962",
-      "forks": "3,001",
+      "stars": "28,189",
+      "forks": "3,016",
       "addStars": "268",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "226,555",
-      "forks": "19,428",
+      "stars": "227,368",
+      "forks": "19,474",
       "addStars": "2,192",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "11,906",
-      "forks": "322",
+      "stars": "12,213",
+      "forks": "334",
       "addStars": "1,545",
       "contributors": [
         {
@@ -106,8 +106,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "274,961",
-      "forks": "24,606",
+      "stars": "275,163",
+      "forks": "24,620",
       "addStars": "727",
       "contributors": [
         {
@@ -143,8 +143,8 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,089",
-      "forks": "340",
+      "stars": "4,184",
+      "forks": "347",
       "addStars": "449",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "66,697",
-      "forks": "12,819",
+      "stars": "66,948",
+      "forks": "12,837",
       "addStars": "816",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,622",
-      "forks": "280",
+      "stars": "3,740",
+      "forks": "283",
       "addStars": "332",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "112,971",
-      "forks": "17,121",
+      "stars": "113,277",
+      "forks": "17,170",
       "addStars": "2,761",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "1,399",
-      "forks": "252",
+      "stars": "1,478",
+      "forks": "254",
       "addStars": "22",
       "contributors": [
         {
@@ -328,8 +328,8 @@
       "description": "local multi-agent harness",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,136",
-      "forks": "351",
+      "stars": "3,217",
+      "forks": "357",
       "addStars": "507",
       "contributors": [
         {
@@ -360,8 +360,8 @@
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "38,010",
-      "forks": "3,217",
+      "stars": "38,076",
+      "forks": "3,222",
       "addStars": "60",
       "contributors": [
         {
@@ -392,8 +392,8 @@
       "description": "Visualize your year in travel using your Google Location History (Timeline) data",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "1,582",
-      "forks": "174",
+      "stars": "1,842",
+      "forks": "197",
       "addStars": "657",
       "contributors": [
         {
@@ -429,8 +429,8 @@
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "31,036",
-      "forks": "2,394",
+      "stars": "31,231",
+      "forks": "2,406",
       "addStars": "950",
       "contributors": [
         {
@@ -466,8 +466,8 @@
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "99,646",
-      "forks": "5,770",
+      "stars": "99,786",
+      "forks": "5,779",
       "addStars": "258",
       "contributors": [
         {
@@ -498,8 +498,8 @@
       "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "56,513",
-      "forks": "5,397",
+      "stars": "56,637",
+      "forks": "5,406",
       "addStars": "98",
       "contributors": [
         {
@@ -535,8 +535,8 @@
       "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,974",
-      "forks": "482",
+      "stars": "5,096",
+      "forks": "494",
       "addStars": "50",
       "contributors": [
         {
@@ -572,8 +572,8 @@
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "15,955",
-      "forks": "1,386",
+      "stars": "16,029",
+      "forks": "1,389",
       "addStars": "230",
       "contributors": [
         {
