@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sat, 22 Aug 2026 06:49:23 GMT",
+  "pubDate": "Sat, 22 Aug 2026 12:17:48 GMT",
   "items": [
     {
       "title": "mattpocock/skills",
@@ -10,9 +10,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "230,090",
-      "forks": "19,660",
-      "addStars": "3,362",
+      "stars": "230,782",
+      "forks": "19,711",
+      "addStars": "2,684",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
@@ -37,9 +37,9 @@
       "description": "Visualize your year in travel using your Google Location History (Timeline) data",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "2,328",
-      "forks": "270",
-      "addStars": "1,053",
+      "stars": "2,438",
+      "forks": "280",
+      "addStars": "441",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/33252024?s=40&v=4",
@@ -74,9 +74,9 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "114,140",
-      "forks": "17,327",
-      "addStars": "1,201",
+      "stars": "114,382",
+      "forks": "17,361",
+      "addStars": "903",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "13,171",
-      "forks": "356",
-      "addStars": "1,380",
+      "stars": "13,402",
+      "forks": "361",
+      "addStars": "959",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/37977109?s=40&v=4",
@@ -143,9 +143,9 @@
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "38,359",
-      "forks": "3,234",
-      "addStars": "335",
+      "stars": "38,431",
+      "forks": "3,237",
+      "addStars": "288",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/984817?s=40&v=4",
@@ -175,7 +175,7 @@
       "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "110,419",
+      "stars": "110,448",
       "forks": "13,746",
       "addStars": "65",
       "contributors": [
@@ -212,9 +212,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "275,762",
-      "forks": "24,658",
-      "addStars": "790",
+      "stars": "275,891",
+      "forks": "24,665",
+      "addStars": "592",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -249,9 +249,9 @@
       "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "67,576",
-      "forks": "12,879",
-      "addStars": "921",
+      "stars": "67,710",
+      "forks": "12,887",
+      "addStars": "604",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/256850418?s=40&v=4",
@@ -286,9 +286,9 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,473",
-      "forks": "369",
-      "addStars": "388",
+      "stars": "4,534",
+      "forks": "372",
+      "addStars": "286",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
@@ -323,9 +323,9 @@
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
       "languageColor": "#ff4c1f",
-      "stars": "28,740",
-      "forks": "3,057",
-      "addStars": "913",
+      "stars": "28,770",
+      "forks": "3,060",
+      "addStars": "395",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1404191?s=40&v=4",
@@ -360,8 +360,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "241,876",
-      "forks": "36,666",
+      "stars": "241,976",
+      "forks": "36,676",
       "addStars": "357",
       "contributors": [
         {
@@ -392,8 +392,8 @@
       "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "54,963",
-      "forks": "11,906",
+      "stars": "55,022",
+      "forks": "11,909",
       "addStars": "32",
       "contributors": [
         {
@@ -424,8 +424,8 @@
       "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "68,725",
-      "forks": "8,252",
+      "stars": "68,798",
+      "forks": "8,256",
       "addStars": "140",
       "contributors": [
         {
@@ -461,8 +461,8 @@
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,084",
-      "forks": "243",
+      "stars": "2,144",
+      "forks": "248",
       "addStars": "148",
       "contributors": [
         {
@@ -498,8 +498,8 @@
       "description": "Protocol Buffers - Google's data interchange format",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "71,791",
-      "forks": "16,237",
+      "stars": "71,805",
+      "forks": "16,238",
       "addStars": "4",
       "contributors": [
         {
@@ -535,8 +535,8 @@
       "description": "OBLITERATE THE CHAINS THAT BIND YOU",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,866",
-      "forks": "1,436",
+      "stars": "7,928",
+      "forks": "1,439",
       "addStars": "63",
       "contributors": [
         {
@@ -572,8 +572,8 @@
       "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "21,515",
-      "forks": "4,152",
+      "stars": "21,586",
+      "forks": "4,153",
       "addStars": "5",
       "contributors": [
         {
