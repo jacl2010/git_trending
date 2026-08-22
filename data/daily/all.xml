@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Sat, 22 Aug 2026 01:17:14 GMT</pubDate>
+    <pubDate>Sat, 22 Aug 2026 06:49:23 GMT</pubDate>
     <item>
       <title>mattpocock/skills</title>
       <link>https://github.com/mattpocock/skills</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>229,524</stars>
-      <forks>19,616</forks>
+      <stars>230,090</stars>
+      <forks>19,660</forks>
       <addStars>3,362</addStars>
       <contributors>
         <contributor>
@@ -39,8 +39,8 @@
       <guid>https://github.com/mahlernim/google-timeline-visualizer</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>2,226</stars>
-      <forks>257</forks>
+      <stars>2,328</stars>
+      <forks>270</forks>
       <addStars>1,053</addStars>
       <contributors>
         <contributor>
@@ -77,8 +77,8 @@
       <guid>https://github.com/harry0703/MoneyPrinterTurbo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>113,926</stars>
-      <forks>17,287</forks>
+      <stars>114,140</stars>
+      <forks>17,327</forks>
       <addStars>1,201</addStars>
       <contributors>
         <contributor>
@@ -115,8 +115,8 @@
       <guid>https://github.com/AprilNEA/OpenLogi</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>12,953</stars>
-      <forks>351</forks>
+      <stars>13,171</stars>
+      <forks>356</forks>
       <addStars>1,380</addStars>
       <contributors>
         <contributor>
@@ -148,8 +148,8 @@
       <guid>https://github.com/PostHog/posthog</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>38,294</stars>
-      <forks>3,232</forks>
+      <stars>38,359</stars>
+      <forks>3,234</forks>
       <addStars>335</addStars>
       <contributors>
         <contributor>
@@ -158,14 +158,14 @@
           <url>https://github.com/pauldambra</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4550621?s=40&amp;v=4</avatar>
-          <name>Twixes</name>
-          <url>https://github.com/Twixes</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
           <name>claude</name>
           <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4550621?s=40&amp;v=4</avatar>
+          <name>Twixes</name>
+          <url>https://github.com/Twixes</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1459269?s=40&amp;v=4</avatar>
@@ -181,8 +181,8 @@
       <guid>https://github.com/microsoft/TypeScript</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>110,379</stars>
-      <forks>13,741</forks>
+      <stars>110,419</stars>
+      <forks>13,746</forks>
       <addStars>65</addStars>
       <contributors>
         <contributor>
@@ -219,8 +219,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>275,665</stars>
-      <forks>24,644</forks>
+      <stars>275,762</stars>
+      <forks>24,658</forks>
       <addStars>790</addStars>
       <contributors>
         <contributor>
@@ -257,8 +257,8 @@
       <guid>https://github.com/santifer/career-ops</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>67,452</stars>
-      <forks>12,873</forks>
+      <stars>67,576</stars>
+      <forks>12,879</forks>
       <addStars>921</addStars>
       <contributors>
         <contributor>
@@ -295,8 +295,8 @@
       <guid>https://github.com/cursor/plugins</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>4,409</stars>
-      <forks>367</forks>
+      <stars>4,473</stars>
+      <forks>369</forks>
       <addStars>388</addStars>
       <contributors>
         <contributor>
@@ -333,8 +333,8 @@
       <guid>https://github.com/modular/modular</guid>
       <language>Mojo</language>
       <languageColor>#ff4c1f</languageColor>
-      <stars>28,689</stars>
-      <forks>3,053</forks>
+      <stars>28,740</stars>
+      <forks>3,057</forks>
       <addStars>913</addStars>
       <contributors>
         <contributor>
@@ -371,8 +371,8 @@
       <guid>https://github.com/affaan-m/ECC</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>241,799</stars>
-      <forks>36,655</forks>
+      <stars>241,876</stars>
+      <forks>36,666</forks>
       <addStars>357</addStars>
       <contributors>
         <contributor>
@@ -404,8 +404,8 @@
       <guid>https://github.com/TryGhost/Ghost</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>54,890</stars>
-      <forks>11,903</forks>
+      <stars>54,963</stars>
+      <forks>11,906</forks>
       <addStars>32</addStars>
       <contributors>
         <contributor>
@@ -437,8 +437,8 @@
       <guid>https://github.com/ruvnet/ruflo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>68,648</stars>
-      <forks>8,246</forks>
+      <stars>68,725</stars>
+      <forks>8,252</forks>
       <addStars>140</addStars>
       <contributors>
         <contributor>
@@ -475,8 +475,8 @@
       <guid>https://github.com/apache/maka</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>2,022</stars>
-      <forks>240</forks>
+      <stars>2,084</stars>
+      <forks>243</forks>
       <addStars>148</addStars>
       <contributors>
         <contributor>
@@ -513,8 +513,8 @@
       <guid>https://github.com/protocolbuffers/protobuf</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>71,771</stars>
-      <forks>16,236</forks>
+      <stars>71,791</stars>
+      <forks>16,237</forks>
       <addStars>4</addStars>
       <contributors>
         <contributor>
@@ -551,8 +551,8 @@
       <guid>https://github.com/elder-plinius/OBLITERATUS</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,792</stars>
-      <forks>1,432</forks>
+      <stars>7,866</stars>
+      <forks>1,436</forks>
       <addStars>63</addStars>
       <contributors>
         <contributor>
@@ -589,8 +589,8 @@
       <guid>https://github.com/microsoft/onnxruntime</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>21,453</stars>
-      <forks>4,149</forks>
+      <stars>21,515</stars>
+      <forks>4,152</forks>
       <addStars>5</addStars>
       <contributors>
         <contributor>

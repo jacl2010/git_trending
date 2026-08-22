@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sat, 22 Aug 2026 01:17:14 GMT",
+  "pubDate": "Sat, 22 Aug 2026 06:49:23 GMT",
   "items": [
     {
       "title": "cordiverse/cordis",
@@ -10,8 +10,8 @@
       "description": "Meta-Framework of Spatiotemporal Composability",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,958",
-      "forks": "404",
+      "stars": "7,010",
+      "forks": "408",
       "addStars": "3,614",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "25,017",
-      "forks": "1,525",
+      "stars": "25,124",
+      "forks": "1,536",
       "addStars": "8,457",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,409",
-      "forks": "367",
+      "stars": "4,473",
+      "forks": "369",
       "addStars": "1,582",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "31,666",
-      "forks": "2,424",
+      "stars": "31,768",
+      "forks": "2,428",
       "addStars": "3,033",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "27,546",
-      "forks": "2,817",
+      "stars": "27,711",
+      "forks": "2,832",
       "addStars": "2,565",
       "contributors": [
         {
@@ -195,8 +195,8 @@
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
       "languageColor": "#ff4c1f",
-      "stars": "28,689",
-      "forks": "3,053",
+      "stars": "28,740",
+      "forks": "3,057",
       "addStars": "1,643",
       "contributors": [
         {
@@ -232,8 +232,8 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "113,926",
-      "forks": "17,287",
+      "stars": "114,140",
+      "forks": "17,327",
       "addStars": "10,470",
       "contributors": [
         {
@@ -269,8 +269,8 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "468,015",
-      "forks": "51,633",
+      "stars": "468,171",
+      "forks": "51,645",
       "addStars": "10,990",
       "contributors": [
         {
@@ -306,8 +306,8 @@
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "10,082",
-      "forks": "1,078",
+      "stars": "10,133",
+      "forks": "1,085",
       "addStars": "2,755",
       "contributors": [
         {
@@ -338,8 +338,8 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,953",
-      "forks": "351",
+      "stars": "13,171",
+      "forks": "356",
       "addStars": "4,054",
       "contributors": [
         {
@@ -370,8 +370,8 @@
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,342",
-      "forks": "537",
+      "stars": "8,409",
+      "forks": "546",
       "addStars": "2,985",
       "contributors": [
         {
@@ -407,7 +407,7 @@
       "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,065",
+      "stars": "2,103",
       "forks": "185",
       "addStars": "642",
       "contributors": [
@@ -444,8 +444,8 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,944",
-      "forks": "297",
+      "stars": "3,984",
+      "forks": "298",
       "addStars": "2,404",
       "contributors": [
         {
@@ -481,8 +481,8 @@
       "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "33,449",
-      "forks": "2,080",
+      "stars": "33,479",
+      "forks": "2,085",
       "addStars": "1,991",
       "contributors": [
         {
@@ -508,8 +508,8 @@
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "74,275",
-      "forks": "6,713",
+      "stars": "74,310",
+      "forks": "6,717",
       "addStars": "2,987",
       "contributors": [
         {
@@ -540,8 +540,8 @@
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,225",
-      "forks": "1,716",
+      "stars": "20,243",
+      "forks": "1,719",
       "addStars": "1,536",
       "contributors": [
         {
