@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sun, 23 Aug 2026 01:24:22 GMT",
+  "pubDate": "Sun, 23 Aug 2026 06:50:06 GMT",
   "items": [
     {
       "title": "cursor/plugins",
@@ -10,8 +10,8 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,670",
-      "forks": "382",
+      "stars": "4,708",
+      "forks": "384",
       "addStars": "1,693",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Meta-Framework of Spatiotemporal Composability",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,111",
-      "forks": "410",
+      "stars": "7,152",
+      "forks": "416",
       "addStars": "3,364",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "32,072",
-      "forks": "2,450",
+      "stars": "32,172",
+      "forks": "2,456",
       "addStars": "3,447",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "28,300",
-      "forks": "2,883",
+      "stars": "28,455",
+      "forks": "2,897",
       "addStars": "3,151",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
       "languageColor": "#ff4c1f",
-      "stars": "28,847",
-      "forks": "3,066",
+      "stars": "28,879",
+      "forks": "3,067",
       "addStars": "2,017",
       "contributors": [
         {
@@ -195,8 +195,8 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "114,660",
-      "forks": "17,402",
+      "stars": "114,827",
+      "forks": "17,433",
       "addStars": "10,953",
       "contributors": [
         {
@@ -232,8 +232,8 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "13,959",
-      "forks": "374",
+      "stars": "14,140",
+      "forks": "377",
       "addStars": "4,993",
       "contributors": [
         {
@@ -264,8 +264,8 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "468,653",
-      "forks": "51,706",
+      "stars": "468,758",
+      "forks": "51,720",
       "addStars": "9,381",
       "contributors": [
         {
@@ -301,8 +301,8 @@
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "25,485",
-      "forks": "1,565",
+      "stars": "25,560",
+      "forks": "1,571",
       "addStars": "7,368",
       "contributors": [
         {
@@ -338,7 +338,7 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "4,089",
+      "stars": "4,131",
       "forks": "301",
       "addStars": "2,575",
       "contributors": [
@@ -375,7 +375,7 @@
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,347",
+      "stars": "20,370",
       "forks": "1,724",
       "addStars": "1,597",
       "contributors": [
@@ -407,8 +407,8 @@
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "10,272",
-      "forks": "1,106",
+      "stars": "10,327",
+      "forks": "1,113",
       "addStars": "2,450",
       "contributors": [
         {
@@ -439,8 +439,8 @@
       "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "33,576",
-      "forks": "2,097",
+      "stars": "33,610",
+      "forks": "2,102",
       "addStars": "1,949",
       "contributors": [
         {
@@ -466,7 +466,7 @@
       "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,222",
+      "stars": "2,248",
       "forks": "193",
       "addStars": "635",
       "contributors": [
@@ -503,8 +503,8 @@
       "description": "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,052",
-      "forks": "112",
+      "stars": "1,067",
+      "forks": "111",
       "addStars": "424",
       "contributors": [
         {
