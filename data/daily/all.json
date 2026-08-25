@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Tue, 25 Aug 2026 12:26:03 GMT",
+  "pubDate": "Tue, 25 Aug 2026 18:33:49 GMT",
   "items": [
     {
       "title": "freestylefly/awesome-gpt-image-2",
@@ -10,8 +10,8 @@
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "16,505",
-      "forks": "1,719",
+      "stars": "17,373",
+      "forks": "1,801",
       "addStars": "1,698",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,540",
-      "forks": "166",
+      "stars": "1,649",
+      "forks": "175",
       "addStars": "350",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "34,699",
-      "forks": "12,009",
+      "stars": "35,084",
+      "forks": "12,092",
       "addStars": "1,266",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,125",
-      "forks": "316",
+      "stars": "3,241",
+      "forks": "324",
       "addStars": "538",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "99,852",
-      "forks": "19,314",
+      "stars": "100,063",
+      "forks": "19,342",
       "addStars": "191",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,305",
-      "forks": "1,361",
+      "stars": "12,541",
+      "forks": "1,379",
       "addStars": "810",
       "contributors": [
         {
@@ -212,8 +212,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "48,600",
-      "forks": "8,527",
+      "stars": "48,817",
+      "forks": "8,553",
       "addStars": "572",
       "contributors": [
         {
@@ -244,8 +244,8 @@
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "37,539",
-      "forks": "3,718",
+      "stars": "37,661",
+      "forks": "3,727",
       "addStars": "541",
       "contributors": [
         {
@@ -281,8 +281,8 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "30,726",
-      "forks": "3,121",
+      "stars": "31,035",
+      "forks": "3,161",
       "addStars": "1,080",
       "contributors": [
         {
@@ -318,8 +318,8 @@
       "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "134,012",
-      "forks": "19,722",
+      "stars": "134,112",
+      "forks": "19,734",
       "addStars": "161",
       "contributors": [
         {
@@ -355,8 +355,8 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "206,919",
-      "forks": "21,120",
+      "stars": "207,067",
+      "forks": "21,139",
       "addStars": "828",
       "contributors": [
         {
@@ -392,8 +392,8 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "117,811",
-      "forks": "17,968",
+      "stars": "117,993",
+      "forks": "17,991",
       "addStars": "1,183",
       "contributors": [
         {
@@ -429,9 +429,9 @@
       "description": "Open-source framework for the research and development of foundation models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,916",
-      "forks": "185",
-      "addStars": "214",
+      "stars": "2,043",
+      "forks": "190",
+      "addStars": "277",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9633?s=40&v=4",
@@ -466,8 +466,8 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "110,301",
-      "forks": "6,071",
+      "stars": "110,714",
+      "forks": "6,085",
       "addStars": "944",
       "contributors": [
         {
@@ -503,8 +503,8 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "33,950",
-      "forks": "3,864",
+      "stars": "34,011",
+      "forks": "3,866",
       "addStars": "47",
       "contributors": [
         {
@@ -535,9 +535,9 @@
       "description": "Your own search engine",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,560",
-      "forks": "115",
-      "addStars": "142",
+      "stars": "2,686",
+      "forks": "121",
+      "addStars": "166",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20240?s=40&v=4",
