@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Wed, 26 Aug 2026 12:28:54 GMT",
+  "pubDate": "Wed, 26 Aug 2026 19:44:18 GMT",
   "items": [
     {
       "title": "tt-a1i/archify",
@@ -10,8 +10,8 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "16,843",
-      "forks": "1,176",
+      "stars": "17,551",
+      "forks": "1,223",
       "addStars": "1,002",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "20,492",
-      "forks": "2,061",
+      "stars": "21,151",
+      "forks": "2,114",
       "addStars": "4,044",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "34,240",
-      "forks": "3,877",
+      "stars": "34,316",
+      "forks": "3,883",
       "addStars": "307",
       "contributors": [
         {
@@ -116,9 +116,9 @@
       "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "50,080",
-      "forks": "8,129",
-      "addStars": "1,047",
+      "stars": "50,273",
+      "forks": "8,143",
+      "addStars": "566",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20476625?s=40&v=4",
@@ -148,8 +148,8 @@
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "35,981",
-      "forks": "12,272",
+      "stars": "36,311",
+      "forks": "12,380",
       "addStars": "1,299",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,104",
-      "forks": "1,393",
+      "stars": "13,309",
+      "forks": "1,397",
       "addStars": "812",
       "contributors": [
         {
@@ -198,6 +198,16 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
+          "name": "codex",
+          "url": "https://github.com/codex"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/172872799?s=40&v=4",
+          "name": "cd59edc5e941ba92783589b343d27a933_fnmap",
+          "url": "https://github.com/cd59edc5e941ba92783589b343d27a933_fnmap"
         }
       ]
     },
@@ -207,8 +217,8 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "31,691",
-      "forks": "3,218",
+      "stars": "31,903",
+      "forks": "3,248",
       "addStars": "1,021",
       "contributors": [
         {
@@ -244,8 +254,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "49,397",
-      "forks": "8,609",
+      "stars": "49,533",
+      "forks": "8,625",
       "addStars": "837",
       "contributors": [
         {
@@ -276,8 +286,8 @@
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "38,023",
-      "forks": "3,744",
+      "stars": "38,143",
+      "forks": "3,753",
       "addStars": "522",
       "contributors": [
         {
@@ -313,8 +323,8 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "111,868",
-      "forks": "6,142",
+      "stars": "112,343",
+      "forks": "6,159",
       "addStars": "1,598",
       "contributors": [
         {
@@ -350,8 +360,8 @@
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,034",
-      "forks": "186",
+      "stars": "2,134",
+      "forks": "189",
       "addStars": "537",
       "contributors": [
         {
@@ -382,8 +392,8 @@
       "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "10,756",
-      "forks": "1,382",
+      "stars": "10,868",
+      "forks": "1,385",
       "addStars": "136",
       "contributors": [
         {
@@ -409,8 +419,8 @@
       "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "110,597",
-      "forks": "12,169",
+      "stars": "110,846",
+      "forks": "12,179",
       "addStars": "135",
       "contributors": [
         {
@@ -446,8 +456,8 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "34,530",
-      "forks": "3,352",
+      "stars": "34,661",
+      "forks": "3,357",
       "addStars": "130",
       "contributors": [
         {
@@ -478,8 +488,8 @@
       "description": "Open-source framework for the research and development of foundation models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,345",
-      "forks": "206",
+      "stars": "2,418",
+      "forks": "211",
       "addStars": "443",
       "contributors": [
         {
@@ -515,9 +525,9 @@
       "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
       "language": "",
       "languageColor": "",
-      "stars": "32,398",
-      "forks": "3,440",
-      "addStars": "488",
+      "stars": "32,562",
+      "forks": "3,452",
+      "addStars": "305",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/18739364?s=40&v=4",
