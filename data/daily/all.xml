@@ -3,7 +3,30 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Thu, 27 Aug 2026 17:31:00 GMT</pubDate>
+    <pubDate>Thu, 27 Aug 2026 21:25:06 GMT</pubDate>
+    <item>
+      <title>bilawalsidhu/gods-eye-view</title>
+      <link>https://github.com/bilawalsidhu/gods-eye-view</link>
+      <description>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.</description>
+      <guid>https://github.com/bilawalsidhu/gods-eye-view</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>7,613</stars>
+      <forks>1,758</forks>
+      <addStars>1,984</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/106619546?s=40&amp;v=4</avatar>
+          <name>bilawalsidhu</name>
+          <url>https://github.com/bilawalsidhu</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
     <item>
       <title>zedeus/nitter</title>
       <link>https://github.com/zedeus/nitter</link>
@@ -11,8 +34,8 @@
       <guid>https://github.com/zedeus/nitter</guid>
       <language>Nim</language>
       <languageColor>#ffc200</languageColor>
-      <stars>13,758</stars>
-      <forks>1,102</forks>
+      <stars>13,825</stars>
+      <forks>1,115</forks>
       <addStars>63</addStars>
       <contributors>
         <contributor>
@@ -49,8 +72,8 @@
       <guid>https://github.com/freestylefly/awesome-gpt-image-2</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>22,853</stars>
-      <forks>2,278</forks>
+      <stars>22,929</stars>
+      <forks>2,282</forks>
       <addStars>2,093</addStars>
       <contributors>
         <contributor>
@@ -87,8 +110,8 @@
       <guid>https://github.com/tt-a1i/archify</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>22,360</stars>
-      <forks>1,445</forks>
+      <stars>22,837</stars>
+      <forks>1,476</forks>
       <addStars>4,260</addStars>
       <contributors>
         <contributor>
@@ -125,8 +148,8 @@
       <guid>https://github.com/JetBrains/go-modern-guidelines</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>1,992</stars>
-      <forks>59</forks>
+      <stars>2,035</stars>
+      <forks>63</forks>
       <addStars>314</addStars>
       <contributors>
         <contributor>
@@ -163,8 +186,8 @@
       <guid>https://github.com/anthropics/claude-plugins-official</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>34,587</stars>
-      <forks>3,905</forks>
+      <stars>34,646</stars>
+      <forks>3,910</forks>
       <addStars>290</addStars>
       <contributors>
         <contributor>
@@ -196,8 +219,8 @@
       <guid>https://github.com/K-Dense-AI/scientific-agent-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>35,180</stars>
-      <forks>3,386</forks>
+      <stars>35,250</stars>
+      <forks>3,389</forks>
       <addStars>494</addStars>
       <contributors>
         <contributor>
@@ -229,8 +252,8 @@
       <guid>https://github.com/DietrichGebert/ponytail</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>113,764</stars>
-      <forks>6,221</forks>
+      <stars>113,930</stars>
+      <forks>6,233</forks>
       <addStars>1,610</addStars>
       <contributors>
         <contributor>
@@ -267,8 +290,8 @@
       <guid>https://github.com/calesthio/OpenMontage</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>52,125</stars>
-      <forks>6,537</forks>
+      <stars>52,262</stars>
+      <forks>6,547</forks>
       <addStars>1,284</addStars>
       <contributors>
         <contributor>
@@ -305,8 +328,8 @@
       <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>50,021</stars>
-      <forks>8,701</forks>
+      <stars>50,116</stars>
+      <forks>8,712</forks>
       <addStars>547</addStars>
       <contributors>
         <contributor>
@@ -338,8 +361,8 @@
       <guid>https://github.com/ConardLi/garden-skills</guid>
       <language>CSS</language>
       <languageColor>#663399</languageColor>
-      <stars>11,249</stars>
-      <forks>1,404</forks>
+      <stars>11,292</stars>
+      <forks>1,410</forks>
       <addStars>413</addStars>
       <contributors>
         <contributor>
@@ -366,9 +389,9 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>92,150</stars>
-      <forks>8,102</forks>
-      <addStars>133</addStars>
+      <stars>92,224</stars>
+      <forks>8,106</forks>
+      <addStars>260</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4</avatar>
@@ -399,8 +422,8 @@
       <guid>https://github.com/google/googletest</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>39,004</stars>
-      <forks>10,862</forks>
+      <stars>39,022</stars>
+      <forks>10,863</forks>
       <addStars>4</addStars>
       <contributors>
         <contributor>
@@ -432,8 +455,8 @@
       <guid>https://github.com/AgriciDaniel/claude-obsidian</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>13,842</stars>
-      <forks>1,418</forks>
+      <stars>13,940</stars>
+      <forks>1,421</forks>
       <addStars>631</addStars>
       <contributors>
         <contributor>
@@ -465,8 +488,8 @@
       <guid>https://github.com/marin-community/marin</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>2,645</stars>
-      <forks>226</forks>
+      <stars>2,678</stars>
+      <forks>228</forks>
       <addStars>255</addStars>
       <contributors>
         <contributor>
@@ -503,8 +526,8 @@
       <guid>https://github.com/ComposioHQ/awesome-claude-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>73,513</stars>
-      <forks>8,431</forks>
+      <stars>73,576</stars>
+      <forks>8,437</forks>
       <addStars>125</addStars>
       <contributors>
         <contributor>
@@ -541,8 +564,8 @@
       <guid>https://github.com/actions/checkout</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,684</stars>
-      <forks>2,749</forks>
+      <stars>8,705</stars>
+      <forks>2,750</forks>
       <addStars>4</addStars>
       <contributors>
         <contributor>
@@ -574,8 +597,8 @@
       <guid>https://github.com/OpenCut-app/OpenCut</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>87,261</stars>
-      <forks>8,614</forks>
+      <stars>87,367</stars>
+      <forks>8,619</forks>
       <addStars>460</addStars>
       <contributors>
         <contributor>
@@ -612,8 +635,8 @@
       <guid>https://github.com/TauricResearch/TradingAgents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>101,041</stars>
-      <forks>19,452</forks>
+      <stars>101,143</stars>
+      <forks>19,457</forks>
       <addStars>323</addStars>
       <contributors>
         <contributor>
