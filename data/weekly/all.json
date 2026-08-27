@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Wed, 26 Aug 2026 19:44:18 GMT",
+  "pubDate": "Thu, 27 Aug 2026 08:02:54 GMT",
   "items": [
     {
       "title": "anthropics/claude-plugins-community",
@@ -10,9 +10,9 @@
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,134",
-      "forks": "189",
-      "addStars": "1,199",
+      "stars": "2,294",
+      "forks": "195",
+      "addStars": "1,759",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "16,813",
-      "forks": "473",
-      "addStars": "7,648",
+      "stars": "16,959",
+      "forks": "481",
+      "addStars": "7,078",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/37977109?s=40&v=4",
@@ -69,9 +69,9 @@
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
       "languageColor": "#ff4c1f",
-      "stars": "29,217",
-      "forks": "3,108",
-      "addStars": "2,354",
+      "stars": "29,234",
+      "forks": "3,110",
+      "addStars": "1,984",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1404191?s=40&v=4",
@@ -106,9 +106,9 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "31,903",
-      "forks": "3,248",
-      "addStars": "4,601",
+      "stars": "32,237",
+      "forks": "3,290",
+      "addStars": "5,186",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
@@ -131,9 +131,9 @@
           "url": "https://github.com/omarchybot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/77543049?s=40&v=4",
-          "name": "tahayvr",
-          "url": "https://github.com/tahayvr"
+          "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
+          "name": "codex",
+          "url": "https://github.com/codex"
         }
       ]
     },
@@ -143,9 +143,9 @@
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "21,151",
-      "forks": "2,114",
-      "addStars": "5,329",
+      "stars": "22,165",
+      "forks": "2,198",
+      "addStars": "9,477",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
@@ -180,9 +180,9 @@
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,584",
-      "forks": "348",
-      "addStars": "1,769",
+      "stars": "3,667",
+      "forks": "353",
+      "addStars": "2,217",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/30525741?s=40&v=4",
@@ -217,9 +217,9 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "118,742",
-      "forks": "18,108",
-      "addStars": "11,424",
+      "stars": "118,986",
+      "forks": "18,153",
+      "addStars": "12,120",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/230027070?s=40&v=4",
@@ -254,9 +254,9 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "116,860",
-      "forks": "17,774",
-      "addStars": "9,019",
+      "stars": "117,036",
+      "forks": "17,805",
+      "addStars": "7,232",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
@@ -279,9 +279,9 @@
           "url": "https://github.com/vuisme"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/54718731?s=40&v=4",
-          "name": "pcbntt",
-          "url": "https://github.com/pcbntt"
+          "avatar": "https://avatars.githubusercontent.com/u/41247825?s=40&v=4",
+          "name": "Mihir7027",
+          "url": "https://github.com/Mihir7027"
         }
       ]
     },
@@ -291,9 +291,9 @@
       "description": "local multi-agent harness",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "4,794",
-      "forks": "579",
-      "addStars": "2,487",
+      "stars": "4,907",
+      "forks": "589",
+      "addStars": "2,192",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/26071627?s=40&v=4",
@@ -323,19 +323,24 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,379",
-      "forks": "439",
-      "addStars": "2,045",
+      "stars": "5,508",
+      "forks": "448",
+      "addStars": "1,859",
       "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
           "name": "poteto",
           "url": "https://github.com/poteto"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
+          "avatar": "https://avatars.githubusercontent.com/u/930790?s=40&v=4",
+          "name": "roshansada",
+          "url": "https://github.com/roshansada"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/25622412?s=40&v=4",
@@ -346,11 +351,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/5743232?s=40&v=4",
           "name": "n2parko",
           "url": "https://github.com/n2parko"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10885502?s=40&v=4",
-          "name": "SamSokolin",
-          "url": "https://github.com/SamSokolin"
         }
       ]
     },
@@ -360,9 +360,9 @@
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "33,534",
-      "forks": "2,551",
-      "addStars": "4,211",
+      "stars": "33,699",
+      "forks": "2,564",
+      "addStars": "3,691",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
@@ -397,9 +397,9 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "4,821",
-      "forks": "345",
-      "addStars": "2,073",
+      "stars": "4,886",
+      "forks": "346",
+      "addStars": "1,714",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
@@ -434,9 +434,9 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "470,960",
-      "forks": "51,936",
-      "addStars": "6,747",
+      "stars": "471,269",
+      "forks": "51,974",
+      "addStars": "5,585",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/50463866?s=40&v=4",
@@ -471,9 +471,9 @@
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "39,236",
+      "stars": "39,283",
       "forks": "3,291",
-      "addStars": "1,426",
+      "addStars": "1,485",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/984817?s=40&v=4",
@@ -503,9 +503,9 @@
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "20,631",
-      "forks": "2,965",
-      "addStars": "1,441",
+      "stars": "20,816",
+      "forks": "2,993",
+      "addStars": "1,700",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
@@ -540,9 +540,9 @@
       "description": "BookOrbit: Your Reading Space",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,247",
-      "forks": "203",
-      "addStars": "869",
+      "stars": "3,315",
+      "forks": "205",
+      "addStars": "895",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/18559658?s=40&v=4",
