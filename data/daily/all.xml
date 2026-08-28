@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Fri, 28 Aug 2026 18:26:47 GMT</pubDate>
+    <pubDate>Fri, 28 Aug 2026 21:35:16 GMT</pubDate>
     <item>
       <title>tt-a1i/archify</title>
       <link>https://github.com/tt-a1i/archify</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/tt-a1i/archify</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>26,696</stars>
-      <forks>1,695</forks>
+      <stars>27,044</stars>
+      <forks>1,714</forks>
       <addStars>4,561</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/K-Dense-AI/scientific-agent-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>36,282</stars>
-      <forks>3,466</forks>
+      <stars>36,460</stars>
+      <forks>3,473</forks>
       <addStars>720</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/anthropics/claude-plugins-official</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>34,948</stars>
-      <forks>3,932</forks>
+      <stars>34,993</stars>
+      <forks>3,934</forks>
       <addStars>457</addStars>
       <contributors>
         <contributor>
@@ -115,9 +115,9 @@
       <guid>https://github.com/bilawalsidhu/gods-eye-view</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>10,630</stars>
-      <forks>2,174</forks>
-      <addStars>1,984</addStars>
+      <stars>10,903</stars>
+      <forks>2,219</forks>
+      <addStars>3,398</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/106619546?s=40&amp;v=4</avatar>
@@ -138,8 +138,8 @@
       <guid>https://github.com/abhigyanpatwari/GitNexus</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>46,101</stars>
-      <forks>5,094</forks>
+      <stars>46,134</stars>
+      <forks>5,099</forks>
       <addStars>189</addStars>
       <contributors>
         <contributor>
@@ -171,8 +171,8 @@
       <guid>https://github.com/JetBrains/go-modern-guidelines</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>2,536</stars>
-      <forks>76</forks>
+      <stars>2,561</stars>
+      <forks>78</forks>
       <addStars>574</addStars>
       <contributors>
         <contributor>
@@ -209,8 +209,8 @@
       <guid>https://github.com/calesthio/OpenMontage</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>53,152</stars>
-      <forks>6,631</forks>
+      <stars>53,231</stars>
+      <forks>6,639</forks>
       <addStars>1,144</addStars>
       <contributors>
         <contributor>
@@ -247,8 +247,8 @@
       <guid>https://github.com/abi/screenshot-to-code</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>75,447</stars>
-      <forks>9,212</forks>
+      <stars>75,503</stars>
+      <forks>9,217</forks>
       <addStars>309</addStars>
       <contributors>
         <contributor>
@@ -280,8 +280,8 @@
       <guid>https://github.com/cursor/plugins</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,895</stars>
-      <forks>476</forks>
+      <stars>5,923</stars>
+      <forks>479</forks>
       <addStars>257</addStars>
       <contributors>
         <contributor>
@@ -318,8 +318,8 @@
       <guid>https://github.com/freestylefly/awesome-gpt-image-2</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>24,144</stars>
-      <forks>2,388</forks>
+      <stars>24,195</stars>
+      <forks>2,393</forks>
       <addStars>1,687</addStars>
       <contributors>
         <contributor>
@@ -356,7 +356,7 @@
       <guid>https://github.com/tailscale/tailcat</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>2,516</stars>
+      <stars>2,591</stars>
       <forks>67</forks>
       <addStars>986</addStars>
       <contributors>
@@ -394,8 +394,8 @@
       <guid>https://github.com/NationalSecurityAgency/ghidra</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>73,254</stars>
-      <forks>8,007</forks>
+      <stars>73,296</stars>
+      <forks>8,012</forks>
       <addStars>205</addStars>
       <contributors>
         <contributor>
@@ -432,7 +432,7 @@
       <guid>https://github.com/swoole/typephp</guid>
       <language>PHP</language>
       <languageColor>#4F5D95</languageColor>
-      <stars>770</stars>
+      <stars>796</stars>
       <forks>38</forks>
       <addStars>188</addStars>
       <contributors>
@@ -470,8 +470,8 @@
       <guid>https://github.com/marin-community/marin</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>2,863</stars>
-      <forks>236</forks>
+      <stars>2,877</stars>
+      <forks>239</forks>
       <addStars>236</addStars>
       <contributors>
         <contributor>
@@ -508,8 +508,8 @@
       <guid>https://github.com/tashfeenahmed/freellmapi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>21,483</stars>
-      <forks>3,045</forks>
+      <stars>21,562</stars>
+      <forks>3,052</forks>
       <addStars>477</addStars>
       <contributors>
         <contributor>
@@ -546,7 +546,7 @@
       <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>49,925</stars>
+      <stars>49,950</stars>
       <forks>3,502</forks>
       <addStars>61</addStars>
       <contributors>
@@ -579,7 +579,7 @@
       <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>50,549</stars>
+      <stars>50,590</stars>
       <forks>8,778</forks>
       <addStars>703</addStars>
       <contributors>
@@ -612,8 +612,8 @@
       <guid>https://github.com/DietrichGebert/ponytail</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>115,130</stars>
-      <forks>6,292</forks>
+      <stars>115,261</stars>
+      <forks>6,302</forks>
       <addStars>1,396</addStars>
       <contributors>
         <contributor>
@@ -650,8 +650,8 @@
       <guid>https://github.com/google/googletest</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>39,150</stars>
-      <forks>10,869</forks>
+      <stars>39,163</stars>
+      <forks>10,871</forks>
       <addStars>156</addStars>
       <contributors>
         <contributor>
@@ -683,8 +683,8 @@
       <guid>https://github.com/livekit/agents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>13,278</stars>
-      <forks>3,627</forks>
+      <stars>13,307</stars>
+      <forks>3,630</forks>
       <addStars>14</addStars>
       <contributors>
         <contributor>

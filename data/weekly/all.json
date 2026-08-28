@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Fri, 28 Aug 2026 18:26:47 GMT",
+  "pubDate": "Fri, 28 Aug 2026 21:35:16 GMT",
   "items": [
     {
       "title": "anthropics/claude-plugins-community",
@@ -10,7 +10,7 @@
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,528",
+      "stars": "2,553",
       "forks": "212",
       "addStars": "2,069",
       "contributors": [
@@ -42,8 +42,8 @@
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "24,144",
-      "forks": "2,388",
+      "stars": "24,195",
+      "forks": "2,393",
       "addStars": "11,300",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "33,057",
-      "forks": "3,429",
+      "stars": "33,138",
+      "forks": "3,448",
       "addStars": "5,593",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "119,524",
-      "forks": "18,233",
+      "stars": "119,547",
+      "forks": "18,245",
       "addStars": "12,358",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "26,696",
-      "forks": "1,695",
+      "stars": "27,044",
+      "forks": "1,714",
       "addStars": "8,530",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "17,348",
-      "forks": "498",
+      "stars": "17,387",
+      "forks": "499",
       "addStars": "5,946",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,873",
-      "forks": "363",
+      "stars": "3,891",
+      "forks": "364",
       "addStars": "1,978",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "21,483",
-      "forks": "3,045",
+      "stars": "21,562",
+      "forks": "3,052",
       "addStars": "2,014",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
       "languageColor": "#ff4c1f",
-      "stars": "29,291",
-      "forks": "3,117",
+      "stars": "29,297",
+      "forks": "3,119",
       "addStars": "1,770",
       "contributors": [
         {
@@ -328,8 +328,8 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,895",
-      "forks": "476",
+      "stars": "5,923",
+      "forks": "479",
       "addStars": "1,732",
       "contributors": [
         {
@@ -365,8 +365,8 @@
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "37,567",
-      "forks": "12,714",
+      "stars": "37,665",
+      "forks": "12,738",
       "addStars": "4,706",
       "contributors": [
         {
@@ -402,8 +402,8 @@
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "38,694",
-      "forks": "3,798",
+      "stars": "38,711",
+      "forks": "3,799",
       "addStars": "2,178",
       "contributors": [
         {
@@ -417,14 +417,14 @@
           "url": "https://github.com/medullabot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/144336577?s=40&v=4",
-          "name": "graycyrus",
-          "url": "https://github.com/graycyrus"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/144336577?s=40&v=4",
+          "name": "graycyrus",
+          "url": "https://github.com/graycyrus"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/146339422?s=40&v=4",
@@ -439,8 +439,8 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "34,948",
-      "forks": "3,932",
+      "stars": "34,993",
+      "forks": "3,934",
       "addStars": "928",
       "contributors": [
         {
@@ -471,8 +471,8 @@
       "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
       "language": "",
       "languageColor": "",
-      "stars": "33,019",
-      "forks": "3,483",
+      "stars": "33,046",
+      "forks": "3,484",
       "addStars": "2,324",
       "contributors": [
         {
@@ -503,8 +503,8 @@
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "39,408",
-      "forks": "3,306",
+      "stars": "39,419",
+      "forks": "3,307",
       "addStars": "1,511",
       "contributors": [
         {
@@ -535,7 +535,7 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "50,549",
+      "stars": "50,590",
       "forks": "8,778",
       "addStars": "2,853",
       "contributors": [
@@ -567,8 +567,8 @@
       "description": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "51,147",
-      "forks": "8,238",
+      "stars": "51,174",
+      "forks": "8,241",
       "addStars": "4,657",
       "contributors": [
         {
@@ -599,8 +599,8 @@
       "description": "local multi-agent harness",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "5,195",
-      "forks": "623",
+      "stars": "5,216",
+      "forks": "627",
       "addStars": "2,017",
       "contributors": [
         {
@@ -631,7 +631,7 @@
       "description": "BookOrbit: Your Reading Space",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,475",
+      "stars": "3,497",
       "forks": "211",
       "addStars": "803",
       "contributors": [
