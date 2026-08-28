@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Fri, 28 Aug 2026 02:00:41 GMT",
+  "pubDate": "Fri, 28 Aug 2026 10:05:53 GMT",
   "items": [
     {
       "title": "bilawalsidhu/gods-eye-view",
@@ -10,8 +10,8 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,241",
-      "forks": "1,840",
+      "stars": "9,703",
+      "forks": "2,035",
       "addStars": "1,984",
       "contributors": [
         {
@@ -32,8 +32,8 @@
       "description": "Alternative Twitter front-end",
       "language": "Nim",
       "languageColor": "#ffc200",
-      "stars": "13,900",
-      "forks": "1,140",
+      "stars": "14,030",
+      "forks": "1,169",
       "addStars": "71",
       "contributors": [
         {
@@ -69,8 +69,8 @@
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "23,105",
-      "forks": "2,298",
+      "stars": "23,897",
+      "forks": "2,366",
       "addStars": "2,096",
       "contributors": [
         {
@@ -106,8 +106,8 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "23,533",
-      "forks": "1,516",
+      "stars": "25,146",
+      "forks": "1,612",
       "addStars": "4,239",
       "contributors": [
         {
@@ -143,8 +143,8 @@
       "description": "Help AI coding agents write modern Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,130",
-      "forks": "65",
+      "stars": "2,390",
+      "forks": "72",
       "addStars": "300",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "34,704",
-      "forks": "3,913",
+      "stars": "34,822",
+      "forks": "3,923",
       "addStars": "292",
       "contributors": [
         {
@@ -212,8 +212,8 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "35,344",
-      "forks": "3,400",
+      "stars": "35,612",
+      "forks": "3,426",
       "addStars": "498",
       "contributors": [
         {
@@ -244,8 +244,8 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "114,108",
-      "forks": "6,242",
+      "stars": "114,679",
+      "forks": "6,265",
       "addStars": "1,613",
       "contributors": [
         {
@@ -281,8 +281,8 @@
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "52,420",
-      "forks": "6,568",
+      "stars": "52,826",
+      "forks": "6,595",
       "addStars": "1,292",
       "contributors": [
         {
@@ -318,8 +318,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "50,193",
-      "forks": "8,728",
+      "stars": "50,411",
+      "forks": "8,756",
       "addStars": "552",
       "contributors": [
         {
@@ -350,8 +350,8 @@
       "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "11,343",
-      "forks": "1,412",
+      "stars": "11,486",
+      "forks": "1,423",
       "addStars": "415",
       "contributors": [
         {
@@ -377,8 +377,8 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "92,298",
-      "forks": "8,113",
+      "stars": "92,435",
+      "forks": "8,122",
       "addStars": "143",
       "contributors": [
         {
@@ -409,8 +409,8 @@
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "39,050",
-      "forks": "10,865",
+      "stars": "39,103",
+      "forks": "10,866",
       "addStars": "9",
       "contributors": [
         {
@@ -441,8 +441,8 @@
       "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "14,039",
-      "forks": "1,425",
+      "stars": "14,241",
+      "forks": "1,432",
       "addStars": "634",
       "contributors": [
         {
@@ -473,8 +473,8 @@
       "description": "Open-source framework for the research and development of foundation models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,703",
-      "forks": "229",
+      "stars": "2,781",
+      "forks": "232",
       "addStars": "255",
       "contributors": [
         {
@@ -510,8 +510,8 @@
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "73,623",
-      "forks": "8,439",
+      "stars": "73,759",
+      "forks": "8,451",
       "addStars": "130",
       "contributors": [
         {
@@ -547,7 +547,7 @@
       "description": "Action for checking out a repo",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,731",
+      "stars": "8,768",
       "forks": "2,750",
       "addStars": "8",
       "contributors": [
@@ -579,8 +579,8 @@
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "87,454",
-      "forks": "8,629",
+      "stars": "87,650",
+      "forks": "8,647",
       "addStars": "478",
       "contributors": [
         {
@@ -616,8 +616,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "101,252",
-      "forks": "19,472",
+      "stars": "101,501",
+      "forks": "19,498",
       "addStars": "229",
       "contributors": [
         {
