@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Fri, 28 Aug 2026 21:35:16 GMT",
+  "pubDate": "Sat, 29 Aug 2026 01:25:08 GMT",
   "items": [
     {
       "title": "tt-a1i/archify",
@@ -10,9 +10,9 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "27,044",
-      "forks": "1,714",
-      "addStars": "4,561",
+      "stars": "27,504",
+      "forks": "1,743",
+      "addStars": "4,562",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
@@ -25,6 +25,11 @@
           "url": "https://github.com/sunsunsun-java"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/44204222?s=40&v=4",
+          "name": "YunyueLi",
+          "url": "https://github.com/YunyueLi"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
           "name": "cursoragent",
           "url": "https://github.com/cursoragent"
@@ -33,11 +38,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/44204222?s=40&v=4",
-          "name": "YunyueLi",
-          "url": "https://github.com/YunyueLi"
         }
       ]
     },
@@ -47,8 +47,8 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "36,460",
-      "forks": "3,473",
+      "stars": "36,630",
+      "forks": "3,481",
       "addStars": "720",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "34,993",
-      "forks": "3,934",
+      "stars": "35,039",
+      "forks": "3,936",
       "addStars": "457",
       "contributors": [
         {
@@ -111,9 +111,9 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "10,903",
-      "forks": "2,219",
-      "addStars": "3,398",
+      "stars": "11,112",
+      "forks": "2,255",
+      "addStars": "3,829",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/106619546?s=40&v=4",
@@ -133,9 +133,9 @@
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "46,134",
-      "forks": "5,099",
-      "addStars": "189",
+      "stars": "46,162",
+      "forks": "5,102",
+      "addStars": "202",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11230420?s=40&v=4",
@@ -165,8 +165,8 @@
       "description": "Help AI coding agents write modern Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,561",
-      "forks": "78",
+      "stars": "2,604",
+      "forks": "79",
       "addStars": "574",
       "contributors": [
         {
@@ -202,8 +202,8 @@
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "53,231",
-      "forks": "6,639",
+      "stars": "53,331",
+      "forks": "6,651",
       "addStars": "1,144",
       "contributors": [
         {
@@ -239,9 +239,9 @@
       "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "75,503",
-      "forks": "9,217",
-      "addStars": "309",
+      "stars": "75,571",
+      "forks": "9,220",
+      "addStars": "326",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/23818?s=40&v=4",
@@ -271,9 +271,9 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,923",
-      "forks": "479",
-      "addStars": "257",
+      "stars": "5,966",
+      "forks": "478",
+      "addStars": "246",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -308,8 +308,8 @@
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "24,195",
-      "forks": "2,393",
+      "stars": "24,252",
+      "forks": "2,397",
       "addStars": "1,687",
       "contributors": [
         {
@@ -345,9 +345,9 @@
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,591",
-      "forks": "67",
-      "addStars": "986",
+      "stars": "2,725",
+      "forks": "74",
+      "addStars": "965",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2621?s=40&v=4",
@@ -382,9 +382,9 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "73,296",
-      "forks": "8,012",
-      "addStars": "205",
+      "stars": "73,347",
+      "forks": "8,013",
+      "addStars": "191",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
@@ -419,7 +419,7 @@
       "description": "Compile PHP to Native Binaries",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "796",
+      "stars": "815",
       "forks": "38",
       "addStars": "188",
       "contributors": [
@@ -456,8 +456,8 @@
       "description": "Open-source framework for the research and development of foundation models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,877",
-      "forks": "239",
+      "stars": "2,903",
+      "forks": "240",
       "addStars": "236",
       "contributors": [
         {
@@ -493,9 +493,9 @@
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "21,562",
-      "forks": "3,052",
-      "addStars": "477",
+      "stars": "21,627",
+      "forks": "3,063",
+      "addStars": "433",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
@@ -530,9 +530,9 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "49,950",
+      "stars": "49,977",
       "forks": "3,502",
-      "addStars": "61",
+      "addStars": "67",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
@@ -562,8 +562,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "50,590",
-      "forks": "8,778",
+      "stars": "50,627",
+      "forks": "8,780",
       "addStars": "703",
       "contributors": [
         {
@@ -594,8 +594,8 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "115,261",
-      "forks": "6,302",
+      "stars": "115,390",
+      "forks": "6,310",
       "addStars": "1,396",
       "contributors": [
         {
@@ -631,8 +631,8 @@
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "39,163",
-      "forks": "10,871",
+      "stars": "39,179",
+      "forks": "10,872",
       "addStars": "156",
       "contributors": [
         {
@@ -663,9 +663,9 @@
       "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,307",
+      "stars": "13,344",
       "forks": "3,630",
-      "addStars": "14",
+      "addStars": "22",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/14841632?s=40&v=4",
