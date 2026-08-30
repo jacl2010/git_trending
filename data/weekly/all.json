@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sat, 29 Aug 2026 20:20:21 GMT",
+  "pubDate": "Sun, 30 Aug 2026 04:11:27 GMT",
   "items": [
     {
       "title": "freestylefly/awesome-gpt-image-2",
@@ -10,9 +10,9 @@
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "25,022",
-      "forks": "2,456",
-      "addStars": "12,877",
+      "stars": "25,176",
+      "forks": "2,466",
+      "addStars": "13,141",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,705",
-      "forks": "226",
-      "addStars": "2,207",
+      "stars": "2,752",
+      "forks": "228",
+      "addStars": "2,234",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "34,659",
-      "forks": "3,558",
-      "addStars": "5,942",
+      "stars": "34,914",
+      "forks": "3,580",
+      "addStars": "6,475",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "30,673",
-      "forks": "1,910",
-      "addStars": "11,099",
+      "stars": "31,519",
+      "forks": "1,957",
+      "addStars": "14,875",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,029",
-      "forks": "373",
-      "addStars": "1,918",
+      "stars": "4,066",
+      "forks": "374",
+      "addStars": "1,876",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/30525741?s=40&v=4",
@@ -190,9 +190,9 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "17,609",
-      "forks": "509",
-      "addStars": "4,825",
+      "stars": "17,675",
+      "forks": "514",
+      "addStars": "4,114",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/37977109?s=40&v=4",
@@ -217,9 +217,9 @@
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "38,040",
-      "forks": "12,896",
-      "addStars": "4,828",
+      "stars": "38,154",
+      "forks": "12,930",
+      "addStars": "5,145",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -254,9 +254,9 @@
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,170",
-      "forks": "3,102",
-      "addStars": "2,162",
+      "stars": "22,269",
+      "forks": "3,112",
+      "addStars": "2,691",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
@@ -291,9 +291,9 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "119,790",
-      "forks": "18,303",
-      "addStars": "9,109",
+      "stars": "119,869",
+      "forks": "18,306",
+      "addStars": "7,775",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/230027070?s=40&v=4",
@@ -306,14 +306,14 @@
           "url": "https://github.com/bolinfest"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/219906144?s=40&v=4",
-          "name": "aibrahim-oai",
-          "url": "https://github.com/aibrahim-oai"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/223546144?s=40&v=4",
           "name": "etraut-openai",
           "url": "https://github.com/etraut-openai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/219906144?s=40&v=4",
+          "name": "aibrahim-oai",
+          "url": "https://github.com/aibrahim-oai"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/204937752?s=40&v=4",
@@ -328,9 +328,9 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "35,345",
-      "forks": "3,957",
-      "addStars": "1,281",
+      "stars": "35,454",
+      "forks": "3,960",
+      "addStars": "1,603",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
@@ -360,9 +360,9 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "50,942",
-      "forks": "8,817",
-      "addStars": "3,263",
+      "stars": "50,989",
+      "forks": "8,824",
+      "addStars": "3,488",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
@@ -392,9 +392,9 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,143",
-      "forks": "485",
-      "addStars": "1,594",
+      "stars": "6,192",
+      "forks": "488",
+      "addStars": "1,571",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -429,9 +429,9 @@
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "38,836",
-      "forks": "3,814",
-      "addStars": "2,353",
+      "stars": "38,879",
+      "forks": "3,818",
+      "addStars": "2,434",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/31011319?s=40&v=4",
@@ -466,9 +466,9 @@
       "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "11,645",
-      "forks": "1,446",
-      "addStars": "1,104",
+      "stars": "11,671",
+      "forks": "1,448",
+      "addStars": "1,154",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/30708545?s=40&v=4",
@@ -493,9 +493,9 @@
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "39,298",
-      "forks": "10,877",
-      "addStars": "233",
+      "stars": "39,332",
+      "forks": "10,878",
+      "addStars": "335",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/12735026?s=40&v=4",
@@ -525,9 +525,9 @@
       "description": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "51,399",
-      "forks": "8,278",
-      "addStars": "4,769",
+      "stars": "51,528",
+      "forks": "8,295",
+      "addStars": "4,942",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20476625?s=40&v=4",
@@ -557,9 +557,9 @@
       "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
       "language": "",
       "languageColor": "",
-      "stars": "33,226",
-      "forks": "3,510",
-      "addStars": "2,372",
+      "stars": "33,290",
+      "forks": "3,512",
+      "addStars": "2,341",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/18739364?s=40&v=4",
@@ -589,9 +589,9 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "37,838",
-      "forks": "3,566",
-      "addStars": "2,195",
+      "stars": "38,046",
+      "forks": "3,586",
+      "addStars": "3,642",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",

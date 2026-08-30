@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sat, 29 Aug 2026 20:20:21 GMT",
+  "pubDate": "Sun, 30 Aug 2026 04:11:27 GMT",
   "items": [
     {
       "title": "tt-a1i/archify",
@@ -10,9 +10,9 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "30,673",
-      "forks": "1,910",
-      "addStars": "3,927",
+      "stars": "31,519",
+      "forks": "1,957",
+      "addStars": "3,902",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "12,417",
-      "forks": "2,473",
-      "addStars": "1,870",
+      "stars": "12,787",
+      "forks": "2,529",
+      "addStars": "1,855",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/106619546?s=40&v=4",
@@ -69,9 +69,9 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "37,838",
-      "forks": "3,566",
-      "addStars": "1,604",
+      "stars": "38,046",
+      "forks": "3,586",
+      "addStars": "1,587",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
@@ -101,9 +101,9 @@
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "3,396",
-      "forks": "97",
-      "addStars": "790",
+      "stars": "3,616",
+      "forks": "110",
+      "addStars": "789",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2621?s=40&v=4",
@@ -138,8 +138,8 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,089",
-      "forks": "4,290",
+      "stars": "22,447",
+      "forks": "4,339",
       "addStars": "907",
       "contributors": [
         {
@@ -175,8 +175,8 @@
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "28,626",
-      "forks": "3,151",
+      "stars": "28,755",
+      "forks": "3,168",
       "addStars": "150",
       "contributors": [
         {
@@ -207,7 +207,7 @@
       "description": "</> htmx - high power tools for HTML",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "49,078",
+      "stars": "49,149",
       "forks": "1,640",
       "addStars": "32",
       "contributors": [
@@ -244,9 +244,9 @@
       "description": "Help AI coding agents write modern Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,839",
+      "stars": "2,899",
       "forks": "81",
-      "addStars": "294",
+      "addStars": "303",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25866352?s=40&v=4",
@@ -281,9 +281,9 @@
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "73,877",
-      "forks": "8,468",
-      "addStars": "74",
+      "stars": "73,961",
+      "forks": "8,472",
+      "addStars": "73",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/67639393?s=40&v=4",
@@ -318,9 +318,9 @@
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "53,963",
-      "forks": "6,708",
-      "addStars": "809",
+      "stars": "54,171",
+      "forks": "6,720",
+      "addStars": "806",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
@@ -355,8 +355,8 @@
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "14,563",
-      "forks": "1,748",
+      "stars": "14,705",
+      "forks": "1,764",
       "addStars": "517",
       "contributors": [
         {
@@ -392,8 +392,8 @@
       "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,839",
-      "forks": "741",
+      "stars": "5,004",
+      "forks": "743",
       "addStars": "35",
       "contributors": [
         {
@@ -429,9 +429,9 @@
       "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "75,980",
-      "forks": "9,254",
-      "addStars": "558",
+      "stars": "76,095",
+      "forks": "9,264",
+      "addStars": "550",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/23818?s=40&v=4",
@@ -461,9 +461,9 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "35,345",
-      "forks": "3,957",
-      "addStars": "356",
+      "stars": "35,454",
+      "forks": "3,960",
+      "addStars": "358",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
@@ -493,9 +493,9 @@
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "39,298",
-      "forks": "10,877",
-      "addStars": "125",
+      "stars": "39,332",
+      "forks": "10,878",
+      "addStars": "128",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/12735026?s=40&v=4",
@@ -525,8 +525,8 @@
       "description": "Action for checking out a repo",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,783",
-      "forks": "2,754",
+      "stars": "8,810",
+      "forks": "2,756",
       "addStars": "5",
       "contributors": [
         {
@@ -557,8 +557,8 @@
       "description": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 455+ actively maintained scan vectors (175+ email / 280+ username) for security research, investigations, and digital footprinting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,443",
-      "forks": "401",
+      "stars": "3,665",
+      "forks": "413",
       "addStars": "39",
       "contributors": [
         {
@@ -594,9 +594,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "90,672",
-      "forks": "9,706",
-      "addStars": "188",
+      "stars": "90,770",
+      "forks": "9,711",
+      "addStars": "196",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
@@ -631,8 +631,8 @@
       "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,614",
-      "forks": "76",
+      "stars": "2,820",
+      "forks": "78",
       "addStars": "284",
       "contributors": [
         {
