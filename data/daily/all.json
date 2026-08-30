@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sun, 30 Aug 2026 15:41:16 GMT",
+  "pubDate": "Sun, 30 Aug 2026 20:27:57 GMT",
   "items": [
     {
       "title": "THU-MAIC/OpenMAIC",
@@ -10,9 +10,9 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "23,361",
-      "forks": "4,436",
-      "addStars": "907",
+      "stars": "23,721",
+      "forks": "4,467",
+      "addStars": "1,625",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
@@ -47,8 +47,8 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "38,693",
-      "forks": "3,625",
+      "stars": "39,018",
+      "forks": "3,647",
       "addStars": "1,113",
       "contributors": [
         {
@@ -79,9 +79,9 @@
       "description": "",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "9,443",
-      "forks": "1,278",
-      "addStars": "633",
+      "stars": "9,539",
+      "forks": "1,283",
+      "addStars": "341",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25259084?s=40&v=4",
@@ -116,8 +116,8 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "33,531",
-      "forks": "2,121",
+      "stars": "34,128",
+      "forks": "2,175",
       "addStars": "3,730",
       "contributors": [
         {
@@ -153,9 +153,9 @@
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "28,990",
-      "forks": "3,189",
-      "addStars": "150",
+      "stars": "29,089",
+      "forks": "3,196",
+      "addStars": "485",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2702526?s=40&v=4",
@@ -185,8 +185,8 @@
       "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "80,075",
-      "forks": "8,300",
+      "stars": "80,173",
+      "forks": "8,302",
       "addStars": "229",
       "contributors": [
         {
@@ -222,9 +222,9 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "60,380",
-      "forks": "5,289",
-      "addStars": "272",
+      "stars": "60,458",
+      "forks": "5,293",
+      "addStars": "271",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
@@ -254,8 +254,8 @@
       "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "10,077",
-      "forks": "871",
+      "stars": "10,160",
+      "forks": "878",
       "addStars": "56",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "A collection of MCP servers.",
       "language": "",
       "languageColor": "",
-      "stars": "93,175",
-      "forks": "15,283",
+      "stars": "93,258",
+      "forks": "15,305",
       "addStars": "65",
       "contributors": [
         {
@@ -323,9 +323,9 @@
       "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "9,145",
-      "forks": "4,192",
-      "addStars": "78",
+      "stars": "9,172",
+      "forks": "4,195",
+      "addStars": "124",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/812984?s=40&v=4",
@@ -355,8 +355,8 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "73,738",
-      "forks": "8,053",
+      "stars": "73,833",
+      "forks": "8,059",
       "addStars": "196",
       "contributors": [
         {
@@ -392,8 +392,8 @@
       "description": "RL training environments for Microduck (mjlab)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "709",
-      "forks": "126",
+      "stars": "756",
+      "forks": "132",
       "addStars": "147",
       "contributors": [
         {
@@ -429,8 +429,8 @@
       "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,576",
-      "forks": "693",
+      "stars": "5,617",
+      "forks": "696",
       "addStars": "38",
       "contributors": [
         {
@@ -451,8 +451,8 @@
       "description": "Connect your users to their apps",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,818",
-      "forks": "517",
+      "stars": "10,907",
+      "forks": "525",
       "addStars": "99",
       "contributors": [
         {
@@ -488,9 +488,9 @@
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "14,961",
-      "forks": "1,795",
-      "addStars": "517",
+      "stars": "15,068",
+      "forks": "1,808",
+      "addStars": "511",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
@@ -525,8 +525,8 @@
       "description": "TypeScript-first schema validation with static type inference",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "43,607",
-      "forks": "2,154",
+      "stars": "43,634",
+      "forks": "2,156",
       "addStars": "17",
       "contributors": [
         {
@@ -562,8 +562,8 @@
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,524",
-      "forks": "3,132",
+      "stars": "22,673",
+      "forks": "3,147",
       "addStars": "505",
       "contributors": [
         {
@@ -599,8 +599,8 @@
       "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,642",
-      "forks": "3,651",
+      "stars": "13,712",
+      "forks": "3,654",
       "addStars": "131",
       "contributors": [
         {
@@ -636,8 +636,8 @@
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "46,476",
-      "forks": "5,121",
+      "stars": "46,522",
+      "forks": "5,125",
       "addStars": "181",
       "contributors": [
         {
