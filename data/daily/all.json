@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sun, 30 Aug 2026 11:39:46 GMT",
+  "pubDate": "Sun, 30 Aug 2026 15:41:16 GMT",
   "items": [
     {
       "title": "THU-MAIC/OpenMAIC",
@@ -10,8 +10,8 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,865",
-      "forks": "4,385",
+      "stars": "23,361",
+      "forks": "4,436",
       "addStars": "907",
       "contributors": [
         {
@@ -47,9 +47,9 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "38,366",
-      "forks": "3,599",
-      "addStars": "1,587",
+      "stars": "38,693",
+      "forks": "3,625",
+      "addStars": "1,113",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
@@ -79,8 +79,8 @@
       "description": "",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "9,350",
-      "forks": "1,274",
+      "stars": "9,443",
+      "forks": "1,278",
       "addStars": "633",
       "contributors": [
         {
@@ -116,9 +116,9 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "32,828",
-      "forks": "2,062",
-      "addStars": "3,902",
+      "stars": "33,531",
+      "forks": "2,121",
+      "addStars": "3,730",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
@@ -153,8 +153,8 @@
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "28,899",
-      "forks": "3,181",
+      "stars": "28,990",
+      "forks": "3,189",
       "addStars": "150",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "80,002",
-      "forks": "8,296",
+      "stars": "80,075",
+      "forks": "8,300",
       "addStars": "229",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "60,290",
-      "forks": "5,286",
+      "stars": "60,380",
+      "forks": "5,289",
       "addStars": "272",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "10,030",
-      "forks": "869",
+      "stars": "10,077",
+      "forks": "871",
       "addStars": "56",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "A collection of MCP servers.",
       "language": "",
       "languageColor": "",
-      "stars": "93,096",
-      "forks": "15,270",
+      "stars": "93,175",
+      "forks": "15,283",
       "addStars": "65",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "9,095",
-      "forks": "4,190",
+      "stars": "9,145",
+      "forks": "4,192",
       "addStars": "78",
       "contributors": [
         {
@@ -355,9 +355,9 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "73,669",
-      "forks": "8,041",
-      "addStars": "375",
+      "stars": "73,738",
+      "forks": "8,053",
+      "addStars": "196",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
@@ -392,8 +392,8 @@
       "description": "RL training environments for Microduck (mjlab)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "634",
-      "forks": "115",
+      "stars": "709",
+      "forks": "126",
       "addStars": "147",
       "contributors": [
         {
@@ -429,8 +429,8 @@
       "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,509",
-      "forks": "691",
+      "stars": "5,576",
+      "forks": "693",
       "addStars": "38",
       "contributors": [
         {
@@ -451,8 +451,8 @@
       "description": "Connect your users to their apps",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,758",
-      "forks": "514",
+      "stars": "10,818",
+      "forks": "517",
       "addStars": "99",
       "contributors": [
         {
@@ -488,8 +488,8 @@
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "14,868",
-      "forks": "1,778",
+      "stars": "14,961",
+      "forks": "1,795",
       "addStars": "517",
       "contributors": [
         {
@@ -525,7 +525,7 @@
       "description": "TypeScript-first schema validation with static type inference",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "43,577",
+      "stars": "43,607",
       "forks": "2,154",
       "addStars": "17",
       "contributors": [
@@ -562,9 +562,9 @@
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,392",
-      "forks": "3,128",
-      "addStars": "622",
+      "stars": "22,524",
+      "forks": "3,132",
+      "addStars": "505",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
@@ -599,9 +599,9 @@
       "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,580",
-      "forks": "3,646",
-      "addStars": "254",
+      "stars": "13,642",
+      "forks": "3,651",
+      "addStars": "131",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/14841632?s=40&v=4",
@@ -636,9 +636,9 @@
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "46,428",
-      "forks": "5,119",
-      "addStars": "270",
+      "stars": "46,476",
+      "forks": "5,121",
+      "addStars": "181",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11230420?s=40&v=4",

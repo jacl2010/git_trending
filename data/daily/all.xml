@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Sun, 30 Aug 2026 11:39:46 GMT</pubDate>
+    <pubDate>Sun, 30 Aug 2026 15:41:16 GMT</pubDate>
     <item>
       <title>THU-MAIC/OpenMAIC</title>
       <link>https://github.com/THU-MAIC/OpenMAIC</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/THU-MAIC/OpenMAIC</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>22,865</stars>
-      <forks>4,385</forks>
+      <stars>23,361</stars>
+      <forks>4,436</forks>
       <addStars>907</addStars>
       <contributors>
         <contributor>
@@ -49,9 +49,9 @@
       <guid>https://github.com/K-Dense-AI/scientific-agent-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>38,366</stars>
-      <forks>3,599</forks>
-      <addStars>1,587</addStars>
+      <stars>38,693</stars>
+      <forks>3,625</forks>
+      <addStars>1,113</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9168908?s=40&amp;v=4</avatar>
@@ -82,8 +82,8 @@
       <guid>https://github.com/Lakr233/vphone-cli</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>9,350</stars>
-      <forks>1,274</forks>
+      <stars>9,443</stars>
+      <forks>1,278</forks>
       <addStars>633</addStars>
       <contributors>
         <contributor>
@@ -120,9 +120,9 @@
       <guid>https://github.com/tt-a1i/archify</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>32,828</stars>
-      <forks>2,062</forks>
-      <addStars>3,902</addStars>
+      <stars>33,531</stars>
+      <forks>2,121</forks>
+      <addStars>3,730</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/53142663?s=40&amp;v=4</avatar>
@@ -158,8 +158,8 @@
       <guid>https://github.com/p-e-w/heretic</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>28,899</stars>
-      <forks>3,181</forks>
+      <stars>28,990</stars>
+      <forks>3,189</forks>
       <addStars>150</addStars>
       <contributors>
         <contributor>
@@ -191,8 +191,8 @@
       <guid>https://github.com/unclecode/crawl4ai</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>80,002</stars>
-      <forks>8,296</forks>
+      <stars>80,075</stars>
+      <forks>8,300</forks>
       <addStars>229</addStars>
       <contributors>
         <contributor>
@@ -229,8 +229,8 @@
       <guid>https://github.com/mvanhorn/last30days-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>60,290</stars>
-      <forks>5,286</forks>
+      <stars>60,380</stars>
+      <forks>5,289</forks>
       <addStars>272</addStars>
       <contributors>
         <contributor>
@@ -262,8 +262,8 @@
       <guid>https://github.com/majd/ipatool</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>10,030</stars>
-      <forks>869</forks>
+      <stars>10,077</stars>
+      <forks>871</forks>
       <addStars>56</addStars>
       <contributors>
         <contributor>
@@ -295,8 +295,8 @@
       <guid>https://github.com/punkpeye/awesome-mcp-servers</guid>
       <language/>
       <languageColor/>
-      <stars>93,096</stars>
-      <forks>15,270</forks>
+      <stars>93,175</stars>
+      <forks>15,283</forks>
       <addStars>65</addStars>
       <contributors>
         <contributor>
@@ -333,8 +333,8 @@
       <guid>https://github.com/checkstyle/checkstyle</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>9,095</stars>
-      <forks>4,190</forks>
+      <stars>9,145</stars>
+      <forks>4,192</forks>
       <addStars>78</addStars>
       <contributors>
         <contributor>
@@ -366,9 +366,9 @@
       <guid>https://github.com/NationalSecurityAgency/ghidra</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>73,669</stars>
-      <forks>8,041</forks>
-      <addStars>375</addStars>
+      <stars>73,738</stars>
+      <forks>8,053</forks>
+      <addStars>196</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5378554?s=40&amp;v=4</avatar>
@@ -404,8 +404,8 @@
       <guid>https://github.com/pollen-robotics/microduck_rl</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>634</stars>
-      <forks>115</forks>
+      <stars>709</stars>
+      <forks>126</forks>
       <addStars>147</addStars>
       <contributors>
         <contributor>
@@ -442,8 +442,8 @@
       <guid>https://github.com/handsomestWei/patent-disclosure-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>5,509</stars>
-      <forks>691</forks>
+      <stars>5,576</stars>
+      <forks>693</forks>
       <addStars>38</addStars>
       <contributors>
         <contributor>
@@ -465,8 +465,8 @@
       <guid>https://github.com/corsairdev/corsair</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>10,758</stars>
-      <forks>514</forks>
+      <stars>10,818</stars>
+      <forks>517</forks>
       <addStars>99</addStars>
       <contributors>
         <contributor>
@@ -503,8 +503,8 @@
       <guid>https://github.com/every-app/open-seo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>14,868</stars>
-      <forks>1,778</forks>
+      <stars>14,961</stars>
+      <forks>1,795</forks>
       <addStars>517</addStars>
       <contributors>
         <contributor>
@@ -541,7 +541,7 @@
       <guid>https://github.com/colinhacks/zod</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>43,577</stars>
+      <stars>43,607</stars>
       <forks>2,154</forks>
       <addStars>17</addStars>
       <contributors>
@@ -579,9 +579,9 @@
       <guid>https://github.com/tashfeenahmed/freellmapi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>22,392</stars>
-      <forks>3,128</forks>
-      <addStars>622</addStars>
+      <stars>22,524</stars>
+      <forks>3,132</forks>
+      <addStars>505</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9307356?s=40&amp;v=4</avatar>
@@ -617,9 +617,9 @@
       <guid>https://github.com/livekit/agents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>13,580</stars>
-      <forks>3,646</forks>
-      <addStars>254</addStars>
+      <stars>13,642</stars>
+      <forks>3,651</forks>
+      <addStars>131</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/14841632?s=40&amp;v=4</avatar>
@@ -655,9 +655,9 @@
       <guid>https://github.com/abhigyanpatwari/GitNexus</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>46,428</stars>
-      <forks>5,119</forks>
-      <addStars>270</addStars>
+      <stars>46,476</stars>
+      <forks>5,121</forks>
+      <addStars>181</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/11230420?s=40&amp;v=4</avatar>
