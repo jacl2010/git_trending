@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Mon, 31 Aug 2026 04:17:05 GMT",
+  "pubDate": "Mon, 31 Aug 2026 13:16:11 GMT",
   "items": [
     {
       "title": "THU-MAIC/OpenMAIC",
@@ -10,9 +10,9 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "24,608",
-      "forks": "4,526",
-      "addStars": "1,370",
+      "stars": "25,857",
+      "forks": "4,657",
+      "addStars": "2,819",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
@@ -42,83 +42,14 @@
       ]
     },
     {
-      "title": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "39,586",
-      "forks": "3,682",
-      "addStars": "1,114",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
-          "name": "TKassis",
-          "url": "https://github.com/TKassis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/206480607?s=40&v=4",
-          "name": "borealBytes",
-          "url": "https://github.com/borealBytes"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "Lakr233/vphone-cli",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "description": "",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "9,749",
-      "forks": "1,293",
-      "addStars": "361",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25259084?s=40&v=4",
-          "name": "Lakr233",
-          "url": "https://github.com/Lakr233"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19415570?s=40&v=4",
-          "name": "zqxwce",
-          "url": "https://github.com/zqxwce"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/76083688?s=40&v=4",
-          "name": "TastyHeadphones",
-          "url": "https://github.com/TastyHeadphones"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22845248?s=40&v=4",
-          "name": "mpass99",
-          "url": "https://github.com/mpass99"
-        }
-      ]
-    },
-    {
       "title": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "35,431",
-      "forks": "2,264",
-      "addStars": "3,722",
+      "stars": "37,036",
+      "forks": "2,376",
+      "addStars": "3,993",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
@@ -148,61 +79,51 @@
       ]
     },
     {
-      "title": "p-e-w/heretic",
-      "url": "https://github.com/p-e-w/heretic",
-      "description": "Fully automatic censorship removal for language models",
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "29,258",
-      "forks": "3,211",
-      "addStars": "369",
+      "stars": "40,386",
+      "forks": "3,742",
+      "addStars": "1,968",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2702526?s=40&v=4",
-          "name": "p-e-w",
-          "url": "https://github.com/p-e-w"
+          "avatar": "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
+          "name": "TKassis",
+          "url": "https://github.com/TKassis"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/175500353?s=40&v=4",
-          "name": "Vinay-Umrethe",
-          "url": "https://github.com/Vinay-Umrethe"
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1325515?s=40&v=4",
-          "name": "anrp",
-          "url": "https://github.com/anrp"
+          "avatar": "https://avatars.githubusercontent.com/u/206480607?s=40&v=4",
+          "name": "borealBytes",
+          "url": "https://github.com/borealBytes"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/133602907?s=40&v=4",
-          "name": "spikymoth",
-          "url": "https://github.com/spikymoth"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         }
       ]
     },
     {
-      "title": "unclecode/crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "80,340",
-      "forks": "8,314",
-      "addStars": "221",
+      "title": "k1tbyte/Wand-Enhancer",
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "language": "C#",
+      "languageColor": "#7355dd",
+      "stars": "23,145",
+      "forks": "59,153",
+      "addStars": "718",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12494079?s=40&v=4",
-          "name": "unclecode",
-          "url": "https://github.com/unclecode"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17140097?s=40&v=4",
-          "name": "ntohidi",
-          "url": "https://github.com/ntohidi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15815124?s=40&v=4",
-          "name": "aravindkarnam",
-          "url": "https://github.com/aravindkarnam"
+          "avatar": "https://avatars.githubusercontent.com/u/96521396?s=40&v=4",
+          "name": "k1tbyte",
+          "url": "https://github.com/k1tbyte"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -210,41 +131,19 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/114597712?s=40&v=4",
-          "name": "SohamKukreti",
-          "url": "https://github.com/SohamKukreti"
-        }
-      ]
-    },
-    {
-      "title": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "60,588",
-      "forks": "5,302",
-      "addStars": "230",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-          "name": "mvanhorn",
-          "url": "https://github.com/mvanhorn"
+          "avatar": "https://avatars.githubusercontent.com/u/12871391?s=40&v=4",
+          "name": "divya0795",
+          "url": "https://github.com/divya0795"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/517103?s=40&v=4",
-          "name": "tmchow",
-          "url": "https://github.com/tmchow"
+          "avatar": "https://avatars.githubusercontent.com/u/26019675?s=40&v=4",
+          "name": "SunsetMkt",
+          "url": "https://github.com/SunsetMkt"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/146319052?s=40&v=4",
-          "name": "23241a6749",
-          "url": "https://github.com/23241a6749"
+          "avatar": "https://avatars.githubusercontent.com/u/62252171?s=40&v=4",
+          "name": "YifePlayte",
+          "url": "https://github.com/YifePlayte"
         }
       ]
     },
@@ -254,9 +153,9 @@
       "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "10,279",
-      "forks": "885",
-      "addStars": "58",
+      "stars": "10,420",
+      "forks": "889",
+      "addStars": "376",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1644696?s=40&v=4",
@@ -281,19 +180,56 @@
       ]
     },
     {
-      "title": "punkpeye/awesome-mcp-servers",
-      "url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "description": "A collection of MCP servers.",
-      "language": "",
-      "languageColor": "",
-      "stars": "93,423",
-      "forks": "15,322",
-      "addStars": "96",
+      "title": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "55,783",
+      "forks": "7,292",
+      "addStars": "472",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/108313943?s=40&v=4",
-          "name": "punkpeye",
-          "url": "https://github.com/punkpeye"
+          "avatar": "https://avatars.githubusercontent.com/u/62287848?s=40&v=4",
+          "name": "jingyaogong",
+          "url": "https://github.com/jingyaogong"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/124225682?s=40&v=4",
+          "name": "iomgaa-ycz",
+          "url": "https://github.com/iomgaa-ycz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16349082?s=40&v=4",
+          "name": "readlnh",
+          "url": "https://github.com/readlnh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8401806?s=40&v=4",
+          "name": "wangzhaode",
+          "url": "https://github.com/wangzhaode"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46831957?s=40&v=4",
+          "name": "TKiteRunner",
+          "url": "https://github.com/TKiteRunner"
+        }
+      ]
+    },
+    {
+      "title": "Osmantic/ODS",
+      "url": "https://github.com/Osmantic/ODS",
+      "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "5,232",
+      "forks": "763",
+      "addStars": "331",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/259460275?s=40&v=4",
+          "name": "Lightheartdevs",
+          "url": "https://github.com/Lightheartdevs"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -301,19 +237,19 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/84923604?s=40&v=4",
-          "name": "SecretiveShell",
-          "url": "https://github.com/SecretiveShell"
+          "avatar": "https://avatars.githubusercontent.com/u/40251887?s=40&v=4",
+          "name": "yasinBursali",
+          "url": "https://github.com/yasinBursali"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/201164822?s=40&v=4",
-          "name": "kukapay",
-          "url": "https://github.com/kukapay"
+          "avatar": "https://avatars.githubusercontent.com/u/50086597?s=40&v=4",
+          "name": "gabsprogrammer",
+          "url": "https://github.com/gabsprogrammer"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
+          "avatar": "https://avatars.githubusercontent.com/u/136192596?s=40&v=4",
+          "name": "SSignall",
+          "url": "https://github.com/SSignall"
         }
       ]
     },
@@ -323,9 +259,9 @@
       "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "9,234",
-      "forks": "4,197",
-      "addStars": "115",
+      "stars": "9,311",
+      "forks": "4,201",
+      "addStars": "199",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/812984?s=40&v=4",
@@ -350,135 +286,108 @@
       ]
     },
     {
-      "title": "NationalSecurityAgency/ghidra",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "73,979",
-      "forks": "8,067",
-      "addStars": "198",
+      "title": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": "32,727",
+      "forks": "4,416",
+      "addStars": "1,439",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
-          "name": "ryanmkurtz",
-          "url": "https://github.com/ryanmkurtz"
+          "avatar": "https://avatars.githubusercontent.com/u/147215175?s=40&v=4",
+          "name": "zhaoxuya520",
+          "url": "https://github.com/zhaoxuya520"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/48333017?s=40&v=4",
-          "name": "ghidra1",
-          "url": "https://github.com/ghidra1"
+          "avatar": "https://avatars.githubusercontent.com/u/94750419?s=40&v=4",
+          "name": "dhicoc",
+          "url": "https://github.com/dhicoc"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/48328597?s=40&v=4",
-          "name": "dragonmacher",
-          "url": "https://github.com/dragonmacher"
+          "avatar": "https://avatars.githubusercontent.com/u/77732008?s=40&v=4",
+          "name": "jhuang-tw",
+          "url": "https://github.com/jhuang-tw"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/46821332?s=40&v=4",
-          "name": "nsadeveloper789",
-          "url": "https://github.com/nsadeveloper789"
+          "avatar": "https://avatars.githubusercontent.com/u/30251656?s=40&v=4",
+          "name": "doublecurry",
+          "url": "https://github.com/doublecurry"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/48068198?s=40&v=4",
-          "name": "caheckman",
-          "url": "https://github.com/caheckman"
+          "avatar": "https://avatars.githubusercontent.com/u/140924318?s=40&v=4",
+          "name": "sakukir",
+          "url": "https://github.com/sakukir"
         }
       ]
     },
     {
-      "title": "pollen-robotics/microduck_rl",
-      "url": "https://github.com/pollen-robotics/microduck_rl",
-      "description": "RL training environments for Microduck (mjlab)",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "244,961",
+      "forks": "37,013",
+      "addStars": "490",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
+          "name": "affaan-m",
+          "url": "https://github.com/affaan-m"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/49814733?s=40&v=4",
+          "name": "haelyra",
+          "url": "https://github.com/haelyra"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/73515951?s=40&v=4",
+          "name": "pangerlkr",
+          "url": "https://github.com/pangerlkr"
+        }
+      ]
+    },
+    {
+      "title": "kaifcodec/user-scanner",
+      "url": "https://github.com/kaifcodec/user-scanner",
+      "description": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "865",
-      "forks": "150",
-      "addStars": "168",
+      "stars": "3,977",
+      "forks": "439",
+      "addStars": "462",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6552564?s=40&v=4",
-          "name": "apirrone",
-          "url": "https://github.com/apirrone"
+          "avatar": "https://avatars.githubusercontent.com/u/98528577?s=40&v=4",
+          "name": "kaifcodec",
+          "url": "https://github.com/kaifcodec"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/72405531?s=40&v=4",
-          "name": "Drenayaz",
-          "url": "https://github.com/Drenayaz"
+          "avatar": "https://avatars.githubusercontent.com/u/706078?s=40&v=4",
+          "name": "brunolm",
+          "url": "https://github.com/brunolm"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/76959?s=40&v=4",
-          "name": "darkseed",
-          "url": "https://github.com/darkseed"
+          "avatar": "https://avatars.githubusercontent.com/u/62358492?s=40&v=4",
+          "name": "VamatoHD",
+          "url": "https://github.com/VamatoHD"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6255609?s=40&v=4",
-          "name": "tfrere",
-          "url": "https://github.com/tfrere"
+          "avatar": "https://avatars.githubusercontent.com/u/208832952?s=40&v=4",
+          "name": "json-hunter07",
+          "url": "https://github.com/json-hunter07"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/25386449?s=40&v=4",
-          "name": "andrewginns",
-          "url": "https://github.com/andrewginns"
-        }
-      ]
-    },
-    {
-      "title": "handsomestWei/patent-disclosure-skill",
-      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "5,824",
-      "forks": "708",
-      "addStars": "62",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/36500279?s=40&v=4",
-          "name": "handsomestWei",
-          "url": "https://github.com/handsomestWei"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/135248415?s=40&v=4",
-          "name": "917Dhj",
-          "url": "https://github.com/917Dhj"
-        }
-      ]
-    },
-    {
-      "title": "corsairdev/corsair",
-      "url": "https://github.com/corsairdev/corsair",
-      "description": "Connect your users to their apps",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "11,011",
-      "forks": "528",
-      "addStars": "126",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/50637008?s=40&v=4",
-          "name": "devjain32",
-          "url": "https://github.com/devjain32"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/130670365?s=40&v=4",
-          "name": "mukul7661",
-          "url": "https://github.com/mukul7661"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/200262251?s=40&v=4",
-          "name": "Dhirenderchoudhary",
-          "url": "https://github.com/Dhirenderchoudhary"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/63532070?s=40&v=4",
-          "name": "yuvrxj-afk",
-          "url": "https://github.com/yuvrxj-afk"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/224122452?s=40&v=4",
-          "name": "ambikeesshh",
-          "url": "https://github.com/ambikeesshh"
+          "avatar": "https://avatars.githubusercontent.com/u/7974602?s=40&v=4",
+          "name": "kristoisberg",
+          "url": "https://github.com/kristoisberg"
         }
       ]
     },
@@ -488,9 +397,9 @@
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "15,274",
-      "forks": "1,828",
-      "addStars": "469",
+      "stars": "15,508",
+      "forks": "1,862",
+      "addStars": "608",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
@@ -520,130 +429,73 @@
       ]
     },
     {
-      "title": "colinhacks/zod",
-      "url": "https://github.com/colinhacks/zod",
-      "description": "TypeScript-first schema validation with static type inference",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "43,672",
-      "forks": "2,159",
-      "addStars": "31",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3084745?s=40&v=4",
-          "name": "colinhacks",
-          "url": "https://github.com/colinhacks"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31667350?s=40&v=4",
-          "name": "JacobWeisenburger",
-          "url": "https://github.com/JacobWeisenburger"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1682194?s=40&v=4",
-          "name": "scotttrinh",
-          "url": "https://github.com/scotttrinh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14938291?s=40&v=4",
-          "name": "igalklebanov",
-          "url": "https://github.com/igalklebanov"
-        }
-      ]
-    },
-    {
-      "title": "tashfeenahmed/freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "22,930",
-      "forks": "3,161",
-      "addStars": "504",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
-          "name": "tashfeenahmed",
-          "url": "https://github.com/tashfeenahmed"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/108558399?s=40&v=4",
-          "name": "suantea",
-          "url": "https://github.com/suantea"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/102485413?s=40&v=4",
-          "name": "OhOkThisIsFine",
-          "url": "https://github.com/OhOkThisIsFine"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/319142293?s=40&v=4",
-          "name": "tashdroid",
-          "url": "https://github.com/tashdroid"
-        }
-      ]
-    },
-    {
-      "title": "livekit/agents",
-      "url": "https://github.com/livekit/agents",
-      "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "title": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,811",
-      "forks": "3,660",
-      "addStars": "132",
+      "stars": "29,454",
+      "forks": "3,227",
+      "addStars": "536",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/14841632?s=40&v=4",
-          "name": "theomonnom",
-          "url": "https://github.com/theomonnom"
+          "avatar": "https://avatars.githubusercontent.com/u/2702526?s=40&v=4",
+          "name": "p-e-w",
+          "url": "https://github.com/p-e-w"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6198400?s=40&v=4",
-          "name": "longcw",
-          "url": "https://github.com/longcw"
+          "avatar": "https://avatars.githubusercontent.com/u/175500353?s=40&v=4",
+          "name": "Vinay-Umrethe",
+          "url": "https://github.com/Vinay-Umrethe"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/320582?s=40&v=4",
-          "name": "davidzhao",
-          "url": "https://github.com/davidzhao"
+          "avatar": "https://avatars.githubusercontent.com/u/1325515?s=40&v=4",
+          "name": "anrp",
+          "url": "https://github.com/anrp"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8453967?s=40&v=4",
-          "name": "keepingitneil",
-          "url": "https://github.com/keepingitneil"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/72938484?s=40&v=4",
-          "name": "tinalenguyen",
-          "url": "https://github.com/tinalenguyen"
+          "avatar": "https://avatars.githubusercontent.com/u/133602907?s=40&v=4",
+          "name": "spikymoth",
+          "url": "https://github.com/spikymoth"
         }
       ]
     },
     {
-      "title": "abhigyanpatwari/GitNexus",
-      "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "46,625",
-      "forks": "5,129",
-      "addStars": "182",
+      "title": "handsomestWei/patent-disclosure-skill",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "6,105",
+      "forks": "724",
+      "addStars": "571",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11230420?s=40&v=4",
-          "name": "magyargergo",
-          "url": "https://github.com/magyargergo"
+          "avatar": "https://avatars.githubusercontent.com/u/36500279?s=40&v=4",
+          "name": "handsomestWei",
+          "url": "https://github.com/handsomestWei"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/135248415?s=40&v=4",
+          "name": "917Dhj",
+          "url": "https://github.com/917Dhj"
+        }
+      ]
+    },
+    {
+      "title": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "17,166",
+      "forks": "1,189",
+      "addStars": "199",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1450169?s=40&v=4",
+          "name": "abimaelmartell",
+          "url": "https://github.com/abimaelmartell"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -651,14 +503,56 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/126312502?s=40&v=4",
-          "name": "abhigyanpatwari",
-          "url": "https://github.com/abhigyanpatwari"
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/180941991?s=40&v=4",
-          "name": "azizur100389",
-          "url": "https://github.com/azizur100389"
+          "avatar": "https://avatars.githubusercontent.com/u/630936?s=40&v=4",
+          "name": "rth",
+          "url": "https://github.com/rth"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/125551792?s=40&v=4",
+          "name": "MADENIYOU",
+          "url": "https://github.com/MADENIYOU"
+        }
+      ]
+    },
+    {
+      "title": "pollen-robotics/microduck_rl",
+      "url": "https://github.com/pollen-robotics/microduck_rl",
+      "description": "RL training environments for Microduck (mjlab)",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "1,044",
+      "forks": "179",
+      "addStars": "384",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6552564?s=40&v=4",
+          "name": "apirrone",
+          "url": "https://github.com/apirrone"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/72405531?s=40&v=4",
+          "name": "Drenayaz",
+          "url": "https://github.com/Drenayaz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/76959?s=40&v=4",
+          "name": "darkseed",
+          "url": "https://github.com/darkseed"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6255609?s=40&v=4",
+          "name": "tfrere",
+          "url": "https://github.com/tfrere"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25386449?s=40&v=4",
+          "name": "andrewginns",
+          "url": "https://github.com/andrewginns"
         }
       ]
     }
