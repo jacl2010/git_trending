@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Wed, 02 Sep 2026 15:34:34 GMT",
+  "pubDate": "Wed, 02 Sep 2026 20:27:14 GMT",
   "items": [
     {
       "title": "fmtlib/fmt",
@@ -10,8 +10,8 @@
       "description": "A modern formatting library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "23,965",
-      "forks": "2,972",
+      "stars": "24,142",
+      "forks": "2,981",
       "addStars": "3",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "29,245",
-      "forks": "2,833",
+      "stars": "29,553",
+      "forks": "2,855",
       "addStars": "326",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "120,934",
-      "forks": "6,541",
+      "stars": "121,253",
+      "forks": "6,554",
       "addStars": "1,364",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "14,165",
-      "forks": "2,079",
+      "stars": "14,469",
+      "forks": "2,093",
       "addStars": "834",
       "contributors": [
         {
@@ -153,9 +153,9 @@
       "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,978",
-      "forks": "1,242",
-      "addStars": "195",
+      "stars": "6,011",
+      "forks": "1,243",
+      "addStars": "138",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1306534?s=40&v=4",
@@ -185,8 +185,8 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "50,538",
-      "forks": "3,551",
+      "stars": "50,592",
+      "forks": "3,553",
       "addStars": "140",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "239,905",
-      "forks": "49,069",
+      "stars": "240,042",
+      "forks": "49,113",
       "addStars": "529",
       "contributors": [
         {
@@ -254,7 +254,7 @@
       "description": "Open-source inference server and production cluster for all the models your agent needs.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,997",
+      "stars": "3,022",
       "forks": "299",
       "addStars": "61",
       "contributors": [
@@ -286,8 +286,8 @@
       "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,708",
-      "forks": "181",
+      "stars": "2,810",
+      "forks": "184",
       "addStars": "895",
       "contributors": [
         {
@@ -318,8 +318,8 @@
       "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "9,253",
-      "forks": "1,124",
+      "stars": "9,275",
+      "forks": "1,127",
       "addStars": "68",
       "contributors": [
         {
@@ -355,8 +355,8 @@
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "45,437",
-      "forks": "3,575",
+      "stars": "45,499",
+      "forks": "3,580",
       "addStars": "801",
       "contributors": [
         {
@@ -392,8 +392,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "246,085",
-      "forks": "37,115",
+      "stars": "246,213",
+      "forks": "37,135",
       "addStars": "516",
       "contributors": [
         {
@@ -424,8 +424,8 @@
       "description": "Protocol Buffers - Google's data interchange format",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "71,895",
-      "forks": "16,270",
+      "stars": "71,919",
+      "forks": "16,271",
       "addStars": "16",
       "contributors": [
         {
@@ -461,8 +461,8 @@
       "description": "Replace port numbers with stable, named local URLs. For humans and agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,574",
-      "forks": "379",
+      "stars": "11,660",
+      "forks": "382",
       "addStars": "69",
       "contributors": [
         {
@@ -498,8 +498,8 @@
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "40,030",
-      "forks": "3,486",
+      "stars": "40,232",
+      "forks": "3,491",
       "addStars": "366",
       "contributors": [
         {
@@ -535,8 +535,8 @@
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "102,460",
-      "forks": "5,966",
+      "stars": "102,561",
+      "forks": "5,967",
       "addStars": "234",
       "contributors": [
         {
@@ -567,9 +567,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "244,833",
-      "forks": "20,820",
-      "addStars": "1,103",
+      "stars": "245,078",
+      "forks": "20,843",
+      "addStars": "1,272",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
@@ -594,8 +594,8 @@
       "description": "runs anywhere. uses anything",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "31,818",
-      "forks": "8,986",
+      "stars": "31,909",
+      "forks": "8,985",
       "addStars": "776",
       "contributors": [
         {
@@ -631,8 +631,8 @@
       "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "18,335",
-      "forks": "1,242",
+      "stars": "18,437",
+      "forks": "1,244",
       "addStars": "589",
       "contributors": [
         {
