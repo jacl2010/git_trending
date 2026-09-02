@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Tue, 01 Sep 2026 20:27:47 GMT",
+  "pubDate": "Wed, 02 Sep 2026 03:24:15 GMT",
   "items": [
     {
       "title": "Gitlawb/openclaude",
@@ -10,9 +10,9 @@
       "description": "runs anywhere. uses anything",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "31,199",
-      "forks": "8,943",
-      "addStars": "37",
+      "stars": "31,410",
+      "forks": "8,955",
+      "addStars": "80",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/268502447?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "44,809",
-      "forks": "3,546",
-      "addStars": "161",
+      "stars": "45,008",
+      "forks": "3,553",
+      "addStars": "193",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/132531341?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "29,331",
-      "forks": "4,956",
-      "addStars": "3,122",
+      "stars": "29,678",
+      "forks": "4,994",
+      "addStars": "3,128",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "Invidious is an alternative front-end to YouTube",
       "language": "Crystal",
       "languageColor": "#000100",
-      "stars": "23,722",
-      "forks": "2,673",
-      "addStars": "583",
+      "stars": "23,804",
+      "forks": "2,674",
+      "addStars": "577",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/14208607?s=40&v=4",
@@ -158,8 +158,8 @@
       "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "56,958",
-      "forks": "7,409",
+      "stars": "57,215",
+      "forks": "7,441",
       "addStars": "1,005",
       "contributors": [
         {
@@ -190,51 +190,14 @@
       ]
     },
     {
-      "title": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "13,671",
-      "forks": "2,033",
-      "addStars": "745",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
-          "name": "debpalash",
-          "url": "https://github.com/debpalash"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/270455167?s=40&v=4",
-          "name": "velixio",
-          "url": "https://github.com/velixio"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1520602?s=40&v=4",
-          "name": "paoloantinori",
-          "url": "https://github.com/paoloantinori"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13193085?s=40&v=4",
-          "name": "bultodepapas",
-          "url": "https://github.com/bultodepapas"
-        }
-      ]
-    },
-    {
       "title": "3b1b/manim",
       "url": "https://github.com/3b1b/manim",
       "description": "Animation engine for explanatory math videos",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "92,504",
-      "forks": "7,614",
-      "addStars": "74",
+      "stars": "92,622",
+      "forks": "7,622",
+      "addStars": "86",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11601040?s=40&v=4",
@@ -269,9 +232,9 @@
       "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "17,845",
-      "forks": "1,217",
-      "addStars": "545",
+      "stars": "18,008",
+      "forks": "1,227",
+      "addStars": "541",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1450169?s=40&v=4",
@@ -306,9 +269,9 @@
       "description": "Edit videos with coding agents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "22,825",
-      "forks": "2,804",
-      "addStars": "509",
+      "stars": "23,047",
+      "forks": "2,820",
+      "addStars": "472",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/36313686?s=40&v=4",
@@ -343,9 +306,9 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "41,453",
-      "forks": "3,821",
-      "addStars": "914",
+      "stars": "41,634",
+      "forks": "3,830",
+      "addStars": "912",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
@@ -375,14 +338,24 @@
       "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "6,667",
-      "forks": "759",
-      "addStars": "502",
+      "stars": "6,810",
+      "forks": "765",
+      "addStars": "501",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/36500279?s=40&v=4",
           "name": "handsomestWei",
           "url": "https://github.com/handsomestWei"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30405889?s=40&v=4",
+          "name": "xiaofengShi",
+          "url": "https://github.com/xiaofengShi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/108231307?s=40&v=4",
+          "name": "dajiaohuang",
+          "url": "https://github.com/dajiaohuang"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/135248415?s=40&v=4",
@@ -397,9 +370,9 @@
       "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
       "language": "",
       "languageColor": "",
-      "stars": "112,591",
-      "forks": "12,770",
-      "addStars": "487",
+      "stars": "112,937",
+      "forks": "12,786",
+      "addStars": "323",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/18739364?s=40&v=4",
@@ -429,9 +402,9 @@
       "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "7,563",
-      "forks": "1,313",
-      "addStars": "21",
+      "stars": "7,763",
+      "forks": "1,321",
+      "addStars": "56",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/88895948?s=40&v=4",
@@ -461,9 +434,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "245,687",
-      "forks": "37,084",
-      "addStars": "621",
+      "stars": "245,812",
+      "forks": "37,093",
+      "addStars": "623",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
@@ -493,9 +466,9 @@
       "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "80,799",
-      "forks": "8,352",
-      "addStars": "179",
+      "stars": "80,911",
+      "forks": "8,361",
+      "addStars": "145",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/12494079?s=40&v=4",
