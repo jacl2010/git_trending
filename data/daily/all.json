@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Thu, 03 Sep 2026 15:26:23 GMT",
+  "pubDate": "Thu, 03 Sep 2026 20:25:57 GMT",
   "items": [
     {
       "title": "fmtlib/fmt",
@@ -10,8 +10,8 @@
       "description": "A modern formatting library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "24,843",
-      "forks": "3,005",
+      "stars": "24,998",
+      "forks": "3,011",
       "addStars": "955",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "246,587",
-      "forks": "20,919",
+      "stars": "247,096",
+      "forks": "20,950",
       "addStars": "1,576",
       "contributors": [
         {
@@ -69,8 +69,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "240,618",
-      "forks": "49,267",
+      "stars": "240,753",
+      "forks": "49,307",
       "addStars": "778",
       "contributors": [
         {
@@ -106,8 +106,8 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "122,985",
-      "forks": "6,648",
+      "stars": "123,244",
+      "forks": "6,657",
       "addStars": "2,138",
       "contributors": [
         {
@@ -143,8 +143,8 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "173,491",
-      "forks": "20,592",
+      "stars": "173,582",
+      "forks": "20,594",
       "addStars": "277",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "246,834",
-      "forks": "37,196",
+      "stars": "247,017",
+      "forks": "37,228",
       "addStars": "749",
       "contributors": [
         {
@@ -212,8 +212,8 @@
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "102,950",
-      "forks": "5,987",
+      "stars": "103,035",
+      "forks": "5,989",
       "addStars": "545",
       "contributors": [
         {
@@ -244,8 +244,8 @@
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "41,190",
-      "forks": "3,535",
+      "stars": "41,357",
+      "forks": "3,543",
       "addStars": "1,214",
       "contributors": [
         {
@@ -281,8 +281,8 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "30,592",
-      "forks": "2,919",
+      "stars": "30,659",
+      "forks": "2,925",
       "addStars": "1,626",
       "contributors": [
         {
@@ -318,8 +318,8 @@
       "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "8,233",
-      "forks": "1,355",
+      "stars": "8,307",
+      "forks": "1,360",
       "addStars": "123",
       "contributors": [
         {
@@ -350,8 +350,8 @@
       "description": "翻墙-科学上网",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "51,995",
-      "forks": "8,450",
+      "stars": "52,107",
+      "forks": "8,466",
       "addStars": "539",
       "contributors": [
         {
@@ -372,8 +372,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "91,897",
-      "forks": "9,804",
+      "stars": "91,986",
+      "forks": "9,806",
       "addStars": "260",
       "contributors": [
         {
@@ -409,8 +409,8 @@
       "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
       "language": "",
       "languageColor": "",
-      "stars": "88,182",
-      "forks": "9,814",
+      "stars": "88,271",
+      "forks": "9,818",
       "addStars": "158",
       "contributors": [
         {
@@ -446,8 +446,8 @@
       "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,823",
-      "forks": "137",
+      "stars": "1,896",
+      "forks": "142",
       "addStars": "130",
       "contributors": [
         {
@@ -478,8 +478,8 @@
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "45,906",
-      "forks": "3,599",
+      "stars": "45,962",
+      "forks": "3,602",
       "addStars": "498",
       "contributors": [
         {
@@ -515,8 +515,8 @@
       "description": "runs anywhere. uses anything",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "32,243",
-      "forks": "9,013",
+      "stars": "32,302",
+      "forks": "9,018",
       "addStars": "453",
       "contributors": [
         {
@@ -552,8 +552,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,833",
-      "forks": "2,172",
+      "stars": "16,084",
+      "forks": "2,193",
       "addStars": "1,738",
       "contributors": [
         {
@@ -589,8 +589,8 @@
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "168,799",
-      "forks": "21,751",
+      "stars": "168,905",
+      "forks": "21,758",
       "addStars": "201",
       "contributors": [
         {
@@ -626,8 +626,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "281,176",
-      "forks": "25,187",
+      "stars": "281,275",
+      "forks": "25,194",
       "addStars": "470",
       "contributors": [
         {
