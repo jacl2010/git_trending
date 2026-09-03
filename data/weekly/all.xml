@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Thu, 03 Sep 2026 10:58:40 GMT</pubDate>
+    <pubDate>Thu, 03 Sep 2026 15:26:23 GMT</pubDate>
     <item>
       <title>tt-a1i/archify</title>
       <link>https://github.com/tt-a1i/archify</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/tt-a1i/archify</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>44,865</stars>
-      <forks>2,881</forks>
+      <stars>45,249</stars>
+      <forks>2,901</forks>
       <addStars>26,626</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/bilawalsidhu/gods-eye-view</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>16,592</stars>
-      <forks>3,328</forks>
+      <stars>16,734</stars>
+      <forks>3,358</forks>
       <addStars>10,679</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/THU-MAIC/OpenMAIC</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>30,842</stars>
-      <forks>5,112</forks>
+      <stars>30,949</stars>
+      <forks>5,120</forks>
       <addStars>9,426</addStars>
       <contributors>
         <contributor>
@@ -125,7 +125,7 @@
       <guid>https://github.com/JetBrains/go-modern-guidelines</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>3,072</stars>
+      <stars>3,085</stars>
       <forks>86</forks>
       <addStars>1,403</addStars>
       <contributors>
@@ -163,8 +163,8 @@
       <guid>https://github.com/Gitlawb/openclaude</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>32,176</stars>
-      <forks>9,008</forks>
+      <stars>32,243</stars>
+      <forks>9,013</forks>
       <addStars>1,035</addStars>
       <contributors>
         <contributor>
@@ -201,8 +201,8 @@
       <guid>https://github.com/K-Dense-AI/scientific-agent-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>42,249</stars>
-      <forks>3,880</forks>
+      <stars>42,320</stars>
+      <forks>3,881</forks>
       <addStars>7,558</addStars>
       <contributors>
         <contributor>
@@ -234,8 +234,8 @@
       <guid>https://github.com/jingyaogong/minimind</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>58,081</stars>
-      <forks>7,551</forks>
+      <stars>58,163</stars>
+      <forks>7,559</forks>
       <addStars>2,669</addStars>
       <contributors>
         <contributor>
@@ -272,8 +272,8 @@
       <guid>https://github.com/every-app/open-seo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>16,528</stars>
-      <forks>2,027</forks>
+      <stars>16,589</stars>
+      <forks>2,041</forks>
       <addStars>2,767</addStars>
       <contributors>
         <contributor>
@@ -310,8 +310,8 @@
       <guid>https://github.com/omacom/omarchy</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>37,517</stars>
-      <forks>3,938</forks>
+      <stars>37,600</stars>
+      <forks>3,952</forks>
       <addStars>5,577</addStars>
       <contributors>
         <contributor>
@@ -348,8 +348,8 @@
       <guid>https://github.com/google-research/timesfm</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>30,526</stars>
-      <forks>2,912</forks>
+      <stars>30,592</stars>
+      <forks>2,919</forks>
       <addStars>787</addStars>
       <contributors>
         <contributor>
@@ -386,8 +386,8 @@
       <guid>https://github.com/p-e-w/heretic</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>30,246</stars>
-      <forks>3,341</forks>
+      <stars>30,268</stars>
+      <forks>3,345</forks>
       <addStars>2,045</addStars>
       <contributors>
         <contributor>
@@ -419,8 +419,8 @@
       <guid>https://github.com/freestylefly/awesome-gpt-image-2</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>27,628</stars>
-      <forks>2,670</forks>
+      <stars>27,686</stars>
+      <forks>2,678</forks>
       <addStars>7,006</addStars>
       <contributors>
         <contributor>
@@ -457,8 +457,8 @@
       <guid>https://github.com/cursor/plugins</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>6,708</stars>
-      <forks>551</forks>
+      <stars>6,734</stars>
+      <forks>554</forks>
       <addStars>1,333</addStars>
       <contributors>
         <contributor>
@@ -495,8 +495,8 @@
       <guid>https://github.com/abi/screenshot-to-code</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>77,276</stars>
-      <forks>9,413</forks>
+      <stars>77,335</stars>
+      <forks>9,418</forks>
       <addStars>2,634</addStars>
       <contributors>
         <contributor>
@@ -528,8 +528,8 @@
       <guid>https://github.com/colinhacks/zod</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>43,791</stars>
-      <forks>2,171</forks>
+      <stars>43,803</stars>
+      <forks>2,172</forks>
       <addStars>252</addStars>
       <contributors>
         <contributor>
@@ -566,7 +566,7 @@
       <guid>https://github.com/zedeus/nitter</guid>
       <language>Nim</language>
       <languageColor>#ffc200</languageColor>
-      <stars>14,087</stars>
+      <stars>14,089</stars>
       <forks>1,292</forks>
       <addStars>525</addStars>
       <contributors>
@@ -604,8 +604,8 @@
       <guid>https://github.com/tashfeenahmed/freellmapi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>24,011</stars>
-      <forks>3,270</forks>
+      <stars>24,047</stars>
+      <forks>3,271</forks>
       <addStars>3,366</addStars>
       <contributors>
         <contributor>
@@ -642,8 +642,8 @@
       <guid>https://github.com/debpalash/VoiceStudio</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>15,584</stars>
-      <forks>2,163</forks>
+      <stars>15,833</stars>
+      <forks>2,172</forks>
       <addStars>2,511</addStars>
       <contributors>
         <contributor>
@@ -680,8 +680,8 @@
       <guid>https://github.com/punkpeye/awesome-mcp-servers</guid>
       <language/>
       <languageColor/>
-      <stars>93,926</stars>
-      <forks>15,541</forks>
+      <stars>93,958</stars>
+      <forks>15,557</forks>
       <addStars>1,017</addStars>
       <contributors>
         <contributor>
@@ -718,8 +718,8 @@
       <guid>https://github.com/handsomestWei/patent-disclosure-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,148</stars>
-      <forks>791</forks>
+      <stars>7,187</stars>
+      <forks>793</forks>
       <addStars>1,750</addStars>
       <contributors>
         <contributor>
@@ -751,8 +751,8 @@
       <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>52,169</stars>
-      <forks>9,040</forks>
+      <stars>52,222</stars>
+      <forks>9,046</forks>
       <addStars>2,843</addStars>
       <contributors>
         <contributor>
@@ -784,7 +784,7 @@
       <guid>https://github.com/majd/ipatool</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>10,776</stars>
+      <stars>10,781</stars>
       <forks>906</forks>
       <addStars>836</addStars>
       <contributors>
@@ -817,8 +817,8 @@
       <guid>https://github.com/fmtlib/fmt</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>24,664</stars>
-      <forks>2,999</forks>
+      <stars>24,843</stars>
+      <forks>3,005</forks>
       <addStars>918</addStars>
       <contributors>
         <contributor>
