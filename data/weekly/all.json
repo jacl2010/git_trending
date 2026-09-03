@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Wed, 02 Sep 2026 20:27:14 GMT",
+  "pubDate": "Thu, 03 Sep 2026 03:26:31 GMT",
   "items": [
     {
       "title": "bilawalsidhu/gods-eye-view",
@@ -10,9 +10,9 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "15,978",
-      "forks": "3,224",
-      "addStars": "12,042",
+      "stars": "16,229",
+      "forks": "3,261",
+      "addStars": "10,679",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/106619546?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "43,664",
-      "forks": "2,800",
-      "addStars": "25,469",
+      "stars": "44,147",
+      "forks": "2,829",
+      "addStars": "26,626",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Alternative Twitter front-end",
       "language": "Nim",
       "languageColor": "#ffc200",
-      "stars": "14,071",
-      "forks": "1,290",
-      "addStars": "561",
+      "stars": "14,080",
+      "forks": "1,291",
+      "addStars": "525",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9434921?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "30,455",
-      "forks": "5,080",
-      "addStars": "8,014",
+      "stars": "30,625",
+      "forks": "5,088",
+      "addStars": "9,426",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
@@ -158,9 +158,9 @@
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "27,334",
-      "forks": "2,652",
-      "addStars": "10,669",
+      "stars": "27,451",
+      "forks": "2,657",
+      "addStars": "7,006",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
@@ -195,9 +195,9 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "37,285",
-      "forks": "3,899",
-      "addStars": "6,006",
+      "stars": "37,384",
+      "forks": "3,919",
+      "addStars": "5,577",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
@@ -232,9 +232,9 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,064",
-      "forks": "3,866",
-      "addStars": "6,962",
+      "stars": "42,136",
+      "forks": "3,872",
+      "addStars": "7,558",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
@@ -264,9 +264,9 @@
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,366",
-      "forks": "2,002",
-      "addStars": "2,625",
+      "stars": "16,432",
+      "forks": "2,011",
+      "addStars": "2,767",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
@@ -301,9 +301,9 @@
       "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "57,736",
-      "forks": "7,505",
-      "addStars": "1,949",
+      "stars": "57,876",
+      "forks": "7,528",
+      "addStars": "2,669",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/62287848?s=40&v=4",
@@ -338,9 +338,9 @@
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,265",
-      "forks": "252",
-      "addStars": "1,634",
+      "stars": "3,295",
+      "forks": "253",
+      "addStars": "1,212",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
@@ -370,9 +370,9 @@
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "23,863",
-      "forks": "3,259",
-      "addStars": "3,452",
+      "stars": "23,930",
+      "forks": "3,266",
+      "addStars": "3,366",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
@@ -407,9 +407,9 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,640",
-      "forks": "547",
-      "addStars": "1,377",
+      "stars": "6,678",
+      "forks": "548",
+      "addStars": "1,333",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -444,9 +444,9 @@
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "30,155",
-      "forks": "3,326",
-      "addStars": "1,874",
+      "stars": "30,192",
+      "forks": "3,333",
+      "addStars": "2,045",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2702526?s=40&v=4",
@@ -476,9 +476,9 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "52,057",
-      "forks": "9,014",
-      "addStars": "3,427",
+      "stars": "52,107",
+      "forks": "9,022",
+      "addStars": "2,843",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
@@ -508,9 +508,9 @@
       "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "77,176",
-      "forks": "9,401",
-      "addStars": "2,485",
+      "stars": "77,220",
+      "forks": "9,409",
+      "addStars": "2,634",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/23818?s=40&v=4",
@@ -540,9 +540,9 @@
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "39,469",
+      "stars": "39,473",
       "forks": "10,886",
-      "addStars": "492",
+      "addStars": "518",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/12735026?s=40&v=4",
@@ -572,9 +572,9 @@
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "55,640",
-      "forks": "6,952",
-      "addStars": "5,232",
+      "stars": "55,726",
+      "forks": "6,961",
+      "addStars": "5,078",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
@@ -609,9 +609,9 @@
       "description": "TypeScript-first schema validation with static type inference",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "43,771",
+      "stars": "43,777",
       "forks": "2,169",
-      "addStars": "238",
+      "addStars": "252",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3084745?s=40&v=4",
@@ -646,9 +646,9 @@
       "description": "A collection of MCP servers.",
       "language": "",
       "languageColor": "",
-      "stars": "93,847",
-      "forks": "15,506",
-      "addStars": "919",
+      "stars": "93,889",
+      "forks": "15,522",
+      "addStars": "1,017",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/108313943?s=40&v=4",
@@ -683,9 +683,9 @@
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "40,242",
-      "forks": "13,647",
-      "addStars": "4,841",
+      "stars": "40,330",
+      "forks": "13,690",
+      "addStars": "4,172",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -720,9 +720,9 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "29,553",
-      "forks": "2,855",
-      "addStars": "681",
+      "stars": "29,988",
+      "forks": "2,875",
+      "addStars": "787",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
