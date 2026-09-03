@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Thu, 03 Sep 2026 03:26:31 GMT",
+  "pubDate": "Thu, 03 Sep 2026 10:58:40 GMT",
   "items": [
     {
       "title": "fmtlib/fmt",
@@ -10,8 +10,8 @@
       "description": "A modern formatting library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "24,366",
-      "forks": "2,990",
+      "stars": "24,664",
+      "forks": "2,999",
       "addStars": "14",
       "contributors": [
         {
@@ -37,56 +37,19 @@
       ]
     },
     {
-      "title": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "29,988",
-      "forks": "2,875",
-      "addStars": "343",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "245,963",
+      "forks": "20,889",
+      "addStars": "1,166",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
-          "name": "rajatsen91",
-          "url": "https://github.com/rajatsen91"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5073569?s=40&v=4",
-          "name": "siriuz42",
-          "url": "https://github.com/siriuz42"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/151166456?s=40&v=4",
-          "name": "misha-chertushkin",
-          "url": "https://github.com/misha-chertushkin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1857776?s=40&v=4",
-          "name": "darkpowerxo",
-          "url": "https://github.com/darkpowerxo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9588843?s=40&v=4",
-          "name": "JustinGuese",
-          "url": "https://github.com/JustinGuese"
-        }
-      ]
-    },
-    {
-      "title": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": "121,868",
-      "forks": "6,584",
-      "addStars": "1,354",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
-          "name": "DietrichGebert",
-          "url": "https://github.com/DietrichGebert"
+          "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
+          "name": "mattpocock",
+          "url": "https://github.com/mattpocock"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -94,120 +57,9 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/169168095?s=40&v=4",
-          "name": "Lakshya77089",
-          "url": "https://github.com/Lakshya77089"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2910651?s=40&v=4",
-          "name": "ousamabenyounes",
-          "url": "https://github.com/ousamabenyounes"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/91044156?s=40&v=4",
-          "name": "dhedhialy",
-          "url": "https://github.com/dhedhialy"
-        }
-      ]
-    },
-    {
-      "title": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "14,983",
-      "forks": "2,127",
-      "addStars": "832",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
-          "name": "debpalash",
-          "url": "https://github.com/debpalash"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/270455167?s=40&v=4",
-          "name": "velixio",
-          "url": "https://github.com/velixio"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1520602?s=40&v=4",
-          "name": "paoloantinori",
-          "url": "https://github.com/paoloantinori"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13193085?s=40&v=4",
-          "name": "bultodepapas",
-          "url": "https://github.com/bultodepapas"
-        }
-      ]
-    },
-    {
-      "title": "sngyai/Sequoia-X",
-      "url": "https://github.com/sngyai/Sequoia-X",
-      "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "6,202",
-      "forks": "1,271",
-      "addStars": "63",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1306534?s=40&v=4",
-          "name": "sngyai",
-          "url": "https://github.com/sngyai"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16517186?s=40&v=4",
-          "name": "ethqunzhong",
-          "url": "https://github.com/ethqunzhong"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17290550?s=40&v=4",
-          "name": "YipKo",
-          "url": "https://github.com/YipKo"
-        }
-      ]
-    },
-    {
-      "title": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "50,689",
-      "forks": "3,555",
-      "addStars": "148",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
-          "name": "OrKoN",
-          "url": "https://github.com/OrKoN"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/34244704?s=40&v=4",
-          "name": "Lightning00Blade",
-          "url": "https://github.com/Lightning00Blade"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/133232582?s=40&v=4",
-          "name": "browser-automation-bot",
-          "url": "https://github.com/browser-automation-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11618243?s=40&v=4",
-          "name": "yulunz",
-          "url": "https://github.com/yulunz"
+          "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&v=4",
+          "name": "gabimoncha",
+          "url": "https://github.com/gabimoncha"
         }
       ]
     },
@@ -217,8 +69,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "240,205",
-      "forks": "49,160",
+      "stars": "240,466",
+      "forks": "49,231",
       "addStars": "533",
       "contributors": [
         {
@@ -249,120 +101,19 @@
       ]
     },
     {
-      "title": "superlinked/sie",
-      "url": "https://github.com/superlinked/sie",
-      "description": "Open-source inference server and production cluster for all the models your agent needs.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "3,098",
-      "forks": "299",
-      "addStars": "60",
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "122,673",
+      "forks": "6,632",
+      "addStars": "1,354",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/162457936?s=40&v=4",
-          "name": "slrelease",
-          "url": "https://github.com/slrelease"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/73337655?s=40&v=4",
-          "name": "fm1320",
-          "url": "https://github.com/fm1320"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2996824?s=40&v=4",
-          "name": "kembala",
-          "url": "https://github.com/kembala"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1493333?s=40&v=4",
-          "name": "svonava",
-          "url": "https://github.com/svonava"
-        }
-      ]
-    },
-    {
-      "title": "pacifio/atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "2,959",
-      "forks": "192",
-      "addStars": "888",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32670628?s=40&v=4",
-          "name": "pacifio",
-          "url": "https://github.com/pacifio"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/171568277?s=40&v=4",
-          "name": "Ukaykhingmarma28",
-          "url": "https://github.com/Ukaykhingmarma28"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/86776685?s=40&v=4",
-          "name": "ahammadnafiz",
-          "url": "https://github.com/ahammadnafiz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16221196?s=40&v=4",
-          "name": "uzayer",
-          "url": "https://github.com/uzayer"
-        }
-      ]
-    },
-    {
-      "title": "zyronon/TypeWords",
-      "url": "https://github.com/zyronon/TypeWords",
-      "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": "9,390",
-      "forks": "1,136",
-      "addStars": "21",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19986642?s=40&v=4",
-          "name": "zyronon",
-          "url": "https://github.com/zyronon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/152023695?s=40&v=4",
-          "name": "wysha-object",
-          "url": "https://github.com/wysha-object"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/72185434?s=40&v=4",
-          "name": "SMGoro",
-          "url": "https://github.com/SMGoro"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/189698611?s=40&v=4",
-          "name": "Muxy1108",
-          "url": "https://github.com/Muxy1108"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22068064?s=40&v=4",
-          "name": "hamburgerV",
-          "url": "https://github.com/hamburgerV"
-        }
-      ]
-    },
-    {
-      "title": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "45,623",
-      "forks": "3,585",
-      "addStars": "799",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/132531341?s=40&v=4",
-          "name": "Imbad0202",
-          "url": "https://github.com/Imbad0202"
+          "avatar": "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
+          "name": "DietrichGebert",
+          "url": "https://github.com/DietrichGebert"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -370,19 +121,56 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/126993554?s=40&v=4",
-          "name": "2023Anita",
-          "url": "https://github.com/2023Anita"
+          "avatar": "https://avatars.githubusercontent.com/u/169168095?s=40&v=4",
+          "name": "Lakshya77089",
+          "url": "https://github.com/Lakshya77089"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/115035770?s=40&v=4",
-          "name": "madtriceps",
-          "url": "https://github.com/madtriceps"
+          "avatar": "https://avatars.githubusercontent.com/u/2910651?s=40&v=4",
+          "name": "ousamabenyounes",
+          "url": "https://github.com/ousamabenyounes"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/254419203?s=40&v=4",
-          "name": "ktao732084-arch",
-          "url": "https://github.com/ktao732084-arch"
+          "avatar": "https://avatars.githubusercontent.com/u/91044156?s=40&v=4",
+          "name": "dhedhialy",
+          "url": "https://github.com/dhedhialy"
+        }
+      ]
+    },
+    {
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "173,388",
+      "forks": "20,587",
+      "addStars": "277",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
+          "name": "rlancemartin",
+          "url": "https://github.com/rlancemartin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/84525?s=40&v=4",
+          "name": "klazuka",
+          "url": "https://github.com/klazuka"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/27286675?s=40&v=4",
+          "name": "ericharmeling",
+          "url": "https://github.com/ericharmeling"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/254044062?s=40&v=4",
+          "name": "kswan-wk",
+          "url": "https://github.com/kswan-wk"
         }
       ]
     },
@@ -392,8 +180,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "246,423",
-      "forks": "37,160",
+      "stars": "246,680",
+      "forks": "37,176",
       "addStars": "516",
       "contributors": [
         {
@@ -419,61 +207,19 @@
       ]
     },
     {
-      "title": "protocolbuffers/protobuf",
-      "url": "https://github.com/protocolbuffers/protobuf",
-      "description": "Protocol Buffers - Google's data interchange format",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "71,948",
-      "forks": "16,271",
-      "addStars": "18",
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "102,862",
+      "forks": "5,982",
+      "addStars": "238",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/106703886?s=40&v=4",
-          "name": "protobuf-github-bot",
-          "url": "https://github.com/protobuf-github-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1270?s=40&v=4",
-          "name": "haberman",
-          "url": "https://github.com/haberman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/105450428?s=40&v=4",
-          "name": "protobuf-team-bot",
-          "url": "https://github.com/protobuf-team-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/62662355?s=40&v=4",
-          "name": "mkruskal-google",
-          "url": "https://github.com/mkruskal-google"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8551050?s=40&v=4",
-          "name": "xfxyjwf",
-          "url": "https://github.com/xfxyjwf"
-        }
-      ]
-    },
-    {
-      "title": "vercel-labs/portless",
-      "url": "https://github.com/vercel-labs/portless",
-      "description": "Replace port numbers with stable, named local URLs. For humans and agents.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "11,831",
-      "forks": "383",
-      "addStars": "73",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
-          "name": "ctate",
-          "url": "https://github.com/ctate"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/51397083?s=40&v=4",
-          "name": "Railly",
-          "url": "https://github.com/Railly"
+          "avatar": "https://avatars.githubusercontent.com/u/104168679?s=40&v=4",
+          "name": "JuliusBrussee",
+          "url": "https://github.com/JuliusBrussee"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -481,14 +227,14 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/90888?s=40&v=4",
-          "name": "tomdale",
-          "url": "https://github.com/tomdale"
+          "avatar": "https://avatars.githubusercontent.com/u/2753418?s=40&v=4",
+          "name": "hunleyd",
+          "url": "https://github.com/hunleyd"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13101267?s=40&v=4",
-          "name": "gerardbalaoro",
-          "url": "https://github.com/gerardbalaoro"
+          "avatar": "https://avatars.githubusercontent.com/u/62109266?s=40&v=4",
+          "name": "sebastianbreguel",
+          "url": "https://github.com/sebastianbreguel"
         }
       ]
     },
@@ -498,8 +244,8 @@
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "40,545",
-      "forks": "3,505",
+      "stars": "40,966",
+      "forks": "3,523",
       "addStars": "374",
       "contributors": [
         {
@@ -530,51 +276,61 @@
       ]
     },
     {
-      "title": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "102,698",
-      "forks": "5,973",
-      "addStars": "238",
+      "title": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "30,526",
+      "forks": "2,912",
+      "addStars": "343",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/104168679?s=40&v=4",
-          "name": "JuliusBrussee",
-          "url": "https://github.com/JuliusBrussee"
+          "avatar": "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
+          "name": "rajatsen91",
+          "url": "https://github.com/rajatsen91"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/5073569?s=40&v=4",
+          "name": "siriuz42",
+          "url": "https://github.com/siriuz42"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2753418?s=40&v=4",
-          "name": "hunleyd",
-          "url": "https://github.com/hunleyd"
+          "avatar": "https://avatars.githubusercontent.com/u/151166456?s=40&v=4",
+          "name": "misha-chertushkin",
+          "url": "https://github.com/misha-chertushkin"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/62109266?s=40&v=4",
-          "name": "sebastianbreguel",
-          "url": "https://github.com/sebastianbreguel"
+          "avatar": "https://avatars.githubusercontent.com/u/1857776?s=40&v=4",
+          "name": "darkpowerxo",
+          "url": "https://github.com/darkpowerxo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9588843?s=40&v=4",
+          "name": "JustinGuese",
+          "url": "https://github.com/JustinGuese"
         }
       ]
     },
     {
-      "title": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": "245,404",
-      "forks": "20,865",
-      "addStars": "1,166",
+      "title": "averygan/reclip",
+      "url": "https://github.com/averygan/reclip",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": "8,132",
+      "forks": "1,349",
+      "addStars": "673",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
-          "name": "mattpocock",
-          "url": "https://github.com/mattpocock"
+          "avatar": "https://avatars.githubusercontent.com/u/88895948?s=40&v=4",
+          "name": "averygan",
+          "url": "https://github.com/averygan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/161183892?s=40&v=4",
+          "name": "jouls0217",
+          "url": "https://github.com/jouls0217"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -582,9 +338,174 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&v=4",
-          "name": "gabimoncha",
-          "url": "https://github.com/gabimoncha"
+          "avatar": "https://avatars.githubusercontent.com/u/97675744?s=40&v=4",
+          "name": "AmanoSpica",
+          "url": "https://github.com/AmanoSpica"
+        }
+      ]
+    },
+    {
+      "title": "bannedbook/fanqiang",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "51,855",
+      "forks": "8,426",
+      "addStars": "539",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4361923?s=40&v=4",
+          "name": "bannedbook",
+          "url": "https://github.com/bannedbook"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/50905019?s=40&v=4",
+          "name": "crazyetiii",
+          "url": "https://github.com/crazyetiii"
+        }
+      ]
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "91,837",
+      "forks": "9,799",
+      "addStars": "280",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
+          "name": "addyosmani",
+          "url": "https://github.com/addyosmani"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
+          "name": "nucliweb",
+          "url": "https://github.com/nucliweb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
+          "name": "federicobartoli",
+          "url": "https://github.com/federicobartoli"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5470381?s=40&v=4",
+          "name": "Liyuk",
+          "url": "https://github.com/Liyuk"
+        }
+      ]
+    },
+    {
+      "title": "ByteByteGoHq/system-design-101",
+      "url": "https://github.com/ByteByteGoHq/system-design-101",
+      "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+      "language": "",
+      "languageColor": "",
+      "stars": "88,064",
+      "forks": "9,808",
+      "addStars": "158",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/50348?s=40&v=4",
+          "name": "slam",
+          "url": "https://github.com/slam"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4921183?s=40&v=4",
+          "name": "nilbuild",
+          "url": "https://github.com/nilbuild"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/50521908?s=40&v=4",
+          "name": "LombardiDaniel",
+          "url": "https://github.com/LombardiDaniel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/375631?s=40&v=4",
+          "name": "Stephanvs",
+          "url": "https://github.com/Stephanvs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1277202?s=40&v=4",
+          "name": "alastairp",
+          "url": "https://github.com/alastairp"
+        }
+      ]
+    },
+    {
+      "title": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "1,730",
+      "forks": "134",
+      "addStars": "130",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28166244?s=40&v=4",
+          "name": "anerli",
+          "url": "https://github.com/anerli"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32600629?s=40&v=4",
+          "name": "thrgreenwald",
+          "url": "https://github.com/thrgreenwald"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1196732?s=40&v=4",
+          "name": "fabianhug",
+          "url": "https://github.com/fabianhug"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/223382489?s=40&v=4",
+          "name": "nicolasdmolina",
+          "url": "https://github.com/nicolasdmolina"
+        }
+      ]
+    },
+    {
+      "title": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "45,814",
+      "forks": "3,596",
+      "addStars": "799",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/132531341?s=40&v=4",
+          "name": "Imbad0202",
+          "url": "https://github.com/Imbad0202"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/126993554?s=40&v=4",
+          "name": "2023Anita",
+          "url": "https://github.com/2023Anita"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/115035770?s=40&v=4",
+          "name": "madtriceps",
+          "url": "https://github.com/madtriceps"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/254419203?s=40&v=4",
+          "name": "ktao732084-arch",
+          "url": "https://github.com/ktao732084-arch"
         }
       ]
     },
@@ -594,8 +515,8 @@
       "description": "runs anywhere. uses anything",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "32,029",
-      "forks": "9,001",
+      "stars": "32,176",
+      "forks": "9,008",
       "addStars": "775",
       "contributors": [
         {
@@ -626,19 +547,19 @@
       ]
     },
     {
-      "title": "firecrawl/pdf-inspector",
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "18,575",
-      "forks": "1,247",
-      "addStars": "586",
+      "title": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "15,584",
+      "forks": "2,163",
+      "addStars": "832",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1450169?s=40&v=4",
-          "name": "abimaelmartell",
-          "url": "https://github.com/abimaelmartell"
+          "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
+          "name": "debpalash",
+          "url": "https://github.com/debpalash"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -646,19 +567,93 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
+          "avatar": "https://avatars.githubusercontent.com/u/270455167?s=40&v=4",
+          "name": "velixio",
+          "url": "https://github.com/velixio"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/630936?s=40&v=4",
-          "name": "rth",
-          "url": "https://github.com/rth"
+          "avatar": "https://avatars.githubusercontent.com/u/1520602?s=40&v=4",
+          "name": "paoloantinori",
+          "url": "https://github.com/paoloantinori"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/125551792?s=40&v=4",
-          "name": "MADENIYOU",
-          "url": "https://github.com/MADENIYOU"
+          "avatar": "https://avatars.githubusercontent.com/u/13193085?s=40&v=4",
+          "name": "bultodepapas",
+          "url": "https://github.com/bultodepapas"
+        }
+      ]
+    },
+    {
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": "168,680",
+      "forks": "21,747",
+      "addStars": "198",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/196477?s=40&v=4",
+          "name": "f",
+          "url": "https://github.com/f"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/99514353?s=40&v=4",
+          "name": "devisasari",
+          "url": "https://github.com/devisasari"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2871319?s=40&v=4",
+          "name": "giorgiop",
+          "url": "https://github.com/giorgiop"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37421564?s=40&v=4",
+          "name": "sinansonmez",
+          "url": "https://github.com/sinansonmez"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/408479?s=40&v=4",
+          "name": "ersinkoc",
+          "url": "https://github.com/ersinkoc"
+        }
+      ]
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "281,068",
+      "forks": "25,181",
+      "addStars": "460",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
+          "name": "obra",
+          "url": "https://github.com/obra"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
+          "name": "arittr",
+          "url": "https://github.com/arittr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&v=4",
+          "name": "clkao",
+          "url": "https://github.com/clkao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&v=4",
+          "name": "jjshanks",
+          "url": "https://github.com/jjshanks"
         }
       ]
     }
