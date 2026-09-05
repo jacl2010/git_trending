@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Fri, 04 Sep 2026 20:12:25 GMT",
+  "pubDate": "Sat, 05 Sep 2026 03:25:51 GMT",
   "items": [
     {
       "title": "tt-a1i/archify",
@@ -10,9 +10,9 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "47,849",
-      "forks": "3,083",
-      "addStars": "24,227",
+      "stars": "48,234",
+      "forks": "3,118",
+      "addStars": "21,896",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "31,443",
-      "forks": "5,179",
-      "addStars": "10,023",
+      "stars": "31,557",
+      "forks": "5,189",
+      "addStars": "10,274",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "17,416",
-      "forks": "3,513",
-      "addStars": "10,485",
+      "stars": "17,565",
+      "forks": "3,544",
+      "addStars": "7,314",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/106619546?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "runs anywhere. uses anything",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "32,548",
-      "forks": "9,044",
-      "addStars": "1,389",
+      "stars": "32,590",
+      "forks": "9,049",
+      "addStars": "1,679",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/268502447?s=40&v=4",
@@ -158,9 +158,9 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "30,998",
-      "forks": "2,955",
-      "addStars": "2,324",
+      "stars": "31,083",
+      "forks": "2,963",
+      "addStars": "2,653",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
@@ -195,9 +195,9 @@
       "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "58,493",
-      "forks": "7,602",
-      "addStars": "3,122",
+      "stars": "58,563",
+      "forks": "7,610",
+      "addStars": "3,390",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/62287848?s=40&v=4",
@@ -220,9 +220,9 @@
           "url": "https://github.com/wangzhaode"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/46831957?s=40&v=4",
-          "name": "TKiteRunner",
-          "url": "https://github.com/TKiteRunner"
+          "avatar": "https://avatars.githubusercontent.com/u/9588843?s=40&v=4",
+          "name": "JustinGuese",
+          "url": "https://github.com/JustinGuese"
         }
       ]
     },
@@ -232,9 +232,9 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,597",
-      "forks": "3,897",
-      "addStars": "7,370",
+      "stars": "42,666",
+      "forks": "3,904",
+      "addStars": "6,898",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
@@ -264,9 +264,9 @@
       "description": "",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "10,460",
-      "forks": "1,346",
-      "addStars": "2,137",
+      "stars": "10,530",
+      "forks": "1,355",
+      "addStars": "1,982",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25259084?s=40&v=4",
@@ -301,9 +301,9 @@
       "description": "A modern formatting library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "25,444",
-      "forks": "3,034",
-      "addStars": "993",
+      "stars": "25,483",
+      "forks": "3,035",
+      "addStars": "1,671",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/576385?s=40&v=4",
@@ -333,9 +333,9 @@
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,981",
-      "forks": "2,107",
-      "addStars": "2,941",
+      "stars": "17,043",
+      "forks": "2,124",
+      "addStars": "2,950",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
@@ -370,9 +370,9 @@
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "30,434",
-      "forks": "3,367",
-      "addStars": "2,146",
+      "stars": "30,471",
+      "forks": "3,371",
+      "addStars": "2,065",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2702526?s=40&v=4",
@@ -402,9 +402,9 @@
       "description": "TypeScript-first schema validation with static type inference",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "43,832",
+      "stars": "43,837",
       "forks": "2,175",
-      "addStars": "277",
+      "addStars": "297",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3084745?s=40&v=4",
@@ -439,9 +439,9 @@
       "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,361",
-      "forks": "813",
-      "addStars": "1,846",
+      "stars": "7,382",
+      "forks": "816",
+      "addStars": "1,975",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/36500279?s=40&v=4",
@@ -471,9 +471,9 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,697",
-      "forks": "2,321",
-      "addStars": "3,902",
+      "stars": "18,126",
+      "forks": "2,367",
+      "addStars": "5,150",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
@@ -508,9 +508,9 @@
       "description": "A collection of MCP servers.",
       "language": "",
       "languageColor": "",
-      "stars": "94,134",
-      "forks": "15,636",
-      "addStars": "1,130",
+      "stars": "94,168",
+      "forks": "15,651",
+      "addStars": "1,198",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/108313943?s=40&v=4",
@@ -545,9 +545,9 @@
       "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "77,651",
-      "forks": "9,446",
-      "addStars": "2,412",
+      "stars": "77,704",
+      "forks": "9,458",
+      "addStars": "2,372",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/23818?s=40&v=4",
@@ -577,9 +577,9 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "50,919",
-      "forks": "3,571",
-      "addStars": "1,058",
+      "stars": "50,944",
+      "forks": "3,572",
+      "addStars": "1,067",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
@@ -609,9 +609,9 @@
       "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "10,852",
-      "forks": "909",
-      "addStars": "847",
+      "stars": "10,878",
+      "forks": "910",
+      "addStars": "903",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1644696?s=40&v=4",
@@ -641,9 +641,9 @@
       "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,262",
-      "forks": "786",
-      "addStars": "1,812",
+      "stars": "5,309",
+      "forks": "790",
+      "addStars": "1,808",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/188336071?s=40&v=4",
@@ -666,9 +666,9 @@
           "url": "https://github.com/AmirF194"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2910651?s=40&v=4",
-          "name": "ousamabenyounes",
-          "url": "https://github.com/ousamabenyounes"
+          "avatar": "https://avatars.githubusercontent.com/u/92676627?s=40&v=4",
+          "name": "Srinivasan8888",
+          "url": "https://github.com/Srinivasan8888"
         }
       ]
     },
@@ -678,9 +678,9 @@
       "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "6,710",
-      "forks": "899",
-      "addStars": "642",
+      "stars": "6,794",
+      "forks": "906",
+      "addStars": "794",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11309189?s=40&v=4",

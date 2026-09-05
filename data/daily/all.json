@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Fri, 04 Sep 2026 20:12:25 GMT",
+  "pubDate": "Sat, 05 Sep 2026 03:25:51 GMT",
   "items": [
     {
       "title": "mattpocock/skills",
@@ -10,9 +10,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "250,044",
-      "forks": "21,132",
-      "addStars": "2,757",
+      "stars": "250,573",
+      "forks": "21,174",
+      "addStars": "2,758",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
@@ -37,9 +37,9 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "125,486",
-      "forks": "6,753",
-      "addStars": "1,683",
+      "stars": "126,276",
+      "forks": "6,772",
+      "addStars": "1,679",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
@@ -74,9 +74,9 @@
       "description": "A modern formatting library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "25,444",
-      "forks": "3,034",
-      "addStars": "681",
+      "stars": "25,483",
+      "forks": "3,035",
+      "addStars": "688",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/576385?s=40&v=4",
@@ -106,9 +106,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "248,307",
-      "forks": "37,427",
-      "addStars": "1,139",
+      "stars": "248,596",
+      "forks": "37,470",
+      "addStars": "1,135",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
@@ -138,9 +138,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "174,061",
-      "forks": "20,636",
-      "addStars": "512",
+      "stars": "174,173",
+      "forks": "20,647",
+      "addStars": "511",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
@@ -175,9 +175,9 @@
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,568",
-      "forks": "3,602",
-      "addStars": "1,132",
+      "stars": "42,806",
+      "forks": "3,614",
+      "addStars": "1,130",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1672?s=40&v=4",
@@ -212,9 +212,9 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "241,401",
-      "forks": "49,514",
-      "addStars": "721",
+      "stars": "241,545",
+      "forks": "49,576",
+      "addStars": "720",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/127238744?s=40&v=4",
@@ -249,9 +249,9 @@
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "103,517",
+      "stars": "103,611",
       "forks": "6,007",
-      "addStars": "503",
+      "addStars": "501",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/104168679?s=40&v=4",
@@ -281,9 +281,9 @@
       "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,347",
-      "forks": "162",
-      "addStars": "395",
+      "stars": "2,558",
+      "forks": "186",
+      "addStars": "391",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28166244?s=40&v=4",
@@ -301,9 +301,9 @@
           "url": "https://github.com/fabianhug"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/223382489?s=40&v=4",
-          "name": "nicolasdmolina",
-          "url": "https://github.com/nicolasdmolina"
+          "avatar": "https://avatars.githubusercontent.com/u/120605515?s=40&v=4",
+          "name": "lloydgreenwald",
+          "url": "https://github.com/lloydgreenwald"
         }
       ]
     },
@@ -313,9 +313,9 @@
       "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,476",
-      "forks": "1,239",
-      "addStars": "68",
+      "stars": "4,536",
+      "forks": "1,242",
+      "addStars": "74",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/63224111?s=40&v=4",
@@ -335,9 +335,9 @@
       "description": "翻墙-科学上网",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "52,741",
-      "forks": "8,521",
-      "addStars": "735",
+      "stars": "52,824",
+      "forks": "8,529",
+      "addStars": "730",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4361923?s=40&v=4",
@@ -357,8 +357,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,697",
-      "forks": "2,321",
+      "stars": "18,126",
+      "forks": "2,367",
       "addStars": "1,345",
       "contributors": [
         {
@@ -394,9 +394,9 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "30,998",
-      "forks": "2,955",
-      "addStars": "340",
+      "stars": "31,083",
+      "forks": "2,963",
+      "addStars": "342",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
@@ -431,9 +431,9 @@
       "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,526",
-      "forks": "441",
-      "addStars": "55",
+      "stars": "2,577",
+      "forks": "446",
+      "addStars": "64",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5236035?s=40&v=4",
@@ -468,9 +468,9 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "204,014",
-      "forks": "26,626",
-      "addStars": "314",
+      "stars": "204,186",
+      "forks": "26,639",
+      "addStars": "345",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&v=4",
@@ -500,9 +500,9 @@
       "description": "Renovation Engine for DirectX Games",
       "language": "HLSL",
       "languageColor": "#aace60",
-      "stars": "3,499",
-      "forks": "137",
-      "addStars": "759",
+      "stars": "3,551",
+      "forks": "140",
+      "addStars": "261",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9271155?s=40&v=4",
@@ -537,9 +537,9 @@
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "30,829",
-      "forks": "1,979",
-      "addStars": "426",
+      "stars": "31,025",
+      "forks": "1,994",
+      "addStars": "437",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
