@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Sat, 05 Sep 2026 14:11:22 GMT</pubDate>
+    <pubDate>Sat, 05 Sep 2026 19:51:16 GMT</pubDate>
     <item>
       <title>mattpocock/skills</title>
       <link>https://github.com/mattpocock/skills</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>251,659</stars>
-      <forks>21,264</forks>
+      <stars>252,255</stars>
+      <forks>21,302</forks>
       <addStars>2,666</addStars>
       <contributors>
         <contributor>
@@ -39,8 +39,8 @@
       <guid>https://github.com/affaan-m/ECC</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>249,229</stars>
-      <forks>37,555</forks>
+      <stars>249,658</stars>
+      <forks>37,592</forks>
       <addStars>1,325</addStars>
       <contributors>
         <contributor>
@@ -72,8 +72,8 @@
       <guid>https://github.com/DietrichGebert/ponytail</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>127,301</stars>
-      <forks>6,814</forks>
+      <stars>127,706</stars>
+      <forks>6,833</forks>
       <addStars>2,813</addStars>
       <contributors>
         <contributor>
@@ -110,8 +110,8 @@
       <guid>https://github.com/NousResearch/hermes-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>241,790</stars>
-      <forks>49,641</forks>
+      <stars>241,922</stars>
+      <forks>49,686</forks>
       <addStars>573</addStars>
       <contributors>
         <contributor>
@@ -148,8 +148,8 @@
       <guid>https://github.com/fmtlib/fmt</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>25,538</stars>
-      <forks>3,037</forks>
+      <stars>25,559</stars>
+      <forks>3,042</forks>
       <addStars>133</addStars>
       <contributors>
         <contributor>
@@ -181,8 +181,8 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>174,394</stars>
-      <forks>20,653</forks>
+      <stars>174,501</stars>
+      <forks>20,668</forks>
       <addStars>472</addStars>
       <contributors>
         <contributor>
@@ -219,8 +219,8 @@
       <guid>https://github.com/cathrynlavery/diagram-design</guid>
       <language>HTML</language>
       <languageColor>#e34c26</languageColor>
-      <stars>31,425</stars>
-      <forks>2,028</forks>
+      <stars>31,596</stars>
+      <forks>2,038</forks>
       <addStars>852</addStars>
       <contributors>
         <contributor>
@@ -257,8 +257,8 @@
       <guid>https://github.com/anomalyco/opencode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>204,466</stars>
-      <forks>26,675</forks>
+      <stars>204,602</stars>
+      <forks>26,694</forks>
       <addStars>725</addStars>
       <contributors>
         <contributor>
@@ -290,8 +290,8 @@
       <guid>https://github.com/ruvnet/ruflo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>70,583</stars>
-      <forks>8,406</forks>
+      <stars>70,649</stars>
+      <forks>8,410</forks>
       <addStars>127</addStars>
       <contributors>
         <contributor>
@@ -328,9 +328,9 @@
       <guid>https://github.com/humanlayer/skills</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>2,521</stars>
-      <forks>72</forks>
-      <addStars>1,141</addStars>
+      <stars>2,637</stars>
+      <forks>74</forks>
+      <addStars>408</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/3730605?s=40&amp;v=4</avatar>
@@ -356,8 +356,8 @@
       <guid>https://github.com/blader/humanizer</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>43,185</stars>
-      <forks>3,628</forks>
+      <stars>43,364</stars>
+      <forks>3,637</forks>
       <addStars>988</addStars>
       <contributors>
         <contributor>
@@ -394,8 +394,8 @@
       <guid>https://github.com/BraveOPotato/FckSignups</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>2,695</stars>
-      <forks>191</forks>
+      <stars>2,807</stars>
+      <forks>194</forks>
       <addStars>50</addStars>
       <contributors>
         <contributor>
@@ -432,9 +432,9 @@
       <guid>https://github.com/WorldFlowAI/everything-claude-code</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>2,200</stars>
-      <forks>353</forks>
-      <addStars>87</addStars>
+      <stars>2,290</stars>
+      <forks>360</forks>
+      <addStars>139</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/124439313?s=40&amp;v=4</avatar>
@@ -470,8 +470,8 @@
       <guid>https://github.com/magnitudedev/magnitude</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>2,904</stars>
-      <forks>205</forks>
+      <stars>3,110</stars>
+      <forks>224</forks>
       <addStars>686</addStars>
       <contributors>
         <contributor>
@@ -503,8 +503,8 @@
       <guid>https://github.com/bikini/exploitarium</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,626</stars>
-      <forks>1,251</forks>
+      <stars>4,668</stars>
+      <forks>1,252</forks>
       <addStars>232</addStars>
       <contributors>
         <contributor>
@@ -526,9 +526,9 @@
       <guid>https://github.com/nvm-sh/nvm</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>94,857</stars>
-      <forks>10,421</forks>
-      <addStars>17</addStars>
+      <stars>94,895</stars>
+      <forks>10,422</forks>
+      <addStars>57</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/45469?s=40&amp;v=4</avatar>

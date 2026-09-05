@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Sat, 05 Sep 2026 14:11:22 GMT</pubDate>
+    <pubDate>Sat, 05 Sep 2026 19:51:16 GMT</pubDate>
     <item>
       <title>tt-a1i/archify</title>
       <link>https://github.com/tt-a1i/archify</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/tt-a1i/archify</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>48,918</stars>
-      <forks>3,166</forks>
+      <stars>49,255</stars>
+      <forks>3,196</forks>
       <addStars>21,896</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/THU-MAIC/OpenMAIC</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>31,768</stars>
-      <forks>5,220</forks>
+      <stars>31,884</stars>
+      <forks>5,230</forks>
       <addStars>10,274</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/Gitlawb/openclaude</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>32,667</stars>
-      <forks>9,060</forks>
+      <stars>32,694</stars>
+      <forks>9,063</forks>
       <addStars>1,679</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/google-research/timesfm</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>31,218</stars>
-      <forks>2,986</forks>
+      <stars>31,263</stars>
+      <forks>2,988</forks>
       <addStars>2,653</addStars>
       <contributors>
         <contributor>
@@ -163,8 +163,8 @@
       <guid>https://github.com/jingyaogong/minimind</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>58,695</stars>
-      <forks>7,625</forks>
+      <stars>58,749</stars>
+      <forks>7,630</forks>
       <addStars>3,390</addStars>
       <contributors>
         <contributor>
@@ -201,8 +201,8 @@
       <guid>https://github.com/tailscale/tailcat</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>6,315</stars>
-      <forks>242</forks>
+      <stars>6,346</stars>
+      <forks>244</forks>
       <addStars>3,762</addStars>
       <contributors>
         <contributor>
@@ -239,8 +239,8 @@
       <guid>https://github.com/K-Dense-AI/scientific-agent-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>42,833</stars>
-      <forks>3,917</forks>
+      <stars>42,915</stars>
+      <forks>3,924</forks>
       <addStars>6,898</addStars>
       <contributors>
         <contributor>
@@ -272,8 +272,8 @@
       <guid>https://github.com/Lakr233/vphone-cli</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>10,674</stars>
-      <forks>1,368</forks>
+      <stars>10,754</stars>
+      <forks>1,374</forks>
       <addStars>1,982</addStars>
       <contributors>
         <contributor>
@@ -310,8 +310,8 @@
       <guid>https://github.com/fmtlib/fmt</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>25,538</stars>
-      <forks>3,037</forks>
+      <stars>25,559</stars>
+      <forks>3,042</forks>
       <addStars>1,671</addStars>
       <contributors>
         <contributor>
@@ -343,8 +343,8 @@
       <guid>https://github.com/handsomestWei/patent-disclosure-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,443</stars>
-      <forks>819</forks>
+      <stars>7,465</stars>
+      <forks>821</forks>
       <addStars>1,975</addStars>
       <contributors>
         <contributor>
@@ -376,8 +376,8 @@
       <guid>https://github.com/debpalash/VoiceStudio</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>18,650</stars>
-      <forks>2,413</forks>
+      <stars>18,851</stars>
+      <forks>2,426</forks>
       <addStars>5,150</addStars>
       <contributors>
         <contributor>
@@ -414,8 +414,8 @@
       <guid>https://github.com/magnitudedev/magnitude</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>2,904</stars>
-      <forks>205</forks>
+      <stars>3,110</stars>
+      <forks>224</forks>
       <addStars>740</addStars>
       <contributors>
         <contributor>
@@ -447,8 +447,8 @@
       <guid>https://github.com/every-app/open-seo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>17,190</stars>
-      <forks>2,148</forks>
+      <stars>17,243</stars>
+      <forks>2,156</forks>
       <addStars>2,950</addStars>
       <contributors>
         <contributor>
@@ -485,8 +485,8 @@
       <guid>https://github.com/bilawalsidhu/gods-eye-view</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>17,827</stars>
-      <forks>3,595</forks>
+      <stars>17,948</stars>
+      <forks>3,627</forks>
       <addStars>7,314</addStars>
       <contributors>
         <contributor>
@@ -523,8 +523,8 @@
       <guid>https://github.com/punkpeye/awesome-mcp-servers</guid>
       <language/>
       <languageColor/>
-      <stars>94,263</stars>
-      <forks>15,673</forks>
+      <stars>94,301</stars>
+      <forks>15,693</forks>
       <addStars>1,198</addStars>
       <contributors>
         <contributor>
@@ -561,8 +561,8 @@
       <guid>https://github.com/p-e-w/heretic</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>30,528</stars>
-      <forks>3,375</forks>
+      <stars>30,573</stars>
+      <forks>3,379</forks>
       <addStars>2,065</addStars>
       <contributors>
         <contributor>
@@ -594,7 +594,7 @@
       <guid>https://github.com/majd/ipatool</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>10,897</stars>
+      <stars>10,911</stars>
       <forks>910</forks>
       <addStars>903</addStars>
       <contributors>
@@ -627,8 +627,8 @@
       <guid>https://github.com/affaan-m/ECC</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>249,229</stars>
-      <forks>37,555</forks>
+      <stars>249,658</stars>
+      <forks>37,592</forks>
       <addStars>4,815</addStars>
       <contributors>
         <contributor>
@@ -660,8 +660,8 @@
       <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>51,004</stars>
-      <forks>3,576</forks>
+      <stars>51,044</stars>
+      <forks>3,578</forks>
       <addStars>1,067</addStars>
       <contributors>
         <contributor>
@@ -693,7 +693,7 @@
       <guid>https://github.com/checkstyle/checkstyle</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>9,534</stars>
+      <stars>9,539</stars>
       <forks>4,218</forks>
       <addStars>569</addStars>
       <contributors>
@@ -726,8 +726,8 @@
       <guid>https://github.com/abi/screenshot-to-code</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>77,822</stars>
-      <forks>9,466</forks>
+      <stars>77,866</stars>
+      <forks>9,470</forks>
       <addStars>2,372</addStars>
       <contributors>
         <contributor>
