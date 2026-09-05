@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sat, 05 Sep 2026 03:25:51 GMT",
+  "pubDate": "Sat, 05 Sep 2026 10:20:35 GMT",
   "items": [
     {
       "title": "tt-a1i/archify",
@@ -10,8 +10,8 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "48,234",
-      "forks": "3,118",
+      "stars": "48,685",
+      "forks": "3,149",
       "addStars": "21,896",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "31,557",
-      "forks": "5,189",
+      "stars": "31,692",
+      "forks": "5,211",
       "addStars": "10,274",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "17,565",
-      "forks": "3,544",
+      "stars": "17,734",
+      "forks": "3,577",
       "addStars": "7,314",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "runs anywhere. uses anything",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "32,590",
-      "forks": "9,049",
+      "stars": "32,639",
+      "forks": "9,056",
       "addStars": "1,679",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "31,083",
-      "forks": "2,963",
+      "stars": "31,187",
+      "forks": "2,983",
       "addStars": "2,653",
       "contributors": [
         {
@@ -195,8 +195,8 @@
       "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "58,563",
-      "forks": "7,610",
+      "stars": "58,652",
+      "forks": "7,618",
       "addStars": "3,390",
       "contributors": [
         {
@@ -232,8 +232,8 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,666",
-      "forks": "3,904",
+      "stars": "42,783",
+      "forks": "3,913",
       "addStars": "6,898",
       "contributors": [
         {
@@ -264,8 +264,8 @@
       "description": "",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "10,530",
-      "forks": "1,355",
+      "stars": "10,622",
+      "forks": "1,360",
       "addStars": "1,982",
       "contributors": [
         {
@@ -301,8 +301,8 @@
       "description": "A modern formatting library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "25,483",
-      "forks": "3,035",
+      "stars": "25,520",
+      "forks": "3,036",
       "addStars": "1,671",
       "contributors": [
         {
@@ -333,8 +333,8 @@
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,043",
-      "forks": "2,124",
+      "stars": "17,149",
+      "forks": "2,143",
       "addStars": "2,950",
       "contributors": [
         {
@@ -370,8 +370,8 @@
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "30,471",
-      "forks": "3,371",
+      "stars": "30,509",
+      "forks": "3,375",
       "addStars": "2,065",
       "contributors": [
         {
@@ -402,7 +402,7 @@
       "description": "TypeScript-first schema validation with static type inference",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "43,837",
+      "stars": "43,842",
       "forks": "2,175",
       "addStars": "297",
       "contributors": [
@@ -439,7 +439,7 @@
       "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,382",
+      "stars": "7,427",
       "forks": "816",
       "addStars": "1,975",
       "contributors": [
@@ -471,8 +471,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "18,126",
-      "forks": "2,367",
+      "stars": "18,495",
+      "forks": "2,396",
       "addStars": "5,150",
       "contributors": [
         {
@@ -508,8 +508,8 @@
       "description": "A collection of MCP servers.",
       "language": "",
       "languageColor": "",
-      "stars": "94,168",
-      "forks": "15,651",
+      "stars": "94,236",
+      "forks": "15,662",
       "addStars": "1,198",
       "contributors": [
         {
@@ -545,8 +545,8 @@
       "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "77,704",
-      "forks": "9,458",
+      "stars": "77,779",
+      "forks": "9,461",
       "addStars": "2,372",
       "contributors": [
         {
@@ -577,8 +577,8 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "50,944",
-      "forks": "3,572",
+      "stars": "50,982",
+      "forks": "3,574",
       "addStars": "1,067",
       "contributors": [
         {
@@ -609,7 +609,7 @@
       "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "10,878",
+      "stars": "10,893",
       "forks": "910",
       "addStars": "903",
       "contributors": [
@@ -641,8 +641,8 @@
       "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,309",
-      "forks": "790",
+      "stars": "5,344",
+      "forks": "797",
       "addStars": "1,808",
       "contributors": [
         {
@@ -678,8 +678,8 @@
       "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "6,794",
-      "forks": "906",
+      "stars": "6,884",
+      "forks": "912",
       "addStars": "794",
       "contributors": [
         {

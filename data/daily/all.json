@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sat, 05 Sep 2026 03:25:51 GMT",
+  "pubDate": "Sat, 05 Sep 2026 10:20:35 GMT",
   "items": [
     {
       "title": "mattpocock/skills",
@@ -10,8 +10,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "250,573",
-      "forks": "21,174",
+      "stars": "251,274",
+      "forks": "21,230",
       "addStars": "2,758",
       "contributors": [
         {
@@ -37,8 +37,8 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "126,276",
-      "forks": "6,772",
+      "stars": "127,008",
+      "forks": "6,806",
       "addStars": "1,679",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "A modern formatting library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "25,483",
-      "forks": "3,035",
+      "stars": "25,520",
+      "forks": "3,036",
       "addStars": "688",
       "contributors": [
         {
@@ -106,8 +106,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "248,596",
-      "forks": "37,470",
+      "stars": "248,925",
+      "forks": "37,515",
       "addStars": "1,135",
       "contributors": [
         {
@@ -138,7 +138,7 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "174,173",
+      "stars": "174,321",
       "forks": "20,647",
       "addStars": "511",
       "contributors": [
@@ -175,8 +175,8 @@
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,806",
-      "forks": "3,614",
+      "stars": "43,044",
+      "forks": "3,622",
       "addStars": "1,130",
       "contributors": [
         {
@@ -212,8 +212,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "241,545",
-      "forks": "49,576",
+      "stars": "241,705",
+      "forks": "49,620",
       "addStars": "720",
       "contributors": [
         {
@@ -249,7 +249,7 @@
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "103,611",
+      "stars": "103,713",
       "forks": "6,007",
       "addStars": "501",
       "contributors": [
@@ -281,8 +281,8 @@
       "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,558",
-      "forks": "186",
+      "stars": "2,772",
+      "forks": "198",
       "addStars": "391",
       "contributors": [
         {
@@ -313,8 +313,8 @@
       "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,536",
-      "forks": "1,242",
+      "stars": "4,595",
+      "forks": "1,248",
       "addStars": "74",
       "contributors": [
         {
@@ -335,8 +335,8 @@
       "description": "翻墙-科学上网",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "52,824",
-      "forks": "8,529",
+      "stars": "52,976",
+      "forks": "8,537",
       "addStars": "730",
       "contributors": [
         {
@@ -357,8 +357,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "18,126",
-      "forks": "2,367",
+      "stars": "18,494",
+      "forks": "2,396",
       "addStars": "1,345",
       "contributors": [
         {
@@ -394,8 +394,8 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "31,083",
-      "forks": "2,963",
+      "stars": "31,187",
+      "forks": "2,983",
       "addStars": "342",
       "contributors": [
         {
@@ -431,8 +431,8 @@
       "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,577",
-      "forks": "446",
+      "stars": "2,618",
+      "forks": "447",
       "addStars": "64",
       "contributors": [
         {
@@ -468,8 +468,8 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "204,186",
-      "forks": "26,639",
+      "stars": "204,375",
+      "forks": "26,658",
       "addStars": "345",
       "contributors": [
         {
@@ -500,8 +500,8 @@
       "description": "Renovation Engine for DirectX Games",
       "language": "HLSL",
       "languageColor": "#aace60",
-      "stars": "3,551",
-      "forks": "140",
+      "stars": "3,606",
+      "forks": "141",
       "addStars": "261",
       "contributors": [
         {
@@ -537,8 +537,8 @@
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "31,025",
-      "forks": "1,994",
+      "stars": "31,301",
+      "forks": "2,020",
       "addStars": "437",
       "contributors": [
         {
