@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sat, 05 Sep 2026 19:51:16 GMT",
+  "pubDate": "Sun, 06 Sep 2026 03:26:14 GMT",
   "items": [
     {
       "title": "tt-a1i/archify",
@@ -10,9 +10,9 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "49,255",
-      "forks": "3,196",
-      "addStars": "21,896",
+      "stars": "49,562",
+      "forks": "3,215",
+      "addStars": "19,480",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "31,884",
-      "forks": "5,230",
-      "addStars": "10,274",
+      "stars": "31,987",
+      "forks": "5,244",
+      "addStars": "10,109",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "runs anywhere. uses anything",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "32,694",
+      "stars": "32,721",
       "forks": "9,063",
-      "addStars": "1,679",
+      "addStars": "1,839",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/268502447?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "31,263",
-      "forks": "2,988",
-      "addStars": "2,653",
+      "stars": "31,320",
+      "forks": "2,994",
+      "addStars": "2,968",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
@@ -158,9 +158,9 @@
       "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "58,749",
-      "forks": "7,630",
-      "addStars": "3,390",
+      "stars": "58,831",
+      "forks": "7,645",
+      "addStars": "3,649",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/62287848?s=40&v=4",
@@ -195,9 +195,9 @@
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,346",
+      "stars": "6,390",
       "forks": "244",
-      "addStars": "3,762",
+      "addStars": "3,187",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2621?s=40&v=4",
@@ -232,9 +232,9 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,915",
-      "forks": "3,924",
-      "addStars": "6,898",
+      "stars": "42,974",
+      "forks": "3,928",
+      "addStars": "5,491",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
@@ -264,9 +264,9 @@
       "description": "",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "10,754",
-      "forks": "1,374",
-      "addStars": "1,982",
+      "stars": "10,794",
+      "forks": "1,380",
+      "addStars": "1,631",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25259084?s=40&v=4",
@@ -301,9 +301,9 @@
       "description": "A modern formatting library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "25,559",
-      "forks": "3,042",
-      "addStars": "1,671",
+      "stars": "25,576",
+      "forks": "3,043",
+      "addStars": "1,809",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/576385?s=40&v=4",
@@ -333,9 +333,9 @@
       "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,465",
+      "stars": "7,486",
       "forks": "821",
-      "addStars": "1,975",
+      "addStars": "1,996",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/36500279?s=40&v=4",
@@ -365,9 +365,9 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "18,851",
-      "forks": "2,426",
-      "addStars": "5,150",
+      "stars": "19,039",
+      "forks": "2,442",
+      "addStars": "6,761",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
@@ -402,9 +402,9 @@
       "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,110",
-      "forks": "224",
-      "addStars": "740",
+      "stars": "3,259",
+      "forks": "233",
+      "addStars": "1,396",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28166244?s=40&v=4",
@@ -434,9 +434,9 @@
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,243",
-      "forks": "2,156",
-      "addStars": "2,950",
+      "stars": "17,297",
+      "forks": "2,167",
+      "addStars": "2,755",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
@@ -471,9 +471,9 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "17,948",
-      "forks": "3,627",
-      "addStars": "7,314",
+      "stars": "18,048",
+      "forks": "3,649",
+      "addStars": "5,926",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/106619546?s=40&v=4",
@@ -508,9 +508,9 @@
       "description": "A collection of MCP servers.",
       "language": "",
       "languageColor": "",
-      "stars": "94,301",
-      "forks": "15,693",
-      "addStars": "1,198",
+      "stars": "94,345",
+      "forks": "15,713",
+      "addStars": "1,287",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/108313943?s=40&v=4",
@@ -545,9 +545,9 @@
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "30,573",
-      "forks": "3,379",
-      "addStars": "2,065",
+      "stars": "30,607",
+      "forks": "3,383",
+      "addStars": "2,010",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2702526?s=40&v=4",
@@ -577,9 +577,9 @@
       "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "10,911",
-      "forks": "910",
-      "addStars": "903",
+      "stars": "10,922",
+      "forks": "912",
+      "addStars": "926",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1644696?s=40&v=4",
@@ -609,9 +609,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "249,658",
-      "forks": "37,592",
-      "addStars": "4,815",
+      "stars": "250,027",
+      "forks": "37,626",
+      "addStars": "5,445",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
@@ -641,9 +641,9 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "51,044",
-      "forks": "3,578",
-      "addStars": "1,067",
+      "stars": "51,079",
+      "forks": "3,581",
+      "addStars": "958",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
@@ -673,9 +673,9 @@
       "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "9,539",
+      "stars": "9,545",
       "forks": "4,218",
-      "addStars": "569",
+      "addStars": "536",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/812984?s=40&v=4",
@@ -705,9 +705,9 @@
       "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "77,866",
-      "forks": "9,470",
-      "addStars": "2,372",
+      "stars": "77,923",
+      "forks": "9,476",
+      "addStars": "2,034",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/23818?s=40&v=4",
