@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sun, 06 Sep 2026 03:26:14 GMT",
+  "pubDate": "Sun, 06 Sep 2026 10:39:59 GMT",
   "items": [
     {
       "title": "tt-a1i/archify",
@@ -10,8 +10,8 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "49,562",
-      "forks": "3,215",
+      "stars": "50,048",
+      "forks": "3,250",
       "addStars": "19,480",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "31,987",
-      "forks": "5,244",
+      "stars": "32,178",
+      "forks": "5,264",
       "addStars": "10,109",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "runs anywhere. uses anything",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "32,721",
-      "forks": "9,063",
+      "stars": "32,759",
+      "forks": "9,066",
       "addStars": "1,839",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "31,320",
-      "forks": "2,994",
+      "stars": "31,411",
+      "forks": "3,006",
       "addStars": "2,968",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "58,831",
-      "forks": "7,645",
+      "stars": "58,976",
+      "forks": "7,661",
       "addStars": "3,649",
       "contributors": [
         {
@@ -195,8 +195,8 @@
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,390",
-      "forks": "244",
+      "stars": "6,437",
+      "forks": "245",
       "addStars": "3,187",
       "contributors": [
         {
@@ -232,8 +232,8 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,974",
-      "forks": "3,928",
+      "stars": "43,123",
+      "forks": "3,936",
       "addStars": "5,491",
       "contributors": [
         {
@@ -264,8 +264,8 @@
       "description": "",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "10,794",
-      "forks": "1,380",
+      "stars": "10,837",
+      "forks": "1,385",
       "addStars": "1,631",
       "contributors": [
         {
@@ -301,7 +301,7 @@
       "description": "A modern formatting library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "25,576",
+      "stars": "25,600",
       "forks": "3,043",
       "addStars": "1,809",
       "contributors": [
@@ -333,8 +333,8 @@
       "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,486",
-      "forks": "821",
+      "stars": "7,536",
+      "forks": "823",
       "addStars": "1,996",
       "contributors": [
         {
@@ -365,8 +365,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "19,039",
-      "forks": "2,442",
+      "stars": "19,321",
+      "forks": "2,466",
       "addStars": "6,761",
       "contributors": [
         {
@@ -402,8 +402,8 @@
       "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,259",
-      "forks": "233",
+      "stars": "3,382",
+      "forks": "244",
       "addStars": "1,396",
       "contributors": [
         {
@@ -434,8 +434,8 @@
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,297",
-      "forks": "2,167",
+      "stars": "17,351",
+      "forks": "2,183",
       "addStars": "2,755",
       "contributors": [
         {
@@ -471,8 +471,8 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "18,048",
-      "forks": "3,649",
+      "stars": "18,219",
+      "forks": "3,679",
       "addStars": "5,926",
       "contributors": [
         {
@@ -508,8 +508,8 @@
       "description": "A collection of MCP servers.",
       "language": "",
       "languageColor": "",
-      "stars": "94,345",
-      "forks": "15,713",
+      "stars": "94,385",
+      "forks": "15,727",
       "addStars": "1,287",
       "contributors": [
         {
@@ -545,8 +545,8 @@
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "30,607",
-      "forks": "3,383",
+      "stars": "30,662",
+      "forks": "3,389",
       "addStars": "2,010",
       "contributors": [
         {
@@ -577,8 +577,8 @@
       "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "10,922",
-      "forks": "912",
+      "stars": "10,935",
+      "forks": "913",
       "addStars": "926",
       "contributors": [
         {
@@ -609,8 +609,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "250,027",
-      "forks": "37,626",
+      "stars": "250,400",
+      "forks": "37,671",
       "addStars": "5,445",
       "contributors": [
         {
@@ -641,8 +641,8 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "51,079",
-      "forks": "3,581",
+      "stars": "51,105",
+      "forks": "3,585",
       "addStars": "958",
       "contributors": [
         {
@@ -673,8 +673,8 @@
       "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "9,545",
-      "forks": "4,218",
+      "stars": "9,548",
+      "forks": "4,220",
       "addStars": "536",
       "contributors": [
         {
@@ -705,8 +705,8 @@
       "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "77,923",
-      "forks": "9,476",
+      "stars": "77,979",
+      "forks": "9,485",
       "addStars": "2,034",
       "contributors": [
         {
