@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sun, 06 Sep 2026 19:55:38 GMT",
+  "pubDate": "Mon, 07 Sep 2026 03:25:40 GMT",
   "items": [
     {
       "title": "tt-a1i/archify",
@@ -10,9 +10,9 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "50,615",
-      "forks": "3,294",
-      "addStars": "19,480",
+      "stars": "51,102",
+      "forks": "3,331",
+      "addStars": "17,190",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,608",
-      "forks": "256",
-      "addStars": "1,396",
+      "stars": "3,739",
+      "forks": "265",
+      "addStars": "1,961",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28166244?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "32,354",
-      "forks": "5,289",
-      "addStars": "10,109",
+      "stars": "32,519",
+      "forks": "5,307",
+      "addStars": "9,193",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "runs anywhere. uses anything",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "32,819",
-      "forks": "9,063",
-      "addStars": "1,839",
+      "stars": "32,857",
+      "forks": "9,059",
+      "addStars": "1,944",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/268502447?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "RL training environments for Microduck (mjlab)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,810",
-      "forks": "363",
-      "addStars": "1,247",
+      "stars": "1,833",
+      "forks": "364",
+      "addStars": "1,122",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6552564?s=40&v=4",
@@ -190,9 +190,9 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "31,584",
-      "forks": "3,022",
-      "addStars": "2,968",
+      "stars": "31,668",
+      "forks": "3,030",
+      "addStars": "3,203",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
@@ -227,9 +227,9 @@
       "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "59,112",
-      "forks": "7,674",
-      "addStars": "3,649",
+      "stars": "59,208",
+      "forks": "7,690",
+      "addStars": "3,816",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/62287848?s=40&v=4",
@@ -264,9 +264,9 @@
       "description": "A modern formatting library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "25,617",
-      "forks": "3,044",
-      "addStars": "1,809",
+      "stars": "25,625",
+      "forks": "3,046",
+      "addStars": "1,885",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/576385?s=40&v=4",
@@ -296,9 +296,9 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "19,720",
-      "forks": "2,502",
-      "addStars": "6,761",
+      "stars": "19,961",
+      "forks": "2,526",
+      "addStars": "7,513",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
@@ -333,9 +333,9 @@
       "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,749",
-      "forks": "838",
-      "addStars": "1,996",
+      "stars": "7,946",
+      "forks": "852",
+      "addStars": "2,093",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/36500279?s=40&v=4",
@@ -365,9 +365,9 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "43,257",
-      "forks": "3,942",
-      "addStars": "5,491",
+      "stars": "43,353",
+      "forks": "3,949",
+      "addStars": "4,718",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
@@ -397,9 +397,9 @@
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,510",
-      "forks": "248",
-      "addStars": "3,187",
+      "stars": "6,571",
+      "forks": "255",
+      "addStars": "2,467",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2621?s=40&v=4",
@@ -434,9 +434,9 @@
       "description": "TypeScript-first schema validation with static type inference",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "43,855",
-      "forks": "2,177",
-      "addStars": "304",
+      "stars": "43,864",
+      "forks": "2,179",
+      "addStars": "277",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3084745?s=40&v=4",
@@ -471,9 +471,9 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "51,151",
-      "forks": "3,589",
-      "addStars": "958",
+      "stars": "51,182",
+      "forks": "3,594",
+      "addStars": "965",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
@@ -503,9 +503,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "251,038",
-      "forks": "37,745",
-      "addStars": "5,445",
+      "stars": "251,566",
+      "forks": "37,806",
+      "addStars": "6,394",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
@@ -535,9 +535,9 @@
       "description": "",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "10,925",
-      "forks": "1,393",
-      "addStars": "1,631",
+      "stars": "10,992",
+      "forks": "1,402",
+      "addStars": "1,478",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25259084?s=40&v=4",
@@ -572,9 +572,9 @@
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,459",
-      "forks": "2,204",
-      "addStars": "2,755",
+      "stars": "17,530",
+      "forks": "2,212",
+      "addStars": "2,503",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
@@ -609,9 +609,9 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "129,120",
-      "forks": "6,915",
-      "addStars": "11,730",
+      "stars": "129,622",
+      "forks": "6,943",
+      "addStars": "12,186",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
@@ -646,9 +646,9 @@
       "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "10,952",
+      "stars": "10,980",
       "forks": "914",
-      "addStars": "926",
+      "addStars": "893",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1644696?s=40&v=4",
@@ -678,9 +678,9 @@
       "description": "A collection of MCP servers.",
       "language": "",
       "languageColor": "",
-      "stars": "94,459",
-      "forks": "15,757",
-      "addStars": "1,287",
+      "stars": "94,500",
+      "forks": "15,773",
+      "addStars": "1,326",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/108313943?s=40&v=4",
@@ -715,9 +715,9 @@
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "46,554",
+      "stars": "46,617",
       "forks": "3,650",
-      "addStars": "2,293",
+      "addStars": "2,334",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/132531341?s=40&v=4",
