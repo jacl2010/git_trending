@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Mon, 07 Sep 2026 16:49:23 GMT",
+  "pubDate": "Mon, 07 Sep 2026 21:03:33 GMT",
   "items": [
     {
       "title": "magnitudedev/magnitude",
@@ -10,8 +10,8 @@
       "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,986",
-      "forks": "287",
+      "stars": "4,013",
+      "forks": "290",
       "addStars": "1,961",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "52,325",
-      "forks": "3,419",
+      "stars": "52,679",
+      "forks": "3,440",
       "addStars": "17,190",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "runs anywhere. uses anything",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "32,908",
-      "forks": "9,062",
+      "stars": "32,928",
+      "forks": "9,066",
       "addStars": "1,944",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "32,942",
-      "forks": "5,359",
+      "stars": "33,010",
+      "forks": "5,366",
       "addStars": "9,193",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "31,799",
-      "forks": "3,039",
+      "stars": "31,824",
+      "forks": "3,038",
       "addStars": "3,203",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "59,423",
-      "forks": "7,709",
+      "stars": "59,456",
+      "forks": "7,711",
       "addStars": "3,816",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "RL training environments for Microduck (mjlab)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,889",
-      "forks": "373",
+      "stars": "1,897",
+      "forks": "375",
       "addStars": "1,122",
       "contributors": [
         {
@@ -264,7 +264,7 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,463",
+      "stars": "20,550",
       "forks": "2,569",
       "addStars": "7,513",
       "contributors": [
@@ -289,9 +289,9 @@
           "url": "https://github.com/paoloantinori"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13193085?s=40&v=4",
-          "name": "bultodepapas",
-          "url": "https://github.com/bultodepapas"
+          "avatar": "https://avatars.githubusercontent.com/u/19777571?s=40&v=4",
+          "name": "psiberfunk",
+          "url": "https://github.com/psiberfunk"
         }
       ]
     },
@@ -301,8 +301,8 @@
       "description": "A modern formatting library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "25,642",
-      "forks": "3,046",
+      "stars": "25,648",
+      "forks": "3,045",
       "addStars": "1,885",
       "contributors": [
         {
@@ -333,8 +333,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "252,512",
-      "forks": "37,892",
+      "stars": "252,691",
+      "forks": "37,910",
       "addStars": "6,394",
       "contributors": [
         {
@@ -365,8 +365,8 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "130,673",
-      "forks": "6,999",
+      "stars": "130,833",
+      "forks": "7,010",
       "addStars": "12,186",
       "contributors": [
         {
@@ -402,8 +402,8 @@
       "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,380",
-      "forks": "878",
+      "stars": "8,402",
+      "forks": "879",
       "addStars": "2,093",
       "contributors": [
         {
@@ -434,7 +434,7 @@
       "description": "GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports. If you want learn how to sell this to real businesses, check out the skool community",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "10,358",
+      "stars": "10,384",
       "forks": "1,582",
       "addStars": "434",
       "contributors": [
@@ -466,8 +466,8 @@
       "description": "The open source AI research agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,952",
-      "forks": "1,035",
+      "stars": "9,006",
+      "forks": "1,037",
       "addStars": "262",
       "contributors": [
         {
@@ -503,7 +503,7 @@
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "46,781",
+      "stars": "46,800",
       "forks": "3,660",
       "addStars": "2,334",
       "contributors": [
@@ -540,7 +540,7 @@
       "description": "TypeScript-first schema validation with static type inference",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "43,883",
+      "stars": "43,886",
       "forks": "2,178",
       "addStars": "277",
       "contributors": [
@@ -577,7 +577,7 @@
       "description": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026]",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,352",
+      "stars": "9,366",
       "forks": "1,185",
       "addStars": "224",
       "contributors": [
@@ -604,8 +604,8 @@
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,669",
-      "forks": "2,232",
+      "stars": "17,700",
+      "forks": "2,236",
       "addStars": "2,503",
       "contributors": [
         {
@@ -641,7 +641,7 @@
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,676",
+      "stars": "6,698",
       "forks": "263",
       "addStars": "2,467",
       "contributors": [
