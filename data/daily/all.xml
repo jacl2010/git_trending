@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Mon, 07 Sep 2026 12:06:35 GMT</pubDate>
+    <pubDate>Mon, 07 Sep 2026 16:49:23 GMT</pubDate>
     <item>
       <title>heygen-com/hyperframes</title>
       <link>https://github.com/heygen-com/hyperframes</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/heygen-com/hyperframes</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>44,693</stars>
-      <forks>4,262</forks>
-      <addStars>220</addStars>
+      <stars>45,273</stars>
+      <forks>4,288</forks>
+      <addStars>734</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/229591595?s=40&amp;v=4</avatar>
@@ -49,8 +49,8 @@
       <guid>https://github.com/microsoft/markitdown</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>179,243</stars>
-      <forks>13,210</forks>
+      <stars>179,751</stars>
+      <forks>13,237</forks>
       <addStars>771</addStars>
       <contributors>
         <contributor>
@@ -87,9 +87,9 @@
       <guid>https://github.com/mksglu/context-mode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>20,541</stars>
-      <forks>1,512</forks>
-      <addStars>85</addStars>
+      <stars>20,670</stars>
+      <forks>1,514</forks>
+      <addStars>147</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/6067714?s=40&amp;v=4</avatar>
@@ -120,8 +120,8 @@
       <guid>https://github.com/jo-inc/camofox-browser</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>9,307</stars>
-      <forks>1,003</forks>
+      <stars>9,474</stars>
+      <forks>1,005</forks>
       <addStars>117</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/MoonTechLab/LunaTV</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>9,567</stars>
-      <forks>8,973</forks>
+      <stars>9,646</stars>
+      <forks>8,979</forks>
       <addStars>171</addStars>
       <contributors>
         <contributor>
@@ -191,8 +191,8 @@
       <guid>https://github.com/affaan-m/ECC</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>252,297</stars>
-      <forks>37,869</forks>
+      <stars>252,512</stars>
+      <forks>37,892</forks>
       <addStars>1,905</addStars>
       <contributors>
         <contributor>
@@ -224,9 +224,9 @@
       <guid>https://github.com/coreyhaines31/marketingskills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>47,820</stars>
-      <forks>7,412</forks>
-      <addStars>329</addStars>
+      <stars>47,962</stars>
+      <forks>7,417</forks>
+      <addStars>602</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/34802794?s=40&amp;v=4</avatar>
@@ -262,9 +262,9 @@
       <guid>https://github.com/The-Swarm-Corporation/AutoHedge</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,998</stars>
-      <forks>790</forks>
-      <addStars>142</addStars>
+      <stars>5,106</stars>
+      <forks>796</forks>
+      <addStars>541</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/98760976?s=40&amp;v=4</avatar>
@@ -280,8 +280,8 @@
       <guid>https://github.com/BraveOPotato/FckSignups</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,579</stars>
-      <forks>214</forks>
+      <stars>3,679</stars>
+      <forks>217</forks>
       <addStars>497</addStars>
       <contributors>
         <contributor>
@@ -295,6 +295,11 @@
           <url>https://github.com/Moamal-2000</url>
         </contributor>
         <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/67431669?s=40&amp;v=4</avatar>
+          <name>ic0e</name>
+          <url>https://github.com/ic0e</url>
+        </contributor>
+        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/7275943?s=40&amp;v=4</avatar>
           <name>AnandSundar</name>
           <url>https://github.com/AnandSundar</url>
@@ -303,11 +308,6 @@
           <avatar>https://avatars.githubusercontent.com/u/9936881?s=40&amp;v=4</avatar>
           <name>mbj36</name>
           <url>https://github.com/mbj36</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/36368107?s=40&amp;v=4</avatar>
-          <name>HoangTran0410</name>
-          <url>https://github.com/HoangTran0410</url>
         </contributor>
       </contributors>
     </item>
@@ -318,8 +318,8 @@
       <guid>https://github.com/bytedance/deer-flow</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>81,679</stars>
-      <forks>11,283</forks>
+      <stars>81,747</stars>
+      <forks>11,286</forks>
       <addStars>188</addStars>
       <contributors>
         <contributor>
@@ -356,9 +356,9 @@
       <guid>https://github.com/openai/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>25,808</stars>
-      <forks>1,736</forks>
-      <addStars>46</addStars>
+      <stars>25,899</stars>
+      <forks>1,744</forks>
+      <addStars>372</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/200841172?s=40&amp;v=4</avatar>
@@ -394,8 +394,8 @@
       <guid>https://github.com/lightpanda-io/browser</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>34,633</stars>
-      <forks>1,641</forks>
+      <stars>34,721</stars>
+      <forks>1,644</forks>
       <addStars>116</addStars>
       <contributors>
         <contributor>
@@ -432,8 +432,8 @@
       <guid>https://github.com/pascalorg/editor</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>22,038</stars>
-      <forks>2,843</forks>
+      <stars>22,189</stars>
+      <forks>2,854</forks>
       <addStars>136</addStars>
       <contributors>
         <contributor>
@@ -470,8 +470,8 @@
       <guid>https://github.com/ruvnet/ruflo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>71,197</stars>
-      <forks>8,448</forks>
+      <stars>71,278</stars>
+      <forks>8,452</forks>
       <addStars>392</addStars>
       <contributors>
         <contributor>

@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Mon, 07 Sep 2026 12:06:35 GMT</pubDate>
+    <pubDate>Mon, 07 Sep 2026 16:49:23 GMT</pubDate>
     <item>
       <title>magnitudedev/magnitude</title>
       <link>https://github.com/magnitudedev/magnitude</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/magnitudedev/magnitude</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,918</stars>
-      <forks>282</forks>
+      <stars>3,986</stars>
+      <forks>287</forks>
       <addStars>1,961</addStars>
       <contributors>
         <contributor>
@@ -44,8 +44,8 @@
       <guid>https://github.com/tt-a1i/archify</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>51,851</stars>
-      <forks>3,387</forks>
+      <stars>52,325</stars>
+      <forks>3,419</forks>
       <addStars>17,190</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/Gitlawb/openclaude</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>32,882</stars>
-      <forks>9,063</forks>
+      <stars>32,908</stars>
+      <forks>9,062</forks>
       <addStars>1,944</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/THU-MAIC/OpenMAIC</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>32,790</stars>
-      <forks>5,339</forks>
+      <stars>32,942</stars>
+      <forks>5,359</forks>
       <addStars>9,193</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/google-research/timesfm</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>31,749</stars>
-      <forks>3,037</forks>
+      <stars>31,799</stars>
+      <forks>3,039</forks>
       <addStars>3,203</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/jingyaogong/minimind</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>59,333</stars>
-      <forks>7,701</forks>
+      <stars>59,423</stars>
+      <forks>7,709</forks>
       <addStars>3,816</addStars>
       <contributors>
         <contributor>
@@ -234,8 +234,8 @@
       <guid>https://github.com/pollen-robotics/microduck_rl</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,873</stars>
-      <forks>369</forks>
+      <stars>1,889</stars>
+      <forks>373</forks>
       <addStars>1,122</addStars>
       <contributors>
         <contributor>
@@ -272,8 +272,8 @@
       <guid>https://github.com/debpalash/VoiceStudio</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>20,271</stars>
-      <forks>2,555</forks>
+      <stars>20,463</stars>
+      <forks>2,569</forks>
       <addStars>7,513</addStars>
       <contributors>
         <contributor>
@@ -310,7 +310,7 @@
       <guid>https://github.com/fmtlib/fmt</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>25,638</stars>
+      <stars>25,642</stars>
       <forks>3,046</forks>
       <addStars>1,885</addStars>
       <contributors>
@@ -343,8 +343,8 @@
       <guid>https://github.com/affaan-m/ECC</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>252,297</stars>
-      <forks>37,869</forks>
+      <stars>252,512</stars>
+      <forks>37,892</forks>
       <addStars>6,394</addStars>
       <contributors>
         <contributor>
@@ -376,8 +376,8 @@
       <guid>https://github.com/DietrichGebert/ponytail</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>130,355</stars>
-      <forks>6,987</forks>
+      <stars>130,673</stars>
+      <forks>6,999</forks>
       <addStars>12,186</addStars>
       <contributors>
         <contributor>
@@ -414,8 +414,8 @@
       <guid>https://github.com/handsomestWei/patent-disclosure-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,267</stars>
-      <forks>874</forks>
+      <stars>8,380</stars>
+      <forks>878</forks>
       <addStars>2,093</addStars>
       <contributors>
         <contributor>
@@ -447,7 +447,7 @@
       <guid>https://github.com/zubair-trabzada/geo-seo-claude</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>10,331</stars>
+      <stars>10,358</stars>
       <forks>1,582</forks>
       <addStars>434</addStars>
       <contributors>
@@ -480,8 +480,8 @@
       <guid>https://github.com/advaitpaliwal/feynman</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,900</stars>
-      <forks>1,034</forks>
+      <stars>8,952</stars>
+      <forks>1,035</forks>
       <addStars>262</addStars>
       <contributors>
         <contributor>
@@ -518,8 +518,8 @@
       <guid>https://github.com/Imbad0202/academic-research-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>46,718</stars>
-      <forks>3,656</forks>
+      <stars>46,781</stars>
+      <forks>3,660</forks>
       <addStars>2,334</addStars>
       <contributors>
         <contributor>
@@ -556,8 +556,8 @@
       <guid>https://github.com/colinhacks/zod</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>43,874</stars>
-      <forks>2,179</forks>
+      <stars>43,883</stars>
+      <forks>2,178</forks>
       <addStars>277</addStars>
       <contributors>
         <contributor>
@@ -594,8 +594,8 @@
       <guid>https://github.com/roboflow/rf-detr</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,335</stars>
-      <forks>1,184</forks>
+      <stars>9,352</stars>
+      <forks>1,185</forks>
       <addStars>224</addStars>
       <contributors>
         <contributor>
@@ -622,8 +622,8 @@
       <guid>https://github.com/every-app/open-seo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>17,621</stars>
-      <forks>2,226</forks>
+      <stars>17,669</stars>
+      <forks>2,232</forks>
       <addStars>2,503</addStars>
       <contributors>
         <contributor>
@@ -660,8 +660,8 @@
       <guid>https://github.com/tailscale/tailcat</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>6,645</stars>
-      <forks>261</forks>
+      <stars>6,676</stars>
+      <forks>263</forks>
       <addStars>2,467</addStars>
       <contributors>
         <contributor>
