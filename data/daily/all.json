@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Tue, 08 Sep 2026 20:38:24 GMT",
+  "pubDate": "Wed, 09 Sep 2026 03:36:03 GMT",
   "items": [
     {
       "title": "ayghri/i-have-adhd",
@@ -10,9 +10,9 @@
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "29,846",
-      "forks": "1,836",
-      "addStars": "422",
+      "stars": "31,009",
+      "forks": "1,876",
+      "addStars": "656",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "34,542",
-      "forks": "2,191",
-      "addStars": "1,020",
+      "stars": "35,113",
+      "forks": "2,213",
+      "addStars": "710",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
@@ -84,8 +84,8 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "26,454",
-      "forks": "1,775",
+      "stars": "26,582",
+      "forks": "1,781",
       "addStars": "490",
       "contributors": [
         {
@@ -121,9 +121,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "254,144",
-      "forks": "38,104",
-      "addStars": "1,426",
+      "stars": "254,414",
+      "forks": "38,119",
+      "addStars": "1,427",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "47,649",
-      "forks": "4,387",
-      "addStars": "2,628",
+      "stars": "47,890",
+      "forks": "4,399",
+      "addStars": "2,627",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
@@ -190,8 +190,8 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "48,723",
-      "forks": "7,490",
+      "stars": "48,909",
+      "forks": "7,498",
       "addStars": "666",
       "contributors": [
         {
@@ -227,9 +227,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "283,279",
-      "forks": "25,383",
-      "addStars": "446",
+      "stars": "283,443",
+      "forks": "25,376",
+      "addStars": "452",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -264,9 +264,9 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "211,365",
-      "forks": "21,470",
-      "addStars": "325",
+      "stars": "211,549",
+      "forks": "21,475",
+      "addStars": "333",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7857126?s=40&v=4",
@@ -301,9 +301,9 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "181,583",
-      "forks": "13,341",
-      "addStars": "2,045",
+      "stars": "181,808",
+      "forks": "13,351",
+      "addStars": "2,047",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4017093?s=40&v=4",
@@ -338,9 +338,9 @@
       "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "10,407",
-      "forks": "1,047",
-      "addStars": "872",
+      "stars": "10,590",
+      "forks": "1,057",
+      "addStars": "871",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/998?s=40&v=4",
@@ -375,8 +375,8 @@
       "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,139",
-      "forks": "9,044",
+      "stars": "10,234",
+      "forks": "9,055",
       "addStars": "505",
       "contributors": [
         {
@@ -404,12 +404,12 @@
     {
       "title": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "description": "Agents that use the browser.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "113,392",
-      "forks": "12,485",
-      "addStars": "320",
+      "stars": "113,615",
+      "forks": "12,495",
+      "addStars": "228",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/67061560?s=40&v=4",
@@ -444,9 +444,9 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "21,334",
-      "forks": "1,543",
-      "addStars": "652",
+      "stars": "21,455",
+      "forks": "1,545",
+      "addStars": "651",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
@@ -476,8 +476,8 @@
       "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,647",
-      "forks": "836",
+      "stars": "5,759",
+      "forks": "841",
       "addStars": "494",
       "contributors": [
         {
@@ -493,9 +493,9 @@
       "description": "📱 Display and control your Android device graphically with scrcpy.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "11,331",
-      "forks": "795",
-      "addStars": "173",
+      "stars": "11,451",
+      "forks": "798",
+      "addStars": "178",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/38282758?s=40&v=4",
@@ -530,9 +530,9 @@
       "description": "OpenAI Plugins",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "5,723",
-      "forks": "805",
-      "addStars": "176",
+      "stars": "5,870",
+      "forks": "803",
+      "addStars": "105",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/239646192?s=40&v=4",
