@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Fri, 11 Sep 2026 15:29:05 GMT",
+  "pubDate": "Fri, 11 Sep 2026 20:22:42 GMT",
   "items": [
     {
       "title": "ayghri/i-have-adhd",
@@ -10,8 +10,8 @@
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "40,533",
-      "forks": "2,312",
+      "stars": "41,355",
+      "forks": "2,348",
       "addStars": "10,215",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "256,296",
-      "forks": "38,353",
+      "stars": "256,434",
+      "forks": "38,370",
       "addStars": "9,257",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "135,551",
-      "forks": "7,266",
+      "stars": "135,733",
+      "forks": "7,273",
       "addStars": "11,638",
       "contributors": [
         {
@@ -116,7 +116,7 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,747",
+      "stars": "3,756",
       "forks": "110",
       "addStars": "2,609",
       "contributors": [
@@ -143,8 +143,8 @@
       "description": "OpenAI Plugins",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "6,428",
-      "forks": "847",
+      "stars": "6,436",
+      "forks": "848",
       "addStars": "1,018",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "58,220",
-      "forks": "3,798",
+      "stars": "58,422",
+      "forks": "3,812",
       "addStars": "11,958",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,138",
-      "forks": "1,593",
+      "stars": "22,176",
+      "forks": "1,598",
       "addStars": "1,619",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "259,521",
-      "forks": "21,873",
+      "stars": "259,685",
+      "forks": "21,897",
       "addStars": "12,356",
       "contributors": [
         {
@@ -276,8 +276,8 @@
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "46,814",
-      "forks": "3,822",
+      "stars": "46,879",
+      "forks": "3,827",
       "addStars": "5,224",
       "contributors": [
         {
@@ -313,8 +313,8 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "26,899",
-      "forks": "1,801",
+      "stars": "26,906",
+      "forks": "1,803",
       "addStars": "1,490",
       "contributors": [
         {
@@ -350,8 +350,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "48,956",
-      "forks": "4,483",
+      "stars": "48,993",
+      "forks": "4,484",
       "addStars": "4,896",
       "contributors": [
         {
@@ -387,8 +387,8 @@
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "38,331",
-      "forks": "2,426",
+      "stars": "38,415",
+      "forks": "2,435",
       "addStars": "7,329",
       "contributors": [
         {
@@ -424,7 +424,7 @@
       "description": "A modern formatting library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "25,735",
+      "stars": "25,738",
       "forks": "3,061",
       "addStars": "920",
       "contributors": [
@@ -456,8 +456,8 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "26,254",
-      "forks": "5,373",
+      "stars": "26,758",
+      "forks": "5,470",
       "addStars": "6,051",
       "contributors": [
         {
@@ -493,8 +493,8 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "49,566",
-      "forks": "7,538",
+      "stars": "49,604",
+      "forks": "7,545",
       "addStars": "2,711",
       "contributors": [
         {
@@ -530,8 +530,8 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "51,649",
-      "forks": "3,630",
+      "stars": "51,670",
+      "forks": "3,631",
       "addStars": "791",
       "contributors": [
         {
@@ -562,8 +562,8 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "182,619",
-      "forks": "13,425",
+      "stars": "182,663",
+      "forks": "13,429",
       "addStars": "4,579",
       "contributors": [
         {
@@ -594,8 +594,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "244,493",
-      "forks": "50,641",
+      "stars": "244,559",
+      "forks": "50,677",
       "addStars": "3,769",
       "contributors": [
         {
@@ -631,8 +631,8 @@
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "72,084",
-      "forks": "8,526",
+      "stars": "72,116",
+      "forks": "8,532",
       "addStars": "1,694",
       "contributors": [
         {
@@ -668,8 +668,8 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "35,782",
-      "forks": "5,685",
+      "stars": "35,854",
+      "forks": "5,693",
       "addStars": "4,174",
       "contributors": [
         {
@@ -705,8 +705,8 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "22,288",
-      "forks": "3,207",
+      "stars": "22,320",
+      "forks": "3,210",
       "addStars": "815",
       "contributors": [
         {
@@ -737,8 +737,8 @@
       "description": "A collection of agent skills that help you build a great interface.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "6,173",
-      "forks": "214",
+      "stars": "6,232",
+      "forks": "219",
       "addStars": "1,103",
       "contributors": [
         {
@@ -759,8 +759,8 @@
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "18,364",
-      "forks": "2,322",
+      "stars": "18,412",
+      "forks": "2,326",
       "addStars": "1,679",
       "contributors": [
         {
