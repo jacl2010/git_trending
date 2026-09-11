@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Thu, 10 Sep 2026 20:22:16 GMT",
+  "pubDate": "Fri, 11 Sep 2026 03:31:22 GMT",
   "items": [
     {
       "title": "ayghri/i-have-adhd",
@@ -10,9 +10,9 @@
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "37,867",
-      "forks": "2,186",
-      "addStars": "3,854",
+      "stars": "38,715",
+      "forks": "2,219",
+      "addStars": "3,882",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "23,750",
-      "forks": "4,944",
-      "addStars": "1,588",
+      "stars": "24,647",
+      "forks": "5,104",
+      "addStars": "1,762",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/106619546?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "284,629",
-      "forks": "25,459",
-      "addStars": "731",
+      "stars": "284,777",
+      "forks": "25,476",
+      "addStars": "732",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,543",
-      "forks": "250",
-      "addStars": "299",
+      "stars": "1,734",
+      "forks": "261",
+      "addStars": "277",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/193760801?s=40&v=4",
@@ -134,6 +134,11 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/108231307?s=40&v=4",
+          "name": "dajiaohuang",
+          "url": "https://github.com/dajiaohuang"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/259919097?s=40&v=4",
@@ -148,9 +153,9 @@
       "description": "Make Every Team AI Native",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,706",
-      "forks": "237",
-      "addStars": "837",
+      "stars": "3,886",
+      "forks": "252",
+      "addStars": "841",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/279665174?s=40&v=4",
@@ -185,9 +190,9 @@
       "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "35,670",
-      "forks": "2,260",
-      "addStars": "247",
+      "stars": "35,805",
+      "forks": "2,270",
+      "addStars": "258",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1235925?s=40&v=4",
@@ -212,9 +217,9 @@
       "description": "Notes of the book System Desgin Interview - An Insider's Guide",
       "language": "",
       "languageColor": "",
-      "stars": "18,675",
-      "forks": "3,475",
-      "addStars": "891",
+      "stars": "18,891",
+      "forks": "3,491",
+      "addStars": "900",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/26876811?s=40&v=4",
@@ -239,9 +244,9 @@
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "37,616",
-      "forks": "2,387",
-      "addStars": "1,287",
+      "stars": "37,891",
+      "forks": "2,399",
+      "addStars": "1,294",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
@@ -254,14 +259,14 @@
           "url": "https://github.com/parveen0029"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-          "name": "mvanhorn",
-          "url": "https://github.com/mvanhorn"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+          "name": "mvanhorn",
+          "url": "https://github.com/mvanhorn"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/19864447?s=40&v=4",
@@ -276,9 +281,9 @@
       "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "30,782",
-      "forks": "2,982",
-      "addStars": "957",
+      "stars": "30,961",
+      "forks": "3,001",
+      "addStars": "962",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
@@ -313,9 +318,9 @@
       "description": "Graphics Creation Tools",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "4,368",
-      "forks": "516",
-      "addStars": "87",
+      "stars": "4,462",
+      "forks": "522",
+      "addStars": "72",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3685704?s=40&v=4",
@@ -350,9 +355,9 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "64,115",
-      "forks": "8,981",
-      "addStars": "591",
+      "stars": "64,335",
+      "forks": "9,003",
+      "addStars": "626",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
@@ -382,9 +387,9 @@
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "27,404",
-      "forks": "3,002",
-      "addStars": "130",
+      "stars": "27,513",
+      "forks": "3,014",
+      "addStars": "98",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/13022503?s=40&v=4",
@@ -419,9 +424,9 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "35,201",
-      "forks": "5,621",
-      "addStars": "806",
+      "stars": "35,443",
+      "forks": "5,651",
+      "addStars": "837",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
@@ -456,9 +461,9 @@
       "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "18,010",
-      "forks": "2,097",
-      "addStars": "94",
+      "stars": "18,196",
+      "forks": "2,104",
+      "addStars": "142",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2127280?s=40&v=4",
@@ -493,9 +498,9 @@
       "description": "The open agent skills tool - npx skills",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "31,069",
-      "forks": "2,653",
-      "addStars": "175",
+      "stars": "31,211",
+      "forks": "2,665",
+      "addStars": "122",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32676955?s=40&v=4",
@@ -525,9 +530,9 @@
       "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,228",
-      "forks": "190",
-      "addStars": "636",
+      "stars": "2,371",
+      "forks": "197",
+      "addStars": "624",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/48862574?s=40&v=4",
