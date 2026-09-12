@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sat, 12 Sep 2026 03:36:31 GMT",
+  "pubDate": "Sat, 12 Sep 2026 10:25:58 GMT",
   "items": [
     {
       "title": "ayghri/i-have-adhd",
@@ -10,8 +10,8 @@
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,100",
-      "forks": "2,378",
+      "stars": "42,796",
+      "forks": "2,432",
       "addStars": "3,463",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "27,303",
-      "forks": "5,583",
+      "stars": "27,856",
+      "forks": "5,701",
       "addStars": "3,680",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "User friendly sideloader",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,930",
-      "forks": "204",
+      "stars": "2,981",
+      "forks": "206",
       "addStars": "50",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,400",
-      "forks": "503",
+      "stars": "1,531",
+      "forks": "513",
       "addStars": "152",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,818",
-      "forks": "221",
+      "stars": "2,946",
+      "forks": "227",
       "addStars": "552",
       "contributors": [
         {
@@ -173,14 +173,14 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/104554654?s=40&v=4",
-          "name": "Tioit-Wang",
-          "url": "https://github.com/Tioit-Wang"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/136247805?s=40&v=4",
           "name": "yg2224",
           "url": "https://github.com/yg2224"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/104554654?s=40&v=4",
+          "name": "Tioit-Wang",
+          "url": "https://github.com/Tioit-Wang"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/133179025?s=40&v=4",
@@ -195,8 +195,8 @@
       "description": "Graphics Creation Tools",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "4,747",
-      "forks": "534",
+      "stars": "4,813",
+      "forks": "537",
       "addStars": "350",
       "contributors": [
         {
@@ -232,8 +232,8 @@
       "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,188",
-      "forks": "285",
+      "stars": "2,292",
+      "forks": "293",
       "addStars": "626",
       "contributors": [
         {
@@ -264,8 +264,8 @@
       "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "18,795",
-      "forks": "2,135",
+      "stars": "18,956",
+      "forks": "2,147",
       "addStars": "647",
       "contributors": [
         {
@@ -301,8 +301,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "285,417",
-      "forks": "25,522",
+      "stars": "285,559",
+      "forks": "25,547",
       "addStars": "729",
       "contributors": [
         {
@@ -338,8 +338,8 @@
       "description": "Smart PVR for newsgroup and bittorrent users.",
       "language": "C#",
       "languageColor": "#7355dd",
-      "stars": "15,754",
-      "forks": "1,949",
+      "stars": "15,820",
+      "forks": "1,948",
       "addStars": "191",
       "contributors": [
         {
@@ -375,8 +375,8 @@
       "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,889",
-      "forks": "394",
+      "stars": "4,981",
+      "forks": "396",
       "addStars": "129",
       "contributors": [
         {
@@ -412,8 +412,8 @@
       "description": "Network stack research tool. TCP tunnel with pluggable transports.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "1,176",
-      "forks": "89",
+      "stars": "1,264",
+      "forks": "96",
       "addStars": "198",
       "contributors": [
         {
@@ -439,8 +439,8 @@
       "description": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,680",
-      "forks": "261",
+      "stars": "2,894",
+      "forks": "272",
       "addStars": "153",
       "contributors": [
         {
@@ -476,8 +476,8 @@
       "description": "Run parallel research agents with any model",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,333",
-      "forks": "94",
+      "stars": "1,493",
+      "forks": "106",
       "addStars": "120",
       "contributors": [
         {
@@ -501,9 +501,9 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1484206?s=40&v=4",
-          "name": "sfabbro",
-          "url": "https://github.com/sfabbro"
+          "avatar": "https://avatars.githubusercontent.com/u/108231307?s=40&v=4",
+          "name": "dajiaohuang",
+          "url": "https://github.com/dajiaohuang"
         }
       ]
     },
@@ -513,8 +513,8 @@
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "135,807",
-      "forks": "12,202",
+      "stars": "135,905",
+      "forks": "12,208",
       "addStars": "1,015",
       "contributors": [
         {
@@ -540,8 +540,8 @@
       "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "23,659",
-      "forks": "2,945",
+      "stars": "23,805",
+      "forks": "2,952",
       "addStars": "106",
       "contributors": [
         {

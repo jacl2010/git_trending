@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Sat, 12 Sep 2026 03:36:31 GMT</pubDate>
+    <pubDate>Sat, 12 Sep 2026 10:25:58 GMT</pubDate>
     <item>
       <title>ayghri/i-have-adhd</title>
       <link>https://github.com/ayghri/i-have-adhd</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/ayghri/i-have-adhd</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>42,100</stars>
-      <forks>2,378</forks>
+      <stars>42,796</stars>
+      <forks>2,432</forks>
       <addStars>3,463</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/bilawalsidhu/gods-eye-view</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>27,303</stars>
-      <forks>5,583</forks>
+      <stars>27,856</stars>
+      <forks>5,701</forks>
       <addStars>3,680</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/nab138/iloader</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>2,930</stars>
-      <forks>204</forks>
+      <stars>2,981</stars>
+      <forks>206</forks>
       <addStars>50</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/melgarafael/DeskcommCRM</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>1,400</stars>
-      <forks>503</forks>
+      <stars>1,531</stars>
+      <forks>513</forks>
       <addStars>152</addStars>
       <contributors>
         <contributor>
@@ -163,8 +163,8 @@
       <guid>https://github.com/vastsa/PI-Desktop</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>2,818</stars>
-      <forks>221</forks>
+      <stars>2,946</stars>
+      <forks>227</forks>
       <addStars>552</addStars>
       <contributors>
         <contributor>
@@ -178,14 +178,14 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/104554654?s=40&amp;v=4</avatar>
-          <name>Tioit-Wang</name>
-          <url>https://github.com/Tioit-Wang</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/136247805?s=40&amp;v=4</avatar>
           <name>yg2224</name>
           <url>https://github.com/yg2224</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/104554654?s=40&amp;v=4</avatar>
+          <name>Tioit-Wang</name>
+          <url>https://github.com/Tioit-Wang</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/133179025?s=40&amp;v=4</avatar>
@@ -201,8 +201,8 @@
       <guid>https://github.com/armory3d/armorpaint</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>4,747</stars>
-      <forks>534</forks>
+      <stars>4,813</stars>
+      <forks>537</forks>
       <addStars>350</addStars>
       <contributors>
         <contributor>
@@ -239,8 +239,8 @@
       <guid>https://github.com/alsk1992/CloddsBot</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>2,188</stars>
-      <forks>285</forks>
+      <stars>2,292</stars>
+      <forks>293</forks>
       <addStars>626</addStars>
       <contributors>
         <contributor>
@@ -272,8 +272,8 @@
       <guid>https://github.com/nashsu/llm_wiki</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>18,795</stars>
-      <forks>2,135</forks>
+      <stars>18,956</stars>
+      <forks>2,147</forks>
       <addStars>647</addStars>
       <contributors>
         <contributor>
@@ -310,8 +310,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>285,417</stars>
-      <forks>25,522</forks>
+      <stars>285,559</stars>
+      <forks>25,547</forks>
       <addStars>729</addStars>
       <contributors>
         <contributor>
@@ -348,8 +348,8 @@
       <guid>https://github.com/Sonarr/Sonarr</guid>
       <language>C#</language>
       <languageColor>#7355dd</languageColor>
-      <stars>15,754</stars>
-      <forks>1,949</forks>
+      <stars>15,820</stars>
+      <forks>1,948</forks>
       <addStars>191</addStars>
       <contributors>
         <contributor>
@@ -386,8 +386,8 @@
       <guid>https://github.com/jihe520/MathModelAgent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,889</stars>
-      <forks>394</forks>
+      <stars>4,981</stars>
+      <forks>396</forks>
       <addStars>129</addStars>
       <contributors>
         <contributor>
@@ -424,8 +424,8 @@
       <guid>https://github.com/p1neappleXpress/OpenFlux</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>1,176</stars>
-      <forks>89</forks>
+      <stars>1,264</stars>
+      <forks>96</forks>
       <addStars>198</addStars>
       <contributors>
         <contributor>
@@ -452,8 +452,8 @@
       <guid>https://github.com/jordan-gibbs/hyperresearch</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>2,680</stars>
-      <forks>261</forks>
+      <stars>2,894</stars>
+      <forks>272</forks>
       <addStars>153</addStars>
       <contributors>
         <contributor>
@@ -490,8 +490,8 @@
       <guid>https://github.com/alphaXiv/OpenResearch</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>1,333</stars>
-      <forks>94</forks>
+      <stars>1,493</stars>
+      <forks>106</forks>
       <addStars>120</addStars>
       <contributors>
         <contributor>
@@ -515,9 +515,9 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1484206?s=40&amp;v=4</avatar>
-          <name>sfabbro</name>
-          <url>https://github.com/sfabbro</url>
+          <avatar>https://avatars.githubusercontent.com/u/108231307?s=40&amp;v=4</avatar>
+          <name>dajiaohuang</name>
+          <url>https://github.com/dajiaohuang</url>
         </contributor>
       </contributors>
     </item>
@@ -528,8 +528,8 @@
       <guid>https://github.com/github/spec-kit</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>135,807</stars>
-      <forks>12,202</forks>
+      <stars>135,905</stars>
+      <forks>12,208</forks>
       <addStars>1,015</addStars>
       <contributors>
         <contributor>
@@ -556,8 +556,8 @@
       <guid>https://github.com/pascalorg/editor</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>23,659</stars>
-      <forks>2,945</forks>
+      <stars>23,805</stars>
+      <forks>2,952</forks>
       <addStars>106</addStars>
       <contributors>
         <contributor>
