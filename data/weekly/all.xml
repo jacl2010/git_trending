@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Sat, 12 Sep 2026 10:25:58 GMT</pubDate>
+    <pubDate>Sat, 12 Sep 2026 14:36:26 GMT</pubDate>
     <item>
       <title>ayghri/i-have-adhd</title>
       <link>https://github.com/ayghri/i-have-adhd</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/ayghri/i-have-adhd</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>42,796</stars>
-      <forks>2,432</forks>
+      <stars>43,029</stars>
+      <forks>2,448</forks>
       <addStars>13,164</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/affaan-m/ECC</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>256,759</stars>
-      <forks>38,425</forks>
+      <stars>256,859</stars>
+      <forks>38,439</forks>
       <addStars>8,714</addStars>
       <contributors>
         <contributor>
@@ -76,80 +76,14 @@
       </contributors>
     </item>
     <item>
-      <title>DietrichGebert/ponytail</title>
-      <link>https://github.com/DietrichGebert/ponytail</link>
-      <description>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</description>
-      <guid>https://github.com/DietrichGebert/ponytail</guid>
-      <language>JavaScript</language>
-      <languageColor>#f1e05a</languageColor>
-      <stars>136,171</stars>
-      <forks>7,300</forks>
-      <addStars>11,054</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/137048761?s=40&amp;v=4</avatar>
-          <name>DietrichGebert</name>
-          <url>https://github.com/DietrichGebert</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/169168095?s=40&amp;v=4</avatar>
-          <name>Lakshya77089</name>
-          <url>https://github.com/Lakshya77089</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2910651?s=40&amp;v=4</avatar>
-          <name>ousamabenyounes</name>
-          <url>https://github.com/ousamabenyounes</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/91044156?s=40&amp;v=4</avatar>
-          <name>dhedhialy</name>
-          <url>https://github.com/dhedhialy</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>humanlayer/skills</title>
-      <link>https://github.com/humanlayer/skills</link>
-      <description/>
-      <guid>https://github.com/humanlayer/skills</guid>
-      <language>TypeScript</language>
-      <languageColor>#3178c6</languageColor>
-      <stars>3,838</stars>
-      <forks>113</forks>
-      <addStars>1,637</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3730605?s=40&amp;v=4</avatar>
-          <name>dexhorthy</name>
-          <url>https://github.com/dexhorthy</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18430555?s=40&amp;v=4</avatar>
-          <name>K-Mistele</name>
-          <url>https://github.com/K-Mistele</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>openai/plugins</title>
       <link>https://github.com/openai/plugins</link>
       <description>OpenAI Plugins</description>
       <guid>https://github.com/openai/plugins</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>6,487</stars>
-      <forks>856</forks>
+      <stars>6,506</stars>
+      <forks>859</forks>
       <addStars>1,063</addStars>
       <contributors>
         <contributor>
@@ -180,14 +114,123 @@
       </contributors>
     </item>
     <item>
+      <title>DietrichGebert/ponytail</title>
+      <link>https://github.com/DietrichGebert/ponytail</link>
+      <description>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</description>
+      <guid>https://github.com/DietrichGebert/ponytail</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>136,339</stars>
+      <forks>7,311</forks>
+      <addStars>11,054</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/137048761?s=40&amp;v=4</avatar>
+          <name>DietrichGebert</name>
+          <url>https://github.com/DietrichGebert</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/169168095?s=40&amp;v=4</avatar>
+          <name>Lakshya77089</name>
+          <url>https://github.com/Lakshya77089</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2910651?s=40&amp;v=4</avatar>
+          <name>ousamabenyounes</name>
+          <url>https://github.com/ousamabenyounes</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/91044156?s=40&amp;v=4</avatar>
+          <name>dhedhialy</name>
+          <url>https://github.com/dhedhialy</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>mksglu/context-mode</title>
+      <link>https://github.com/mksglu/context-mode</link>
+      <description>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.</description>
+      <guid>https://github.com/mksglu/context-mode</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>22,288</stars>
+      <forks>1,605</forks>
+      <addStars>1,810</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6067714?s=40&amp;v=4</avatar>
+          <name>mksglu</name>
+          <url>https://github.com/mksglu</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/380338?s=40&amp;v=4</avatar>
+          <name>ipedro</name>
+          <url>https://github.com/ipedro</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2910651?s=40&amp;v=4</avatar>
+          <name>ousamabenyounes</name>
+          <url>https://github.com/ousamabenyounes</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>bilawalsidhu/gods-eye-view</title>
+      <link>https://github.com/bilawalsidhu/gods-eye-view</link>
+      <description>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.</description>
+      <guid>https://github.com/bilawalsidhu/gods-eye-view</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>28,574</stars>
+      <forks>5,811</forks>
+      <addStars>8,916</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/106619546?s=40&amp;v=4</avatar>
+          <name>bilawalsidhu</name>
+          <url>https://github.com/bilawalsidhu</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/845989?s=40&amp;v=4</avatar>
+          <name>samehkhamis</name>
+          <url>https://github.com/samehkhamis</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3943634?s=40&amp;v=4</avatar>
+          <name>Tom-Neverwinter</name>
+          <url>https://github.com/Tom-Neverwinter</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/301209272?s=40&amp;v=4</avatar>
+          <name>manjunath22466</name>
+          <url>https://github.com/manjunath22466</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>tt-a1i/archify</title>
       <link>https://github.com/tt-a1i/archify</link>
       <description>Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.</description>
       <guid>https://github.com/tt-a1i/archify</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>59,019</stars>
-      <forks>3,865</forks>
+      <stars>59,247</stars>
+      <forks>3,881</forks>
       <addStars>11,006</addStars>
       <contributors>
         <contributor>
@@ -218,112 +261,13 @@
       </contributors>
     </item>
     <item>
-      <title>mksglu/context-mode</title>
-      <link>https://github.com/mksglu/context-mode</link>
-      <description>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.</description>
-      <guid>https://github.com/mksglu/context-mode</guid>
-      <language>TypeScript</language>
-      <languageColor>#3178c6</languageColor>
-      <stars>22,263</stars>
-      <forks>1,606</forks>
-      <addStars>1,810</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6067714?s=40&amp;v=4</avatar>
-          <name>mksglu</name>
-          <url>https://github.com/mksglu</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/380338?s=40&amp;v=4</avatar>
-          <name>ipedro</name>
-          <url>https://github.com/ipedro</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2910651?s=40&amp;v=4</avatar>
-          <name>ousamabenyounes</name>
-          <url>https://github.com/ousamabenyounes</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>mattpocock/skills</title>
-      <link>https://github.com/mattpocock/skills</link>
-      <description>Skills for Real Engineers. Straight from my .agents directory.</description>
-      <guid>https://github.com/mattpocock/skills</guid>
-      <language>Shell</language>
-      <languageColor>#89e051</languageColor>
-      <stars>260,101</stars>
-      <forks>21,938</forks>
-      <addStars>10,571</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4</avatar>
-          <name>mattpocock</name>
-          <url>https://github.com/mattpocock</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/39256258?s=40&amp;v=4</avatar>
-          <name>gabimoncha</name>
-          <url>https://github.com/gabimoncha</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>blader/humanizer</title>
-      <link>https://github.com/blader/humanizer</link>
-      <description>Agent skill that removes signs of AI-generated writing from text</description>
-      <guid>https://github.com/blader/humanizer</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>47,093</stars>
-      <forks>3,841</forks>
-      <addStars>4,649</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1672?s=40&amp;v=4</avatar>
-          <name>blader</name>
-          <url>https://github.com/blader</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4</avatar>
-          <name>mvanhorn</name>
-          <url>https://github.com/mvanhorn</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8268155?s=40&amp;v=4</avatar>
-          <name>Scott-Emberson</name>
-          <url>https://github.com/Scott-Emberson</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/243858445?s=40&amp;v=4</avatar>
-          <name>warp-agent</name>
-          <url>https://github.com/warp-agent</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>openai/skills</title>
       <link>https://github.com/openai/skills</link>
       <description>Skills Catalog for Codex</description>
       <guid>https://github.com/openai/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>26,963</stars>
+      <stars>26,980</stars>
       <forks>1,806</forks>
       <addStars>1,532</addStars>
       <contributors>
@@ -361,8 +305,8 @@
       <guid>https://github.com/heygen-com/hyperframes</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>49,092</stars>
-      <forks>4,485</forks>
+      <stars>49,127</stars>
+      <forks>4,486</forks>
       <addStars>5,100</addStars>
       <contributors>
         <contributor>
@@ -393,14 +337,42 @@
       </contributors>
     </item>
     <item>
+      <title>humanlayer/skills</title>
+      <link>https://github.com/humanlayer/skills</link>
+      <description/>
+      <guid>https://github.com/humanlayer/skills</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>3,860</stars>
+      <forks>113</forks>
+      <addStars>1,637</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3730605?s=40&amp;v=4</avatar>
+          <name>dexhorthy</name>
+          <url>https://github.com/dexhorthy</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18430555?s=40&amp;v=4</avatar>
+          <name>K-Mistele</name>
+          <url>https://github.com/K-Mistele</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>cathrynlavery/diagram-design</title>
       <link>https://github.com/cathrynlavery/diagram-design</link>
       <description>38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.</description>
       <guid>https://github.com/cathrynlavery/diagram-design</guid>
       <language>HTML</language>
       <languageColor>#e34c26</languageColor>
-      <stars>38,641</stars>
-      <forks>2,457</forks>
+      <stars>38,716</stars>
+      <forks>2,461</forks>
       <addStars>7,776</addStars>
       <contributors>
         <contributor>
@@ -426,63 +398,20 @@
       </contributors>
     </item>
     <item>
-      <title>fmtlib/fmt</title>
-      <link>https://github.com/fmtlib/fmt</link>
-      <description>A modern formatting library</description>
-      <guid>https://github.com/fmtlib/fmt</guid>
-      <language>C++</language>
-      <languageColor>#f34b7d</languageColor>
-      <stars>25,749</stars>
-      <forks>3,062</forks>
-      <addStars>338</addStars>
+      <title>blader/humanizer</title>
+      <link>https://github.com/blader/humanizer</link>
+      <description>Agent skill that removes signs of AI-generated writing from text</description>
+      <guid>https://github.com/blader/humanizer</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>47,179</stars>
+      <forks>3,846</forks>
+      <addStars>4,649</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/576385?s=40&amp;v=4</avatar>
-          <name>vitaut</name>
-          <url>https://github.com/vitaut</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/382460?s=40&amp;v=4</avatar>
-          <name>phprus</name>
-          <url>https://github.com/phprus</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1554508?s=40&amp;v=4</avatar>
-          <name>alexezeder</name>
-          <url>https://github.com/alexezeder</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1381823?s=40&amp;v=4</avatar>
-          <name>DanielaE</name>
-          <url>https://github.com/DanielaE</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>bilawalsidhu/gods-eye-view</title>
-      <link>https://github.com/bilawalsidhu/gods-eye-view</link>
-      <description>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.</description>
-      <guid>https://github.com/bilawalsidhu/gods-eye-view</guid>
-      <language>JavaScript</language>
-      <languageColor>#f1e05a</languageColor>
-      <stars>27,856</stars>
-      <forks>5,701</forks>
-      <addStars>8,916</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/106619546?s=40&amp;v=4</avatar>
-          <name>bilawalsidhu</name>
-          <url>https://github.com/bilawalsidhu</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/845989?s=40&amp;v=4</avatar>
-          <name>samehkhamis</name>
-          <url>https://github.com/samehkhamis</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3943634?s=40&amp;v=4</avatar>
-          <name>Tom-Neverwinter</name>
-          <url>https://github.com/Tom-Neverwinter</url>
+          <avatar>https://avatars.githubusercontent.com/u/1672?s=40&amp;v=4</avatar>
+          <name>blader</name>
+          <url>https://github.com/blader</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -490,9 +419,113 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/301209272?s=40&amp;v=4</avatar>
-          <name>manjunath22466</name>
-          <url>https://github.com/manjunath22466</url>
+          <avatar>https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4</avatar>
+          <name>mvanhorn</name>
+          <url>https://github.com/mvanhorn</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8268155?s=40&amp;v=4</avatar>
+          <name>Scott-Emberson</name>
+          <url>https://github.com/Scott-Emberson</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/243858445?s=40&amp;v=4</avatar>
+          <name>warp-agent</name>
+          <url>https://github.com/warp-agent</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>microsoft/markitdown</title>
+      <link>https://github.com/microsoft/markitdown</link>
+      <description>Python tool for converting files and office documents to Markdown.</description>
+      <guid>https://github.com/microsoft/markitdown</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>182,995</stars>
+      <forks>13,458</forks>
+      <addStars>4,650</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4017093?s=40&amp;v=4</avatar>
+          <name>afourney</name>
+          <url>https://github.com/afourney</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13227607?s=40&amp;v=4</avatar>
+          <name>gagb</name>
+          <url>https://github.com/gagb</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10201242?s=40&amp;v=4</avatar>
+          <name>sugatoray</name>
+          <url>https://github.com/sugatoray</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/173082609?s=40&amp;v=4</avatar>
+          <name>PetrAPConsulting</name>
+          <url>https://github.com/PetrAPConsulting</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>ChromeDevTools/chrome-devtools-mcp</title>
+      <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
+      <description>Chrome DevTools for coding agents</description>
+      <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>51,733</stars>
+      <forks>3,634</forks>
+      <addStars>804</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/399150?s=40&amp;v=4</avatar>
+          <name>OrKoN</name>
+          <url>https://github.com/OrKoN</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/34244704?s=40&amp;v=4</avatar>
+          <name>Lightning00Blade</name>
+          <url>https://github.com/Lightning00Blade</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/133232582?s=40&amp;v=4</avatar>
+          <name>browser-automation-bot</name>
+          <url>https://github.com/browser-automation-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11618243?s=40&amp;v=4</avatar>
+          <name>yulunz</name>
+          <url>https://github.com/yulunz</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>mattpocock/skills</title>
+      <link>https://github.com/mattpocock/skills</link>
+      <description>Skills for Real Engineers. Straight from my .agents directory.</description>
+      <guid>https://github.com/mattpocock/skills</guid>
+      <language>Shell</language>
+      <languageColor>#89e051</languageColor>
+      <stars>260,244</stars>
+      <forks>21,949</forks>
+      <addStars>10,571</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4</avatar>
+          <name>mattpocock</name>
+          <url>https://github.com/mattpocock</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/39256258?s=40&amp;v=4</avatar>
+          <name>gabimoncha</name>
+          <url>https://github.com/gabimoncha</url>
         </contributor>
       </contributors>
     </item>
@@ -503,8 +536,8 @@
       <guid>https://github.com/coreyhaines31/marketingskills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>49,699</stars>
-      <forks>7,555</forks>
+      <stars>49,744</stars>
+      <forks>7,559</forks>
       <addStars>2,765</addStars>
       <contributors>
         <contributor>
@@ -535,156 +568,14 @@
       </contributors>
     </item>
     <item>
-      <title>ChromeDevTools/chrome-devtools-mcp</title>
-      <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
-      <description>Chrome DevTools for coding agents</description>
-      <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
-      <language>TypeScript</language>
-      <languageColor>#3178c6</languageColor>
-      <stars>51,718</stars>
-      <forks>3,633</forks>
-      <addStars>804</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/399150?s=40&amp;v=4</avatar>
-          <name>OrKoN</name>
-          <url>https://github.com/OrKoN</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/34244704?s=40&amp;v=4</avatar>
-          <name>Lightning00Blade</name>
-          <url>https://github.com/Lightning00Blade</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/133232582?s=40&amp;v=4</avatar>
-          <name>browser-automation-bot</name>
-          <url>https://github.com/browser-automation-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11618243?s=40&amp;v=4</avatar>
-          <name>yulunz</name>
-          <url>https://github.com/yulunz</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>microsoft/markitdown</title>
-      <link>https://github.com/microsoft/markitdown</link>
-      <description>Python tool for converting files and office documents to Markdown.</description>
-      <guid>https://github.com/microsoft/markitdown</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>182,845</stars>
-      <forks>13,446</forks>
-      <addStars>4,650</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4017093?s=40&amp;v=4</avatar>
-          <name>afourney</name>
-          <url>https://github.com/afourney</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13227607?s=40&amp;v=4</avatar>
-          <name>gagb</name>
-          <url>https://github.com/gagb</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10201242?s=40&amp;v=4</avatar>
-          <name>sugatoray</name>
-          <url>https://github.com/sugatoray</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/173082609?s=40&amp;v=4</avatar>
-          <name>PetrAPConsulting</name>
-          <url>https://github.com/PetrAPConsulting</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>NousResearch/hermes-agent</title>
-      <link>https://github.com/NousResearch/hermes-agent</link>
-      <description>The agent that grows with you</description>
-      <guid>https://github.com/NousResearch/hermes-agent</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>244,744</stars>
-      <forks>50,751</forks>
-      <addStars>3,481</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/127238744?s=40&amp;v=4</avatar>
-          <name>teknium1</name>
-          <url>https://github.com/teknium1</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/770929?s=40&amp;v=4</avatar>
-          <name>OutThisLife</name>
-          <url>https://github.com/OutThisLife</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/82637225?s=40&amp;v=4</avatar>
-          <name>kshitijk4poor</name>
-          <url>https://github.com/kshitijk4poor</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/666465?s=40&amp;v=4</avatar>
-          <name>ethernet8023</name>
-          <url>https://github.com/ethernet8023</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>ruvnet/ruflo</title>
-      <link>https://github.com/ruvnet/ruflo</link>
-      <description>🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated</description>
-      <guid>https://github.com/ruvnet/ruflo</guid>
-      <language>TypeScript</language>
-      <languageColor>#3178c6</languageColor>
-      <stars>72,195</stars>
-      <forks>8,540</forks>
-      <addStars>1,726</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4</avatar>
-          <name>ruvnet</name>
-          <url>https://github.com/ruvnet</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/214853444?s=40&amp;v=4</avatar>
-          <name>proffesor-for-testing</name>
-          <url>https://github.com/proffesor-for-testing</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/108231307?s=40&amp;v=4</avatar>
-          <name>dajiaohuang</name>
-          <url>https://github.com/dajiaohuang</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/22500633?s=40&amp;v=4</avatar>
-          <name>alexx-ftw</name>
-          <url>https://github.com/alexx-ftw</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>THU-MAIC/OpenMAIC</title>
       <link>https://github.com/THU-MAIC/OpenMAIC</link>
       <description>Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click</description>
       <guid>https://github.com/THU-MAIC/OpenMAIC</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>36,023</stars>
-      <forks>5,718</forks>
+      <stars>36,089</stars>
+      <forks>5,726</forks>
       <addStars>4,509</addStars>
       <contributors>
         <contributor>
@@ -721,8 +612,8 @@
       <guid>https://github.com/Tencent/WeKnora</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>22,495</stars>
-      <forks>3,232</forks>
+      <stars>22,572</stars>
+      <forks>3,240</forks>
       <addStars>964</addStars>
       <contributors>
         <contributor>
@@ -748,43 +639,53 @@
       </contributors>
     </item>
     <item>
-      <title>jakubkrehel/skills</title>
-      <link>https://github.com/jakubkrehel/skills</link>
-      <description>A collection of agent skills that help you build a great interface.</description>
-      <guid>https://github.com/jakubkrehel/skills</guid>
-      <language>Markdown</language>
-      <languageColor>#083fa1</languageColor>
-      <stars>6,377</stars>
-      <forks>225</forks>
-      <addStars>691</addStars>
+      <title>earthtojake/text-to-cad</title>
+      <link>https://github.com/earthtojake/text-to-cad</link>
+      <description>A library of agent skills for CAD, CAE and CAM</description>
+      <guid>https://github.com/earthtojake/text-to-cad</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>15,403</stars>
+      <forks>1,592</forks>
+      <addStars>1,071</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/87530089?s=40&amp;v=4</avatar>
-          <name>jakubkrehel</name>
-          <url>https://github.com/jakubkrehel</url>
+          <avatar>https://avatars.githubusercontent.com/u/10742417?s=40&amp;v=4</avatar>
+          <name>earthtojake</name>
+          <url>https://github.com/earthtojake</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
           <name>claude</name>
           <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/143688508?s=40&amp;v=4</avatar>
+          <name>warun7</name>
+          <url>https://github.com/warun7</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>every-app/open-seo</title>
-      <link>https://github.com/every-app/open-seo</link>
-      <description>Open source alternative to Semrush and Ahrefs</description>
-      <guid>https://github.com/every-app/open-seo</guid>
-      <language>TypeScript</language>
-      <languageColor>#3178c6</languageColor>
-      <stars>18,489</stars>
-      <forks>2,335</forks>
-      <addStars>1,507</addStars>
+      <title>obra/superpowers</title>
+      <link>https://github.com/obra/superpowers</link>
+      <description>An agentic skills framework &amp; software development methodology that works.</description>
+      <guid>https://github.com/obra/superpowers</guid>
+      <language>Shell</language>
+      <languageColor>#89e051</languageColor>
+      <stars>285,641</stars>
+      <forks>25,557</forks>
+      <addStars>3,829</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/44480372?s=40&amp;v=4</avatar>
-          <name>bensenescu</name>
-          <url>https://github.com/bensenescu</url>
+          <avatar>https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4</avatar>
+          <name>obra</name>
+          <url>https://github.com/obra</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4</avatar>
+          <name>arittr</name>
+          <url>https://github.com/arittr</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -792,19 +693,52 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/287046313?s=40&amp;v=4</avatar>
-          <name>jeremypenguin-max</name>
-          <url>https://github.com/jeremypenguin-max</url>
+          <avatar>https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4</avatar>
+          <name>clkao</name>
+          <url>https://github.com/clkao</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/68512992?s=40&amp;v=4</avatar>
-          <name>bookingseo</name>
-          <url>https://github.com/bookingseo</url>
+          <avatar>https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4</avatar>
+          <name>jjshanks</name>
+          <url>https://github.com/jjshanks</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>petergyang/no-ai-slop</title>
+      <link>https://github.com/petergyang/no-ai-slop</link>
+      <description>Removes 20+ patterns of AI slop from any piece of writing.</description>
+      <guid>https://github.com/petergyang/no-ai-slop</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>8,544</stars>
+      <forks>644</forks>
+      <addStars>1,255</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2383268?s=40&amp;v=4</avatar>
+          <name>petergyang</name>
+          <url>https://github.com/petergyang</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4</avatar>
-          <name>mvanhorn</name>
-          <url>https://github.com/mvanhorn</url>
+          <avatar>https://avatars.githubusercontent.com/u/374244?s=40&amp;v=4</avatar>
+          <name>amateurhuman</name>
+          <url>https://github.com/amateurhuman</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/517103?s=40&amp;v=4</avatar>
+          <name>tmchow</name>
+          <url>https://github.com/tmchow</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4305058?s=40&amp;v=4</avatar>
+          <name>tymrtn</name>
+          <url>https://github.com/tymrtn</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/59650384?s=40&amp;v=4</avatar>
+          <name>CooperSheroy</name>
+          <url>https://github.com/CooperSheroy</url>
         </contributor>
       </contributors>
     </item>
