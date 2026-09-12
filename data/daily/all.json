@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Fri, 11 Sep 2026 20:22:42 GMT",
+  "pubDate": "Sat, 12 Sep 2026 03:36:31 GMT",
   "items": [
     {
       "title": "ayghri/i-have-adhd",
@@ -10,9 +10,9 @@
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "41,355",
-      "forks": "2,348",
-      "addStars": "3,440",
+      "stars": "42,100",
+      "forks": "2,378",
+      "addStars": "3,463",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "26,757",
-      "forks": "5,470",
-      "addStars": "3,642",
+      "stars": "27,303",
+      "forks": "5,583",
+      "addStars": "3,680",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/106619546?s=40&v=4",
@@ -62,19 +62,19 @@
           "url": "https://github.com/samehkhamis"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/142947238?s=40&v=4",
-          "name": "onionviolet",
-          "url": "https://github.com/onionviolet"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/177599791?s=40&v=4",
-          "name": "ethanstoner",
-          "url": "https://github.com/ethanstoner"
+          "avatar": "https://avatars.githubusercontent.com/u/3943634?s=40&v=4",
+          "name": "Tom-Neverwinter",
+          "url": "https://github.com/Tom-Neverwinter"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/301209272?s=40&v=4",
+          "name": "manjunath22466",
+          "url": "https://github.com/manjunath22466"
         }
       ]
     },
@@ -84,9 +84,9 @@
       "description": "User friendly sideloader",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,873",
-      "forks": "200",
-      "addStars": "36",
+      "stars": "2,930",
+      "forks": "204",
+      "addStars": "50",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/56705177?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,268",
-      "forks": "483",
-      "addStars": "126",
+      "stars": "1,400",
+      "forks": "503",
+      "addStars": "152",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/119944436?s=40&v=4",
@@ -158,9 +158,9 @@
       "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,738",
-      "forks": "215",
-      "addStars": "545",
+      "stars": "2,818",
+      "forks": "221",
+      "addStars": "552",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/48862574?s=40&v=4",
@@ -195,9 +195,9 @@
       "description": "Graphics Creation Tools",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "4,686",
-      "forks": "532",
-      "addStars": "354",
+      "stars": "4,747",
+      "forks": "534",
+      "addStars": "350",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3685704?s=40&v=4",
@@ -232,9 +232,9 @@
       "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,090",
-      "forks": "278",
-      "addStars": "627",
+      "stars": "2,188",
+      "forks": "285",
+      "addStars": "626",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/193760801?s=40&v=4",
@@ -264,9 +264,9 @@
       "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "18,671",
-      "forks": "2,132",
-      "addStars": "640",
+      "stars": "18,795",
+      "forks": "2,135",
+      "addStars": "647",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2127280?s=40&v=4",
@@ -301,9 +301,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "285,303",
-      "forks": "25,513",
-      "addStars": "731",
+      "stars": "285,417",
+      "forks": "25,522",
+      "addStars": "729",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -338,9 +338,9 @@
       "description": "Smart PVR for newsgroup and bittorrent users.",
       "language": "C#",
       "languageColor": "#7355dd",
-      "stars": "15,706",
-      "forks": "1,948",
-      "addStars": "174",
+      "stars": "15,754",
+      "forks": "1,949",
+      "addStars": "191",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/413544?s=40&v=4",
@@ -375,9 +375,9 @@
       "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,829",
-      "forks": "390",
-      "addStars": "132",
+      "stars": "4,889",
+      "forks": "394",
+      "addStars": "129",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/36144612?s=40&v=4",
@@ -412,14 +412,19 @@
       "description": "Network stack research tool. TCP tunnel with pluggable transports.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "1,098",
-      "forks": "84",
-      "addStars": "201",
+      "stars": "1,176",
+      "forks": "89",
+      "addStars": "198",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/146814998?s=40&v=4",
           "name": "p1neappleXpress",
           "url": "https://github.com/p1neappleXpress"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/108231307?s=40&v=4",
+          "name": "dajiaohuang",
+          "url": "https://github.com/dajiaohuang"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/75240985?s=40&v=4",
@@ -434,9 +439,9 @@
       "description": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,495",
-      "forks": "255",
-      "addStars": "118",
+      "stars": "2,680",
+      "forks": "261",
+      "addStars": "153",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -444,14 +449,14 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/139834037?s=40&v=4",
-          "name": "jordan-gibbs",
-          "url": "https://github.com/jordan-gibbs"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/128011847?s=40&v=4",
           "name": "polonuim210",
           "url": "https://github.com/polonuim210"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/139834037?s=40&v=4",
+          "name": "jordan-gibbs",
+          "url": "https://github.com/jordan-gibbs"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/7126033?s=40&v=4",
@@ -471,9 +476,9 @@
       "description": "Run parallel research agents with any model",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,218",
-      "forks": "87",
-      "addStars": "156",
+      "stars": "1,333",
+      "forks": "94",
+      "addStars": "120",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/79390398?s=40&v=4",
@@ -508,9 +513,9 @@
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "135,702",
-      "forks": "12,199",
-      "addStars": "985",
+      "stars": "135,807",
+      "forks": "12,202",
+      "addStars": "1,015",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/15701806?s=40&v=4",
@@ -535,9 +540,9 @@
       "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "23,515",
-      "forks": "2,935",
-      "addStars": "83",
+      "stars": "23,659",
+      "forks": "2,945",
+      "addStars": "106",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6551176?s=40&v=4",
