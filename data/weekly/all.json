@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sat, 12 Sep 2026 20:07:02 GMT",
+  "pubDate": "Sun, 13 Sep 2026 03:43:11 GMT",
   "items": [
     {
       "title": "ayghri/i-have-adhd",
@@ -10,9 +10,9 @@
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "43,275",
-      "forks": "2,462",
-      "addStars": "13,164",
+      "stars": "43,523",
+      "forks": "2,481",
+      "addStars": "15,924",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "256,991",
-      "forks": "38,454",
-      "addStars": "8,714",
+      "stars": "257,175",
+      "forks": "38,477",
+      "addStars": "8,086",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "OpenAI Plugins",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "6,525",
-      "forks": "860",
-      "addStars": "1,063",
+      "stars": "6,545",
+      "forks": "862",
+      "addStars": "1,120",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/239646192?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "136,520",
-      "forks": "7,319",
-      "addStars": "11,054",
+      "stars": "136,709",
+      "forks": "7,334",
+      "addStars": "9,272",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,334",
-      "forks": "1,609",
-      "addStars": "1,810",
+      "stars": "22,401",
+      "forks": "1,613",
+      "addStars": "1,936",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
@@ -185,19 +185,19 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "29,468",
-      "forks": "5,957",
-      "addStars": "8,916",
+      "stars": "30,148",
+      "forks": "6,061",
+      "addStars": "10,510",
       "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/106619546?s=40&v=4",
-          "name": "bilawalsidhu",
-          "url": "https://github.com/bilawalsidhu"
-        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/845989?s=40&v=4",
           "name": "samehkhamis",
           "url": "https://github.com/samehkhamis"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/106619546?s=40&v=4",
+          "name": "bilawalsidhu",
+          "url": "https://github.com/bilawalsidhu"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/3943634?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "59,507",
-      "forks": "3,897",
-      "addStars": "11,006",
+      "stars": "59,788",
+      "forks": "3,911",
+      "addStars": "10,442",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
@@ -259,9 +259,9 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "26,999",
+      "stars": "27,026",
       "forks": "1,806",
-      "addStars": "1,532",
+      "addStars": "1,579",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&v=4",
@@ -296,9 +296,9 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "49,185",
-      "forks": "4,491",
-      "addStars": "5,100",
+      "stars": "49,245",
+      "forks": "4,494",
+      "addStars": "5,124",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
@@ -333,9 +333,9 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,899",
-      "forks": "115",
-      "addStars": "1,637",
+      "stars": "3,917",
+      "forks": "116",
+      "addStars": "1,380",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3730605?s=40&v=4",
@@ -360,9 +360,9 @@
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "38,811",
-      "forks": "2,464",
-      "addStars": "7,776",
+      "stars": "38,904",
+      "forks": "2,470",
+      "addStars": "7,409",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
@@ -392,9 +392,9 @@
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "47,277",
-      "forks": "3,849",
-      "addStars": "4,649",
+      "stars": "47,371",
+      "forks": "3,857",
+      "addStars": "4,069",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1672?s=40&v=4",
@@ -429,9 +429,9 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "183,176",
-      "forks": "13,467",
-      "addStars": "4,650",
+      "stars": "183,294",
+      "forks": "13,479",
+      "addStars": "4,823",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4017093?s=40&v=4",
@@ -461,9 +461,9 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "51,749",
-      "forks": "3,635",
-      "addStars": "804",
+      "stars": "51,769",
+      "forks": "3,639",
+      "addStars": "783",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
@@ -493,9 +493,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "260,396",
-      "forks": "21,961",
-      "addStars": "10,571",
+      "stars": "260,561",
+      "forks": "21,977",
+      "addStars": "8,960",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
@@ -520,9 +520,9 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "49,789",
-      "forks": "7,561",
-      "addStars": "2,765",
+      "stars": "49,843",
+      "forks": "7,571",
+      "addStars": "2,822",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/34802794?s=40&v=4",
@@ -557,9 +557,9 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "36,153",
-      "forks": "5,732",
-      "addStars": "4,509",
+      "stars": "36,234",
+      "forks": "5,746",
+      "addStars": "4,417",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
@@ -594,9 +594,9 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "22,638",
-      "forks": "3,251",
-      "addStars": "964",
+      "stars": "22,689",
+      "forks": "3,254",
+      "addStars": "1,168",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
@@ -626,9 +626,9 @@
       "description": "A library of agent skills for CAD, CAE and CAM",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,435",
-      "forks": "1,593",
-      "addStars": "1,071",
+      "stars": "15,466",
+      "forks": "1,597",
+      "addStars": "1,011",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10742417?s=40&v=4",
@@ -653,9 +653,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "285,751",
-      "forks": "25,563",
-      "addStars": "3,829",
+      "stars": "285,852",
+      "forks": "25,576",
+      "addStars": "3,938",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -690,9 +690,9 @@
       "description": "Removes 20+ patterns of AI slop from any piece of writing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,616",
-      "forks": "647",
-      "addStars": "1,255",
+      "stars": "8,697",
+      "forks": "648",
+      "addStars": "1,307",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2383268?s=40&v=4",

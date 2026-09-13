@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sat, 12 Sep 2026 20:07:02 GMT",
+  "pubDate": "Sun, 13 Sep 2026 03:43:11 GMT",
   "items": [
     {
       "title": "bilawalsidhu/gods-eye-view",
@@ -10,19 +10,19 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "29,468",
-      "forks": "5,957",
+      "stars": "30,148",
+      "forks": "6,060",
       "addStars": "2,265",
       "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/106619546?s=40&v=4",
-          "name": "bilawalsidhu",
-          "url": "https://github.com/bilawalsidhu"
-        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/845989?s=40&v=4",
           "name": "samehkhamis",
           "url": "https://github.com/samehkhamis"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/106619546?s=40&v=4",
+          "name": "bilawalsidhu",
+          "url": "https://github.com/bilawalsidhu"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/3943634?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,730",
-      "forks": "542",
-      "addStars": "505",
+      "stars": "1,851",
+      "forks": "557",
+      "addStars": "504",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/119944436?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "65,317",
-      "forks": "10,726",
-      "addStars": "357",
+      "stars": "65,493",
+      "forks": "10,750",
+      "addStars": "217",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
@@ -121,8 +121,8 @@
       "description": "User friendly sideloader",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,053",
-      "forks": "209",
+      "stars": "3,105",
+      "forks": "213",
       "addStars": "209",
       "contributors": [
         {
@@ -158,9 +158,9 @@
       "description": "",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "33,199",
-      "forks": "2,539",
-      "addStars": "52",
+      "stars": "33,215",
+      "forks": "2,540",
+      "addStars": "65",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/50780822?s=40&v=4",
@@ -195,9 +195,9 @@
       "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,100",
-      "forks": "401",
-      "addStars": "264",
+      "stars": "5,163",
+      "forks": "403",
+      "addStars": "262",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/36144612?s=40&v=4",
@@ -232,9 +232,9 @@
       "description": "Smart PVR for newsgroup and bittorrent users.",
       "language": "C#",
       "languageColor": "#7355dd",
-      "stars": "15,890",
-      "forks": "1,952",
-      "addStars": "228",
+      "stars": "15,946",
+      "forks": "1,953",
+      "addStars": "227",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/413544?s=40&v=4",
@@ -269,9 +269,9 @@
       "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,440",
-      "forks": "308",
-      "addStars": "377",
+      "stars": "2,534",
+      "forks": "313",
+      "addStars": "376",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/193760801?s=40&v=4",
@@ -301,9 +301,9 @@
       "description": "Browse media content with your own rules on Android TV",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "33,170",
-      "forks": "2,013",
-      "addStars": "160",
+      "stars": "33,234",
+      "forks": "2,016",
+      "addStars": "136",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5897464?s=40&v=4",
@@ -338,9 +338,9 @@
       "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "137,558",
-      "forks": "20,231",
-      "addStars": "237",
+      "stars": "137,679",
+      "forks": "20,238",
+      "addStars": "230",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/31396011?s=40&v=4",
@@ -375,8 +375,8 @@
       "description": "Network stack research tool. TCP tunnel with pluggable transports.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "1,370",
-      "forks": "100",
+      "stars": "1,414",
+      "forks": "104",
       "addStars": "355",
       "contributors": [
         {
@@ -385,14 +385,24 @@
           "url": "https://github.com/p1neappleXpress"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/187200583?s=40&v=4",
+          "name": "saharev",
+          "url": "https://github.com/saharev"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/108231307?s=40&v=4",
           "name": "dajiaohuang",
           "url": "https://github.com/dajiaohuang"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/75240985?s=40&v=4",
-          "name": "iamfinist",
-          "url": "https://github.com/iamfinist"
+          "avatar": "https://avatars.githubusercontent.com/u/71261064?s=40&v=4",
+          "name": "mkukarin01",
+          "url": "https://github.com/mkukarin01"
         }
       ]
     },
@@ -402,8 +412,8 @@
       "description": "Graphics Creation Tools",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "4,890",
-      "forks": "545",
+      "stars": "4,926",
+      "forks": "549",
       "addStars": "237",
       "contributors": [
         {
@@ -439,9 +449,9 @@
       "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,526",
-      "forks": "546",
-      "addStars": "99",
+      "stars": "3,648",
+      "forks": "556",
+      "addStars": "113",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/95986478?s=40&v=4",
@@ -476,9 +486,9 @@
       "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,218",
-      "forks": "817",
-      "addStars": "193",
+      "stars": "7,340",
+      "forks": "827",
+      "addStars": "210",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/30723625?s=40&v=4",
@@ -513,9 +523,9 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "7,180",
-      "forks": "255",
-      "addStars": "137",
+      "stars": "7,277",
+      "forks": "257",
+      "addStars": "54",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5635139?s=40&v=4",
@@ -540,9 +550,9 @@
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "23,346",
-      "forks": "3,053",
-      "addStars": "193",
+      "stars": "23,504",
+      "forks": "3,069",
+      "addStars": "189",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7765123?s=40&v=4",
