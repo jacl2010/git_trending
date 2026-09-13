@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sun, 13 Sep 2026 11:29:33 GMT",
+  "pubDate": "Sun, 13 Sep 2026 15:16:03 GMT",
   "items": [
     {
       "title": "JustVugg/colibri",
@@ -10,8 +10,8 @@
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "28,860",
-      "forks": "3,166",
+      "stars": "29,159",
+      "forks": "3,188",
       "addStars": "652",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,527",
-      "forks": "896",
+      "stars": "4,727",
+      "forks": "916",
       "addStars": "58",
       "contributors": [
         {
@@ -84,9 +84,9 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "30,912",
-      "forks": "6,198",
-      "addStars": "2,265",
+      "stars": "31,207",
+      "forks": "6,260",
+      "addStars": "2,898",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/845989?s=40&v=4",
@@ -121,8 +121,8 @@
       "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,383",
-      "forks": "486",
+      "stars": "5,473",
+      "forks": "492",
       "addStars": "215",
       "contributors": [
         {
@@ -153,9 +153,9 @@
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,992",
-      "forks": "569",
-      "addStars": "504",
+      "stars": "2,061",
+      "forks": "578",
+      "addStars": "444",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/119944436?s=40&v=4",
@@ -190,8 +190,8 @@
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "58,053",
-      "forks": "7,315",
+      "stars": "58,183",
+      "forks": "7,329",
       "addStars": "383",
       "contributors": [
         {
@@ -227,9 +227,9 @@
       "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "65,702",
-      "forks": "10,776",
-      "addStars": "217",
+      "stars": "65,808",
+      "forks": "10,784",
+      "addStars": "727",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
@@ -264,9 +264,9 @@
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "23,663",
-      "forks": "3,079",
-      "addStars": "189",
+      "stars": "23,757",
+      "forks": "3,087",
+      "addStars": "613",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7765123?s=40&v=4",
@@ -301,9 +301,9 @@
       "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,504",
-      "forks": "844",
-      "addStars": "210",
+      "stars": "7,579",
+      "forks": "850",
+      "addStars": "500",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/30723625?s=40&v=4",
@@ -338,9 +338,9 @@
       "description": "Browse media content with your own rules on Android TV",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "33,302",
-      "forks": "2,019",
-      "addStars": "136",
+      "stars": "33,346",
+      "forks": "2,024",
+      "addStars": "238",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5897464?s=40&v=4",
@@ -375,9 +375,9 @@
       "description": "Run parallel research agents with any model",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,763",
-      "forks": "130",
-      "addStars": "452",
+      "stars": "1,866",
+      "forks": "137",
+      "addStars": "304",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/79390398?s=40&v=4",
@@ -412,8 +412,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "25,307",
-      "forks": "3,124",
+      "stars": "25,827",
+      "forks": "3,199",
       "addStars": "2,546",
       "contributors": [
         {
@@ -449,9 +449,9 @@
       "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,835",
-      "forks": "567",
-      "addStars": "113",
+      "stars": "3,929",
+      "forks": "575",
+      "addStars": "507",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/95986478?s=40&v=4",
@@ -486,9 +486,9 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "22,857",
-      "forks": "1,693",
-      "addStars": "264",
+      "stars": "23,010",
+      "forks": "1,703",
+      "addStars": "438",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
@@ -523,9 +523,9 @@
       "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,252",
-      "forks": "405",
-      "addStars": "262",
+      "stars": "5,294",
+      "forks": "404",
+      "addStars": "268",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/36144612?s=40&v=4",
@@ -560,9 +560,9 @@
       "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "11,088",
-      "forks": "984",
-      "addStars": "839",
+      "stars": "11,280",
+      "forks": "992",
+      "addStars": "547",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/58658417?s=40&v=4",
@@ -597,8 +597,8 @@
       "description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "11,194",
-      "forks": "1,734",
+      "stars": "11,275",
+      "forks": "1,745",
       "addStars": "473",
       "contributors": [
         {
@@ -629,7 +629,7 @@
       "description": "A good looking terminal emulator which mimics the old cathode display...",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "26,127",
+      "stars": "26,155",
       "forks": "1,014",
       "addStars": "98",
       "contributors": [
@@ -666,8 +666,8 @@
       "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "165,257",
-      "forks": "34,537",
+      "stars": "165,336",
+      "forks": "34,543",
       "addStars": "102",
       "contributors": [
         {
