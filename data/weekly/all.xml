@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Mon, 14 Sep 2026 17:12:53 GMT</pubDate>
+    <pubDate>Mon, 14 Sep 2026 21:22:43 GMT</pubDate>
     <item>
       <title>ayghri/i-have-adhd</title>
       <link>https://github.com/ayghri/i-have-adhd</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/ayghri/i-have-adhd</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>45,218</stars>
-      <forks>2,610</forks>
+      <stars>45,337</stars>
+      <forks>2,626</forks>
       <addStars>16,740</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/bilawalsidhu/gods-eye-view</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>33,236</stars>
-      <forks>6,625</forks>
+      <stars>33,426</stars>
+      <forks>6,677</forks>
       <addStars>12,931</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/affaan-m/ECC</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>258,219</stars>
-      <forks>38,617</forks>
+      <stars>258,323</stars>
+      <forks>38,638</forks>
       <addStars>7,264</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/openai/plugins</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>6,683</stars>
-      <forks>875</forks>
+      <stars>6,701</stars>
+      <forks>877</forks>
       <addStars>1,181</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/DietrichGebert/ponytail</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>138,176</stars>
-      <forks>7,414</forks>
+      <stars>138,321</stars>
+      <forks>7,425</forks>
       <addStars>8,444</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/mksglu/context-mode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>22,805</stars>
-      <forks>1,648</forks>
+      <stars>22,831</stars>
+      <forks>1,652</forks>
       <addStars>2,102</addStars>
       <contributors>
         <contributor>
@@ -229,8 +229,8 @@
       <guid>https://github.com/heygen-com/hyperframes</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>49,934</stars>
-      <forks>4,562</forks>
+      <stars>49,983</stars>
+      <forks>4,566</forks>
       <addStars>5,146</addStars>
       <contributors>
         <contributor>
@@ -267,8 +267,8 @@
       <guid>https://github.com/tt-a1i/archify</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>61,915</stars>
-      <forks>4,085</forks>
+      <stars>62,084</stars>
+      <forks>4,100</forks>
       <addStars>10,132</addStars>
       <contributors>
         <contributor>
@@ -305,8 +305,8 @@
       <guid>https://github.com/openai/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>27,167</stars>
-      <forks>1,812</forks>
+      <stars>27,181</stars>
+      <forks>1,814</forks>
       <addStars>1,622</addStars>
       <contributors>
         <contributor>
@@ -343,8 +343,8 @@
       <guid>https://github.com/microsoft/markitdown</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>183,922</stars>
-      <forks>13,537</forks>
+      <stars>183,968</stars>
+      <forks>13,543</forks>
       <addStars>5,191</addStars>
       <contributors>
         <contributor>
@@ -376,8 +376,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>286,576</stars>
-      <forks>25,636</forks>
+      <stars>286,641</stars>
+      <forks>25,642</forks>
       <addStars>4,068</addStars>
       <contributors>
         <contributor>
@@ -414,8 +414,8 @@
       <guid>https://github.com/blader/humanizer</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>48,038</stars>
-      <forks>3,910</forks>
+      <stars>48,100</stars>
+      <forks>3,920</forks>
       <addStars>3,673</addStars>
       <contributors>
         <contributor>
@@ -452,7 +452,7 @@
       <guid>https://github.com/max-sixty/worktrunk</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>7,628</stars>
+      <stars>7,644</stars>
       <forks>272</forks>
       <addStars>588</addStars>
       <contributors>
@@ -480,8 +480,8 @@
       <guid>https://github.com/THU-MAIC/OpenMAIC</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>36,767</stars>
-      <forks>5,813</forks>
+      <stars>36,793</stars>
+      <forks>5,817</forks>
       <addStars>4,202</addStars>
       <contributors>
         <contributor>
@@ -518,8 +518,8 @@
       <guid>https://github.com/cathrynlavery/diagram-design</guid>
       <language>HTML</language>
       <languageColor>#e34c26</languageColor>
-      <stars>39,688</stars>
-      <forks>2,517</forks>
+      <stars>39,741</stars>
+      <forks>2,523</forks>
       <addStars>7,129</addStars>
       <contributors>
         <contributor>
@@ -551,8 +551,8 @@
       <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>51,928</stars>
-      <forks>3,647</forks>
+      <stars>51,947</stars>
+      <forks>3,648</forks>
       <addStars>736</addStars>
       <contributors>
         <contributor>
@@ -584,8 +584,8 @@
       <guid>https://github.com/Tencent/WeKnora</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>23,155</stars>
-      <forks>3,294</forks>
+      <stars>23,192</stars>
+      <forks>3,299</forks>
       <addStars>1,302</addStars>
       <contributors>
         <contributor>
@@ -617,8 +617,8 @@
       <guid>https://github.com/coreyhaines31/marketingskills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>50,198</stars>
-      <forks>7,605</forks>
+      <stars>50,228</stars>
+      <forks>7,609</forks>
       <addStars>2,678</addStars>
       <contributors>
         <contributor>
@@ -655,8 +655,8 @@
       <guid>https://github.com/earthtojake/text-to-cad</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>15,748</stars>
-      <forks>1,626</forks>
+      <stars>15,760</stars>
+      <forks>1,628</forks>
       <addStars>1,054</addStars>
       <contributors>
         <contributor>
@@ -683,8 +683,8 @@
       <guid>https://github.com/petergyang/no-ai-slop</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,454</stars>
-      <forks>684</forks>
+      <stars>9,505</stars>
+      <forks>686</forks>
       <addStars>1,668</addStars>
       <contributors>
         <contributor>
@@ -721,8 +721,8 @@
       <guid>https://github.com/github/spec-kit</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>136,713</stars>
-      <forks>12,266</forks>
+      <stars>136,769</stars>
+      <forks>12,271</forks>
       <addStars>2,642</addStars>
       <contributors>
         <contributor>
@@ -749,8 +749,8 @@
       <guid>https://github.com/alibaba/open-code-review</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>25,119</stars>
-      <forks>1,834</forks>
+      <stars>25,472</stars>
+      <forks>1,851</forks>
       <addStars>2,213</addStars>
       <contributors>
         <contributor>
@@ -787,8 +787,8 @@
       <guid>https://github.com/kunchenguid/firstmate</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>5,898</stars>
-      <forks>1,812</forks>
+      <stars>5,928</stars>
+      <forks>1,819</forks>
       <addStars>778</addStars>
       <contributors>
         <contributor>
