@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Tue, 15 Sep 2026 15:53:11 GMT",
+  "pubDate": "Tue, 15 Sep 2026 20:48:34 GMT",
   "items": [
     {
       "title": "alibaba/open-code-review",
@@ -10,8 +10,8 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "27,720",
-      "forks": "1,993",
+      "stars": "28,239",
+      "forks": "2,033",
       "addStars": "2,751",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "33,305",
-      "forks": "3,490",
+      "stars": "33,618",
+      "forks": "3,528",
       "addStars": "2,035",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,398",
-      "forks": "1,010",
+      "stars": "6,525",
+      "forks": "1,019",
       "addStars": "632",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "30,488",
-      "forks": "3,665",
+      "stars": "30,759",
+      "forks": "3,686",
       "addStars": "2,081",
       "contributors": [
         {
@@ -158,9 +158,9 @@
       "description": "📺 Homebrew's official macOS GUI",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "1,161",
-      "forks": "23",
-      "addStars": "388",
+      "stars": "1,274",
+      "forks": "27",
+      "addStars": "356",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2030310?s=40&v=4",
@@ -195,8 +195,8 @@
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,671",
-      "forks": "663",
+      "stars": "2,751",
+      "forks": "675",
       "addStars": "205",
       "contributors": [
         {
@@ -232,19 +232,14 @@
       "description": "Turn your coding agents into research agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,061",
-      "forks": "211",
+      "stars": "3,230",
+      "forks": "220",
       "addStars": "593",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/79390398?s=40&v=4",
           "name": "sox8502",
           "url": "https://github.com/sox8502"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/34905129?s=40&v=4",
-          "name": "rehaanahmad2013",
-          "url": "https://github.com/rehaanahmad2013"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/135627999?s=40&v=4",
@@ -255,6 +250,11 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34905129?s=40&v=4",
+          "name": "rehaanahmad2013",
+          "url": "https://github.com/rehaanahmad2013"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/108231307?s=40&v=4",
@@ -269,8 +269,8 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "76,456",
-      "forks": "8,433",
+      "stars": "76,608",
+      "forks": "8,443",
       "addStars": "755",
       "contributors": [
         {
@@ -306,8 +306,8 @@
       "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "43,687",
-      "forks": "9,013",
+      "stars": "43,753",
+      "forks": "9,021",
       "addStars": "261",
       "contributors": [
         {
@@ -338,8 +338,8 @@
       "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "4,511",
-      "forks": "276",
+      "stars": "4,562",
+      "forks": "278",
       "addStars": "102",
       "contributors": [
         {
@@ -375,8 +375,8 @@
       "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,064",
-      "forks": "186",
+      "stars": "1,104",
+      "forks": "190",
       "addStars": "122",
       "contributors": [
         {
@@ -412,9 +412,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "94,592",
-      "forks": "10,048",
-      "addStars": "354",
+      "stars": "94,684",
+      "forks": "10,058",
+      "addStars": "386",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
@@ -449,8 +449,8 @@
       "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,603",
-      "forks": "1,086",
+      "stars": "12,778",
+      "forks": "1,094",
       "addStars": "318",
       "contributors": [
         {
@@ -486,8 +486,8 @@
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "105,532",
-      "forks": "13,269",
+      "stars": "105,614",
+      "forks": "13,274",
       "addStars": "437",
       "contributors": [
         {
