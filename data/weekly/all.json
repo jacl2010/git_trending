@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Wed, 16 Sep 2026 15:44:29 GMT",
+  "pubDate": "Wed, 16 Sep 2026 20:48:27 GMT",
   "items": [
     {
       "title": "ayghri/i-have-adhd",
@@ -10,8 +10,8 @@
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "46,738",
-      "forks": "2,718",
+      "stars": "46,840",
+      "forks": "2,727",
       "addStars": "17,880",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "35,471",
-      "forks": "7,091",
+      "stars": "35,671",
+      "forks": "7,128",
       "addStars": "15,193",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "30,925",
-      "forks": "2,210",
+      "stars": "31,503",
+      "forks": "2,244",
       "addStars": "5,169",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "259,855",
-      "forks": "38,895",
+      "stars": "260,096",
+      "forks": "38,932",
       "addStars": "5,398",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "OpenAI Plugins",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "6,834",
-      "forks": "893",
+      "stars": "6,852",
+      "forks": "895",
       "addStars": "1,206",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "23,195",
-      "forks": "1,674",
+      "stars": "23,211",
+      "forks": "1,676",
       "addStars": "1,832",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "25,008",
-      "forks": "3,456",
+      "stars": "25,163",
+      "forks": "3,466",
       "addStars": "1,892",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "287,520",
-      "forks": "25,716",
+      "stars": "287,594",
+      "forks": "25,723",
       "addStars": "4,170",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "140,082",
-      "forks": "7,524",
+      "stars": "140,258",
+      "forks": "7,536",
       "addStars": "7,499",
       "contributors": [
         {
@@ -328,7 +328,7 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "7,895",
+      "stars": "7,910",
       "forks": "272",
       "addStars": "871",
       "contributors": [
@@ -355,8 +355,8 @@
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "49,043",
-      "forks": "3,982",
+      "stars": "49,117",
+      "forks": "3,984",
       "addStars": "3,248",
       "contributors": [
         {
@@ -392,8 +392,8 @@
       "description": "Talk to one agent. Ship with a crew.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "6,137",
-      "forks": "1,905",
+      "stars": "6,183",
+      "forks": "1,908",
       "addStars": "1,056",
       "contributors": [
         {
@@ -429,8 +429,8 @@
       "description": "Removes 20+ patterns of AI slop from any piece of writing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "10,045",
-      "forks": "704",
+      "stars": "10,097",
+      "forks": "709",
       "addStars": "2,160",
       "contributors": [
         {
@@ -466,8 +466,8 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "184,723",
-      "forks": "13,608",
+      "stars": "184,781",
+      "forks": "13,613",
       "addStars": "3,046",
       "contributors": [
         {
@@ -498,8 +498,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "95,205",
-      "forks": "10,095",
+      "stars": "95,313",
+      "forks": "10,105",
       "addStars": "1,766",
       "contributors": [
         {
@@ -535,8 +535,8 @@
       "description": "🏡 Open source home automation that puts local control and privacy first.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "90,545",
-      "forks": "38,628",
+      "stars": "90,561",
+      "forks": "38,645",
       "addStars": "228",
       "contributors": [
         {
@@ -572,8 +572,8 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "37,340",
-      "forks": "5,881",
+      "stars": "37,375",
+      "forks": "5,883",
       "addStars": "3,698",
       "contributors": [
         {
@@ -609,8 +609,8 @@
       "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "44,095",
-      "forks": "9,053",
+      "stars": "44,136",
+      "forks": "9,060",
       "addStars": "809",
       "contributors": [
         {
@@ -641,8 +641,8 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "27,347",
-      "forks": "1,830",
+      "stars": "27,363",
+      "forks": "1,831",
       "addStars": "985",
       "contributors": [
         {
@@ -678,8 +678,8 @@
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "137,275",
-      "forks": "12,289",
+      "stars": "137,346",
+      "forks": "12,299",
       "addStars": "3,018",
       "contributors": [
         {
@@ -705,8 +705,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "50,608",
-      "forks": "4,615",
+      "stars": "50,672",
+      "forks": "4,619",
       "addStars": "3,002",
       "contributors": [
         {
@@ -742,8 +742,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "106,935",
-      "forks": "20,423",
+      "stars": "106,973",
+      "forks": "20,430",
       "addStars": "3,364",
       "contributors": [
         {
