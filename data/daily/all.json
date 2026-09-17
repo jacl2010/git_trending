@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Thu, 17 Sep 2026 11:22:32 GMT",
+  "pubDate": "Thu, 17 Sep 2026 15:51:06 GMT",
   "items": [
     {
       "title": "alibaba/open-code-review",
@@ -10,9 +10,9 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "33,470",
-      "forks": "2,384",
-      "addStars": "3,231",
+      "stars": "34,080",
+      "forks": "2,424",
+      "addStars": "3,290",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,959",
-      "forks": "486",
-      "addStars": "927",
+      "stars": "9,815",
+      "forks": "522",
+      "addStars": "3,606",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
@@ -74,9 +74,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "95,764",
-      "forks": "10,128",
-      "addStars": "658",
+      "stars": "95,937",
+      "forks": "10,137",
+      "addStars": "680",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
@@ -111,8 +111,8 @@
       "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,548",
-      "forks": "248",
+      "stars": "3,862",
+      "forks": "276",
       "addStars": "1,350",
       "contributors": [
         {
@@ -148,9 +148,9 @@
       "description": "Turn your coding agents into research agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "4,819",
-      "forks": "290",
-      "addStars": "1,017",
+      "stars": "4,963",
+      "forks": "295",
+      "addStars": "940",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/79390398?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "145,750",
-      "forks": "23,516",
-      "addStars": "165",
+      "stars": "145,845",
+      "forks": "23,538",
+      "addStars": "538",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "78,162",
-      "forks": "8,653",
-      "addStars": "1,059",
+      "stars": "78,301",
+      "forks": "8,669",
+      "addStars": "912",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
@@ -259,9 +259,9 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "24,417",
-      "forks": "2,929",
-      "addStars": "110",
+      "stars": "24,467",
+      "forks": "2,934",
+      "addStars": "287",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -291,9 +291,9 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "25,914",
-      "forks": "3,532",
-      "addStars": "1,197",
+      "stars": "26,126",
+      "forks": "3,543",
+      "addStars": "1,123",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
@@ -323,9 +323,9 @@
       "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "5,901",
-      "forks": "274",
-      "addStars": "1,179",
+      "stars": "6,002",
+      "forks": "278",
+      "addStars": "738",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/14371506?s=40&v=4",
@@ -360,8 +360,8 @@
       "description": "eBPF-based Networking, Security, and Observability",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "25,255",
-      "forks": "4,065",
+      "stars": "25,308",
+      "forks": "4,068",
       "addStars": "20",
       "contributors": [
         {
@@ -397,9 +397,9 @@
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "54,713",
-      "forks": "6,803",
-      "addStars": "417",
+      "stars": "54,810",
+      "forks": "6,808",
+      "addStars": "665",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32987599?s=40&v=4",
@@ -434,9 +434,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "260,778",
-      "forks": "39,034",
-      "addStars": "1,057",
+      "stars": "261,011",
+      "forks": "39,057",
+      "addStars": "1,173",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
@@ -466,9 +466,9 @@
       "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "50,730",
-      "forks": "4,821",
-      "addStars": "260",
+      "stars": "50,777",
+      "forks": "4,825",
+      "addStars": "327",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/26109316?s=40&v=4",
@@ -493,9 +493,9 @@
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "35,397",
-      "forks": "3,721",
-      "addStars": "1,546",
+      "stars": "35,536",
+      "forks": "3,732",
+      "addStars": "872",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/13022503?s=40&v=4",
@@ -530,9 +530,9 @@
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,192",
-      "forks": "338",
-      "addStars": "396",
+      "stars": "3,297",
+      "forks": "346",
+      "addStars": "386",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/222386738?s=40&v=4",
@@ -567,9 +567,9 @@
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,518",
-      "forks": "1,106",
-      "addStars": "778",
+      "stars": "7,597",
+      "forks": "1,111",
+      "addStars": "469",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/41804588?s=40&v=4",
@@ -604,9 +604,9 @@
       "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "68,526",
-      "forks": "7,402",
-      "addStars": "112",
+      "stars": "68,613",
+      "forks": "7,408",
+      "addStars": "381",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7799382?s=40&v=4",
@@ -641,9 +641,9 @@
       "description": "Secure environments for developers and their agents",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "14,670",
-      "forks": "1,479",
-      "addStars": "83",
+      "stars": "14,791",
+      "forks": "1,482",
+      "addStars": "204",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7122116?s=40&v=4",
@@ -673,9 +673,9 @@
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "204,759",
-      "forks": "60,726",
-      "addStars": "225",
+      "stars": "204,909",
+      "forks": "60,733",
+      "addStars": "319",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6249596?s=40&v=4",
