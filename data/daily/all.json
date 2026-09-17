@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Wed, 16 Sep 2026 20:48:27 GMT",
+  "pubDate": "Thu, 17 Sep 2026 03:53:48 GMT",
   "items": [
     {
       "title": "alibaba/open-code-review",
@@ -10,9 +10,9 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "31,503",
-      "forks": "2,244",
-      "addStars": "3,215",
+      "stars": "32,383",
+      "forks": "2,295",
+      "addStars": "3,231",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "6,811",
-      "forks": "402",
-      "addStars": "1,249",
+      "stars": "7,628",
+      "forks": "431",
+      "addStars": "927",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
@@ -74,9 +74,9 @@
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "34,911",
-      "forks": "3,668",
-      "addStars": "1,532",
+      "stars": "35,129",
+      "forks": "3,691",
+      "addStars": "1,546",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/13022503?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "5,509",
-      "forks": "262",
-      "addStars": "1,136",
+      "stars": "5,699",
+      "forks": "273",
+      "addStars": "1,179",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/14371506?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "54,280",
-      "forks": "6,783",
-      "addStars": "409",
+      "stars": "54,476",
+      "forks": "6,794",
+      "addStars": "417",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32987599?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "13,296",
-      "forks": "1,585",
-      "addStars": "444",
+      "stars": "13,413",
+      "forks": "1,593",
+      "addStars": "547",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25259084?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "24,248",
-      "forks": "2,919",
-      "addStars": "96",
+      "stars": "24,330",
+      "forks": "2,922",
+      "addStars": "110",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -254,9 +254,9 @@
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,225",
-      "forks": "1,085",
-      "addStars": "771",
+      "stars": "7,375",
+      "forks": "1,094",
+      "addStars": "778",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/41804588?s=40&v=4",
@@ -291,9 +291,9 @@
       "description": "Anki is a smart spaced repetition flashcard program",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "30,764",
-      "forks": "3,208",
-      "addStars": "50",
+      "stars": "30,925",
+      "forks": "3,214",
+      "addStars": "58",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/180542?s=40&v=4",
@@ -328,8 +328,8 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "77,673",
-      "forks": "8,588",
+      "stars": "77,938",
+      "forks": "8,623",
       "addStars": "1,059",
       "contributors": [
         {
@@ -365,9 +365,9 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "145,407",
-      "forks": "23,466",
-      "addStars": "155",
+      "stars": "145,593",
+      "forks": "23,498",
+      "addStars": "165",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
@@ -402,9 +402,9 @@
       "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "50,548",
-      "forks": "4,812",
-      "addStars": "292",
+      "stars": "50,646",
+      "forks": "4,815",
+      "addStars": "260",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/26109316?s=40&v=4",
@@ -429,9 +429,9 @@
       "description": "Turn your coding agents into research agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "4,277",
-      "forks": "270",
-      "addStars": "1,036",
+      "stars": "4,513",
+      "forks": "278",
+      "addStars": "1,017",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/79390398?s=40&v=4",
@@ -466,9 +466,9 @@
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "109,591",
-      "forks": "14,025",
-      "addStars": "118",
+      "stars": "109,802",
+      "forks": "14,054",
+      "addStars": "120",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19742402?s=40&v=4",
@@ -503,9 +503,9 @@
       "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,503",
-      "forks": "182",
-      "addStars": "74",
+      "stars": "2,596",
+      "forks": "187",
+      "addStars": "80",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/105429536?s=40&v=4",
@@ -540,9 +540,9 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "25,163",
-      "forks": "3,466",
-      "addStars": "1,201",
+      "stars": "25,519",
+      "forks": "3,496",
+      "addStars": "1,197",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
@@ -572,9 +572,9 @@
       "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,718",
-      "forks": "734",
-      "addStars": "383",
+      "stars": "5,832",
+      "forks": "747",
+      "addStars": "367",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/95986478?s=40&v=4",
@@ -609,9 +609,9 @@
       "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,309",
-      "forks": "1,005",
-      "addStars": "370",
+      "stars": "9,428",
+      "forks": "1,015",
+      "addStars": "332",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/30723625?s=40&v=4",
@@ -646,9 +646,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "95,313",
-      "forks": "10,105",
-      "addStars": "656",
+      "stars": "95,554",
+      "forks": "10,115",
+      "addStars": "658",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
@@ -683,9 +683,9 @@
       "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "68,286",
-      "forks": "7,381",
-      "addStars": "102",
+      "stars": "68,416",
+      "forks": "7,387",
+      "addStars": "112",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7799382?s=40&v=4",
@@ -720,9 +720,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "260,096",
-      "forks": "38,932",
-      "addStars": "1,046",
+      "stars": "260,412",
+      "forks": "38,979",
+      "addStars": "1,057",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",

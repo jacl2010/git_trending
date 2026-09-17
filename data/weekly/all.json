@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Wed, 16 Sep 2026 20:48:27 GMT",
+  "pubDate": "Thu, 17 Sep 2026 03:53:48 GMT",
   "items": [
     {
       "title": "ayghri/i-have-adhd",
@@ -10,9 +10,9 @@
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "46,840",
-      "forks": "2,727",
-      "addStars": "17,880",
+      "stars": "46,988",
+      "forks": "2,733",
+      "addStars": "13,737",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "35,671",
-      "forks": "7,128",
-      "addStars": "15,193",
+      "stars": "36,117",
+      "forks": "7,231",
+      "addStars": "14,777",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/845989?s=40&v=4",
@@ -67,14 +67,14 @@
           "url": "https://github.com/Tom-Neverwinter"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/301209272?s=40&v=4",
+          "name": "manjunath22466",
+          "url": "https://github.com/manjunath22466"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54053998?s=40&v=4",
-          "name": "daikaginza",
-          "url": "https://github.com/daikaginza"
         }
       ]
     },
@@ -84,9 +84,9 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "31,503",
-      "forks": "2,244",
-      "addStars": "5,169",
+      "stars": "32,383",
+      "forks": "2,295",
+      "addStars": "8,594",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "260,096",
-      "forks": "38,932",
-      "addStars": "5,398",
+      "stars": "260,412",
+      "forks": "38,979",
+      "addStars": "5,292",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "OpenAI Plugins",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "6,852",
-      "forks": "895",
-      "addStars": "1,206",
+      "stars": "6,868",
+      "forks": "897",
+      "addStars": "771",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/239646192?s=40&v=4",
@@ -190,9 +190,9 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "23,211",
-      "forks": "1,676",
-      "addStars": "1,832",
+      "stars": "23,250",
+      "forks": "1,678",
+      "addStars": "1,612",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "25,163",
-      "forks": "3,466",
-      "addStars": "1,892",
+      "stars": "25,519",
+      "forks": "3,496",
+      "addStars": "3,034",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
@@ -254,9 +254,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "287,594",
-      "forks": "25,723",
-      "addStars": "4,170",
+      "stars": "287,682",
+      "forks": "25,735",
+      "addStars": "4,023",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -291,9 +291,9 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "140,258",
-      "forks": "7,536",
-      "addStars": "7,499",
+      "stars": "140,517",
+      "forks": "7,548",
+      "addStars": "7,218",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
@@ -328,9 +328,9 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "7,910",
+      "stars": "7,936",
       "forks": "272",
-      "addStars": "871",
+      "addStars": "998",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5635139?s=40&v=4",
@@ -355,9 +355,9 @@
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "49,117",
-      "forks": "3,984",
-      "addStars": "3,248",
+      "stars": "49,252",
+      "forks": "3,995",
+      "addStars": "3,266",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1672?s=40&v=4",
@@ -392,9 +392,9 @@
       "description": "Talk to one agent. Ship with a crew.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "6,183",
-      "forks": "1,908",
-      "addStars": "1,056",
+      "stars": "6,215",
+      "forks": "1,921",
+      "addStars": "873",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3233006?s=40&v=4",
@@ -412,14 +412,14 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1987829?s=40&v=4",
-          "name": "tiago-peixoto",
-          "url": "https://github.com/tiago-peixoto"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/86736?s=40&v=4",
           "name": "mremond",
           "url": "https://github.com/mremond"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1987829?s=40&v=4",
+          "name": "tiago-peixoto",
+          "url": "https://github.com/tiago-peixoto"
         }
       ]
     },
@@ -429,9 +429,9 @@
       "description": "Removes 20+ patterns of AI slop from any piece of writing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "10,097",
-      "forks": "709",
-      "addStars": "2,160",
+      "stars": "10,171",
+      "forks": "710",
+      "addStars": "2,320",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2383268?s=40&v=4",
@@ -466,9 +466,9 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "184,781",
-      "forks": "13,613",
-      "addStars": "3,046",
+      "stars": "184,893",
+      "forks": "13,621",
+      "addStars": "2,733",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4017093?s=40&v=4",
@@ -498,9 +498,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "95,313",
-      "forks": "10,105",
-      "addStars": "1,766",
+      "stars": "95,554",
+      "forks": "10,115",
+      "addStars": "2,119",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
@@ -535,9 +535,9 @@
       "description": "🏡 Open source home automation that puts local control and privacy first.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "90,561",
-      "forks": "38,645",
-      "addStars": "228",
+      "stars": "90,586",
+      "forks": "38,673",
+      "addStars": "236",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/663432?s=40&v=4",
@@ -572,9 +572,9 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "37,375",
-      "forks": "5,883",
-      "addStars": "3,698",
+      "stars": "37,434",
+      "forks": "5,892",
+      "addStars": "3,214",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
@@ -609,9 +609,9 @@
       "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "44,136",
-      "forks": "9,060",
-      "addStars": "809",
+      "stars": "44,239",
+      "forks": "9,071",
+      "addStars": "1,173",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110412045?s=40&v=4",
@@ -641,9 +641,9 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "27,363",
-      "forks": "1,831",
-      "addStars": "985",
+      "stars": "27,387",
+      "forks": "1,836",
+      "addStars": "632",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&v=4",
@@ -678,9 +678,9 @@
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "137,346",
-      "forks": "12,299",
-      "addStars": "3,018",
+      "stars": "137,417",
+      "forks": "12,307",
+      "addStars": "3,019",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/15701806?s=40&v=4",
@@ -705,9 +705,9 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "50,672",
-      "forks": "4,619",
-      "addStars": "3,002",
+      "stars": "50,773",
+      "forks": "4,628",
+      "addStars": "2,413",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
@@ -742,9 +742,9 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "106,973",
-      "forks": "20,430",
-      "addStars": "3,364",
+      "stars": "107,072",
+      "forks": "20,443",
+      "addStars": "3,350",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
