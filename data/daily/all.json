@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Fri, 18 Sep 2026 10:56:24 GMT",
+  "pubDate": "Fri, 18 Sep 2026 15:24:27 GMT",
   "items": [
     {
       "title": "cloudflare/security-audit-skill",
@@ -10,9 +10,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "11,696",
-      "forks": "633",
-      "addStars": "3,607",
+      "stars": "12,498",
+      "forks": "675",
+      "addStars": "3,019",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
@@ -37,9 +37,9 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "146,036",
-      "forks": "23,689",
-      "addStars": "538",
+      "stars": "146,133",
+      "forks": "23,719",
+      "addStars": "442",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
@@ -74,9 +74,9 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "36,094",
-      "forks": "2,565",
-      "addStars": "3,286",
+      "stars": "36,335",
+      "forks": "2,587",
+      "addStars": "2,724",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "261,500",
-      "forks": "39,138",
-      "addStars": "1,171",
+      "stars": "261,682",
+      "forks": "39,163",
+      "addStars": "965",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
@@ -143,9 +143,9 @@
       "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,819",
-      "forks": "338",
-      "addStars": "1,302",
+      "stars": "5,026",
+      "forks": "353",
+      "addStars": "1,319",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/87162611?s=40&v=4",
@@ -180,9 +180,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "96,135",
-      "forks": "10,167",
-      "addStars": "680",
+      "stars": "96,205",
+      "forks": "10,173",
+      "addStars": "677",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
@@ -217,9 +217,9 @@
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,756",
-      "forks": "394",
-      "addStars": "367",
+      "stars": "3,834",
+      "forks": "397",
+      "addStars": "571",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/222386738?s=40&v=4",
@@ -254,8 +254,8 @@
       "description": "Spec-driven development (SDD) for AI coding assistants.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "69,049",
-      "forks": "4,736",
+      "stars": "69,166",
+      "forks": "4,742",
       "addStars": "298",
       "contributors": [
         {
@@ -281,9 +281,9 @@
       "description": "Anki is a smart spaced repetition flashcard program",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "31,043",
-      "forks": "3,235",
-      "addStars": "430",
+      "stars": "31,114",
+      "forks": "3,236",
+      "addStars": "177",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/180542?s=40&v=4",
@@ -318,9 +318,9 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "24,703",
-      "forks": "2,957",
-      "addStars": "287",
+      "stars": "24,766",
+      "forks": "2,961",
+      "addStars": "300",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -350,8 +350,8 @@
       "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "30,008",
-      "forks": "2,629",
+      "stars": "30,106",
+      "forks": "2,634",
       "addStars": "140",
       "contributors": [
         {
@@ -387,7 +387,7 @@
       "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "6,331",
+      "stars": "6,376",
       "forks": "2,709",
       "addStars": "64",
       "contributors": [
@@ -424,9 +424,9 @@
       "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "32,909",
-      "forks": "1,475",
-      "addStars": "559",
+      "stars": "33,013",
+      "forks": "1,480",
+      "addStars": "298",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1472352?s=40&v=4",
@@ -461,9 +461,9 @@
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "109,948",
-      "forks": "14,213",
-      "addStars": "586",
+      "stars": "110,017",
+      "forks": "14,237",
+      "addStars": "128",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19742402?s=40&v=4",
@@ -498,9 +498,9 @@
       "description": "Secure environments for developers and their agents",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "15,027",
-      "forks": "1,495",
-      "addStars": "145",
+      "stars": "15,115",
+      "forks": "1,498",
+      "addStars": "478",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7122116?s=40&v=4",
@@ -530,8 +530,8 @@
       "description": "Free, simple, fast interactive diagrams for any GitHub repository",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,229",
-      "forks": "1,250",
+      "stars": "16,317",
+      "forks": "1,252",
       "addStars": "145",
       "contributors": [
         {
@@ -557,8 +557,8 @@
       "description": "Your own search engine",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,623",
-      "forks": "197",
+      "stars": "4,782",
+      "forks": "200",
       "addStars": "842",
       "contributors": [
         {
