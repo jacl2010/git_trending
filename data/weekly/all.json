@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Thu, 17 Sep 2026 20:54:27 GMT",
+  "pubDate": "Fri, 18 Sep 2026 03:41:04 GMT",
   "items": [
     {
       "title": "alibaba/open-code-review",
@@ -10,9 +10,9 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "34,490",
-      "forks": "2,456",
-      "addStars": "8,594",
+      "stars": "35,189",
+      "forks": "2,493",
+      "addStars": "11,489",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "47,408",
-      "forks": "2,761",
-      "addStars": "13,737",
+      "stars": "47,552",
+      "forks": "2,772",
+      "addStars": "10,800",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "36,982",
-      "forks": "7,437",
-      "addStars": "14,777",
+      "stars": "37,182",
+      "forks": "7,475",
+      "addStars": "14,460",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/845989?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "261,026",
-      "forks": "39,079",
-      "addStars": "5,292",
+      "stars": "261,267",
+      "forks": "39,112",
+      "addStars": "5,607",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "23,379",
-      "forks": "1,683",
-      "addStars": "1,612",
+      "stars": "23,416",
+      "forks": "1,685",
+      "addStars": "1,482",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "26,124",
-      "forks": "3,548",
-      "addStars": "3,034",
+      "stars": "26,432",
+      "forks": "3,569",
+      "addStars": "3,982",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
@@ -217,9 +217,9 @@
       "description": "OpenAI Plugins",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "6,909",
-      "forks": "899",
-      "addStars": "771",
+      "stars": "6,921",
+      "forks": "900",
+      "addStars": "564",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/239646192?s=40&v=4",
@@ -254,9 +254,9 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "7,924",
+      "stars": "7,947",
       "forks": "272",
-      "addStars": "998",
+      "addStars": "1,060",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5635139?s=40&v=4",
@@ -281,9 +281,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "95,770",
-      "forks": "10,143",
-      "addStars": "2,119",
+      "stars": "95,942",
+      "forks": "10,153",
+      "addStars": "2,560",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
@@ -318,9 +318,9 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "145,813",
-      "forks": "23,589",
-      "addStars": "938",
+      "stars": "145,927",
+      "forks": "23,648",
+      "addStars": "1,294",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
@@ -355,9 +355,9 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "24,525",
-      "forks": "2,939",
-      "addStars": "274",
+      "stars": "24,612",
+      "forks": "2,947",
+      "addStars": "488",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -387,9 +387,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "288,071",
-      "forks": "25,769",
-      "addStars": "4,023",
+      "stars": "288,187",
+      "forks": "25,780",
+      "addStars": "3,821",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -424,9 +424,9 @@
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "49,547",
-      "forks": "4,012",
-      "addStars": "3,266",
+      "stars": "49,648",
+      "forks": "4,017",
+      "addStars": "3,235",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1672?s=40&v=4",
@@ -461,9 +461,9 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "185,107",
-      "forks": "13,629",
-      "addStars": "2,733",
+      "stars": "185,176",
+      "forks": "13,634",
+      "addStars": "2,814",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4017093?s=40&v=4",
@@ -493,9 +493,9 @@
       "description": "🏡 Open source home automation that puts local control and privacy first.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "90,659",
-      "forks": "38,686",
-      "addStars": "236",
+      "stars": "90,673",
+      "forks": "38,688",
+      "addStars": "285",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/663432?s=40&v=4",
@@ -530,9 +530,9 @@
       "description": "Talk to one agent. Ship with a crew.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "6,372",
-      "forks": "1,957",
-      "addStars": "873",
+      "stars": "6,431",
+      "forks": "1,964",
+      "addStars": "890",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3233006?s=40&v=4",
@@ -545,11 +545,6 @@
           "url": "https://github.com/karotkriss"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/86736?s=40&v=4",
           "name": "mremond",
           "url": "https://github.com/mremond"
@@ -558,6 +553,11 @@
           "avatar": "https://avatars.githubusercontent.com/u/1987829?s=40&v=4",
           "name": "tiago-peixoto",
           "url": "https://github.com/tiago-peixoto"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         }
       ]
     },
@@ -567,9 +567,9 @@
       "description": "Removes 20+ patterns of AI slop from any piece of writing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "10,345",
-      "forks": "725",
-      "addStars": "2,320",
+      "stars": "10,403",
+      "forks": "727",
+      "addStars": "2,256",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2383268?s=40&v=4",
@@ -604,9 +604,9 @@
       "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "44,221",
-      "forks": "9,088",
-      "addStars": "1,173",
+      "stars": "44,251",
+      "forks": "9,096",
+      "addStars": "1,421",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110412045?s=40&v=4",
@@ -636,9 +636,9 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "71,039",
-      "forks": "4,644",
-      "addStars": "5,337",
+      "stars": "71,237",
+      "forks": "4,662",
+      "addStars": "5,305",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
@@ -673,9 +673,9 @@
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "82,769",
-      "forks": "7,239",
-      "addStars": "3,488",
+      "stars": "82,857",
+      "forks": "7,247",
+      "addStars": "3,670",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
@@ -710,9 +710,9 @@
       "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "29,147",
-      "forks": "5,372",
-      "addStars": "902",
+      "stars": "29,194",
+      "forks": "5,379",
+      "addStars": "871",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
