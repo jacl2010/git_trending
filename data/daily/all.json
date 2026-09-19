@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sat, 19 Sep 2026 10:39:27 GMT",
+  "pubDate": "Sat, 19 Sep 2026 15:00:04 GMT",
   "items": [
     {
       "title": "cloudflare/security-audit-skill",
@@ -10,9 +10,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "14,822",
-      "forks": "812",
-      "addStars": "3,006",
+      "stars": "15,443",
+      "forks": "843",
+      "addStars": "3,162",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
@@ -37,8 +37,8 @@
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "23,830",
-      "forks": "1,648",
+      "stars": "24,008",
+      "forks": "1,658",
       "addStars": "383",
       "contributors": [
         {
@@ -69,9 +69,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "96,633",
-      "forks": "10,209",
-      "addStars": "675",
+      "stars": "96,777",
+      "forks": "10,223",
+      "addStars": "547",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
@@ -106,9 +106,9 @@
       "description": "Secure environments for developers and their agents",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "15,428",
+      "stars": "15,479",
       "forks": "1,509",
-      "addStars": "478",
+      "addStars": "406",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7122116?s=40&v=4",
@@ -138,9 +138,9 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "146,490",
-      "forks": "23,831",
-      "addStars": "444",
+      "stars": "146,568",
+      "forks": "23,856",
+      "addStars": "482",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
@@ -175,8 +175,8 @@
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "15,666",
-      "forks": "2,052",
+      "stars": "15,796",
+      "forks": "2,066",
       "addStars": "477",
       "contributors": [
         {
@@ -207,8 +207,8 @@
       "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "4,647",
-      "forks": "868",
+      "stars": "4,773",
+      "forks": "884",
       "addStars": "325",
       "contributors": [
         {
@@ -234,8 +234,8 @@
       "description": "Get your documents ready for gen AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "66,708",
-      "forks": "4,815",
+      "stars": "66,811",
+      "forks": "4,821",
       "addStars": "94",
       "contributors": [
         {
@@ -266,8 +266,8 @@
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "11,850",
-      "forks": "1,098",
+      "stars": "11,903",
+      "forks": "1,100",
       "addStars": "5",
       "contributors": [
         {
@@ -298,9 +298,9 @@
       "description": "Your own search engine",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,074",
+      "stars": "5,129",
       "forks": "212",
-      "addStars": "889",
+      "addStars": "430",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20240?s=40&v=4",
@@ -330,8 +330,8 @@
       "description": "科技爱好者周刊，每周五发布",
       "language": "",
       "languageColor": "",
-      "stars": "102,946",
-      "forks": "4,420",
+      "stars": "103,027",
+      "forks": "4,423",
       "addStars": "144",
       "contributors": [
         {
@@ -367,8 +367,8 @@
       "description": "人人都能用英语",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "37,650",
-      "forks": "5,198",
+      "stars": "37,697",
+      "forks": "5,201",
       "addStars": "31",
       "contributors": [
         {
@@ -404,9 +404,9 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "24,968",
-      "forks": "2,978",
-      "addStars": "299",
+      "stars": "25,014",
+      "forks": "2,981",
+      "addStars": "280",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -436,8 +436,8 @@
       "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "11,389",
-      "forks": "727",
+      "stars": "11,471",
+      "forks": "729",
       "addStars": "207",
       "contributors": [
         {
@@ -473,7 +473,7 @@
       "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,303",
+      "stars": "3,339",
       "forks": "440",
       "addStars": "64",
       "contributors": [
