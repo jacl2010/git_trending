@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Sat, 19 Sep 2026 15:00:04 GMT</pubDate>
+    <pubDate>Sat, 19 Sep 2026 19:58:10 GMT</pubDate>
     <item>
       <title>cloudflare/security-audit-skill</title>
       <link>https://github.com/cloudflare/security-audit-skill</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/cloudflare/security-audit-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>15,443</stars>
-      <forks>843</forks>
+      <stars>15,981</stars>
+      <forks>874</forks>
       <addStars>3,162</addStars>
       <contributors>
         <contributor>
@@ -39,8 +39,8 @@
       <guid>https://github.com/trycua/cua</guid>
       <language>HTML</language>
       <languageColor>#e34c26</languageColor>
-      <stars>24,008</stars>
-      <forks>1,658</forks>
+      <stars>24,236</stars>
+      <forks>1,673</forks>
       <addStars>383</addStars>
       <contributors>
         <contributor>
@@ -72,8 +72,8 @@
       <guid>https://github.com/addyosmani/agent-skills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>96,777</stars>
-      <forks>10,223</forks>
+      <stars>96,921</stars>
+      <forks>10,233</forks>
       <addStars>547</addStars>
       <contributors>
         <contributor>
@@ -110,8 +110,8 @@
       <guid>https://github.com/coder/coder</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>15,479</stars>
-      <forks>1,509</forks>
+      <stars>15,560</stars>
+      <forks>1,518</forks>
       <addStars>406</addStars>
       <contributors>
         <contributor>
@@ -143,8 +143,8 @@
       <guid>https://github.com/anthropics/claude-code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>146,568</stars>
-      <forks>23,856</forks>
+      <stars>146,642</stars>
+      <forks>23,896</forks>
       <addStars>482</addStars>
       <contributors>
         <contributor>
@@ -181,8 +181,8 @@
       <guid>https://github.com/Open-Dev-Society/OpenStock</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>15,796</stars>
-      <forks>2,066</forks>
+      <stars>15,934</stars>
+      <forks>2,079</forks>
       <addStars>477</addStars>
       <contributors>
         <contributor>
@@ -214,8 +214,8 @@
       <guid>https://github.com/higgsfield-ai/higgsfield</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>4,773</stars>
-      <forks>884</forks>
+      <stars>4,884</stars>
+      <forks>902</forks>
       <addStars>325</addStars>
       <contributors>
         <contributor>
@@ -242,8 +242,8 @@
       <guid>https://github.com/docling-project/docling</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>66,811</stars>
-      <forks>4,821</forks>
+      <stars>66,957</stars>
+      <forks>4,832</forks>
       <addStars>94</addStars>
       <contributors>
         <contributor>
@@ -275,9 +275,9 @@
       <guid>https://github.com/cloudflare/quiche</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>11,903</stars>
-      <forks>1,100</forks>
-      <addStars>5</addStars>
+      <stars>11,975</stars>
+      <forks>1,115</forks>
+      <addStars>84</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/117643?s=40&amp;v=4</avatar>
@@ -308,8 +308,8 @@
       <guid>https://github.com/asciimoo/hister</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>5,129</stars>
-      <forks>212</forks>
+      <stars>5,188</stars>
+      <forks>217</forks>
       <addStars>430</addStars>
       <contributors>
         <contributor>
@@ -341,9 +341,9 @@
       <guid>https://github.com/ruanyf/weekly</guid>
       <language/>
       <languageColor/>
-      <stars>103,027</stars>
-      <forks>4,423</forks>
-      <addStars>144</addStars>
+      <stars>103,093</stars>
+      <forks>4,424</forks>
+      <addStars>151</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/905434?s=40&amp;v=4</avatar>
@@ -379,8 +379,8 @@
       <guid>https://github.com/ZuodaoTech/everyone-can-use-english</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>37,697</stars>
-      <forks>5,201</forks>
+      <stars>37,758</stars>
+      <forks>5,205</forks>
       <addStars>31</addStars>
       <contributors>
         <contributor>
@@ -417,8 +417,8 @@
       <guid>https://github.com/anthropics/knowledge-work-plugins</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>25,014</stars>
-      <forks>2,981</forks>
+      <stars>25,076</stars>
+      <forks>2,988</forks>
       <addStars>280</addStars>
       <contributors>
         <contributor>
@@ -450,8 +450,8 @@
       <guid>https://github.com/cactus-compute/needle</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>11,471</stars>
-      <forks>729</forks>
+      <stars>11,552</stars>
+      <forks>735</forks>
       <addStars>207</addStars>
       <contributors>
         <contributor>
@@ -488,9 +488,9 @@
       <guid>https://github.com/yynxxxxx/Codex-X</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>3,339</stars>
-      <forks>440</forks>
-      <addStars>64</addStars>
+      <stars>3,372</stars>
+      <forks>443</forks>
+      <addStars>59</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/139136586?s=40&amp;v=4</avatar>
