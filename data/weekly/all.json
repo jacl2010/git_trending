@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Mon, 21 Sep 2026 12:29:19 GMT",
+  "pubDate": "Mon, 21 Sep 2026 17:22:44 GMT",
   "items": [
     {
       "title": "alibaba/open-code-review",
@@ -10,8 +10,8 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "38,906",
-      "forks": "2,778",
+      "stars": "39,059",
+      "forks": "2,795",
       "addStars": "15,504",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "147,388",
-      "forks": "24,102",
+      "stars": "147,433",
+      "forks": "24,107",
       "addStars": "2,342",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "36,706",
-      "forks": "3,921",
+      "stars": "36,764",
+      "forks": "3,930",
       "addStars": "7,441",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "28,354",
-      "forks": "3,814",
+      "stars": "28,427",
+      "forks": "3,825",
       "addStars": "5,242",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "264,336",
-      "forks": "39,513",
+      "stars": "264,557",
+      "forks": "39,540",
       "addStars": "6,453",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "25,321",
-      "forks": "3,010",
+      "stars": "25,334",
+      "forks": "3,013",
       "addStars": "1,298",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "97,986",
-      "forks": "10,306",
+      "stars": "98,055",
+      "forks": "10,312",
       "addStars": "3,986",
       "contributors": [
         {
@@ -242,9 +242,9 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/222980227?s=40&v=4",
-          "name": "HMAKT99",
-          "url": "https://github.com/HMAKT99"
+          "avatar": "https://avatars.githubusercontent.com/u/66267222?s=40&v=4",
+          "name": "ayobamiseun",
+          "url": "https://github.com/ayobamiseun"
         }
       ]
     },
@@ -254,8 +254,8 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "74,224",
-      "forks": "4,861",
+      "stars": "74,486",
+      "forks": "4,869",
       "addStars": "5,841",
       "contributors": [
         {
@@ -291,7 +291,7 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "23,837",
+      "stars": "23,859",
       "forks": "1,721",
       "addStars": "1,242",
       "contributors": [
@@ -323,8 +323,8 @@
       "description": "🏡 Open source home automation that puts local control and privacy first.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "90,933",
-      "forks": "38,718",
+      "stars": "90,949",
+      "forks": "38,719",
       "addStars": "480",
       "contributors": [
         {
@@ -360,8 +360,8 @@
       "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "44,541",
-      "forks": "9,145",
+      "stars": "44,561",
+      "forks": "9,147",
       "addStars": "1,600",
       "contributors": [
         {
@@ -392,8 +392,8 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "40,149",
-      "forks": "8,136",
+      "stars": "40,353",
+      "forks": "8,190",
       "addStars": "8,111",
       "contributors": [
         {
@@ -429,8 +429,8 @@
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "84,178",
-      "forks": "7,380",
+      "stars": "84,277",
+      "forks": "7,401",
       "addStars": "3,690",
       "contributors": [
         {
@@ -466,8 +466,8 @@
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "50,885",
-      "forks": "4,084",
+      "stars": "50,980",
+      "forks": "4,091",
       "addStars": "3,045",
       "contributors": [
         {
@@ -503,8 +503,8 @@
       "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "68,927",
-      "forks": "7,470",
+      "stars": "68,955",
+      "forks": "7,473",
       "addStars": "1,167",
       "contributors": [
         {
@@ -540,8 +540,8 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "8,256",
-      "forks": "284",
+      "stars": "8,279",
+      "forks": "286",
       "addStars": "822",
       "contributors": [
         {
@@ -567,8 +567,8 @@
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,168",
-      "forks": "1,125",
+      "stars": "12,253",
+      "forks": "1,129",
       "addStars": "317",
       "contributors": [
         {
@@ -599,7 +599,7 @@
       "description": "eBPF-based Networking, Security, and Observability",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "25,413",
+      "stars": "25,421",
       "forks": "4,085",
       "addStars": "373",
       "contributors": [
@@ -636,8 +636,8 @@
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "110,478",
-      "forks": "14,508",
+      "stars": "110,500",
+      "forks": "14,512",
       "addStars": "1,484",
       "contributors": [
         {
@@ -673,8 +673,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "18,615",
-      "forks": "1,045",
+      "stars": "18,782",
+      "forks": "1,056",
       "addStars": "14,864",
       "contributors": [
         {
@@ -700,8 +700,8 @@
       "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,880",
-      "forks": "410",
+      "stars": "4,939",
+      "forks": "412",
       "addStars": "1,457",
       "contributors": [
         {
