@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Tue, 22 Sep 2026 11:18:38 GMT",
+  "pubDate": "Tue, 22 Sep 2026 15:55:12 GMT",
   "items": [
     {
       "title": "anthropics/financial-services",
@@ -10,9 +10,9 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "36,018",
-      "forks": "5,282",
-      "addStars": "424",
+      "stars": "36,156",
+      "forks": "5,295",
+      "addStars": "436",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5457787?s=40&v=4",
@@ -47,8 +47,8 @@
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,674",
-      "forks": "366",
+      "stars": "2,812",
+      "forks": "374",
       "addStars": "498",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "14,876",
-      "forks": "1,352",
+      "stars": "15,099",
+      "forks": "1,357",
       "addStars": "202",
       "contributors": [
         {
@@ -121,9 +121,9 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "30,912",
-      "forks": "3,522",
-      "addStars": "33",
+      "stars": "30,987",
+      "forks": "3,532",
+      "addStars": "113",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6216945?s=40&v=4",
@@ -143,8 +143,8 @@
       "description": "Google's open agentic orchestration runtime",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,711",
-      "forks": "318",
+      "stars": "7,151",
+      "forks": "339",
       "addStars": "2,324",
       "contributors": [
         {
@@ -180,9 +180,9 @@
       "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,777",
-      "forks": "1,336",
-      "addStars": "169",
+      "stars": "13,855",
+      "forks": "1,343",
+      "addStars": "441",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1032671?s=40&v=4",
@@ -212,8 +212,8 @@
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,959",
-      "forks": "206",
+      "stars": "2,059",
+      "forks": "209",
       "addStars": "197",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "Edit videos with coding agents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "25,489",
-      "forks": "3,092",
+      "stars": "25,637",
+      "forks": "3,104",
       "addStars": "155",
       "contributors": [
         {
