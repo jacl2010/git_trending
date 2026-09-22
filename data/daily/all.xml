@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Tue, 22 Sep 2026 15:55:12 GMT</pubDate>
+    <pubDate>Tue, 22 Sep 2026 20:48:58 GMT</pubDate>
     <item>
       <title>anthropics/financial-services</title>
       <link>https://github.com/anthropics/financial-services</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/anthropics/financial-services</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>36,156</stars>
-      <forks>5,295</forks>
+      <stars>36,267</stars>
+      <forks>5,308</forks>
       <addStars>436</addStars>
       <contributors>
         <contributor>
@@ -49,9 +49,9 @@
       <guid>https://github.com/agent-substrate/substrate</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>2,812</stars>
-      <forks>374</forks>
-      <addStars>498</addStars>
+      <stars>2,902</stars>
+      <forks>381</forks>
+      <addStars>301</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/917931?s=40&amp;v=4</avatar>
@@ -87,8 +87,8 @@
       <guid>https://github.com/dream-num/univer</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>15,099</stars>
-      <forks>1,357</forks>
+      <stars>15,291</stars>
+      <forks>1,365</forks>
       <addStars>202</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/davila7/claude-code-templates</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>30,987</stars>
-      <forks>3,532</forks>
+      <stars>31,060</stars>
+      <forks>3,536</forks>
       <addStars>113</addStars>
       <contributors>
         <contributor>
@@ -148,8 +148,8 @@
       <guid>https://github.com/google/ax</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>7,151</stars>
-      <forks>339</forks>
+      <stars>7,430</stars>
+      <forks>348</forks>
       <addStars>2,324</addStars>
       <contributors>
         <contributor>
@@ -186,8 +186,8 @@
       <guid>https://github.com/mvt-project/mvt</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>13,855</stars>
-      <forks>1,343</forks>
+      <stars>13,997</stars>
+      <forks>1,348</forks>
       <addStars>441</addStars>
       <contributors>
         <contributor>
@@ -219,8 +219,8 @@
       <guid>https://github.com/superdesigndev/treg</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>2,059</stars>
-      <forks>209</forks>
+      <stars>2,148</stars>
+      <forks>214</forks>
       <addStars>197</addStars>
       <contributors>
         <contributor>
@@ -257,8 +257,8 @@
       <guid>https://github.com/browser-use/video-use</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>25,637</stars>
-      <forks>3,104</forks>
+      <stars>25,759</stars>
+      <forks>3,112</forks>
       <addStars>155</addStars>
       <contributors>
         <contributor>
