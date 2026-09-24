@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Thu, 24 Sep 2026 11:27:44 GMT",
+  "pubDate": "Thu, 24 Sep 2026 16:06:07 GMT",
   "items": [
     {
       "title": "rohitg00/ai-engineering-from-scratch",
@@ -10,8 +10,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "55,883",
-      "forks": "9,867",
+      "stars": "56,176",
+      "forks": "9,893",
       "addStars": "310",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "26,894",
-      "forks": "2,525",
+      "stars": "27,256",
+      "forks": "2,577",
       "addStars": "1,607",
       "contributors": [
         {
@@ -79,9 +79,9 @@
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,983",
-      "forks": "1,490",
-      "addStars": "1,142",
+      "stars": "17,292",
+      "forks": "1,504",
+      "addStars": "1,060",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/14025786?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "Google's open agentic orchestration runtime",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "9,657",
-      "forks": "475",
-      "addStars": "1,543",
+      "stars": "9,921",
+      "forks": "487",
+      "addStars": "1,376",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/108380?s=40&v=4",
@@ -153,8 +153,8 @@
       "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,874",
-      "forks": "621",
+      "stars": "3,948",
+      "forks": "624",
       "addStars": "22",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,253",
-      "forks": "242",
+      "stars": "5,307",
+      "forks": "247",
       "addStars": "165",
       "contributors": [
         {
@@ -217,9 +217,9 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "37,187",
-      "forks": "5,407",
-      "addStars": "664",
+      "stars": "37,257",
+      "forks": "5,412",
+      "addStars": "510",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5457787?s=40&v=4",
@@ -254,9 +254,9 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "50,132",
-      "forks": "4,609",
-      "addStars": "57",
+      "stars": "50,208",
+      "forks": "4,610",
+      "addStars": "415",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
@@ -291,9 +291,9 @@
       "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "14,594",
+      "stars": "14,640",
       "forks": "1,390",
-      "addStars": "543",
+      "addStars": "275",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1032671?s=40&v=4",
@@ -323,9 +323,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "290,970",
-      "forks": "26,034",
-      "addStars": "474",
+      "stars": "291,078",
+      "forks": "26,038",
+      "addStars": "606",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -360,9 +360,9 @@
       "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,058",
-      "forks": "1,216",
-      "addStars": "115",
+      "stars": "8,145",
+      "forks": "1,222",
+      "addStars": "463",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3211021?s=40&v=4",
@@ -392,8 +392,8 @@
       "description": "An offline-first photo manager for large local libraries",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "2,677",
-      "forks": "165",
+      "stars": "2,750",
+      "forks": "168",
       "addStars": "71",
       "contributors": [
         {
@@ -429,9 +429,9 @@
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,928",
-      "forks": "250",
-      "addStars": "506",
+      "stars": "3,033",
+      "forks": "254",
+      "addStars": "470",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/22532527?s=40&v=4",
@@ -466,8 +466,8 @@
       "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "7,140",
-      "forks": "809",
+      "stars": "7,185",
+      "forks": "810",
       "addStars": "33",
       "contributors": [
         {
