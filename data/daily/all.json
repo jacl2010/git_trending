@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Fri, 25 Sep 2026 11:33:39 GMT",
+  "pubDate": "Fri, 25 Sep 2026 16:06:47 GMT",
   "items": [
     {
       "title": "paperclipai/paperclip",
@@ -10,8 +10,8 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "83,315",
-      "forks": "15,123",
+      "stars": "83,983",
+      "forks": "15,172",
       "addStars": "1,853",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "36,744",
-      "forks": "4,147",
+      "stars": "36,801",
+      "forks": "4,149",
       "addStars": "62",
       "contributors": [
         {
@@ -79,9 +79,9 @@
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "28,521",
-      "forks": "2,856",
-      "addStars": "1,668",
+      "stars": "29,045",
+      "forks": "2,958",
+      "addStars": "1,652",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/23314389?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "291,410",
-      "forks": "26,072",
-      "addStars": "611",
+      "stars": "291,517",
+      "forks": "26,090",
+      "addStars": "465",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -153,8 +153,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "269,370",
-      "forks": "22,704",
+      "stars": "269,526",
+      "forks": "22,715",
       "addStars": "671",
       "contributors": [
         {
@@ -180,9 +180,9 @@
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "18,115",
-      "forks": "1,549",
-      "addStars": "1,082",
+      "stars": "18,231",
+      "forks": "1,555",
+      "addStars": "1,048",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/14025786?s=40&v=4",
@@ -217,9 +217,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "178,062",
-      "forks": "21,096",
-      "addStars": "155",
+      "stars": "178,148",
+      "forks": "21,101",
+      "addStars": "231",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
@@ -254,9 +254,9 @@
       "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "285",
-      "forks": "73",
-      "addStars": "113",
+      "stars": "357",
+      "forks": "80",
+      "addStars": "118",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/224686490?s=40&v=4",
@@ -276,8 +276,8 @@
       "description": "Wifite but USB-only & cross-platform.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "675",
-      "forks": "74",
+      "stars": "768",
+      "forks": "76",
       "addStars": "168",
       "contributors": [
         {
@@ -313,8 +313,8 @@
       "description": "Bootstrap Kubernetes the hard way. No scripts.",
       "language": "",
       "languageColor": "",
-      "stars": "50,010",
-      "forks": "15,904",
+      "stars": "50,055",
+      "forks": "15,913",
       "addStars": "105",
       "contributors": [
         {
@@ -350,9 +350,9 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "57,075",
-      "forks": "9,982",
-      "addStars": "347",
+      "stars": "57,247",
+      "forks": "10,007",
+      "addStars": "1,181",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
@@ -382,8 +382,8 @@
       "description": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,031",
-      "forks": "1,245",
+      "stars": "5,078",
+      "forks": "1,252",
       "addStars": "31",
       "contributors": [
         {
@@ -419,9 +419,9 @@
       "description": "Google's open agentic orchestration runtime",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "11,048",
-      "forks": "534",
-      "addStars": "1,373",
+      "stars": "11,239",
+      "forks": "543",
+      "addStars": "1,386",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/108380?s=40&v=4",
@@ -456,9 +456,9 @@
       "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,242",
-      "forks": "640",
-      "addStars": "44",
+      "stars": "4,331",
+      "forks": "644",
+      "addStars": "360",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28916987?s=40&v=4",
@@ -493,9 +493,9 @@
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "70,909",
-      "forks": "4,306",
-      "addStars": "527",
+      "stars": "71,020",
+      "forks": "4,307",
+      "addStars": "326",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
@@ -525,8 +525,8 @@
       "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "7,506",
-      "forks": "580",
+      "stars": "7,588",
+      "forks": "581",
       "addStars": "16",
       "contributors": [
         {
