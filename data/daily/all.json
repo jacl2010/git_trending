@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sun, 27 Sep 2026 15:58:49 GMT",
+  "pubDate": "Sun, 27 Sep 2026 20:47:34 GMT",
   "items": [
     {
       "title": "paperclipai/paperclip",
@@ -10,8 +10,8 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "88,946",
-      "forks": "15,581",
+      "stars": "89,511",
+      "forks": "15,626",
       "addStars": "2,527",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "36,017",
-      "forks": "4,594",
+      "stars": "37,032",
+      "forks": "4,820",
       "addStars": "4,463",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "39,120",
-      "forks": "4,655",
+      "stars": "39,761",
+      "forks": "4,727",
       "addStars": "3,060",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "58,944",
-      "forks": "10,197",
+      "stars": "59,145",
+      "forks": "10,219",
       "addStars": "848",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "An open-source Android app to let you browse YouTube and other services freely.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "6,454",
-      "forks": "215",
+      "stars": "6,525",
+      "forks": "218",
       "addStars": "139",
       "contributors": [
         {
@@ -190,9 +190,9 @@
       "description": "TypeScript-to-Native Compiler",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,278",
-      "forks": "137",
-      "addStars": "76",
+      "stars": "5,349",
+      "forks": "138",
+      "addStars": "186",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
@@ -227,8 +227,8 @@
       "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "726",
-      "forks": "86",
+      "stars": "871",
+      "forks": "95",
       "addStars": "114",
       "contributors": [
         {
@@ -264,8 +264,8 @@
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "19,980",
-      "forks": "1,695",
+      "stars": "20,092",
+      "forks": "1,702",
       "addStars": "920",
       "contributors": [
         {
@@ -301,9 +301,9 @@
       "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "732",
-      "forks": "152",
-      "addStars": "171",
+      "stars": "781",
+      "forks": "151",
+      "addStars": "117",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/39139570?s=40&v=4",

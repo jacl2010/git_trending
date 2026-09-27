@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sun, 27 Sep 2026 15:58:49 GMT",
+  "pubDate": "Sun, 27 Sep 2026 20:47:34 GMT",
   "items": [
     {
       "title": "anthropics/financial-services",
@@ -10,8 +10,8 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "37,803",
-      "forks": "5,457",
+      "stars": "37,845",
+      "forks": "5,465",
       "addStars": "2,633",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "88,946",
-      "forks": "15,581",
+      "stars": "89,511",
+      "forks": "15,626",
       "addStars": "5,376",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "36,017",
-      "forks": "4,594",
+      "stars": "37,032",
+      "forks": "4,820",
       "addStars": "7,282",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "22,234",
-      "forks": "1,290",
+      "stars": "22,297",
+      "forks": "1,293",
       "addStars": "6,474",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "30,523",
-      "forks": "4,089",
+      "stars": "30,570",
+      "forks": "4,093",
       "addStars": "3,015",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "31,971",
-      "forks": "3,640",
+      "stars": "31,985",
+      "forks": "3,641",
       "addStars": "1,142",
       "contributors": [
         {
@@ -202,8 +202,8 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "79,366",
-      "forks": "5,194",
+      "stars": "79,471",
+      "forks": "5,201",
       "addStars": "6,503",
       "contributors": [
         {
@@ -239,8 +239,8 @@
       "description": "The React Framework",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "142,773",
-      "forks": "33,235",
+      "stars": "142,789",
+      "forks": "33,275",
       "addStars": "280",
       "contributors": [
         {
@@ -276,8 +276,8 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "50,701",
-      "forks": "4,637",
+      "stars": "50,729",
+      "forks": "4,638",
       "addStars": "1,055",
       "contributors": [
         {
@@ -313,8 +313,8 @@
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "103,407",
-      "forks": "30,692",
+      "stars": "103,415",
+      "forks": "30,740",
       "addStars": "295",
       "contributors": [
         {
@@ -350,8 +350,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "148,306",
-      "forks": "24,799",
+      "stars": "148,333",
+      "forks": "24,835",
       "addStars": "1,744",
       "contributors": [
         {
@@ -387,8 +387,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "268,206",
-      "forks": "40,075",
+      "stars": "268,331",
+      "forks": "40,089",
       "addStars": "5,522",
       "contributors": [
         {
@@ -419,8 +419,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "58,944",
-      "forks": "10,197",
+      "stars": "59,145",
+      "forks": "10,219",
       "addStars": "3,207",
       "contributors": [
         {
@@ -451,7 +451,7 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "41,836",
+      "stars": "41,895",
       "forks": "3,009",
       "addStars": "4,310",
       "contributors": [
@@ -488,7 +488,7 @@
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,643",
+      "stars": "12,649",
       "forks": "1,150",
       "addStars": "736",
       "contributors": [
@@ -520,8 +520,8 @@
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,226",
-      "forks": "634",
+      "stars": "5,251",
+      "forks": "637",
       "addStars": "951",
       "contributors": [
         {
@@ -530,14 +530,14 @@
           "url": "https://github.com/jubaoliang-tencent"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/222386738?s=40&v=4",
-          "name": "jubaoliang",
-          "url": "https://github.com/jubaoliang"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
           "name": "cursoragent",
           "url": "https://github.com/cursoragent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/222386738?s=40&v=4",
+          "name": "jubaoliang",
+          "url": "https://github.com/jubaoliang"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/50489030?s=40&v=4",
@@ -557,8 +557,8 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "25,725",
-      "forks": "3,040",
+      "stars": "25,743",
+      "forks": "3,039",
       "addStars": "664",
       "contributors": [
         {
@@ -589,7 +589,7 @@
       "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,490",
+      "stars": "5,495",
       "forks": "260",
       "addStars": "417",
       "contributors": [
