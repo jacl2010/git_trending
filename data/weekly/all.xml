@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Mon, 28 Sep 2026 13:27:40 GMT</pubDate>
+    <pubDate>Mon, 28 Sep 2026 18:55:19 GMT</pubDate>
     <item>
       <title>anthropics/financial-services</title>
       <link>https://github.com/anthropics/financial-services</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/anthropics/financial-services</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>37,976</stars>
-      <forks>5,475</forks>
+      <stars>38,018</stars>
+      <forks>5,478</forks>
       <addStars>2,606</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/paperclipai/paperclip</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>91,747</stars>
-      <forks>15,814</forks>
+      <stars>92,366</stars>
+      <forks>15,858</forks>
       <addStars>7,364</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/vectorize-io/hindsight</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>39,725</stars>
-      <forks>5,282</forks>
+      <stars>40,706</stars>
+      <forks>5,511</forks>
       <addStars>11,089</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/cloudflare/security-audit-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>22,572</stars>
-      <forks>1,310</forks>
+      <stars>22,660</stars>
+      <forks>1,317</forks>
       <addStars>4,805</addStars>
       <contributors>
         <contributor>
@@ -153,8 +153,8 @@
       <guid>https://github.com/davila7/claude-code-templates</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>32,044</stars>
-      <forks>3,649</forks>
+      <stars>32,062</stars>
+      <forks>3,650</forks>
       <addStars>1,154</addStars>
       <contributors>
         <contributor>
@@ -176,8 +176,8 @@
       <guid>https://github.com/Tencent/WeKnora</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>30,843</stars>
-      <forks>4,124</forks>
+      <stars>30,914</stars>
+      <forks>4,131</forks>
       <addStars>2,705</addStars>
       <contributors>
         <contributor>
@@ -209,8 +209,8 @@
       <guid>https://github.com/vercel/next.js</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>142,835</stars>
-      <forks>33,346</forks>
+      <stars>142,849</stars>
+      <forks>33,344</forks>
       <addStars>496</addStars>
       <contributors>
         <contributor>
@@ -247,8 +247,8 @@
       <guid>https://github.com/stablyai/orca</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>80,304</stars>
-      <forks>5,235</forks>
+      <stars>80,561</stars>
+      <forks>5,245</forks>
       <addStars>6,227</addStars>
       <contributors>
         <contributor>
@@ -285,7 +285,7 @@
       <guid>https://github.com/HKUDS/CLI-Anything</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>50,841</stars>
+      <stars>50,869</stars>
       <forks>4,646</forks>
       <addStars>1,105</addStars>
       <contributors>
@@ -323,8 +323,8 @@
       <guid>https://github.com/pytorch/pytorch</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>103,450</stars>
-      <forks>30,814</forks>
+      <stars>103,461</stars>
+      <forks>30,812</forks>
       <addStars>320</addStars>
       <contributors>
         <contributor>
@@ -361,8 +361,8 @@
       <guid>https://github.com/debpalash/VoiceStudio</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>42,055</stars>
-      <forks>4,967</forks>
+      <stars>43,272</stars>
+      <forks>5,044</forks>
       <addStars>7,793</addStars>
       <contributors>
         <contributor>
@@ -399,8 +399,8 @@
       <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>60,071</stars>
-      <forks>10,346</forks>
+      <stars>60,218</stars>
+      <forks>10,370</forks>
       <addStars>3,850</addStars>
       <contributors>
         <contributor>
@@ -432,8 +432,8 @@
       <guid>https://github.com/trycua/cua</guid>
       <language>HTML</language>
       <languageColor>#e34c26</languageColor>
-      <stars>26,752</stars>
-      <forks>1,859</forks>
+      <stars>26,821</stars>
+      <forks>1,866</forks>
       <addStars>1,559</addStars>
       <contributors>
         <contributor>
@@ -465,8 +465,8 @@
       <guid>https://github.com/akitaonrails/ai-memory</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>8,518</stars>
-      <forks>579</forks>
+      <stars>8,544</stars>
+      <forks>582</forks>
       <addStars>1,224</addStars>
       <contributors>
         <contributor>
@@ -503,8 +503,8 @@
       <guid>https://github.com/FxEmbed/FxEmbed</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,534</stars>
-      <forks>263</forks>
+      <stars>5,545</stars>
+      <forks>264</forks>
       <addStars>432</addStars>
       <contributors>
         <contributor>
@@ -531,8 +531,8 @@
       <guid>https://github.com/TencentCloud/Octop</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>5,450</stars>
-      <forks>670</forks>
+      <stars>5,489</stars>
+      <forks>673</forks>
       <addStars>869</addStars>
       <contributors>
         <contributor>
@@ -569,7 +569,7 @@
       <guid>https://github.com/cloudflare/quiche</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>12,680</stars>
+      <stars>12,686</stars>
       <forks>1,152</forks>
       <addStars>521</addStars>
       <contributors>
@@ -602,8 +602,8 @@
       <guid>https://github.com/elastic/elasticsearch</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>78,026</stars>
-      <forks>26,095</forks>
+      <stars>78,037</stars>
+      <forks>26,092</forks>
       <addStars>94</addStars>
       <contributors>
         <contributor>

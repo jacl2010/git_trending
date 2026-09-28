@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Mon, 28 Sep 2026 13:27:40 GMT",
+  "pubDate": "Mon, 28 Sep 2026 18:55:19 GMT",
   "items": [
     {
       "title": "anthropics/financial-services",
@@ -10,8 +10,8 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "37,976",
-      "forks": "5,475",
+      "stars": "38,018",
+      "forks": "5,478",
       "addStars": "2,606",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "91,747",
-      "forks": "15,814",
+      "stars": "92,366",
+      "forks": "15,858",
       "addStars": "7,364",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "39,725",
-      "forks": "5,282",
+      "stars": "40,706",
+      "forks": "5,511",
       "addStars": "11,089",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "22,572",
-      "forks": "1,310",
+      "stars": "22,660",
+      "forks": "1,317",
       "addStars": "4,805",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "32,044",
-      "forks": "3,649",
+      "stars": "32,062",
+      "forks": "3,650",
       "addStars": "1,154",
       "contributors": [
         {
@@ -170,8 +170,8 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "30,843",
-      "forks": "4,124",
+      "stars": "30,914",
+      "forks": "4,131",
       "addStars": "2,705",
       "contributors": [
         {
@@ -202,8 +202,8 @@
       "description": "The React Framework",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "142,835",
-      "forks": "33,346",
+      "stars": "142,849",
+      "forks": "33,344",
       "addStars": "496",
       "contributors": [
         {
@@ -239,8 +239,8 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "80,304",
-      "forks": "5,235",
+      "stars": "80,561",
+      "forks": "5,245",
       "addStars": "6,227",
       "contributors": [
         {
@@ -276,7 +276,7 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "50,841",
+      "stars": "50,869",
       "forks": "4,646",
       "addStars": "1,105",
       "contributors": [
@@ -313,8 +313,8 @@
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "103,450",
-      "forks": "30,814",
+      "stars": "103,461",
+      "forks": "30,812",
       "addStars": "320",
       "contributors": [
         {
@@ -350,8 +350,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,055",
-      "forks": "4,967",
+      "stars": "43,272",
+      "forks": "5,044",
       "addStars": "7,793",
       "contributors": [
         {
@@ -387,8 +387,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "60,071",
-      "forks": "10,346",
+      "stars": "60,218",
+      "forks": "10,370",
       "addStars": "3,850",
       "contributors": [
         {
@@ -419,8 +419,8 @@
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "26,752",
-      "forks": "1,859",
+      "stars": "26,821",
+      "forks": "1,866",
       "addStars": "1,559",
       "contributors": [
         {
@@ -451,8 +451,8 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "8,518",
-      "forks": "579",
+      "stars": "8,544",
+      "forks": "582",
       "addStars": "1,224",
       "contributors": [
         {
@@ -488,8 +488,8 @@
       "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,534",
-      "forks": "263",
+      "stars": "5,545",
+      "forks": "264",
       "addStars": "432",
       "contributors": [
         {
@@ -515,8 +515,8 @@
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,450",
-      "forks": "670",
+      "stars": "5,489",
+      "forks": "673",
       "addStars": "869",
       "contributors": [
         {
@@ -552,7 +552,7 @@
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,680",
+      "stars": "12,686",
       "forks": "1,152",
       "addStars": "521",
       "contributors": [
@@ -584,8 +584,8 @@
       "description": "Free and Open Source, Distributed, RESTful Search Engine",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "78,026",
-      "forks": "26,095",
+      "stars": "78,037",
+      "forks": "26,092",
       "addStars": "94",
       "contributors": [
         {
