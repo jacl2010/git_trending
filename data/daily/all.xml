@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Wed, 30 Sep 2026 12:16:08 GMT</pubDate>
+    <pubDate>Wed, 30 Sep 2026 17:11:48 GMT</pubDate>
     <item>
       <title>NVIDIA/OpenShell</title>
       <link>https://github.com/NVIDIA/OpenShell</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/NVIDIA/OpenShell</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>11,245</stars>
-      <forks>1,469</forks>
+      <stars>11,963</stars>
+      <forks>1,506</forks>
       <addStars>1,280</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/debpalash/VoiceStudio</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>49,726</stars>
-      <forks>5,533</forks>
+      <stars>50,048</stars>
+      <forks>5,565</forks>
       <addStars>3,481</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/mvschwarz/openrig</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>2,695</stars>
-      <forks>193</forks>
+      <stars>2,844</stars>
+      <forks>200</forks>
       <addStars>622</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/mksglu/context-mode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>24,297</stars>
-      <forks>1,758</forks>
+      <stars>24,377</stars>
+      <forks>1,763</forks>
       <addStars>88</addStars>
       <contributors>
         <contributor>
@@ -158,9 +158,9 @@
       <guid>https://github.com/DietrichGebert/ponytail</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>148,606</stars>
-      <forks>7,992</forks>
-      <addStars>675</addStars>
+      <stars>148,871</stars>
+      <forks>8,007</forks>
+      <addStars>865</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/137048761?s=40&amp;v=4</avatar>
@@ -196,9 +196,9 @@
       <guid>https://github.com/harry0703/MoneyPrinterTurbo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>127,252</stars>
-      <forks>19,903</forks>
-      <addStars>338</addStars>
+      <stars>127,403</stars>
+      <forks>19,925</forks>
+      <addStars>464</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4928832?s=40&amp;v=4</avatar>
@@ -234,8 +234,8 @@
       <guid>https://github.com/openclaw/openclaw</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>390,829</stars>
-      <forks>82,207</forks>
+      <stars>390,902</stars>
+      <forks>82,211</forks>
       <addStars>136</addStars>
       <contributors>
         <contributor>
@@ -272,8 +272,8 @@
       <guid>https://github.com/ComposioHQ/awesome-claude-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>75,951</stars>
-      <forks>8,867</forks>
+      <stars>76,036</stars>
+      <forks>8,871</forks>
       <addStars>118</addStars>
       <contributors>
         <contributor>
@@ -310,8 +310,8 @@
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>272,567</stars>
-      <forks>22,930</forks>
+      <stars>272,790</stars>
+      <forks>22,950</forks>
       <addStars>736</addStars>
       <contributors>
         <contributor>
@@ -338,9 +338,9 @@
       <guid>https://github.com/heygen-com/hyperframes</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>54,410</stars>
-      <forks>4,947</forks>
-      <addStars>324</addStars>
+      <stars>54,558</stars>
+      <forks>4,957</forks>
+      <addStars>352</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/229591595?s=40&amp;v=4</avatar>
@@ -376,8 +376,8 @@
       <guid>https://github.com/firebase/firebase-ios-sdk</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>6,701</stars>
-      <forks>1,796</forks>
+      <stars>6,729</stars>
+      <forks>1,798</forks>
       <addStars>4</addStars>
       <contributors>
         <contributor>
@@ -414,8 +414,8 @@
       <guid>https://github.com/modelcontextprotocol/servers</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>90,707</stars>
-      <forks>11,715</forks>
+      <stars>90,756</stars>
+      <forks>11,719</forks>
       <addStars>48</addStars>
       <contributors>
         <contributor>
@@ -452,9 +452,9 @@
       <guid>https://github.com/byoungd/up</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>66,114</stars>
-      <forks>6,617</forks>
-      <addStars>1,102</addStars>
+      <stars>66,288</stars>
+      <forks>6,631</forks>
+      <addStars>714</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/16145783?s=40&amp;v=4</avatar>
@@ -490,9 +490,9 @@
       <guid>https://github.com/colbymchenry/codegraph</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>72,445</stars>
-      <forks>4,655</forks>
-      <addStars>116</addStars>
+      <stars>72,517</stars>
+      <forks>4,660</forks>
+      <addStars>159</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/18431132?s=40&amp;v=4</avatar>
@@ -523,8 +523,8 @@
       <guid>https://github.com/t8y2/dbx</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>22,790</stars>
-      <forks>2,122</forks>
+      <stars>22,990</stars>
+      <forks>2,136</forks>
       <addStars>1,133</addStars>
       <contributors>
         <contributor>
@@ -556,8 +556,8 @@
       <guid>https://github.com/NawfalMotii79/PLFM_RADAR</guid>
       <language>PLSQL</language>
       <languageColor>#dad8d8</languageColor>
-      <stars>26,297</stars>
-      <forks>5,958</forks>
+      <stars>26,357</stars>
+      <forks>5,965</forks>
       <addStars>466</addStars>
       <contributors>
         <contributor>
@@ -594,8 +594,8 @@
       <guid>https://github.com/VectifyAI/PageIndex</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>37,810</stars>
-      <forks>3,287</forks>
+      <stars>38,000</stars>
+      <forks>3,300</forks>
       <addStars>1,095</addStars>
       <contributors>
         <contributor>

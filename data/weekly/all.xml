@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Wed, 30 Sep 2026 12:16:08 GMT</pubDate>
+    <pubDate>Wed, 30 Sep 2026 17:11:48 GMT</pubDate>
     <item>
       <title>paperclipai/paperclip</title>
       <link>https://github.com/paperclipai/paperclip</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/paperclipai/paperclip</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>95,007</stars>
-      <forks>16,129</forks>
+      <stars>95,133</stars>
+      <forks>16,153</forks>
       <addStars>12,941</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/vectorize-io/hindsight</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>43,499</stars>
-      <forks>5,817</forks>
+      <stars>43,729</stars>
+      <forks>5,830</forks>
       <addStars>17,365</addStars>
       <contributors>
         <contributor>
@@ -87,7 +87,7 @@
       <guid>https://github.com/anthropics/financial-services</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>38,317</stars>
+      <stars>38,339</stars>
       <forks>5,516</forks>
       <addStars>2,114</addStars>
       <contributors>
@@ -125,8 +125,8 @@
       <guid>https://github.com/debpalash/VoiceStudio</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>49,727</stars>
-      <forks>5,533</forks>
+      <stars>50,048</stars>
+      <forks>5,565</forks>
       <addStars>12,722</addStars>
       <contributors>
         <contributor>
@@ -163,8 +163,8 @@
       <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>61,977</stars>
-      <forks>10,598</forks>
+      <stars>62,060</stars>
+      <forks>10,604</forks>
       <addStars>5,830</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/vercel/next.js</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>142,922</stars>
-      <forks>33,549</forks>
+      <stars>142,925</stars>
+      <forks>33,551</forks>
       <addStars>582</addStars>
       <contributors>
         <contributor>
@@ -234,7 +234,7 @@
       <guid>https://github.com/HKUDS/CLI-Anything</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>51,081</stars>
+      <stars>51,103</stars>
       <forks>4,661</forks>
       <addStars>1,327</addStars>
       <contributors>
@@ -272,8 +272,8 @@
       <guid>https://github.com/davila7/claude-code-templates</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>32,214</stars>
-      <forks>3,657</forks>
+      <stars>32,218</stars>
+      <forks>3,661</forks>
       <addStars>1,218</addStars>
       <contributors>
         <contributor>
@@ -295,8 +295,8 @@
       <guid>https://github.com/pytorch/pytorch</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>103,545</stars>
-      <forks>31,021</forks>
+      <stars>103,555</stars>
+      <forks>31,025</forks>
       <addStars>399</addStars>
       <contributors>
         <contributor>
@@ -333,8 +333,8 @@
       <guid>https://github.com/pbakaus/impeccable</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>72,800</stars>
-      <forks>4,395</forks>
+      <stars>72,881</stars>
+      <forks>4,402</forks>
       <addStars>2,644</addStars>
       <contributors>
         <contributor>
@@ -366,8 +366,8 @@
       <guid>https://github.com/TencentCloud/Octop</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>5,987</stars>
-      <forks>752</forks>
+      <stars>6,036</stars>
+      <forks>762</forks>
       <addStars>1,128</addStars>
       <contributors>
         <contributor>
@@ -404,8 +404,8 @@
       <guid>https://github.com/stablyai/orca</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>82,020</stars>
-      <forks>5,324</forks>
+      <stars>82,197</stars>
+      <forks>5,342</forks>
       <addStars>6,242</addStars>
       <contributors>
         <contributor>
@@ -442,8 +442,8 @@
       <guid>https://github.com/elastic/elasticsearch</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>78,145</stars>
-      <forks>26,095</forks>
+      <stars>78,153</stars>
+      <forks>26,094</forks>
       <addStars>169</addStars>
       <contributors>
         <contributor>
@@ -480,8 +480,8 @@
       <guid>https://github.com/Tencent/WeKnora</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>31,420</stars>
-      <forks>4,200</forks>
+      <stars>31,462</stars>
+      <forks>4,205</forks>
       <addStars>2,397</addStars>
       <contributors>
         <contributor>
@@ -513,7 +513,7 @@
       <guid>https://github.com/FxEmbed/FxEmbed</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,598</stars>
+      <stars>5,603</stars>
       <forks>265</forks>
       <addStars>502</addStars>
       <contributors>
@@ -541,8 +541,8 @@
       <guid>https://github.com/alirezarezvani/claude-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>26,974</stars>
-      <forks>3,815</forks>
+      <stars>27,012</stars>
+      <forks>3,818</forks>
       <addStars>707</addStars>
       <contributors>
         <contributor>
@@ -579,8 +579,8 @@
       <guid>https://github.com/dream-num/univer</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>22,074</stars>
-      <forks>1,864</forks>
+      <stars>22,142</stars>
+      <forks>1,867</forks>
       <addStars>6,666</addStars>
       <contributors>
         <contributor>
@@ -617,8 +617,8 @@
       <guid>https://github.com/anthropics/claude-code-action</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>9,250</stars>
-      <forks>2,175</forks>
+      <stars>9,264</stars>
+      <forks>2,177</forks>
       <addStars>319</addStars>
       <contributors>
         <contributor>
