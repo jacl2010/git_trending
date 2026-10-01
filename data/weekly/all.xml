@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Thu, 01 Oct 2026 17:41:09 GMT</pubDate>
+    <pubDate>Thu, 01 Oct 2026 22:17:14 GMT</pubDate>
     <item>
       <title>paperclipai/paperclip</title>
       <link>https://github.com/paperclipai/paperclip</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/paperclipai/paperclip</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>95,710</stars>
-      <forks>16,236</forks>
+      <stars>95,803</stars>
+      <forks>16,245</forks>
       <addStars>13,855</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/vectorize-io/hindsight</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>44,218</stars>
-      <forks>5,856</forks>
+      <stars>44,269</stars>
+      <forks>5,855</forks>
       <addStars>18,389</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/debpalash/VoiceStudio</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>51,209</stars>
-      <forks>5,686</forks>
+      <stars>51,325</stars>
+      <forks>5,702</forks>
       <addStars>15,186</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>62,342</stars>
-      <forks>10,667</forks>
+      <stars>62,403</stars>
+      <forks>10,678</forks>
       <addStars>6,485</addStars>
       <contributors>
         <contributor>
@@ -158,7 +158,7 @@
       <guid>https://github.com/anthropics/financial-services</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>38,452</stars>
+      <stars>38,465</stars>
       <forks>5,533</forks>
       <addStars>1,637</addStars>
       <contributors>
@@ -196,8 +196,8 @@
       <guid>https://github.com/vercel/next.js</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>142,968</stars>
-      <forks>33,556</forks>
+      <stars>142,988</stars>
+      <forks>33,559</forks>
       <addStars>595</addStars>
       <contributors>
         <contributor>
@@ -234,8 +234,8 @@
       <guid>https://github.com/pbakaus/impeccable</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>73,481</stars>
-      <forks>4,432</forks>
+      <stars>73,621</stars>
+      <forks>4,436</forks>
       <addStars>2,775</addStars>
       <contributors>
         <contributor>
@@ -267,8 +267,8 @@
       <guid>https://github.com/HKUDS/CLI-Anything</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>51,195</stars>
-      <forks>4,667</forks>
+      <stars>51,219</stars>
+      <forks>4,670</forks>
       <addStars>1,371</addStars>
       <contributors>
         <contributor>
@@ -305,8 +305,8 @@
       <guid>https://github.com/alirezarezvani/claude-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>27,143</stars>
-      <forks>3,835</forks>
+      <stars>27,168</stars>
+      <forks>3,838</forks>
       <addStars>711</addStars>
       <contributors>
         <contributor>
@@ -343,8 +343,8 @@
       <guid>https://github.com/davila7/claude-code-templates</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>32,267</stars>
-      <forks>3,664</forks>
+      <stars>32,270</stars>
+      <forks>3,666</forks>
       <addStars>914</addStars>
       <contributors>
         <contributor>
@@ -366,7 +366,7 @@
       <guid>https://github.com/TencentCloud/Octop</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>6,212</stars>
+      <stars>6,228</stars>
       <forks>785</forks>
       <addStars>1,301</addStars>
       <contributors>
@@ -404,8 +404,8 @@
       <guid>https://github.com/agent-substrate/substrate</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>4,078</stars>
-      <forks>487</forks>
+      <stars>4,094</stars>
+      <forks>490</forks>
       <addStars>594</addStars>
       <contributors>
         <contributor>
@@ -442,8 +442,8 @@
       <guid>https://github.com/tile-ai/tilelang</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,032</stars>
-      <forks>811</forks>
+      <stars>8,079</stars>
+      <forks>812</forks>
       <addStars>480</addStars>
       <contributors>
         <contributor>
@@ -480,8 +480,8 @@
       <guid>https://github.com/anthropics/claude-code-action</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>9,314</stars>
-      <forks>2,181</forks>
+      <stars>9,320</stars>
+      <forks>2,182</forks>
       <addStars>329</addStars>
       <contributors>
         <contributor>
@@ -513,8 +513,8 @@
       <guid>https://github.com/dream-num/univer</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>22,221</stars>
-      <forks>1,868</forks>
+      <stars>22,234</stars>
+      <forks>1,869</forks>
       <addStars>6,091</addStars>
       <contributors>
         <contributor>
@@ -551,7 +551,7 @@
       <guid>https://github.com/FxEmbed/FxEmbed</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,626</stars>
+      <stars>5,629</stars>
       <forks>269</forks>
       <addStars>520</addStars>
       <contributors>
@@ -579,8 +579,8 @@
       <guid>https://github.com/flutter/flutter</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>179,188</stars>
-      <forks>32,734</forks>
+      <stars>179,203</stars>
+      <forks>32,737</forks>
       <addStars>150</addStars>
       <contributors>
         <contributor>
@@ -617,8 +617,8 @@
       <guid>https://github.com/androoAGI/starnet</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>828</stars>
-      <forks>136</forks>
+      <stars>861</stars>
+      <forks>146</forks>
       <addStars>659</addStars>
       <contributors>
         <contributor>
