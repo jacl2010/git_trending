@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Fri, 02 Oct 2026 12:14:03 GMT",
+  "pubDate": "Fri, 02 Oct 2026 17:00:21 GMT",
   "items": [
     {
       "title": "Panniantong/Agent-Reach",
@@ -10,8 +10,8 @@
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "87,803",
-      "forks": "7,747",
+      "stars": "88,214",
+      "forks": "7,773",
       "addStars": "683",
       "contributors": [
         {
@@ -47,9 +47,9 @@
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "108,854",
-      "forks": "6,312",
-      "addStars": "193",
+      "stars": "108,956",
+      "forks": "6,313",
+      "addStars": "271",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/104168679?s=40&v=4",
@@ -79,8 +79,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "294,200",
-      "forks": "26,312",
+      "stars": "294,301",
+      "forks": "26,310",
       "addStars": "561",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "151,155",
-      "forks": "8,111",
+      "stars": "151,385",
+      "forks": "8,118",
       "addStars": "1,429",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "73,970",
-      "forks": "4,463",
+      "stars": "74,108",
+      "forks": "4,467",
       "addStars": "717",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "274,336",
-      "forks": "23,045",
+      "stars": "274,517",
+      "forks": "23,050",
       "addStars": "955",
       "contributors": [
         {
@@ -212,8 +212,8 @@
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "14,237",
-      "forks": "1,644",
+      "stars": "14,317",
+      "forks": "1,651",
       "addStars": "584",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "52,231",
-      "forks": "7,870",
+      "stars": "52,308",
+      "forks": "7,874",
       "addStars": "139",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "55,597",
-      "forks": "5,035",
+      "stars": "55,729",
+      "forks": "5,033",
       "addStars": "584",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "24,914",
-      "forks": "1,790",
+      "stars": "24,959",
+      "forks": "1,796",
       "addStars": "276",
       "contributors": [
         {
@@ -355,9 +355,9 @@
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,603",
-      "forks": "1,712",
-      "addStars": "30",
+      "stars": "20,659",
+      "forks": "1,717",
+      "addStars": "78",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/277152880?s=40&v=4",
@@ -392,8 +392,8 @@
       "description": "Developer-first error tracking and performance monitoring",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "44,920",
-      "forks": "4,882",
+      "stars": "44,969",
+      "forks": "4,886",
       "addStars": "12",
       "contributors": [
         {
@@ -429,8 +429,8 @@
       "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "72,825",
-      "forks": "4,678",
+      "stars": "72,879",
+      "forks": "4,680",
       "addStars": "241",
       "contributors": [
         {
@@ -461,8 +461,8 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "9,399",
-      "forks": "889",
+      "stars": "9,432",
+      "forks": "893",
       "addStars": "168",
       "contributors": [
         {
@@ -498,8 +498,8 @@
       "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,016",
-      "forks": "265",
+      "stars": "4,129",
+      "forks": "280",
       "addStars": "691",
       "contributors": [
         {
@@ -535,8 +535,8 @@
       "description": "Build production-ready applications in TypeScript",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,393",
-      "forks": "794",
+      "stars": "16,461",
+      "forks": "797",
       "addStars": "76",
       "contributors": [
         {
@@ -567,8 +567,8 @@
       "description": "yoink any video from your terminal. no shady ads.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,217",
-      "forks": "295",
+      "stars": "3,344",
+      "forks": "302",
       "addStars": "629",
       "contributors": [
         {
