@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Fri, 02 Oct 2026 17:00:21 GMT</pubDate>
+    <pubDate>Fri, 02 Oct 2026 21:45:44 GMT</pubDate>
     <item>
       <title>paperclipai/paperclip</title>
       <link>https://github.com/paperclipai/paperclip</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/paperclipai/paperclip</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>96,166</stars>
-      <forks>16,287</forks>
+      <stars>96,247</stars>
+      <forks>16,301</forks>
       <addStars>14,335</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/vectorize-io/hindsight</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>44,583</stars>
-      <forks>5,863</forks>
+      <stars>44,656</stars>
+      <forks>5,865</forks>
       <addStars>17,403</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/debpalash/VoiceStudio</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>51,750</stars>
-      <forks>5,758</forks>
+      <stars>51,831</stars>
+      <forks>5,767</forks>
       <addStars>16,114</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>62,616</stars>
-      <forks>10,700</forks>
+      <stars>62,676</stars>
+      <forks>10,709</forks>
       <addStars>6,469</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/flutter/flutter</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>179,239</stars>
-      <forks>32,799</forks>
+      <stars>179,250</stars>
+      <forks>32,832</forks>
       <addStars>147</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/pbakaus/impeccable</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>74,108</stars>
-      <forks>4,467</forks>
+      <stars>74,251</stars>
+      <forks>4,475</forks>
       <addStars>2,704</addStars>
       <contributors>
         <contributor>
@@ -229,8 +229,8 @@
       <guid>https://github.com/vercel/next.js</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>142,992</stars>
-      <forks>33,626</forks>
+      <stars>142,998</stars>
+      <forks>33,668</forks>
       <addStars>624</addStars>
       <contributors>
         <contributor>
@@ -267,8 +267,8 @@
       <guid>https://github.com/alirezarezvani/claude-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>27,262</stars>
-      <forks>3,846</forks>
+      <stars>27,292</stars>
+      <forks>3,851</forks>
       <addStars>743</addStars>
       <contributors>
         <contributor>
@@ -305,8 +305,8 @@
       <guid>https://github.com/heygen-com/hyperframes</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>55,729</stars>
-      <forks>5,033</forks>
+      <stars>55,839</stars>
+      <forks>5,036</forks>
       <addStars>2,667</addStars>
       <contributors>
         <contributor>
@@ -343,8 +343,8 @@
       <guid>https://github.com/TencentCloud/Octop</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>6,349</stars>
-      <forks>786</forks>
+      <stars>6,377</stars>
+      <forks>788</forks>
       <addStars>1,360</addStars>
       <contributors>
         <contributor>
@@ -381,8 +381,8 @@
       <guid>https://github.com/google/ax</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>12,859</stars>
-      <forks>638</forks>
+      <stars>12,895</stars>
+      <forks>639</forks>
       <addStars>2,919</addStars>
       <contributors>
         <contributor>
@@ -419,8 +419,8 @@
       <guid>https://github.com/anthropics/financial-services</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>38,511</stars>
-      <forks>5,537</forks>
+      <stars>38,532</stars>
+      <forks>5,536</forks>
       <addStars>1,270</addStars>
       <contributors>
         <contributor>
@@ -457,8 +457,8 @@
       <guid>https://github.com/tile-ai/tilelang</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,225</stars>
-      <forks>828</forks>
+      <stars>8,237</stars>
+      <forks>829</forks>
       <addStars>481</addStars>
       <contributors>
         <contributor>
@@ -495,7 +495,7 @@
       <guid>https://github.com/anthropics/claude-code-action</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>9,356</stars>
+      <stars>9,368</stars>
       <forks>2,184</forks>
       <addStars>376</addStars>
       <contributors>
@@ -528,8 +528,8 @@
       <guid>https://github.com/pytorch/pytorch</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>103,619</stars>
-      <forks>31,087</forks>
+      <stars>103,623</stars>
+      <forks>31,122</forks>
       <addStars>376</addStars>
       <contributors>
         <contributor>
@@ -566,8 +566,8 @@
       <guid>https://github.com/harry0703/MoneyPrinterTurbo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>128,046</stars>
-      <forks>20,024</forks>
+      <stars>128,076</stars>
+      <forks>20,030</forks>
       <addStars>2,548</addStars>
       <contributors>
         <contributor>
@@ -604,8 +604,8 @@
       <guid>https://github.com/pablostanley/yoinks</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,344</stars>
-      <forks>302</forks>
+      <stars>3,449</stars>
+      <forks>305</forks>
       <addStars>1,069</addStars>
       <contributors>
         <contributor>
