@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sun, 04 Oct 2026 12:06:10 GMT",
+  "pubDate": "Sun, 04 Oct 2026 16:07:57 GMT",
   "items": [
     {
       "title": "paperclipai/paperclip",
@@ -10,8 +10,8 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "96,924",
-      "forks": "16,408",
+      "stars": "97,028",
+      "forks": "16,415",
       "addStars": "10,722",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "45,281",
-      "forks": "5,902",
+      "stars": "45,379",
+      "forks": "5,906",
       "addStars": "14,507",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "75,801",
-      "forks": "4,534",
+      "stars": "75,985",
+      "forks": "4,543",
       "addStars": "3,311",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "52,868",
-      "forks": "5,889",
+      "stars": "52,985",
+      "forks": "5,905",
       "addStars": "16,775",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "56,479",
-      "forks": "5,072",
+      "stars": "56,594",
+      "forks": "5,078",
       "addStars": "3,011",
       "contributors": [
         {
@@ -190,7 +190,7 @@
       "description": "Build production-ready applications in TypeScript",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,924",
+      "stars": "16,937",
       "forks": "818",
       "addStars": "466",
       "contributors": [
@@ -222,8 +222,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "63,495",
-      "forks": "10,864",
+      "stars": "63,668",
+      "forks": "10,893",
       "addStars": "5,059",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "90,318",
-      "forks": "7,940",
+      "stars": "90,546",
+      "forks": "7,959",
       "addStars": "3,952",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "27,550",
-      "forks": "3,881",
+      "stars": "27,568",
+      "forks": "3,884",
       "addStars": "948",
       "contributors": [
         {
@@ -328,8 +328,8 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "24,913",
-      "forks": "6,475",
+      "stars": "25,008",
+      "forks": "6,485",
       "addStars": "975",
       "contributors": [
         {
@@ -365,8 +365,8 @@
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "6,664",
-      "forks": "820",
+      "stars": "6,699",
+      "forks": "825",
       "addStars": "1,476",
       "contributors": [
         {
@@ -402,8 +402,8 @@
       "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,310",
-      "forks": "837",
+      "stars": "8,320",
+      "forks": "838",
       "addStars": "800",
       "contributors": [
         {
@@ -439,8 +439,8 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "128,345",
-      "forks": "20,078",
+      "stars": "128,399",
+      "forks": "20,082",
       "addStars": "2,324",
       "contributors": [
         {
@@ -476,8 +476,8 @@
       "description": "The React Framework",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "143,126",
-      "forks": "33,858",
+      "stars": "143,153",
+      "forks": "33,895",
       "addStars": "678",
       "contributors": [
         {
@@ -513,7 +513,7 @@
       "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "3,632",
+      "stars": "3,663",
       "forks": "307",
       "addStars": "1,625",
       "contributors": [
@@ -550,8 +550,8 @@
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "14,748",
-      "forks": "1,686",
+      "stars": "14,786",
+      "forks": "1,691",
       "addStars": "5,854",
       "contributors": [
         {
@@ -587,8 +587,8 @@
       "description": "yoink any video from your terminal. no shady ads.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,149",
-      "forks": "358",
+      "stars": "4,227",
+      "forks": "372",
       "addStars": "1,917",
       "contributors": [
         {
@@ -609,8 +609,8 @@
       "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,819",
-      "forks": "343",
+      "stars": "4,880",
+      "forks": "350",
       "addStars": "4,245",
       "contributors": [
         {
@@ -646,8 +646,8 @@
       "description": "Useful tool to track location or mobile number",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "16,899",
-      "forks": "2,304",
+      "stars": "16,953",
+      "forks": "2,311",
       "addStars": "1,638",
       "contributors": [
         {
