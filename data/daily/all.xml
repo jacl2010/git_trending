@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Mon, 05 Oct 2026 14:10:58 GMT</pubDate>
+    <pubDate>Mon, 05 Oct 2026 23:39:32 GMT</pubDate>
     <item>
       <title>tester-army/e2e</title>
       <link>https://github.com/tester-army/e2e</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/tester-army/e2e</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,962</stars>
-      <forks>160</forks>
+      <stars>4,730</stars>
+      <forks>196</forks>
       <addStars>1,430</addStars>
       <contributors>
         <contributor>
@@ -44,8 +44,8 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>96,411</stars>
-      <forks>8,512</forks>
+      <stars>96,614</stars>
+      <forks>8,520</forks>
       <addStars>534</addStars>
       <contributors>
         <contributor>
@@ -77,8 +77,8 @@
       <guid>https://github.com/earthtojake/text-to-cad</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>17,161</stars>
-      <forks>1,758</forks>
+      <stars>17,388</stars>
+      <forks>1,770</forks>
       <addStars>456</addStars>
       <contributors>
         <contributor>
@@ -105,8 +105,8 @@
       <guid>https://github.com/pingdotgg/t3code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>25,436</stars>
-      <forks>6,564</forks>
+      <stars>25,596</stars>
+      <forks>6,594</forks>
       <addStars>487</addStars>
       <contributors>
         <contributor>
@@ -143,8 +143,8 @@
       <guid>https://github.com/boykopovar/AnyPS5</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>4,516</stars>
-      <forks>349</forks>
+      <stars>4,929</stars>
+      <forks>368</forks>
       <addStars>994</addStars>
       <contributors>
         <contributor>
@@ -181,8 +181,8 @@
       <guid>https://github.com/Panniantong/Agent-Reach</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>91,519</stars>
-      <forks>8,041</forks>
+      <stars>91,852</stars>
+      <forks>8,063</forks>
       <addStars>1,156</addStars>
       <contributors>
         <contributor>
@@ -219,8 +219,8 @@
       <guid>https://github.com/calesthio/OpenMontage</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>63,630</stars>
-      <forks>8,093</forks>
+      <stars>64,001</stars>
+      <forks>8,124</forks>
       <addStars>758</addStars>
       <contributors>
         <contributor>
@@ -257,8 +257,8 @@
       <guid>https://github.com/caddyserver/caddy</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>76,863</stars>
-      <forks>5,063</forks>
+      <stars>77,094</stars>
+      <forks>5,073</forks>
       <addStars>526</addStars>
       <contributors>
         <contributor>
@@ -295,9 +295,9 @@
       <guid>https://github.com/DuarteSantos8/openGym</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>3,598</stars>
-      <forks>599</forks>
-      <addStars>570</addStars>
+      <stars>4,172</stars>
+      <forks>652</forks>
+      <addStars>1,444</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/171949022?s=40&amp;v=4</avatar>
@@ -333,8 +333,8 @@
       <guid>https://github.com/cloudflare/cloudflare-os</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>10,847</stars>
-      <forks>1,301</forks>
+      <stars>10,995</stars>
+      <forks>1,308</forks>
       <addStars>102</addStars>
       <contributors>
         <contributor>
@@ -371,8 +371,8 @@
       <guid>https://github.com/Stremio/stremio-web</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>14,155</stars>
-      <forks>1,621</forks>
+      <stars>14,281</stars>
+      <forks>1,628</forks>
       <addStars>111</addStars>
       <contributors>
         <contributor>
@@ -409,9 +409,9 @@
       <guid>https://github.com/msitarzewski/agency-agents</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>157,000</stars>
-      <forks>25,341</forks>
-      <addStars>595</addStars>
+      <stars>157,236</stars>
+      <forks>25,365</forks>
+      <addStars>687</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1972242?s=40&amp;v=4</avatar>
@@ -437,6 +437,39 @@
           <avatar>https://avatars.githubusercontent.com/u/103170876?s=40&amp;v=4</avatar>
           <name>Hotragn</name>
           <url>https://github.com/Hotragn</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>M-Abozaid/esp32-c3-adblock</title>
+      <link>https://github.com/M-Abozaid/esp32-c3-adblock</link>
+      <description>Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share</description>
+      <guid>https://github.com/M-Abozaid/esp32-c3-adblock</guid>
+      <language>C++</language>
+      <languageColor>#f34b7d</languageColor>
+      <stars>1,325</stars>
+      <forks>120</forks>
+      <addStars>196</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/23200283?s=40&amp;v=4</avatar>
+          <name>M-Abozaid</name>
+          <url>https://github.com/M-Abozaid</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13660495?s=40&amp;v=4</avatar>
+          <name>tomorrow56</name>
+          <url>https://github.com/tomorrow56</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/70247011?s=40&amp;v=4</avatar>
+          <name>L4Ph</name>
+          <url>https://github.com/L4Ph</url>
         </contributor>
       </contributors>
     </item>

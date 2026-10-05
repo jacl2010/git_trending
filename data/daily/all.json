@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Mon, 05 Oct 2026 14:10:58 GMT",
+  "pubDate": "Mon, 05 Oct 2026 23:39:32 GMT",
   "items": [
     {
       "title": "tester-army/e2e",
@@ -10,8 +10,8 @@
       "description": "Next generation e2e testing framework for web and mobile apps.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,962",
-      "forks": "160",
+      "stars": "4,730",
+      "forks": "196",
       "addStars": "1,430",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "96,411",
-      "forks": "8,512",
+      "stars": "96,614",
+      "forks": "8,520",
       "addStars": "534",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "Give your agent CAD superpowers.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,161",
-      "forks": "1,758",
+      "stars": "17,388",
+      "forks": "1,770",
       "addStars": "456",
       "contributors": [
         {
@@ -101,8 +101,8 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "25,436",
-      "forks": "6,564",
+      "stars": "25,596",
+      "forks": "6,594",
       "addStars": "487",
       "contributors": [
         {
@@ -138,8 +138,8 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "4,516",
-      "forks": "349",
+      "stars": "4,929",
+      "forks": "368",
       "addStars": "994",
       "contributors": [
         {
@@ -175,8 +175,8 @@
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "91,519",
-      "forks": "8,041",
+      "stars": "91,852",
+      "forks": "8,063",
       "addStars": "1,156",
       "contributors": [
         {
@@ -212,8 +212,8 @@
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "63,630",
-      "forks": "8,093",
+      "stars": "64,001",
+      "forks": "8,124",
       "addStars": "758",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "76,863",
-      "forks": "5,063",
+      "stars": "77,094",
+      "forks": "5,073",
       "addStars": "526",
       "contributors": [
         {
@@ -286,9 +286,9 @@
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "3,598",
-      "forks": "599",
-      "addStars": "570",
+      "stars": "4,172",
+      "forks": "652",
+      "addStars": "1,444",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/171949022?s=40&v=4",
@@ -323,8 +323,8 @@
       "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,847",
-      "forks": "1,301",
+      "stars": "10,995",
+      "forks": "1,308",
       "addStars": "102",
       "contributors": [
         {
@@ -360,8 +360,8 @@
       "description": "Stremio - Freedom to Stream",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "14,155",
-      "forks": "1,621",
+      "stars": "14,281",
+      "forks": "1,628",
       "addStars": "111",
       "contributors": [
         {
@@ -397,9 +397,9 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "157,000",
-      "forks": "25,341",
-      "addStars": "595",
+      "stars": "157,236",
+      "forks": "25,365",
+      "addStars": "687",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1972242?s=40&v=4",
@@ -425,6 +425,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/103170876?s=40&v=4",
           "name": "Hotragn",
           "url": "https://github.com/Hotragn"
+        }
+      ]
+    },
+    {
+      "title": "M-Abozaid/esp32-c3-adblock",
+      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "description": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "1,325",
+      "forks": "120",
+      "addStars": "196",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/23200283?s=40&v=4",
+          "name": "M-Abozaid",
+          "url": "https://github.com/M-Abozaid"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13660495?s=40&v=4",
+          "name": "tomorrow56",
+          "url": "https://github.com/tomorrow56"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/70247011?s=40&v=4",
+          "name": "L4Ph",
+          "url": "https://github.com/L4Ph"
         }
       ]
     }
