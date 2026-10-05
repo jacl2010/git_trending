@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Sun, 04 Oct 2026 20:49:00 GMT</pubDate>
+    <pubDate>Mon, 05 Oct 2026 04:35:26 GMT</pubDate>
     <item>
       <title>paperclipai/paperclip</title>
       <link>https://github.com/paperclipai/paperclip</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/paperclipai/paperclip</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>97,122</stars>
-      <forks>16,430</forks>
-      <addStars>10,722</addStars>
+      <stars>97,255</stars>
+      <forks>16,455</forks>
+      <addStars>8,732</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/34892728?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/vectorize-io/hindsight</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>45,447</stars>
-      <forks>5,906</forks>
-      <addStars>14,507</addStars>
+      <stars>45,562</stars>
+      <forks>5,918</forks>
+      <addStars>10,623</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/23314389?s=40&amp;v=4</avatar>
@@ -87,9 +87,9 @@
       <guid>https://github.com/pbakaus/impeccable</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>76,186</stars>
-      <forks>4,544</forks>
-      <addStars>3,311</addStars>
+      <stars>76,436</stars>
+      <forks>4,561</forks>
+      <addStars>4,242</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/43004?s=40&amp;v=4</avatar>
@@ -120,9 +120,9 @@
       <guid>https://github.com/debpalash/VoiceStudio</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>53,092</stars>
-      <forks>5,915</forks>
-      <addStars>16,775</addStars>
+      <stars>53,258</stars>
+      <forks>5,933</forks>
+      <addStars>14,689</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4178343?s=40&amp;v=4</avatar>
@@ -158,9 +158,9 @@
       <guid>https://github.com/heygen-com/hyperframes</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>56,712</stars>
-      <forks>5,087</forks>
-      <addStars>3,011</addStars>
+      <stars>56,843</stars>
+      <forks>5,101</forks>
+      <addStars>3,096</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/229591595?s=40&amp;v=4</avatar>
@@ -196,9 +196,9 @@
       <guid>https://github.com/Effect-TS/effect</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>16,955</stars>
-      <forks>818</forks>
-      <addStars>466</addStars>
+      <stars>16,983</stars>
+      <forks>819</forks>
+      <addStars>702</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/24249610?s=40&amp;v=4</avatar>
@@ -229,9 +229,9 @@
       <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>63,843</stars>
-      <forks>10,921</forks>
-      <addStars>5,059</addStars>
+      <stars>64,025</stars>
+      <forks>10,952</forks>
+      <addStars>4,904</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/48523873?s=40&amp;v=4</avatar>
@@ -262,9 +262,9 @@
       <guid>https://github.com/Panniantong/Agent-Reach</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>90,734</stars>
-      <forks>7,976</forks>
-      <addStars>3,952</addStars>
+      <stars>91,065</stars>
+      <forks>7,999</forks>
+      <addStars>4,789</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/73925474?s=40&amp;v=4</avatar>
@@ -300,9 +300,9 @@
       <guid>https://github.com/alirezarezvani/claude-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>27,590</stars>
-      <forks>3,884</forks>
-      <addStars>948</addStars>
+      <stars>27,617</stars>
+      <forks>3,889</forks>
+      <addStars>1,024</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5697919?s=40&amp;v=4</avatar>
@@ -338,9 +338,9 @@
       <guid>https://github.com/pingdotgg/t3code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>25,093</stars>
-      <forks>6,506</forks>
-      <addStars>975</addStars>
+      <stars>25,244</stars>
+      <forks>6,526</forks>
+      <addStars>1,304</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/51714798?s=40&amp;v=4</avatar>
@@ -376,9 +376,9 @@
       <guid>https://github.com/TencentCloud/Octop</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>6,722</stars>
-      <forks>832</forks>
-      <addStars>1,476</addStars>
+      <stars>6,773</stars>
+      <forks>838</forks>
+      <addStars>1,496</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/309035352?s=40&amp;v=4</avatar>
@@ -414,9 +414,9 @@
       <guid>https://github.com/tile-ai/tilelang</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,351</stars>
-      <forks>838</forks>
-      <addStars>800</addStars>
+      <stars>8,373</stars>
+      <forks>840</forks>
+      <addStars>839</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/34334180?s=40&amp;v=4</avatar>
@@ -452,9 +452,9 @@
       <guid>https://github.com/harry0703/MoneyPrinterTurbo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>128,440</stars>
-      <forks>20,085</forks>
-      <addStars>2,324</addStars>
+      <stars>128,486</stars>
+      <forks>20,096</forks>
+      <addStars>2,291</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4928832?s=40&amp;v=4</avatar>
@@ -490,9 +490,9 @@
       <guid>https://github.com/vercel/next.js</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>143,167</stars>
-      <forks>33,898</forks>
-      <addStars>678</addStars>
+      <stars>143,176</stars>
+      <forks>33,910</forks>
+      <addStars>477</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/22380829?s=40&amp;v=4</avatar>
@@ -528,9 +528,9 @@
       <guid>https://github.com/cs341-illinois/coursebook</guid>
       <language>TeX</language>
       <languageColor>#3D6117</languageColor>
-      <stars>3,681</stars>
-      <forks>307</forks>
-      <addStars>1,625</addStars>
+      <stars>3,700</stars>
+      <forks>308</forks>
+      <addStars>1,626</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/6509868?s=40&amp;v=4</avatar>
@@ -566,9 +566,9 @@
       <guid>https://github.com/NVIDIA/OpenShell</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>14,836</stars>
-      <forks>1,695</forks>
-      <addStars>5,854</addStars>
+      <stars>14,889</stars>
+      <forks>1,698</forks>
+      <addStars>5,996</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/385?s=40&amp;v=4</avatar>
@@ -604,9 +604,9 @@
       <guid>https://github.com/pablostanley/yoinks</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>4,326</stars>
-      <forks>384</forks>
-      <addStars>1,917</addStars>
+      <stars>4,422</stars>
+      <forks>390</forks>
+      <addStars>2,361</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/7430988?s=40&amp;v=4</avatar>
@@ -627,9 +627,9 @@
       <guid>https://github.com/mvschwarz/openrig</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>4,937</stars>
-      <forks>355</forks>
-      <addStars>4,245</addStars>
+      <stars>5,013</stars>
+      <forks>362</forks>
+      <addStars>4,251</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/171890339?s=40&amp;v=4</avatar>
@@ -665,9 +665,9 @@
       <guid>https://github.com/HunxByts/GhostTrack</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>16,992</stars>
-      <forks>2,314</forks>
-      <addStars>1,638</addStars>
+      <stars>17,039</stars>
+      <forks>2,327</forks>
+      <addStars>1,778</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/130666567?s=40&amp;v=4</avatar>
