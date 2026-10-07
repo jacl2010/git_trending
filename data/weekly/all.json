@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Wed, 07 Oct 2026 13:02:01 GMT",
+  "pubDate": "Wed, 07 Oct 2026 18:06:10 GMT",
   "items": [
     {
       "title": "mvschwarz/openrig",
@@ -10,8 +10,8 @@
       "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,636",
-      "forks": "413",
+      "stars": "5,680",
+      "forks": "418",
       "addStars": "3,327",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "8,479",
-      "forks": "631",
+      "stars": "9,454",
+      "forks": "705",
       "addStars": "3,073",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "58,257",
-      "forks": "5,190",
+      "stars": "58,399",
+      "forks": "5,203",
       "addStars": "3,614",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,188",
-      "forks": "968",
+      "stars": "10,222",
+      "forks": "972",
       "addStars": "1,106",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "15,214",
-      "forks": "1,719",
+      "stars": "15,256",
+      "forks": "1,720",
       "addStars": "5,228",
       "contributors": [
         {
@@ -195,8 +195,8 @@
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "92,966",
-      "forks": "8,145",
+      "stars": "93,091",
+      "forks": "8,156",
       "addStars": "6,454",
       "contributors": [
         {
@@ -232,8 +232,8 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "97,441",
-      "forks": "8,584",
+      "stars": "97,572",
+      "forks": "8,591",
       "addStars": "2,104",
       "contributors": [
         {
@@ -269,8 +269,8 @@
       "description": "yoink any video from your terminal. no shady ads.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,993",
-      "forks": "434",
+      "stars": "5,041",
+      "forks": "435",
       "addStars": "2,947",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "6,414",
-      "forks": "858",
+      "stars": "6,634",
+      "forks": "886",
       "addStars": "3,318",
       "contributors": [
         {
@@ -328,7 +328,7 @@
       "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,462",
+      "stars": "8,469",
       "forks": "856",
       "addStars": "675",
       "contributors": [
@@ -365,8 +365,8 @@
       "description": "Useful tool to track location or mobile number",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,307",
-      "forks": "2,352",
+      "stars": "17,342",
+      "forks": "2,354",
       "addStars": "2,017",
       "contributors": [
         {
