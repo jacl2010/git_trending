@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Thu, 08 Oct 2026 18:08:20 GMT</pubDate>
+    <pubDate>Thu, 08 Oct 2026 22:48:01 GMT</pubDate>
     <item>
       <title>boykopovar/AnyPS5</title>
       <link>https://github.com/boykopovar/AnyPS5</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/boykopovar/AnyPS5</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>14,418</stars>
-      <forks>1,129</forks>
+      <stars>15,340</stars>
+      <forks>1,214</forks>
       <addStars>4,640</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/cathrynlavery/diagram-design</guid>
       <language>HTML</language>
       <languageColor>#e34c26</languageColor>
-      <stars>45,992</stars>
-      <forks>2,939</forks>
+      <stars>46,237</stars>
+      <forks>2,943</forks>
       <addStars>1,163</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/morluto/rea</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>21,542</stars>
-      <forks>2,331</forks>
+      <stars>25,179</stars>
+      <forks>2,804</forks>
       <addStars>7,744</addStars>
       <contributors>
         <contributor>
@@ -102,14 +102,14 @@
           <url>https://github.com/kaoru0822-kitauji</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4</avatar>
-          <name>rudycelekli</name>
-          <url>https://github.com/rudycelekli</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
           <name>claude</name>
           <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4</avatar>
+          <name>rudycelekli</name>
+          <url>https://github.com/rudycelekli</url>
         </contributor>
       </contributors>
     </item>
@@ -120,8 +120,8 @@
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>280,769</stars>
-      <forks>23,537</forks>
+      <stars>280,995</stars>
+      <forks>23,554</forks>
       <addStars>1,770</addStars>
       <contributors>
         <contributor>
@@ -148,8 +148,8 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>98,272</stars>
-      <forks>8,625</forks>
+      <stars>98,404</stars>
+      <forks>8,633</forks>
       <addStars>662</addStars>
       <contributors>
         <contributor>
@@ -186,8 +186,8 @@
       <guid>https://github.com/EpicGames/raddebugger</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>8,053</stars>
-      <forks>390</forks>
+      <stars>8,090</stars>
+      <forks>391</forks>
       <addStars>283</addStars>
       <contributors>
         <contributor>
@@ -224,8 +224,8 @@
       <guid>https://github.com/anthropics/knowledge-work-plugins</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>27,396</stars>
-      <forks>3,188</forks>
+      <stars>27,484</stars>
+      <forks>3,191</forks>
       <addStars>309</addStars>
       <contributors>
         <contributor>
@@ -257,8 +257,8 @@
       <guid>https://github.com/storytold/artcraft</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>7,013</stars>
-      <forks>922</forks>
+      <stars>7,714</stars>
+      <forks>1,057</forks>
       <addStars>2,510</addStars>
       <contributors>
         <contributor>
@@ -295,8 +295,8 @@
       <guid>https://github.com/liquidslr/system-design-notes</guid>
       <language/>
       <languageColor/>
-      <stars>24,421</stars>
-      <forks>4,587</forks>
+      <stars>24,563</stars>
+      <forks>4,595</forks>
       <addStars>398</addStars>
       <contributors>
         <contributor>
