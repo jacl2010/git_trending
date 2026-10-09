@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Fri, 09 Oct 2026 12:56:02 GMT",
+  "pubDate": "Fri, 09 Oct 2026 17:41:50 GMT",
   "items": [
     {
       "title": "boykopovar/AnyPS5",
@@ -10,8 +10,8 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "19,107",
-      "forks": "1,508",
+      "stars": "20,633",
+      "forks": "1,658",
       "addStars": "10,243",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,299",
-      "forks": "458",
+      "stars": "6,358",
+      "forks": "462",
       "addStars": "2,693",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "282,015",
-      "forks": "23,632",
+      "stars": "282,337",
+      "forks": "23,654",
       "addStars": "7,448",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "59,509",
-      "forks": "5,307",
+      "stars": "59,651",
+      "forks": "5,315",
       "addStars": "3,996",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,505",
-      "forks": "988",
+      "stars": "10,540",
+      "forks": "994",
       "addStars": "1,109",
       "contributors": [
         {
@@ -185,7 +185,7 @@
       "description": "A native, user-mode, multi-process, graphical debugger.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "8,221",
+      "stars": "8,239",
       "forks": "394",
       "addStars": "448",
       "contributors": [
@@ -222,8 +222,8 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "98,868",
-      "forks": "8,664",
+      "stars": "98,915",
+      "forks": "8,668",
       "addStars": "3,153",
       "contributors": [
         {
@@ -259,8 +259,8 @@
       "description": "Give your agent CAD superpowers.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "18,634",
-      "forks": "1,850",
+      "stars": "18,687",
+      "forks": "1,852",
       "addStars": "1,898",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,506",
-      "forks": "6,905",
+      "stars": "26,561",
+      "forks": "6,927",
       "addStars": "2,317",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "94,596",
-      "forks": "8,266",
+      "stars": "94,719",
+      "forks": "8,279",
       "addStars": "6,987",
       "contributors": [
         {
@@ -360,8 +360,8 @@
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,366",
-      "forks": "1,052",
+      "stars": "8,483",
+      "forks": "1,063",
       "addStars": "6,086",
       "contributors": [
         {
