@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Fri, 09 Oct 2026 22:10:50 GMT",
+  "pubDate": "Sat, 10 Oct 2026 04:49:36 GMT",
   "items": [
     {
       "title": "morluto/rea",
@@ -10,9 +10,9 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "43,727",
-      "forks": "6,865",
-      "addStars": "15,335",
+      "stars": "51,426",
+      "forks": "9,286",
+      "addStars": "14,927",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "21,848",
-      "forks": "1,781",
-      "addStars": "5,925",
+      "stars": "23,004",
+      "forks": "1,895",
+      "addStars": "5,868",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "282,540",
-      "forks": "23,674",
-      "addStars": "1,696",
+      "stars": "283,009",
+      "forks": "23,713",
+      "addStars": "1,687",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
@@ -108,12 +108,12 @@
     {
       "title": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "47,782",
-      "forks": "3,030",
-      "addStars": "1,744",
+      "stars": "48,095",
+      "forks": "3,044",
+      "addStars": "1,739",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
@@ -143,9 +143,9 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "45,134",
-      "forks": "3,262",
-      "addStars": "323",
+      "stars": "45,419",
+      "forks": "3,278",
+      "addStars": "326",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
@@ -180,9 +180,9 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "28,197",
-      "forks": "3,243",
-      "addStars": "714",
+      "stars": "28,372",
+      "forks": "3,253",
+      "addStars": "709",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -212,8 +212,8 @@
       "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "60,618",
-      "forks": "12,186",
+      "stars": "60,755",
+      "forks": "12,197",
       "addStars": "95",
       "contributors": [
         {
@@ -244,9 +244,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "103,934",
-      "forks": "10,866",
-      "addStars": "523",
+      "stars": "104,121",
+      "forks": "10,870",
+      "addStars": "436",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
@@ -281,9 +281,9 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "11,223",
-      "forks": "1,686",
-      "addStars": "3,723",
+      "stars": "11,974",
+      "forks": "1,816",
+      "addStars": "3,752",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
@@ -318,9 +318,9 @@
       "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,664",
-      "forks": "1,949",
-      "addStars": "109",
+      "stars": "17,781",
+      "forks": "1,956",
+      "addStars": "110",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32637882?s=40&v=4",
@@ -345,9 +345,9 @@
       "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
       "language": "",
       "languageColor": "",
-      "stars": "5,387",
-      "forks": "195",
-      "addStars": "88",
+      "stars": "5,541",
+      "forks": "197",
+      "addStars": "65",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/190200?s=40&v=4",
