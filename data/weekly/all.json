@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sat, 10 Oct 2026 12:13:48 GMT",
+  "pubDate": "Sat, 10 Oct 2026 16:33:32 GMT",
   "items": [
     {
       "title": "boykopovar/AnyPS5",
@@ -10,19 +10,14 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "24,503",
-      "forks": "2,022",
+      "stars": "25,453",
+      "forks": "2,114",
       "addStars": "15,539",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/184076081?s=40&v=4",
-          "name": "boykopovar",
-          "url": "https://github.com/boykopovar"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/158058829?s=40&v=4",
@@ -33,6 +28,11 @@
           "avatar": "https://avatars.githubusercontent.com/u/57327458?s=40&v=4",
           "name": "adriadam10",
           "url": "https://github.com/adriadam10"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/184076081?s=40&v=4",
+          "name": "boykopovar",
+          "url": "https://github.com/boykopovar"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/13449963?s=40&v=4",
@@ -47,8 +47,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "283,625",
-      "forks": "23,755",
+      "stars": "283,992",
+      "forks": "23,785",
       "addStars": "8,156",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "A native, user-mode, multi-process, graphical debugger.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "8,304",
-      "forks": "396",
+      "stars": "8,312",
+      "forks": "401",
       "addStars": "654",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "99,106",
-      "forks": "8,678",
+      "stars": "99,151",
+      "forks": "8,680",
       "addStars": "3,850",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "60,095",
-      "forks": "5,366",
+      "stars": "60,223",
+      "forks": "5,377",
       "addStars": "4,003",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,613",
-      "forks": "484",
+      "stars": "6,659",
+      "forks": "490",
       "addStars": "2,338",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,683",
-      "forks": "1,013",
+      "stars": "10,707",
+      "forks": "1,019",
       "addStars": "1,125",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "Give your agent CAD superpowers.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "18,894",
-      "forks": "1,863",
+      "stars": "18,933",
+      "forks": "1,869",
       "addStars": "2,125",
       "contributors": [
         {
@@ -281,8 +281,8 @@
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "179,287",
-      "forks": "33,530",
+      "stars": "179,359",
+      "forks": "33,547",
       "addStars": "259",
       "contributors": [
         {
@@ -318,8 +318,8 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,730",
-      "forks": "6,989",
+      "stars": "26,758",
+      "forks": "6,999",
       "addStars": "2,379",
       "contributors": [
         {
@@ -355,7 +355,7 @@
       "description": "稳定可用 A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "736",
+      "stars": "755",
       "forks": "73",
       "addStars": "246",
       "contributors": [
@@ -387,8 +387,8 @@
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,969",
-      "forks": "1,108",
+      "stars": "9,079",
+      "forks": "1,128",
       "addStars": "6,749",
       "contributors": [
         {
@@ -424,8 +424,8 @@
       "description": "Next generation e2e testing framework for web and mobile apps.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,564",
-      "forks": "408",
+      "stars": "8,631",
+      "forks": "417",
       "addStars": "6,566",
       "contributors": [
         {
