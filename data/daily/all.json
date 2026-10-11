@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sun, 11 Oct 2026 16:58:40 GMT",
+  "pubDate": "Sun, 11 Oct 2026 21:25:03 GMT",
   "items": [
     {
       "title": "morluto/rea",
@@ -10,8 +10,8 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "94,497",
-      "forks": "21,097",
+      "stars": "100,213",
+      "forks": "22,095",
       "addStars": "25,585",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "29,037",
-      "forks": "2,493",
+      "stars": "29,711",
+      "forks": "2,552",
       "addStars": "3,977",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "16,780",
-      "forks": "2,725",
+      "stars": "17,478",
+      "forks": "2,859",
       "addStars": "2,956",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "49,914",
-      "forks": "3,167",
+      "stars": "50,166",
+      "forks": "3,184",
       "addStars": "1,083",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "51,116",
-      "forks": "10,290",
+      "stars": "51,452",
+      "forks": "10,340",
       "addStars": "872",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "104,369",
-      "forks": "32,074",
+      "stars": "104,429",
+      "forks": "32,082",
       "addStars": "314",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "36,252",
-      "forks": "3,802",
+      "stars": "36,382",
+      "forks": "3,813",
       "addStars": "541",
       "contributors": [
         {
@@ -264,8 +264,8 @@
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "74,021",
-      "forks": "8,090",
+      "stars": "74,174",
+      "forks": "8,096",
       "addStars": "496",
       "contributors": [
         {
