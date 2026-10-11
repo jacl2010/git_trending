@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Sat, 10 Oct 2026 21:05:00 GMT</pubDate>
+    <pubDate>Sun, 11 Oct 2026 04:35:10 GMT</pubDate>
     <item>
       <title>morluto/rea</title>
       <link>https://github.com/morluto/rea</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/morluto/rea</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>69,461</stars>
-      <forks>14,614</forks>
-      <addStars>25,784</addStars>
+      <stars>76,815</stars>
+      <forks>16,395</forks>
+      <addStars>25,793</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/76467478?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/boykopovar/AnyPS5</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>26,296</stars>
-      <forks>2,200</forks>
-      <addStars>5,831</addStars>
+      <stars>27,293</stars>
+      <forks>2,298</forks>
+      <addStars>5,805</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -87,9 +87,9 @@
       <guid>https://github.com/storytold/artcraft</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>14,091</stars>
-      <forks>2,207</forks>
-      <addStars>3,217</addStars>
+      <stars>14,878</stars>
+      <forks>2,364</forks>
+      <addStars>3,222</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/39263?s=40&amp;v=4</avatar>
@@ -125,9 +125,9 @@
       <guid>https://github.com/cathrynlavery/diagram-design</guid>
       <language>HTML</language>
       <languageColor>#e34c26</languageColor>
-      <stars>48,797</stars>
-      <forks>3,084</forks>
-      <addStars>1,189</addStars>
+      <stars>49,131</stars>
+      <forks>3,111</forks>
+      <addStars>1,190</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/50469282?s=40&amp;v=4</avatar>
@@ -158,8 +158,8 @@
       <guid>https://github.com/mksglu/context-mode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>26,255</stars>
-      <forks>1,890</forks>
+      <stars>26,399</stars>
+      <forks>1,901</forks>
       <addStars>178</addStars>
       <contributors>
         <contributor>
@@ -191,9 +191,9 @@
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>284,285</stars>
-      <forks>23,797</forks>
-      <addStars>1,737</addStars>
+      <stars>284,737</stars>
+      <forks>23,828</forks>
+      <addStars>1,736</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4</avatar>
@@ -219,9 +219,9 @@
       <guid>https://github.com/flutter/flutter</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>179,458</stars>
-      <forks>33,574</forks>
-      <addStars>164</addStars>
+      <stars>179,596</stars>
+      <forks>33,609</forks>
+      <addStars>88</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/37626415?s=40&amp;v=4</avatar>
@@ -257,9 +257,9 @@
       <guid>https://github.com/tensorflow/tensorflow</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>200,696</stars>
-      <forks>78,944</forks>
-      <addStars>24</addStars>
+      <stars>200,767</stars>
+      <forks>78,969</forks>
+      <addStars>26</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/17151892?s=40&amp;v=4</avatar>
@@ -295,9 +295,9 @@
       <guid>https://github.com/hugohe3/ppt-master</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>59,323</stars>
-      <forks>4,674</forks>
-      <addStars>515</addStars>
+      <stars>59,633</stars>
+      <forks>4,701</forks>
+      <addStars>461</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/188330578?s=40&amp;v=4</avatar>
@@ -333,9 +333,9 @@
       <guid>https://github.com/pytorch/pytorch</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>104,115</stars>
-      <forks>31,938</forks>
-      <addStars>81</addStars>
+      <stars>104,180</stars>
+      <forks>31,959</forks>
+      <addStars>84</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/97764156?s=40&amp;v=4</avatar>
@@ -371,9 +371,9 @@
       <guid>https://github.com/huggingface/transformers</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>167,182</stars>
-      <forks>34,796</forks>
-      <addStars>94</addStars>
+      <stars>167,340</stars>
+      <forks>34,805</forks>
+      <addStars>96</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/35901082?s=40&amp;v=4</avatar>
@@ -409,9 +409,9 @@
       <guid>https://github.com/anthropics/knowledge-work-plugins</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>28,746</stars>
-      <forks>3,272</forks>
-      <addStars>626</addStars>
+      <stars>28,887</stars>
+      <forks>3,284</forks>
+      <addStars>625</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/305637556?s=40&amp;v=4</avatar>
@@ -442,9 +442,9 @@
       <guid>https://github.com/multica-ai/andrej-karpathy-skills</guid>
       <language/>
       <languageColor/>
-      <stars>218,162</stars>
-      <forks>21,976</forks>
-      <addStars>279</addStars>
+      <stars>218,401</stars>
+      <forks>21,991</forks>
+      <addStars>278</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/7857126?s=40&amp;v=4</avatar>
