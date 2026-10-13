@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Tue, 13 Oct 2026 00:05:00 GMT",
+  "pubDate": "Tue, 13 Oct 2026 05:53:11 GMT",
   "items": [
     {
       "title": "morluto/rea",
@@ -10,8 +10,8 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "155,775",
-      "forks": "35,886",
+      "stars": "170,812",
+      "forks": "40,790",
       "addStars": "45,327",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "53,622",
-      "forks": "10,601",
+      "stars": "54,058",
+      "forks": "10,649",
       "addStars": "1,895",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "27,271",
-      "forks": "1,942",
+      "stars": "27,508",
+      "forks": "1,954",
       "addStars": "246",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "21,922",
-      "forks": "3,543",
+      "stars": "22,889",
+      "forks": "3,663",
       "addStars": "4,095",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "154,969",
-      "forks": "22,635",
+      "stars": "155,261",
+      "forks": "22,660",
       "addStars": "157",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "52,557",
-      "forks": "3,323",
+      "stars": "52,991",
+      "forks": "3,348",
       "addStars": "2,081",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "37,505",
-      "forks": "3,870",
+      "stars": "37,718",
+      "forks": "3,886",
       "addStars": "879",
       "contributors": [
         {
@@ -259,8 +259,8 @@
       "description": "Official inference framework for 1-bit LLMs",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "40,896",
-      "forks": "3,807",
+      "stars": "41,002",
+      "forks": "3,816",
       "addStars": "97",
       "contributors": [
         {
@@ -296,8 +296,8 @@
       "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "59,087",
-      "forks": "9,309",
+      "stars": "59,436",
+      "forks": "9,348",
       "addStars": "626",
       "contributors": [
         {

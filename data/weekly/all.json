@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Tue, 13 Oct 2026 00:05:00 GMT",
+  "pubDate": "Tue, 13 Oct 2026 05:53:11 GMT",
   "items": [
     {
       "title": "boykopovar/AnyPS5",
@@ -10,8 +10,8 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "32,834",
-      "forks": "2,848",
+      "stars": "33,280",
+      "forks": "2,881",
       "addStars": "27,263",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Next generation e2e testing framework for web and mobile apps.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "9,545",
-      "forks": "455",
+      "stars": "9,699",
+      "forks": "463",
       "addStars": "5,582",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "287,929",
-      "forks": "24,168",
+      "stars": "288,299",
+      "forks": "24,204",
       "addStars": "11,139",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "61,803",
-      "forks": "5,530",
+      "stars": "61,989",
+      "forks": "5,552",
       "addStars": "4,482",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "100,085",
-      "forks": "8,780",
+      "stars": "100,179",
+      "forks": "8,783",
       "addStars": "3,762",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "179,958",
-      "forks": "33,840",
+      "stars": "180,008",
+      "forks": "33,845",
       "addStars": "806",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,074",
-      "forks": "1,077",
+      "stars": "11,100",
+      "forks": "1,080",
       "addStars": "1,144",
       "contributors": [
         {
@@ -259,8 +259,8 @@
       "description": "Give your agent CAD superpowers.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "19,632",
-      "forks": "1,929",
+      "stars": "19,727",
+      "forks": "1,940",
       "addStars": "2,441",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,242",
-      "forks": "548",
+      "stars": "7,311",
+      "forks": "553",
       "addStars": "2,056",
       "contributors": [
         {
@@ -318,8 +318,8 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "155,775",
-      "forks": "35,886",
+      "stars": "170,813",
+      "forks": "40,790",
       "addStars": "130,471",
       "contributors": [
         {
@@ -355,8 +355,8 @@
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "10,484",
-      "forks": "1,280",
+      "stars": "10,668",
+      "forks": "1,293",
       "addStars": "6,621",
       "contributors": [
         {
