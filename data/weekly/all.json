@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Wed, 14 Oct 2026 16:08:23 GMT",
+  "pubDate": "Wed, 14 Oct 2026 21:14:29 GMT",
   "items": [
     {
       "title": "morluto/rea",
@@ -10,8 +10,8 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "233,155",
-      "forks": "58,158",
+      "stars": "238,856",
+      "forks": "59,441",
       "addStars": "183,758",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "36,582",
-      "forks": "3,212",
+      "stars": "36,974",
+      "forks": "3,260",
       "addStars": "28,663",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "290,814",
-      "forks": "24,393",
+      "stars": "291,082",
+      "forks": "24,416",
       "addStars": "11,955",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "63,456",
-      "forks": "5,692",
+      "stars": "63,618",
+      "forks": "5,705",
       "addStars": "4,732",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "A native, user-mode, multi-process, graphical debugger.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "8,521",
-      "forks": "414",
+      "stars": "8,528",
+      "forks": "415",
       "addStars": "857",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "Next generation e2e testing framework for web and mobile apps.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,407",
-      "forks": "507",
+      "stars": "10,465",
+      "forks": "509",
       "addStars": "4,426",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "100,685",
-      "forks": "8,824",
+      "stars": "100,734",
+      "forks": "8,827",
       "addStars": "3,587",
       "contributors": [
         {
@@ -259,8 +259,8 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "55,143",
-      "forks": "3,485",
+      "stars": "55,252",
+      "forks": "3,494",
       "addStars": "9,867",
       "contributors": [
         {
@@ -291,7 +291,7 @@
       "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
       "language": "",
       "languageColor": "",
-      "stars": "5,924",
+      "stars": "5,949",
       "forks": "218",
       "addStars": "911",
       "contributors": [
@@ -318,8 +318,8 @@
       "description": "Give your agent CAD superpowers.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,258",
-      "forks": "1,994",
+      "stars": "20,317",
+      "forks": "2,000",
       "addStars": "2,173",
       "contributors": [
         {
@@ -345,8 +345,8 @@
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "180,129",
-      "forks": "34,085",
+      "stars": "180,156",
+      "forks": "34,109",
       "addStars": "967",
       "contributors": [
         {
@@ -382,8 +382,8 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "87,063",
-      "forks": "9,727",
+      "stars": "87,337",
+      "forks": "9,755",
       "addStars": "4,986",
       "contributors": [
         {
