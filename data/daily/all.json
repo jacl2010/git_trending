@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Thu, 15 Oct 2026 11:11:09 GMT",
+  "pubDate": "Thu, 15 Oct 2026 15:56:24 GMT",
   "items": [
     {
       "title": "morluto/rea",
@@ -10,9 +10,9 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "257,105",
-      "forks": "64,617",
-      "addStars": "41,034",
+      "stars": "263,112",
+      "forks": "66,183",
+      "addStars": "32,282",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "38,231",
-      "forks": "4,285",
-      "addStars": "181",
+      "stars": "38,599",
+      "forks": "4,296",
+      "addStars": "525",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "49,901",
-      "forks": "4,451",
-      "addStars": "163",
+      "stars": "50,167",
+      "forks": "4,467",
+      "addStars": "1,091",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
@@ -111,8 +111,8 @@
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "112,044",
-      "forks": "6,500",
+      "stars": "112,268",
+      "forks": "6,509",
       "addStars": "398",
       "contributors": [
         {
@@ -143,9 +143,9 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "67,767",
-      "forks": "7,430",
-      "addStars": "3,538",
+      "stars": "68,308",
+      "forks": "7,475",
+      "addStars": "3,027",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
@@ -180,8 +180,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "299,417",
-      "forks": "26,746",
+      "stars": "299,629",
+      "forks": "26,763",
       "addStars": "534",
       "contributors": [
         {
@@ -217,9 +217,9 @@
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "74,755",
-      "forks": "8,895",
-      "addStars": "146",
+      "stars": "74,888",
+      "forks": "8,907",
+      "addStars": "224",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
@@ -249,9 +249,9 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "29,549",
-      "forks": "2,063",
-      "addStars": "947",
+      "stars": "29,660",
+      "forks": "2,067",
+      "addStars": "902",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
@@ -281,9 +281,9 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "88,093",
-      "forks": "9,832",
-      "addStars": "1,008",
+      "stars": "88,351",
+      "forks": "9,853",
+      "addStars": "1,366",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
@@ -318,8 +318,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "279,833",
-      "forks": "41,629",
+      "stars": "280,027",
+      "forks": "41,654",
       "addStars": "1,015",
       "contributors": [
         {
@@ -350,8 +350,8 @@
       "description": "TokenSpeed is a speed-of-light LLM inference engine.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,270",
-      "forks": "330",
+      "stars": "2,368",
+      "forks": "331",
       "addStars": "25",
       "contributors": [
         {
@@ -387,8 +387,8 @@
       "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "4,733",
-      "forks": "295",
+      "stars": "5,320",
+      "forks": "299",
       "addStars": "725",
       "contributors": [
         {
