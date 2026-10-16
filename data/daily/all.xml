@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Fri, 16 Oct 2026 11:05:36 GMT</pubDate>
+    <pubDate>Fri, 16 Oct 2026 15:44:39 GMT</pubDate>
     <item>
       <title>anthropics/claude-plugins-official</title>
       <link>https://github.com/anthropics/claude-plugins-official</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/anthropics/claude-plugins-official</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>39,748</stars>
-      <forks>4,357</forks>
-      <addStars>307</addStars>
+      <stars>40,083</stars>
+      <forks>4,371</forks>
+      <addStars>1,552</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/305637556?s=40&amp;v=4</avatar>
@@ -31,9 +31,9 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/32489862?s=40&amp;v=4</avatar>
-          <name>tobinsouth</name>
-          <url>https://github.com/tobinsouth</url>
+          <avatar>https://avatars.githubusercontent.com/u/8000722?s=40&amp;v=4</avatar>
+          <name>mhegazy</name>
+          <url>https://github.com/mhegazy</url>
         </contributor>
       </contributors>
     </item>
@@ -44,9 +44,9 @@
       <guid>https://github.com/K-Dense-AI/scientific-agent-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>51,026</stars>
-      <forks>4,530</forks>
-      <addStars>1,091</addStars>
+      <stars>51,216</stars>
+      <forks>4,541</forks>
+      <addStars>1,158</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9168908?s=40&amp;v=4</avatar>
@@ -77,9 +77,9 @@
       <guid>https://github.com/affaan-m/ECC</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>280,832</stars>
-      <forks>41,760</forks>
-      <addStars>1,013</addStars>
+      <stars>281,083</stars>
+      <forks>41,800</forks>
+      <addStars>1,057</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/124439313?s=40&amp;v=4</avatar>
@@ -110,9 +110,9 @@
       <guid>https://github.com/HKUDS/CLI-Anything</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>53,175</stars>
-      <forks>4,823</forks>
-      <addStars>716</addStars>
+      <stars>53,299</stars>
+      <forks>4,831</forks>
+      <addStars>323</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/43330997?s=40&amp;v=4</avatar>
@@ -148,9 +148,9 @@
       <guid>https://github.com/mksglu/context-mode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>29,981</stars>
-      <forks>2,108</forks>
-      <addStars>904</addStars>
+      <stars>30,070</stars>
+      <forks>2,114</forks>
+      <addStars>449</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/6067714?s=40&amp;v=4</avatar>
@@ -181,9 +181,9 @@
       <guid>https://github.com/ruvnet/ruflo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>75,401</stars>
-      <forks>8,948</forks>
-      <addStars>147</addStars>
+      <stars>75,485</stars>
+      <forks>8,954</forks>
+      <addStars>672</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4</avatar>
@@ -214,8 +214,8 @@
       <guid>https://github.com/android/skills</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>7,861</stars>
-      <forks>523</forks>
+      <stars>7,928</stars>
+      <forks>524</forks>
       <addStars>35</addStars>
       <contributors>
         <contributor>
@@ -252,9 +252,9 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>300,328</stars>
-      <forks>26,817</forks>
-      <addStars>582</addStars>
+      <stars>300,488</stars>
+      <forks>26,829</forks>
+      <addStars>973</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4</avatar>
@@ -290,8 +290,8 @@
       <guid>https://github.com/cursor/plugins</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>11,764</stars>
-      <forks>1,142</forks>
+      <stars>11,815</stars>
+      <forks>1,149</forks>
       <addStars>214</addStars>
       <contributors>
         <contributor>
@@ -328,9 +328,9 @@
       <guid>https://github.com/debpalash/VoiceStudio</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>70,007</stars>
-      <forks>7,671</forks>
-      <addStars>3,024</addStars>
+      <stars>70,421</stars>
+      <forks>7,713</forks>
+      <addStars>2,301</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4178343?s=40&amp;v=4</avatar>
@@ -366,8 +366,8 @@
       <guid>https://github.com/MadsLorentzen/ai-job-search</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>47,734</stars>
-      <forks>16,485</forks>
+      <stars>48,003</stars>
+      <forks>16,536</forks>
       <addStars>879</addStars>
       <contributors>
         <contributor>
@@ -404,8 +404,8 @@
       <guid>https://github.com/hmjz100/LinkSwift</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>23,185</stars>
-      <forks>1,404</forks>
+      <stars>23,460</stars>
+      <forks>1,423</forks>
       <addStars>592</addStars>
       <contributors>
         <contributor>
@@ -442,9 +442,9 @@
       <guid>https://github.com/xerj-org/xerj</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>6,288</stars>
-      <forks>326</forks>
-      <addStars>715</addStars>
+      <stars>6,613</stars>
+      <forks>335</forks>
+      <addStars>1,647</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/297525353?s=40&amp;v=4</avatar>
