@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sat, 17 Oct 2026 03:24:44 GMT",
+  "pubDate": "Sat, 17 Oct 2026 10:25:28 GMT",
   "items": [
     {
       "title": "morluto/rea",
@@ -10,8 +10,8 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "292,624",
-      "forks": "73,754",
+      "stars": "297,670",
+      "forks": "75,188",
       "addStars": "248,962",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "30,724",
-      "forks": "4,882",
+      "stars": "31,096",
+      "forks": "4,930",
       "addStars": "20,267",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "40,010",
-      "forks": "3,582",
+      "stars": "40,284",
+      "forks": "3,614",
       "addStars": "20,518",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "56,489",
-      "forks": "3,584",
+      "stars": "56,648",
+      "forks": "3,603",
       "addStars": "9,024",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "65,394",
-      "forks": "5,892",
+      "stars": "65,566",
+      "forks": "5,912",
       "addStars": "5,601",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "294,191",
-      "forks": "24,660",
+      "stars": "294,460",
+      "forks": "24,690",
       "addStars": "11,937",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "89,695",
-      "forks": "10,028",
+      "stars": "89,877",
+      "forks": "10,052",
       "addStars": "7,510",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "30,268",
-      "forks": "2,130",
+      "stars": "30,379",
+      "forks": "2,174",
       "addStars": "4,207",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,561",
-      "forks": "123",
+      "stars": "1,605",
+      "forks": "130",
       "addStars": "779",
       "contributors": [
         {
@@ -318,8 +318,8 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "40,697",
-      "forks": "4,407",
+      "stars": "41,067",
+      "forks": "4,430",
       "addStars": "2,328",
       "contributors": [
         {
@@ -350,8 +350,8 @@
       "description": "Give your agent CAD superpowers.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "21,029",
-      "forks": "2,077",
+      "stars": "21,124",
+      "forks": "2,086",
       "addStars": "2,286",
       "contributors": [
         {
