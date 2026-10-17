@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Fri, 16 Oct 2026 20:26:43 GMT</pubDate>
+    <pubDate>Sat, 17 Oct 2026 03:24:44 GMT</pubDate>
     <item>
       <title>morluto/rea</title>
       <link>https://github.com/morluto/rea</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/morluto/rea</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>289,068</stars>
-      <forks>72,773</forks>
-      <addStars>239,477</addStars>
+      <stars>292,624</stars>
+      <forks>73,754</forks>
+      <addStars>248,962</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/76467478?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/storytold/artcraft</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>30,427</stars>
-      <forks>4,837</forks>
-      <addStars>22,319</addStars>
+      <stars>30,724</stars>
+      <forks>4,882</forks>
+      <addStars>20,267</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/39263?s=40&amp;v=4</avatar>
@@ -87,9 +87,9 @@
       <guid>https://github.com/boykopovar/AnyPS5</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>39,736</stars>
-      <forks>3,553</forks>
-      <addStars>25,174</addStars>
+      <stars>40,010</stars>
+      <forks>3,582</forks>
+      <addStars>20,518</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -125,9 +125,9 @@
       <guid>https://github.com/cathrynlavery/diagram-design</guid>
       <language>HTML</language>
       <languageColor>#e34c26</languageColor>
-      <stars>56,368</stars>
-      <forks>3,572</forks>
-      <addStars>10,237</addStars>
+      <stars>56,489</stars>
+      <forks>3,584</forks>
+      <addStars>9,024</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/50469282?s=40&amp;v=4</avatar>
@@ -140,14 +140,14 @@
           <url>https://github.com/rudycelekli</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/174610155?s=40&amp;v=4</avatar>
-          <name>parveen0029</name>
-          <url>https://github.com/parveen0029</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
           <name>claude</name>
           <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/174610155?s=40&amp;v=4</avatar>
+          <name>parveen0029</name>
+          <url>https://github.com/parveen0029</url>
         </contributor>
       </contributors>
     </item>
@@ -158,9 +158,9 @@
       <guid>https://github.com/heygen-com/hyperframes</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>65,215</stars>
-      <forks>5,877</forks>
-      <addStars>5,318</addStars>
+      <stars>65,394</stars>
+      <forks>5,892</forks>
+      <addStars>5,601</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/229591595?s=40&amp;v=4</avatar>
@@ -196,9 +196,9 @@
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>293,940</stars>
-      <forks>24,646</forks>
-      <addStars>12,147</addStars>
+      <stars>294,191</stars>
+      <forks>24,660</forks>
+      <addStars>11,937</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4</avatar>
@@ -224,9 +224,9 @@
       <guid>https://github.com/NationalSecurityAgency/ghidra</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>89,533</stars>
-      <forks>10,011</forks>
-      <addStars>6,614</addStars>
+      <stars>89,695</stars>
+      <forks>10,028</forks>
+      <addStars>7,510</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5378554?s=40&amp;v=4</avatar>
@@ -262,9 +262,9 @@
       <guid>https://github.com/mksglu/context-mode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>30,158</stars>
-      <forks>2,124</forks>
-      <addStars>4,038</addStars>
+      <stars>30,268</stars>
+      <forks>2,130</forks>
+      <addStars>4,207</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/6067714?s=40&amp;v=4</avatar>
@@ -295,9 +295,9 @@
       <guid>https://github.com/ranxianglei/billion-context</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>1,524</stars>
-      <forks>121</forks>
-      <addStars>659</addStars>
+      <stars>1,561</stars>
+      <forks>123</forks>
+      <addStars>779</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/12445698?s=40&amp;v=4</avatar>
@@ -315,9 +315,9 @@
           <url>https://github.com/yingzhongshuoqi</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/299720939?s=40&amp;v=4</avatar>
-          <name>wangbl1010</name>
-          <url>https://github.com/wangbl1010</url>
+          <avatar>https://avatars.githubusercontent.com/u/38494?s=40&amp;v=4</avatar>
+          <name>aolshevskiy</name>
+          <url>https://github.com/aolshevskiy</url>
         </contributor>
       </contributors>
     </item>
@@ -328,9 +328,9 @@
       <guid>https://github.com/anthropics/claude-plugins-official</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>40,357</stars>
-      <forks>4,392</forks>
-      <addStars>2,217</addStars>
+      <stars>40,697</stars>
+      <forks>4,407</forks>
+      <addStars>2,328</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/305637556?s=40&amp;v=4</avatar>
@@ -361,9 +361,9 @@
       <guid>https://github.com/earthtojake/text-to-cad</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>20,952</stars>
-      <forks>2,071</forks>
-      <addStars>2,244</addStars>
+      <stars>21,029</stars>
+      <forks>2,077</forks>
+      <addStars>2,286</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/10742417?s=40&amp;v=4</avatar>
