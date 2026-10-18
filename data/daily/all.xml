@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Sun, 18 Oct 2026 03:30:34 GMT</pubDate>
+    <pubDate>Sun, 18 Oct 2026 10:44:14 GMT</pubDate>
     <item>
       <title>anthropics/claude-plugins-official</title>
       <link>https://github.com/anthropics/claude-plugins-official</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/anthropics/claude-plugins-official</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>41,878</stars>
-      <forks>4,471</forks>
-      <addStars>1,397</addStars>
+      <stars>42,227</stars>
+      <forks>4,500</forks>
+      <addStars>1,187</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/305637556?s=40&amp;v=4</avatar>
@@ -44,9 +44,9 @@
       <guid>https://github.com/MadsLorentzen/ai-job-search</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>50,614</stars>
-      <forks>16,958</forks>
-      <addStars>1,365</addStars>
+      <stars>51,267</stars>
+      <forks>17,046</forks>
+      <addStars>2,213</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -82,9 +82,9 @@
       <guid>https://github.com/affaan-m/ECC</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>282,604</stars>
-      <forks>41,991</forks>
-      <addStars>1,145</addStars>
+      <stars>282,910</stars>
+      <forks>42,015</forks>
+      <addStars>1,073</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/124439313?s=40&amp;v=4</avatar>
@@ -115,9 +115,9 @@
       <guid>https://github.com/HKUDS/CLI-Anything</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>54,122</stars>
-      <forks>4,907</forks>
-      <addStars>574</addStars>
+      <stars>54,304</stars>
+      <forks>4,924</forks>
+      <addStars>582</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/43330997?s=40&amp;v=4</avatar>
@@ -153,9 +153,9 @@
       <guid>https://github.com/K-Dense-AI/scientific-agent-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>52,318</stars>
-      <forks>4,635</forks>
-      <addStars>878</addStars>
+      <stars>52,529</stars>
+      <forks>4,651</forks>
+      <addStars>672</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9168908?s=40&amp;v=4</avatar>
@@ -186,8 +186,8 @@
       <guid>https://github.com/akitaonrails/ai-memory</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>9,988</stars>
-      <forks>723</forks>
+      <stars>10,162</stars>
+      <forks>735</forks>
       <addStars>178</addStars>
       <contributors>
         <contributor>
@@ -224,9 +224,9 @@
       <guid>https://github.com/android/skills</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>8,461</stars>
-      <forks>556</forks>
-      <addStars>355</addStars>
+      <stars>8,588</stars>
+      <forks>560</forks>
+      <addStars>381</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/133978327?s=40&amp;v=4</avatar>
@@ -262,8 +262,8 @@
       <guid>https://github.com/stablyai/orca</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>95,532</stars>
-      <forks>6,119</forks>
+      <stars>95,889</stars>
+      <forks>6,131</forks>
       <addStars>830</addStars>
       <contributors>
         <contributor>
@@ -300,8 +300,8 @@
       <guid>https://github.com/anthropics/claude-code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>151,835</stars>
-      <forks>26,883</forks>
+      <stars>152,195</stars>
+      <forks>26,962</forks>
       <addStars>179</addStars>
       <contributors>
         <contributor>
@@ -338,9 +338,9 @@
       <guid>https://github.com/debpalash/VoiceStudio</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>73,582</stars>
-      <forks>8,048</forks>
-      <addStars>2,125</addStars>
+      <stars>74,109</stars>
+      <forks>8,111</forks>
+      <addStars>2,098</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4178343?s=40&amp;v=4</avatar>
@@ -376,8 +376,8 @@
       <guid>https://github.com/anomalyco/opencode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>215,497</stars>
-      <forks>28,875</forks>
+      <stars>215,876</stars>
+      <forks>28,918</forks>
       <addStars>438</addStars>
       <contributors>
         <contributor>
@@ -409,9 +409,9 @@
       <guid>https://github.com/ruvnet/ruflo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>76,123</stars>
-      <forks>9,006</forks>
-      <addStars>420</addStars>
+      <stars>76,272</stars>
+      <forks>9,014</forks>
+      <addStars>502</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4</avatar>
@@ -442,9 +442,9 @@
       <guid>https://github.com/xerj-org/xerj</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>7,892</stars>
-      <forks>419</forks>
-      <addStars>1,160</addStars>
+      <stars>8,116</stars>
+      <forks>429</forks>
+      <addStars>842</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/297525353?s=40&amp;v=4</avatar>

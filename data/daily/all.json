@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sun, 18 Oct 2026 03:30:34 GMT",
+  "pubDate": "Sun, 18 Oct 2026 10:44:14 GMT",
   "items": [
     {
       "title": "anthropics/claude-plugins-official",
@@ -10,9 +10,9 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "41,878",
-      "forks": "4,471",
-      "addStars": "1,397",
+      "stars": "42,227",
+      "forks": "4,500",
+      "addStars": "1,187",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "50,614",
-      "forks": "16,958",
-      "addStars": "1,365",
+      "stars": "51,267",
+      "forks": "17,046",
+      "addStars": "2,213",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "282,604",
-      "forks": "41,991",
-      "addStars": "1,145",
+      "stars": "282,910",
+      "forks": "42,015",
+      "addStars": "1,073",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "54,122",
-      "forks": "4,907",
-      "addStars": "574",
+      "stars": "54,304",
+      "forks": "4,924",
+      "addStars": "582",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "52,318",
-      "forks": "4,635",
-      "addStars": "878",
+      "stars": "52,529",
+      "forks": "4,651",
+      "addStars": "672",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
@@ -180,8 +180,8 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "9,988",
-      "forks": "723",
+      "stars": "10,162",
+      "forks": "735",
       "addStars": "178",
       "contributors": [
         {
@@ -217,9 +217,9 @@
       "description": "",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "8,461",
-      "forks": "556",
-      "addStars": "355",
+      "stars": "8,588",
+      "forks": "560",
+      "addStars": "381",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/133978327?s=40&v=4",
@@ -254,8 +254,8 @@
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "95,532",
-      "forks": "6,119",
+      "stars": "95,889",
+      "forks": "6,131",
       "addStars": "830",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "151,835",
-      "forks": "26,883",
+      "stars": "152,195",
+      "forks": "26,962",
       "addStars": "179",
       "contributors": [
         {
@@ -328,9 +328,9 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "73,582",
-      "forks": "8,048",
-      "addStars": "2,125",
+      "stars": "74,109",
+      "forks": "8,111",
+      "addStars": "2,098",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
@@ -365,8 +365,8 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "215,497",
-      "forks": "28,875",
+      "stars": "215,876",
+      "forks": "28,918",
       "addStars": "438",
       "contributors": [
         {
@@ -397,9 +397,9 @@
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "76,123",
-      "forks": "9,006",
-      "addStars": "420",
+      "stars": "76,272",
+      "forks": "9,014",
+      "addStars": "502",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
@@ -429,9 +429,9 @@
       "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "7,892",
-      "forks": "419",
-      "addStars": "1,160",
+      "stars": "8,116",
+      "forks": "429",
+      "addStars": "842",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/297525353?s=40&v=4",
