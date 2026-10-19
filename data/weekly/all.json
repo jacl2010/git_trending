@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sun, 18 Oct 2026 20:00:25 GMT",
+  "pubDate": "Mon, 19 Oct 2026 03:41:35 GMT",
   "items": [
     {
       "title": "morluto/rea",
@@ -10,9 +10,9 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "320,411",
-      "forks": "81,247",
-      "addStars": "239,923",
+      "stars": "324,369",
+      "forks": "82,165",
+      "addStars": "229,268",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "32,579",
-      "forks": "5,167",
-      "addStars": "18,479",
+      "stars": "32,884",
+      "forks": "5,206",
+      "addStars": "16,379",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "42,993",
-      "forks": "3,900",
-      "addStars": "16,250",
+      "stars": "43,339",
+      "forks": "3,941",
+      "addStars": "14,224",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,555",
-      "forks": "4,524",
-      "addStars": "3,581",
+      "stars": "42,800",
+      "forks": "4,539",
+      "addStars": "4,774",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "30,706",
-      "forks": "2,265",
-      "addStars": "4,438",
+      "stars": "30,810",
+      "forks": "2,285",
+      "addStars": "4,138",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "57,594",
-      "forks": "3,684",
-      "addStars": "8,382",
+      "stars": "57,820",
+      "forks": "3,705",
+      "addStars": "7,901",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
@@ -217,9 +217,9 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "90,792",
-      "forks": "10,160",
-      "addStars": "7,608",
+      "stars": "91,008",
+      "forks": "10,187",
+      "addStars": "7,602",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
@@ -254,9 +254,9 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "66,621",
-      "forks": "6,028",
-      "addStars": "5,639",
+      "stars": "66,880",
+      "forks": "6,064",
+      "addStars": "5,883",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
@@ -291,9 +291,9 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "12,679",
-      "forks": "1,245",
-      "addStars": "1,536",
+      "stars": "12,803",
+      "forks": "1,259",
+      "addStars": "1,717",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -328,9 +328,9 @@
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "52,598",
-      "forks": "17,261",
-      "addStars": "4,200",
+      "stars": "53,762",
+      "forks": "17,478",
+      "addStars": "5,742",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -353,9 +353,9 @@
           "url": "https://github.com/oscarbol09"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/17257805?s=40&v=4",
-          "name": "jakob1379",
-          "url": "https://github.com/jakob1379"
+          "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
+          "name": "rudycelekli",
+          "url": "https://github.com/rudycelekli"
         }
       ]
     }
