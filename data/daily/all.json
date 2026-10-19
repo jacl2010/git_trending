@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Mon, 19 Oct 2026 12:43:39 GMT",
+  "pubDate": "Mon, 19 Oct 2026 17:55:37 GMT",
   "items": [
     {
       "title": "MadsLorentzen/ai-job-search",
@@ -10,8 +10,8 @@
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "55,398",
-      "forks": "17,779",
+      "stars": "56,374",
+      "forks": "17,980",
       "addStars": "3,860",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "217,222",
-      "forks": "29,048",
+      "stars": "217,518",
+      "forks": "29,080",
       "addStars": "1,310",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "10,880",
-      "forks": "772",
+      "stars": "11,113",
+      "forks": "789",
       "addStars": "666",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "139,192",
-      "forks": "16,538",
+      "stars": "139,469",
+      "forks": "16,561",
       "addStars": "1,011",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "76,864",
-      "forks": "9,075",
+      "stars": "77,020",
+      "forks": "9,090",
       "addStars": "564",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "97,571",
-      "forks": "6,222",
+      "stars": "97,962",
+      "forks": "6,245",
       "addStars": "1,591",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "76,002",
-      "forks": "5,911",
+      "stars": "76,129",
+      "forks": "5,917",
       "addStars": "317",
       "contributors": [
         {
@@ -259,9 +259,9 @@
       "description": "",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "5,874",
-      "forks": "984",
-      "addStars": "427",
+      "stars": "5,997",
+      "forks": "995",
+      "addStars": "301",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/262926223?s=40&v=4",
@@ -281,8 +281,8 @@
       "description": "Video restoration tool",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,726",
-      "forks": "205",
+      "stars": "2,807",
+      "forks": "210",
       "addStars": "502",
       "contributors": [
         {
@@ -318,8 +318,8 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "54,948",
-      "forks": "4,966",
+      "stars": "55,075",
+      "forks": "4,974",
       "addStars": "607",
       "contributors": [
         {
@@ -355,8 +355,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "152,378",
-      "forks": "27,114",
+      "stars": "152,498",
+      "forks": "27,129",
       "addStars": "167",
       "contributors": [
         {
@@ -392,8 +392,8 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "41,338",
-      "forks": "6,892",
+      "stars": "41,454",
+      "forks": "6,901",
       "addStars": "355",
       "contributors": [
         {
