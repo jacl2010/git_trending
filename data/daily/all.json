@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Tue, 20 Oct 2026 11:14:42 GMT",
+  "pubDate": "Tue, 20 Oct 2026 15:59:39 GMT",
   "items": [
     {
       "title": "MadsLorentzen/ai-job-search",
@@ -10,8 +10,8 @@
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "58,949",
-      "forks": "18,520",
+      "stars": "59,696",
+      "forks": "18,698",
       "addStars": "3,890",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "33,038",
-      "forks": "2,067",
+      "stars": "33,489",
+      "forks": "2,103",
       "addStars": "849",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "98,992",
-      "forks": "6,305",
+      "stars": "99,328",
+      "forks": "6,322",
       "addStars": "1,559",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "168,609",
-      "forks": "9,166",
+      "stars": "169,085",
+      "forks": "9,192",
       "addStars": "1,007",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "140,288",
-      "forks": "16,622",
+      "stars": "140,513",
+      "forks": "16,637",
       "addStars": "1,201",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "77,492",
-      "forks": "9,124",
+      "stars": "77,633",
+      "forks": "9,136",
       "addStars": "683",
       "contributors": [
         {
@@ -217,9 +217,9 @@
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "129,486",
-      "forks": "12,482",
-      "addStars": "751",
+      "stars": "129,801",
+      "forks": "12,498",
+      "addStars": "906",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -254,8 +254,8 @@
       "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "10,339",
-      "forks": "2,157",
+      "stars": "11,039",
+      "forks": "2,529",
       "addStars": "1,168",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "218,340",
-      "forks": "29,160",
+      "stars": "218,603",
+      "forks": "29,177",
       "addStars": "1,256",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "161,965",
-      "forks": "26,219",
+      "stars": "162,107",
+      "forks": "26,236",
       "addStars": "590",
       "contributors": [
         {
@@ -360,8 +360,8 @@
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "76,498",
-      "forks": "5,938",
+      "stars": "76,606",
+      "forks": "5,949",
       "addStars": "555",
       "contributors": [
         {
@@ -397,8 +397,8 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "30,601",
-      "forks": "3,454",
+      "stars": "30,666",
+      "forks": "3,459",
       "addStars": "262",
       "contributors": [
         {
@@ -429,8 +429,8 @@
       "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "47,994",
-      "forks": "7,009",
+      "stars": "48,071",
+      "forks": "7,014",
       "addStars": "58",
       "contributors": [
         {
@@ -461,8 +461,8 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,012",
-      "forks": "6,961",
+      "stars": "42,151",
+      "forks": "6,984",
       "addStars": "719",
       "contributors": [
         {
@@ -498,8 +498,8 @@
       "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "94,215",
-      "forks": "23,637",
+      "stars": "94,321",
+      "forks": "23,655",
       "addStars": "98",
       "contributors": [
         {

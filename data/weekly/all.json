@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Tue, 20 Oct 2026 11:14:42 GMT",
+  "pubDate": "Tue, 20 Oct 2026 15:59:39 GMT",
   "items": [
     {
       "title": "morluto/rea",
@@ -10,8 +10,8 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "342,508",
-      "forks": "86,398",
+      "stars": "345,096",
+      "forks": "86,957",
       "addStars": "201,065",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "58,949",
-      "forks": "18,520",
+      "stars": "59,696",
+      "forks": "18,698",
       "addStars": "9,073",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "43,292",
-      "forks": "4,580",
+      "stars": "43,336",
+      "forks": "4,581",
       "addStars": "5,441",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "31,240",
-      "forks": "2,388",
+      "stars": "31,285",
+      "forks": "2,344",
       "addStars": "4,224",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "91,854",
-      "forks": "10,291",
+      "stars": "91,979",
+      "forks": "10,302",
       "addStars": "7,152",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "53,121",
-      "forks": "4,699",
+      "stars": "53,200",
+      "forks": "4,704",
       "addStars": "4,355",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "68,044",
-      "forks": "6,143",
+      "stars": "68,245",
+      "forks": "6,162",
       "addStars": "5,945",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "78,171",
-      "forks": "8,573",
+      "stars": "78,507",
+      "forks": "8,616",
       "addStars": "17,291",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "77,492",
-      "forks": "9,124",
+      "stars": "77,633",
+      "forks": "9,136",
       "addStars": "2,543",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "9,012",
-      "forks": "582",
+      "stars": "9,033",
+      "forks": "584",
       "addStars": "1,233",
       "contributors": [
         {
@@ -360,8 +360,8 @@
       "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "10,339",
-      "forks": "2,157",
+      "stars": "11,039",
+      "forks": "2,529",
       "addStars": "2,933",
       "contributors": [
         {
@@ -397,8 +397,8 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "44,949",
-      "forks": "4,123",
+      "stars": "45,204",
+      "forks": "4,143",
       "addStars": "12,389",
       "contributors": [
         {
@@ -434,8 +434,8 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,155",
-      "forks": "1,293",
+      "stars": "13,200",
+      "forks": "1,300",
       "addStars": "1,975",
       "contributors": [
         {
@@ -471,8 +471,8 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "58,746",
-      "forks": "3,775",
+      "stars": "58,845",
+      "forks": "3,783",
       "addStars": "6,638",
       "contributors": [
         {
@@ -503,8 +503,8 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "34,127",
-      "forks": "5,400",
+      "stars": "34,307",
+      "forks": "5,433",
       "addStars": "13,572",
       "contributors": [
         {
