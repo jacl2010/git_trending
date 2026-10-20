@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Mon, 19 Oct 2026 21:57:08 GMT",
+  "pubDate": "Tue, 20 Oct 2026 03:52:29 GMT",
   "items": [
     {
       "title": "morluto/rea",
@@ -10,9 +10,9 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "335,904",
-      "forks": "84,846",
-      "addStars": "229,268",
+      "stars": "338,454",
+      "forks": "85,431",
+      "addStars": "201,065",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "43,156",
-      "forks": "4,564",
-      "addStars": "4,774",
+      "stars": "43,217",
+      "forks": "4,572",
+      "addStars": "5,441",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "33,659",
-      "forks": "5,329",
-      "addStars": "16,379",
+      "stars": "33,845",
+      "forks": "5,355",
+      "addStars": "13,572",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "56,940",
-      "forks": "18,123",
-      "addStars": "5,742",
+      "stars": "57,788",
+      "forks": "18,298",
+      "addStars": "9,073",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "44,370",
-      "forks": "4,054",
-      "addStars": "14,224",
+      "stars": "44,616",
+      "forks": "4,075",
+      "addStars": "12,389",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -190,9 +190,9 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "91,519",
-      "forks": "10,244",
-      "addStars": "7,602",
+      "stars": "91,675",
+      "forks": "10,271",
+      "addStars": "7,152",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
@@ -227,9 +227,9 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "31,055",
-      "forks": "2,332",
-      "addStars": "4,138",
+      "stars": "31,135",
+      "forks": "2,336",
+      "addStars": "4,224",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
@@ -259,9 +259,9 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "67,598",
-      "forks": "6,111",
-      "addStars": "5,883",
+      "stars": "67,774",
+      "forks": "6,123",
+      "addStars": "5,945",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
@@ -296,9 +296,9 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "58,349",
-      "forks": "3,751",
-      "addStars": "7,901",
+      "stars": "58,539",
+      "forks": "3,760",
+      "addStars": "6,638",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
@@ -328,9 +328,9 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "52,917",
-      "forks": "4,686",
-      "addStars": "4,310",
+      "stars": "52,985",
+      "forks": "4,688",
+      "addStars": "4,355",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
@@ -360,9 +360,9 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,033",
-      "forks": "1,279",
-      "addStars": "1,717",
+      "stars": "13,084",
+      "forks": "1,286",
+      "addStars": "1,975",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -397,9 +397,9 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "77,380",
-      "forks": "8,472",
-      "addStars": "16,569",
+      "stars": "77,731",
+      "forks": "8,522",
+      "addStars": "17,291",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
@@ -434,9 +434,9 @@
       "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,654",
-      "forks": "1,449",
-      "addStars": "2,622",
+      "stars": "9,360",
+      "forks": "1,748",
+      "addStars": "2,933",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/188421097?s=40&v=4",
@@ -471,9 +471,9 @@
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "77,127",
-      "forks": "9,098",
-      "addStars": "2,117",
+      "stars": "77,299",
+      "forks": "9,111",
+      "addStars": "2,543",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
