@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Wed, 21 Oct 2026 11:30:50 GMT</pubDate>
+    <pubDate>Wed, 21 Oct 2026 16:16:42 GMT</pubDate>
     <item>
       <title>MadsLorentzen/ai-job-search</title>
       <link>https://github.com/MadsLorentzen/ai-job-search</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/MadsLorentzen/ai-job-search</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>62,087</stars>
-      <forks>19,185</forks>
-      <addStars>3,861</addStars>
+      <stars>62,624</stars>
+      <forks>19,326</forks>
+      <addStars>3,131</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/cloudflare/security-audit-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>35,031</stars>
-      <forks>2,202</forks>
-      <addStars>1,712</addStars>
+      <stars>35,413</stars>
+      <forks>2,225</forks>
+      <addStars>1,997</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9935415?s=40&amp;v=4</avatar>
@@ -77,9 +77,9 @@
       <guid>https://github.com/vllm-project/vllm</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>94,649</stars>
-      <forks>23,708</forks>
-      <addStars>128</addStars>
+      <stars>94,749</stars>
+      <forks>23,723</forks>
+      <addStars>439</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/44970335?s=40&amp;v=4</avatar>
@@ -115,9 +115,9 @@
       <guid>https://github.com/stablyai/orca</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>100,483</stars>
-      <forks>6,355</forks>
-      <addStars>1,565</addStars>
+      <stars>100,820</stars>
+      <forks>6,375</forks>
+      <addStars>1,543</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4138956?s=40&amp;v=4</avatar>
@@ -153,9 +153,9 @@
       <guid>https://github.com/headroomlabs-ai/headroom</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>76,970</stars>
-      <forks>5,974</forks>
-      <addStars>549</addStars>
+      <stars>77,093</stars>
+      <forks>5,982</forks>
+      <addStars>477</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/3607994?s=40&amp;v=4</avatar>
@@ -191,9 +191,9 @@
       <guid>https://github.com/DietrichGebert/ponytail</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>170,643</stars>
-      <forks>9,282</forks>
-      <addStars>1,208</addStars>
+      <stars>171,045</stars>
+      <forks>9,309</forks>
+      <addStars>2,051</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/137048761?s=40&amp;v=4</avatar>
@@ -229,9 +229,9 @@
       <guid>https://github.com/Comfy-Org/ComfyUI</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>141,190</stars>
-      <forks>16,700</forks>
-      <addStars>1,206</addStars>
+      <stars>141,313</stars>
+      <forks>16,707</forks>
+      <addStars>914</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/121283862?s=40&amp;v=4</avatar>
@@ -267,8 +267,8 @@
       <guid>https://github.com/supabase/supabase</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>112,591</stars>
-      <forks>16,809</forks>
+      <stars>112,763</stars>
+      <forks>16,855</forks>
       <addStars>509</addStars>
       <contributors>
         <contributor>
@@ -305,8 +305,8 @@
       <guid>https://github.com/twentyhq/twenty</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>58,781</stars>
-      <forks>9,642</forks>
+      <stars>58,919</stars>
+      <forks>9,650</forks>
       <addStars>105</addStars>
       <contributors>
         <contributor>
@@ -338,9 +338,9 @@
       <guid>https://github.com/shiyu-coder/Kronos</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>42,571</stars>
-      <forks>7,038</forks>
-      <addStars>733</addStars>
+      <stars>42,682</stars>
+      <forks>7,052</forks>
+      <addStars>570</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/65760973?s=40&amp;v=4</avatar>
@@ -376,8 +376,8 @@
       <guid>https://github.com/strelov1/freehire</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>1,997</stars>
-      <forks>228</forks>
+      <stars>2,153</stars>
+      <forks>233</forks>
       <addStars>405</addStars>
       <contributors>
         <contributor>
@@ -404,9 +404,9 @@
       <guid>https://github.com/akitaonrails/ai-memory</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>12,006</stars>
-      <forks>852</forks>
-      <addStars>810</addStars>
+      <stars>12,133</stars>
+      <forks>859</forks>
+      <addStars>303</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2840?s=40&amp;v=4</avatar>
@@ -442,9 +442,9 @@
       <guid>https://github.com/Graphify-Labs/graphify</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>130,874</stars>
-      <forks>12,580</forks>
-      <addStars>802</addStars>
+      <stars>131,200</stars>
+      <forks>12,605</forks>
+      <addStars>1,434</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
