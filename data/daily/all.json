@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Thu, 22 Oct 2026 16:15:18 GMT",
+  "pubDate": "Thu, 22 Oct 2026 21:08:51 GMT",
   "items": [
     {
       "title": "php/php-src",
@@ -10,8 +10,8 @@
       "description": "The PHP Interpreter",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "40,960",
-      "forks": "8,291",
+      "stars": "41,090",
+      "forks": "8,302",
       "addStars": "423",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "31,399",
-      "forks": "3,517",
+      "stars": "31,516",
+      "forks": "3,528",
       "addStars": "303",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "172,933",
-      "forks": "9,412",
+      "stars": "173,272",
+      "forks": "9,431",
       "addStars": "1,949",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "38,642",
-      "forks": "2,408",
+      "stars": "39,254",
+      "forks": "2,446",
       "addStars": "2,979",
       "contributors": [
         {
@@ -143,8 +143,8 @@
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "132,563",
-      "forks": "12,699",
+      "stars": "132,821",
+      "forks": "12,713",
       "addStars": "1,407",
       "contributors": [
         {
@@ -180,7 +180,7 @@
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "113,353",
+      "stars": "113,429",
       "forks": "16,993",
       "addStars": "683",
       "contributors": [
@@ -217,8 +217,8 @@
       "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "103,541",
-      "forks": "10,077",
+      "stars": "103,663",
+      "forks": "10,084",
       "addStars": "96",
       "contributors": [
         {
@@ -239,8 +239,8 @@
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,833",
-      "forks": "5,366",
+      "stars": "43,053",
+      "forks": "5,377",
       "addStars": "370",
       "contributors": [
         {
@@ -276,8 +276,8 @@
       "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
       "language": "Visual Basic .NET",
       "languageColor": "#945db7",
-      "stars": "8,623",
-      "forks": "1,192",
+      "stars": "8,657",
+      "forks": "1,197",
       "addStars": "115",
       "contributors": [
         {
