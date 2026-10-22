@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Thu, 22 Oct 2026 11:30:36 GMT</pubDate>
+    <pubDate>Thu, 22 Oct 2026 16:15:18 GMT</pubDate>
     <item>
       <title>php/php-src</title>
       <link>https://github.com/php/php-src</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/php/php-src</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>40,762</stars>
-      <forks>8,269</forks>
-      <addStars>110</addStars>
+      <stars>40,960</stars>
+      <forks>8,291</forks>
+      <addStars>423</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2510034?s=40&amp;v=4</avatar>
@@ -49,8 +49,8 @@
       <guid>https://github.com/anthropics/knowledge-work-plugins</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>31,284</stars>
-      <forks>3,505</forks>
+      <stars>31,399</stars>
+      <forks>3,517</forks>
       <addStars>303</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/DietrichGebert/ponytail</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>172,537</stars>
-      <forks>9,384</forks>
+      <stars>172,933</stars>
+      <forks>9,412</forks>
       <addStars>1,949</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/cloudflare/security-audit-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>38,012</stars>
-      <forks>2,374</forks>
+      <stars>38,642</stars>
+      <forks>2,408</forks>
       <addStars>2,979</addStars>
       <contributors>
         <contributor>
@@ -148,8 +148,8 @@
       <guid>https://github.com/Graphify-Labs/graphify</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>132,248</stars>
-      <forks>12,677</forks>
+      <stars>132,563</stars>
+      <forks>12,699</forks>
       <addStars>1,407</addStars>
       <contributors>
         <contributor>
@@ -186,9 +186,9 @@
       <guid>https://github.com/supabase/supabase</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>113,263</stars>
-      <forks>16,988</forks>
-      <addStars>504</addStars>
+      <stars>113,353</stars>
+      <forks>16,993</forks>
+      <addStars>683</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/19742402?s=40&amp;v=4</avatar>
@@ -224,8 +224,8 @@
       <guid>https://github.com/fastapi/fastapi</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>103,384</stars>
-      <forks>10,066</forks>
+      <stars>103,541</stars>
+      <forks>10,077</forks>
       <addStars>96</addStars>
       <contributors>
         <contributor>
@@ -247,9 +247,9 @@
       <guid>https://github.com/luongnv89/claude-howto</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>42,603</stars>
-      <forks>5,348</forks>
-      <addStars>428</addStars>
+      <stars>42,833</stars>
+      <forks>5,366</forks>
+      <addStars>370</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/3288457?s=40&amp;v=4</avatar>
@@ -285,8 +285,8 @@
       <guid>https://github.com/Meloong-Git/PCL</guid>
       <language>Visual Basic .NET</language>
       <languageColor>#945db7</languageColor>
-      <stars>8,527</stars>
-      <forks>1,173</forks>
+      <stars>8,623</stars>
+      <forks>1,192</forks>
       <addStars>115</addStars>
       <contributors>
         <contributor>
