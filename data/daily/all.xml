@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Sat, 24 Oct 2026 03:41:15 GMT</pubDate>
+    <pubDate>Sat, 24 Oct 2026 10:39:57 GMT</pubDate>
     <item>
       <title>cloudflare/security-audit-skill</title>
       <link>https://github.com/cloudflare/security-audit-skill</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/cloudflare/security-audit-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>42,352</stars>
-      <forks>2,645</forks>
+      <stars>42,869</stars>
+      <forks>2,674</forks>
       <addStars>2,716</addStars>
       <contributors>
         <contributor>
@@ -39,8 +39,8 @@
       <guid>https://github.com/php/php-src</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>41,591</stars>
-      <forks>8,363</forks>
+      <stars>41,625</stars>
+      <forks>8,372</forks>
       <addStars>716</addStars>
       <contributors>
         <contributor>
@@ -77,8 +77,8 @@
       <guid>https://github.com/anthropics/knowledge-work-plugins</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>32,293</stars>
-      <forks>3,576</forks>
+      <stars>32,467</stars>
+      <forks>3,587</forks>
       <addStars>635</addStars>
       <contributors>
         <contributor>
@@ -110,8 +110,8 @@
       <guid>https://github.com/NVIDIA/OpenShell</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>18,888</stars>
-      <forks>1,887</forks>
+      <stars>19,074</stars>
+      <forks>1,902</forks>
       <addStars>1,119</addStars>
       <contributors>
         <contributor>
@@ -148,8 +148,8 @@
       <guid>https://github.com/Renhuai123/ziwei-doushu</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>6,958</stars>
-      <forks>1,424</forks>
+      <stars>7,151</stars>
+      <forks>1,459</forks>
       <addStars>546</addStars>
       <contributors>
         <contributor>
@@ -181,8 +181,8 @@
       <guid>https://github.com/SnailSploit/Claude-Red</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,565</stars>
-      <forks>1,105</forks>
+      <stars>8,746</stars>
+      <forks>1,122</forks>
       <addStars>226</addStars>
       <contributors>
         <contributor>
@@ -219,8 +219,8 @@
       <guid>https://github.com/OpenBMB/VoxCPM</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>40,325</stars>
-      <forks>4,582</forks>
+      <stars>40,460</stars>
+      <forks>4,597</forks>
       <addStars>150</addStars>
       <contributors>
         <contributor>
@@ -257,8 +257,8 @@
       <guid>https://github.com/nodejs/node</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>122,918</stars>
-      <forks>39,834</forks>
+      <stars>123,037</stars>
+      <forks>39,846</forks>
       <addStars>66</addStars>
       <contributors>
         <contributor>
