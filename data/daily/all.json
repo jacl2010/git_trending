@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Mon, 26 Oct 2026 17:51:36 GMT",
+  "pubDate": "Mon, 26 Oct 2026 22:13:56 GMT",
   "items": [
     {
       "title": "Nutlope/hallmark",
@@ -10,8 +10,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "35,713",
-      "forks": "1,859",
+      "stars": "36,081",
+      "forks": "1,884",
       "addStars": "2,235",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "115,717",
-      "forks": "22,232",
+      "stars": "115,963",
+      "forks": "22,261",
       "addStars": "1,376",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,593",
-      "forks": "143",
+      "stars": "2,801",
+      "forks": "149",
       "addStars": "1,156",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,153",
-      "forks": "766",
+      "stars": "6,345",
+      "forks": "780",
       "addStars": "1,268",
       "contributors": [
         {
@@ -158,9 +158,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "289,568",
-      "forks": "42,895",
-      "addStars": "853",
+      "stars": "289,756",
+      "forks": "42,933",
+      "addStars": "987",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
@@ -190,8 +190,8 @@
       "description": "The design language that makes your AI harness better at design.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "88,843",
-      "forks": "5,298",
+      "stars": "89,081",
+      "forks": "5,307",
       "addStars": "1,551",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "21,946",
-      "forks": "1,923",
+      "stars": "22,109",
+      "forks": "1,931",
       "addStars": "203",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "A Tiny biped duck robot 🦆",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,276",
-      "forks": "1,539",
+      "stars": "12,355",
+      "forks": "1,543",
       "addStars": "844",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,291",
-      "forks": "171",
+      "stars": "1,410",
+      "forks": "179",
       "addStars": "312",
       "contributors": [
         {
@@ -328,8 +328,8 @@
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "103,242",
-      "forks": "9,156",
+      "stars": "103,452",
+      "forks": "9,177",
       "addStars": "723",
       "contributors": [
         {
@@ -365,8 +365,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "88,613",
-      "forks": "9,772",
+      "stars": "89,049",
+      "forks": "9,822",
       "addStars": "2,292",
       "contributors": [
         {
@@ -402,8 +402,8 @@
       "description": "📨 The ultimate agentic social media scheduling tool 🤖",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "38,232",
-      "forks": "7,434",
+      "stars": "38,379",
+      "forks": "7,448",
       "addStars": "146",
       "contributors": [
         {
@@ -439,9 +439,9 @@
       "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "26,637",
-      "forks": "2,956",
-      "addStars": "177",
+      "stars": "26,694",
+      "forks": "2,959",
+      "addStars": "409",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/127714341?s=40&v=4",
@@ -466,8 +466,8 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "224,383",
-      "forks": "22,455",
+      "stars": "224,568",
+      "forks": "22,462",
       "addStars": "702",
       "contributors": [
         {
