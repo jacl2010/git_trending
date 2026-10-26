@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Mon, 26 Oct 2026 12:37:26 GMT",
+  "pubDate": "Mon, 26 Oct 2026 17:51:36 GMT",
   "items": [
     {
       "title": "cloudflare/security-audit-skill",
@@ -10,8 +10,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "47,851",
-      "forks": "2,979",
+      "stars": "48,216",
+      "forks": "3,006",
       "addStars": "15,072",
       "contributors": [
         {
@@ -37,8 +37,8 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "33,117",
-      "forks": "3,647",
+      "stars": "33,169",
+      "forks": "3,654",
       "addStars": "2,790",
       "contributors": [
         {
@@ -69,8 +69,8 @@
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "79,409",
-      "forks": "9,317",
+      "stars": "79,468",
+      "forks": "9,326",
       "addStars": "2,987",
       "contributors": [
         {
@@ -101,8 +101,8 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "221,754",
-      "forks": "29,654",
+      "stars": "221,864",
+      "forks": "29,669",
       "addStars": "5,921",
       "contributors": [
         {
@@ -133,8 +133,8 @@
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "106,541",
-      "forks": "6,726",
+      "stars": "106,815",
+      "forks": "6,739",
       "addStars": "9,622",
       "contributors": [
         {
@@ -170,8 +170,8 @@
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "135,748",
-      "forks": "12,945",
+      "stars": "135,952",
+      "forks": "12,971",
       "addStars": "6,903",
       "contributors": [
         {
@@ -207,8 +207,8 @@
       "description": "",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "9,780",
-      "forks": "631",
+      "stars": "9,805",
+      "forks": "635",
       "addStars": "1,070",
       "contributors": [
         {
@@ -244,8 +244,8 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "13,656",
-      "forks": "965",
+      "stars": "13,737",
+      "forks": "973",
       "addStars": "3,254",
       "contributors": [
         {
@@ -281,8 +281,8 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "224,162",
-      "forks": "22,432",
+      "stars": "224,384",
+      "forks": "22,455",
       "addStars": "2,937",
       "contributors": [
         {
@@ -318,8 +318,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "115,318",
-      "forks": "22,192",
+      "stars": "115,718",
+      "forks": "22,232",
       "addStars": "2,461",
       "contributors": [
         {
@@ -355,8 +355,8 @@
       "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "41,743",
-      "forks": "4,428",
+      "stars": "41,778",
+      "forks": "4,431",
       "addStars": "726",
       "contributors": [
         {
@@ -387,8 +387,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "72,638",
-      "forks": "6,562",
+      "stars": "72,864",
+      "forks": "6,588",
       "addStars": "5,612",
       "contributors": [
         {
@@ -424,8 +424,8 @@
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "21,749",
-      "forks": "2,997",
+      "stars": "21,931",
+      "forks": "3,018",
       "addStars": "2,492",
       "contributors": [
         {
@@ -456,8 +456,8 @@
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "143,128",
-      "forks": "16,896",
+      "stars": "143,200",
+      "forks": "16,910",
       "addStars": "4,790",
       "contributors": [
         {
@@ -493,8 +493,8 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "30,342",
-      "forks": "8,110",
+      "stars": "30,420",
+      "forks": "8,130",
       "addStars": "1,770",
       "contributors": [
         {
