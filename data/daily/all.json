@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sun, 25 Oct 2026 20:19:31 GMT",
+  "pubDate": "Mon, 26 Oct 2026 03:42:02 GMT",
   "items": [
     {
       "title": "makecindy/cindy",
@@ -10,9 +10,9 @@
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,742",
-      "forks": "653",
-      "addStars": "677",
+      "stars": "5,091",
+      "forks": "682",
+      "addStars": "675",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/125997726?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "33,499",
-      "forks": "1,745",
-      "addStars": "1,359",
+      "stars": "34,136",
+      "forks": "1,779",
+      "addStars": "1,317",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "86,490",
-      "forks": "9,584",
-      "addStars": "1,588",
+      "stars": "87,114",
+      "forks": "9,632",
+      "addStars": "1,592",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "The design language that makes your AI harness better at design.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "87,507",
-      "forks": "5,227",
-      "addStars": "1,113",
+      "stars": "87,900",
+      "forks": "5,251",
+      "addStars": "1,092",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "A Tiny biped duck robot 🦆",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "11,542",
-      "forks": "1,472",
-      "addStars": "657",
+      "stars": "11,794",
+      "forks": "1,498",
+      "addStars": "647",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4290742?s=40&v=4",
@@ -190,9 +190,9 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "114,401",
-      "forks": "22,120",
-      "addStars": "636",
+      "stars": "114,787",
+      "forks": "22,144",
+      "addStars": "381",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
@@ -227,9 +227,9 @@
       "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,509",
-      "forks": "1,539",
-      "addStars": "255",
+      "stars": "7,797",
+      "forks": "1,575",
+      "addStars": "199",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/91890238?s=40&v=4",
@@ -259,9 +259,9 @@
       "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,402",
-      "forks": "95",
-      "addStars": "52",
+      "stars": "1,929",
+      "forks": "109",
+      "addStars": "51",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/177517595?s=40&v=4",
@@ -296,9 +296,9 @@
       "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "64,199",
-      "forks": "5,772",
-      "addStars": "192",
+      "stars": "64,525",
+      "forks": "5,796",
+      "addStars": "152",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5845193?s=40&v=4",
@@ -328,9 +328,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "46,588",
-      "forks": "2,894",
-      "addStars": "2,874",
+      "stars": "47,159",
+      "forks": "2,927",
+      "addStars": "2,878",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
@@ -355,9 +355,9 @@
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,664",
-      "forks": "2,936",
-      "addStars": "179",
+      "stars": "21,101",
+      "forks": "2,964",
+      "addStars": "197",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/223140489?s=40&v=4",
