@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Wed, 28 Oct 2026 17:35:45 GMT</pubDate>
+    <pubDate>Wed, 28 Oct 2026 22:07:15 GMT</pubDate>
     <item>
       <title>JetBrains/thinkrail</title>
       <link>https://github.com/JetBrains/thinkrail</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/JetBrains/thinkrail</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>4,795</stars>
-      <forks>249</forks>
+      <stars>4,972</stars>
+      <forks>254</forks>
       <addStars>1,075</addStars>
       <contributors>
         <contributor>
@@ -49,9 +49,9 @@
       <guid>https://github.com/elayadesign/ai-design-skills</guid>
       <language/>
       <languageColor/>
-      <stars>10,883</stars>
-      <forks>775</forks>
-      <addStars>1,395</addStars>
+      <stars>11,018</stars>
+      <forks>787</forks>
+      <addStars>1,938</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/218383883?s=40&amp;v=4</avatar>
@@ -72,8 +72,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>307,229</stars>
-      <forks>27,336</forks>
+      <stars>307,369</stars>
+      <forks>27,345</forks>
       <addStars>1,096</addStars>
       <contributors>
         <contributor>
@@ -110,8 +110,8 @@
       <guid>https://github.com/HKUDS/DeepTutor</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>47,667</stars>
-      <forks>5,926</forks>
+      <stars>47,849</stars>
+      <forks>5,940</forks>
       <addStars>2,376</addStars>
       <contributors>
         <contributor>
@@ -143,8 +143,8 @@
       <guid>https://github.com/macro-inc/macro</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>5,301</stars>
-      <forks>514</forks>
+      <stars>5,375</stars>
+      <forks>518</forks>
       <addStars>106</addStars>
       <contributors>
         <contributor>
@@ -181,8 +181,8 @@
       <guid>https://github.com/Nutlope/hallmark</guid>
       <language>CSS</language>
       <languageColor>#663399</languageColor>
-      <stars>40,370</stars>
-      <forks>2,099</forks>
+      <stars>40,599</stars>
+      <forks>2,106</forks>
       <addStars>2,109</addStars>
       <contributors>
         <contributor>
@@ -219,8 +219,8 @@
       <guid>https://github.com/pbakaus/impeccable</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>92,152</stars>
-      <forks>5,446</forks>
+      <stars>92,469</stars>
+      <forks>5,468</forks>
       <addStars>1,471</addStars>
       <contributors>
         <contributor>
@@ -252,8 +252,8 @@
       <guid>https://github.com/makecindy/cindy</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>7,936</stars>
-      <forks>930</forks>
+      <stars>8,028</stars>
+      <forks>940</forks>
       <addStars>740</addStars>
       <contributors>
         <contributor>
@@ -290,8 +290,8 @@
       <guid>https://github.com/nightly-labs/openbot</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,070</stars>
-      <forks>302</forks>
+      <stars>3,175</stars>
+      <forks>311</forks>
       <addStars>1,053</addStars>
       <contributors>
         <contributor>
@@ -328,8 +328,8 @@
       <guid>https://github.com/togg53192-cmd/jailbreaks</guid>
       <language/>
       <languageColor/>
-      <stars>6,766</stars>
-      <forks>985</forks>
+      <stars>6,992</stars>
+      <forks>1,006</forks>
       <addStars>1,478</addStars>
       <contributors>
         <contributor>
@@ -361,9 +361,9 @@
       <guid>https://github.com/hmjz100/LinkSwift</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>34,101</stars>
-      <forks>2,402</forks>
-      <addStars>3,209</addStars>
+      <stars>34,376</stars>
+      <forks>2,430</forks>
+      <addStars>1,380</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/98228280?s=40&amp;v=4</avatar>
@@ -399,9 +399,9 @@
       <guid>https://github.com/expo/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>3,459</stars>
-      <forks>219</forks>
-      <addStars>212</addStars>
+      <stars>3,536</stars>
+      <forks>224</forks>
+      <addStars>216</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9664363?s=40&amp;v=4</avatar>
@@ -437,8 +437,8 @@
       <guid>https://github.com/ruvnet/RuView</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>100,787</stars>
-      <forks>13,144</forks>
+      <stars>100,958</stars>
+      <forks>13,158</forks>
       <addStars>596</addStars>
       <contributors>
         <contributor>
@@ -470,9 +470,9 @@
       <guid>https://github.com/xiaolai/the-craft-of-selfteaching</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>18,410</stars>
-      <forks>17,879</forks>
-      <addStars>143</addStars>
+      <stars>18,460</stars>
+      <forks>17,882</forks>
+      <addStars>295</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/152970?s=40&amp;v=4</avatar>

@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Wed, 28 Oct 2026 17:35:45 GMT",
+  "pubDate": "Wed, 28 Oct 2026 22:07:15 GMT",
   "items": [
     {
       "title": "cloudflare/security-audit-skill",
@@ -10,8 +10,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "51,301",
-      "forks": "3,250",
+      "stars": "51,557",
+      "forks": "3,273",
       "addStars": "16,388",
       "contributors": [
         {
@@ -37,8 +37,8 @@
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "23,205",
-      "forks": "3,141",
+      "stars": "23,318",
+      "forks": "3,148",
       "addStars": "3,081",
       "contributors": [
         {
@@ -69,8 +69,8 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "225,862",
-      "forks": "22,563",
+      "stars": "225,942",
+      "forks": "22,569",
       "addStars": "4,039",
       "contributors": [
         {
@@ -106,8 +106,8 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "33,598",
-      "forks": "3,696",
+      "stars": "33,634",
+      "forks": "3,700",
       "addStars": "2,789",
       "contributors": [
         {
@@ -138,8 +138,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "117,756",
-      "forks": "22,537",
+      "stars": "117,847",
+      "forks": "22,550",
       "addStars": "4,882",
       "contributors": [
         {
@@ -175,8 +175,8 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "92,152",
-      "forks": "5,446",
+      "stars": "92,469",
+      "forks": "5,468",
       "addStars": "6,713",
       "contributors": [
         {
@@ -207,8 +207,8 @@
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "137,602",
-      "forks": "13,119",
+      "stars": "137,761",
+      "forks": "13,133",
       "addStars": "7,268",
       "contributors": [
         {
@@ -244,8 +244,8 @@
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "104,208",
-      "forks": "7,051",
+      "stars": "104,358",
+      "forks": "7,062",
       "addStars": "3,941",
       "contributors": [
         {
@@ -281,8 +281,8 @@
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "79,929",
-      "forks": "9,376",
+      "stars": "79,962",
+      "forks": "9,378",
       "addStars": "2,296",
       "contributors": [
         {
@@ -313,8 +313,8 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "222,670",
-      "forks": "29,812",
+      "stars": "222,727",
+      "forks": "29,833",
       "addStars": "4,334",
       "contributors": [
         {
@@ -345,8 +345,8 @@
       "description": "A collection of agent skills that help you build great interfaces.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "8,920",
-      "forks": "340",
+      "stars": "8,955",
+      "forks": "341",
       "addStars": "746",
       "contributors": [
         {
