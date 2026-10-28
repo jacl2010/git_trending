@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Tue, 27 Oct 2026 21:45:53 GMT",
+  "pubDate": "Wed, 28 Oct 2026 04:32:56 GMT",
   "items": [
     {
       "title": "cloudflare/security-audit-skill",
@@ -10,9 +10,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "50,044",
-      "forks": "3,140",
-      "addStars": "16,593",
+      "stars": "50,429",
+      "forks": "3,179",
+      "addStars": "16,388",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
@@ -37,9 +37,9 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "33,404",
-      "forks": "3,673",
-      "addStars": "2,822",
+      "stars": "33,475",
+      "forks": "3,676",
+      "addStars": "2,789",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -69,9 +69,9 @@
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "22,683",
-      "forks": "3,099",
-      "addStars": "2,546",
+      "stars": "22,835",
+      "forks": "3,103",
+      "addStars": "3,081",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/223140489?s=40&v=4",
@@ -101,9 +101,9 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "225,432",
-      "forks": "22,525",
-      "addStars": "3,286",
+      "stars": "225,584",
+      "forks": "22,532",
+      "addStars": "4,039",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7857126?s=40&v=4",
@@ -138,9 +138,9 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "117,255",
-      "forks": "22,459",
-      "addStars": "3,437",
+      "stars": "117,428",
+      "forks": "22,480",
+      "addStars": "4,882",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
@@ -175,9 +175,9 @@
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "136,908",
-      "forks": "13,068",
-      "addStars": "7,183",
+      "stars": "137,109",
+      "forks": "13,082",
+      "addStars": "7,268",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -212,9 +212,9 @@
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "79,765",
-      "forks": "9,361",
-      "addStars": "2,683",
+      "stars": "79,825",
+      "forks": "9,364",
+      "addStars": "2,296",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
@@ -244,9 +244,9 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "222,342",
-      "forks": "29,751",
-      "addStars": "5,070",
+      "stars": "222,454",
+      "forks": "29,772",
+      "addStars": "4,334",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&v=4",
@@ -276,9 +276,9 @@
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "107,978",
-      "forks": "6,825",
-      "addStars": "9,241",
+      "stars": "108,231",
+      "forks": "6,844",
+      "addStars": "8,802",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
@@ -313,9 +313,9 @@
       "description": "",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "9,905",
-      "forks": "640",
-      "addStars": "823",
+      "stars": "9,927",
+      "forks": "641",
+      "addStars": "873",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/133978327?s=40&v=4",
@@ -350,9 +350,9 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "14,057",
-      "forks": "1,002",
-      "addStars": "2,838",
+      "stars": "14,129",
+      "forks": "1,007",
+      "addStars": "2,239",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
@@ -387,9 +387,9 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "30,805",
-      "forks": "8,237",
-      "addStars": "1,881",
+      "stars": "30,901",
+      "forks": "8,265",
+      "addStars": "1,988",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
@@ -424,9 +424,9 @@
       "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "104,152",
+      "stars": "104,197",
       "forks": "10,132",
-      "addStars": "1,066",
+      "addStars": "1,089",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1326112?s=40&v=4",
