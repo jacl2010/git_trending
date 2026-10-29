@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Wed, 28 Oct 2026 22:07:15 GMT",
+  "pubDate": "Thu, 29 Oct 2026 04:48:03 GMT",
   "items": [
     {
       "title": "JetBrains/thinkrail",
@@ -10,9 +10,9 @@
       "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,972",
-      "forks": "254",
-      "addStars": "1,075",
+      "stars": "5,275",
+      "forks": "271",
+      "addStars": "1,068",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/177517595?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "",
       "language": "",
       "languageColor": "",
-      "stars": "11,018",
-      "forks": "787",
-      "addStars": "1,938",
+      "stars": "11,332",
+      "forks": "820",
+      "addStars": "2,139",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/218383883?s=40&v=4",
@@ -69,9 +69,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "307,369",
-      "forks": "27,345",
-      "addStars": "1,096",
+      "stars": "307,590",
+      "forks": "27,359",
+      "addStars": "1,095",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -106,9 +106,9 @@
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "47,849",
-      "forks": "5,940",
-      "addStars": "2,376",
+      "stars": "48,378",
+      "forks": "5,999",
+      "addStars": "2,371",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
@@ -138,9 +138,9 @@
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "5,375",
-      "forks": "518",
-      "addStars": "106",
+      "stars": "5,507",
+      "forks": "525",
+      "addStars": "117",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25272206?s=40&v=4",
@@ -175,9 +175,9 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "40,599",
-      "forks": "2,106",
-      "addStars": "2,109",
+      "stars": "40,957",
+      "forks": "2,122",
+      "addStars": "2,110",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
@@ -212,9 +212,9 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "92,469",
-      "forks": "5,468",
-      "addStars": "1,471",
+      "stars": "93,207",
+      "forks": "5,501",
+      "addStars": "1,472",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
@@ -244,9 +244,9 @@
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,028",
-      "forks": "940",
-      "addStars": "740",
+      "stars": "8,241",
+      "forks": "962",
+      "addStars": "728",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/125997726?s=40&v=4",
@@ -281,9 +281,9 @@
       "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,175",
-      "forks": "311",
-      "addStars": "1,053",
+      "stars": "3,386",
+      "forks": "327",
+      "addStars": "1,054",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/38857779?s=40&v=4",
@@ -318,9 +318,9 @@
       "description": "LIST OF ALL MY JAILBREAKS",
       "language": "",
       "languageColor": "",
-      "stars": "6,992",
-      "forks": "1,006",
-      "addStars": "1,478",
+      "stars": "7,406",
+      "forks": "1,053",
+      "addStars": "1,477",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/222877182?s=40&v=4",
@@ -350,9 +350,9 @@
       "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "34,376",
-      "forks": "2,430",
-      "addStars": "1,380",
+      "stars": "35,314",
+      "forks": "2,505",
+      "addStars": "1,616",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/98228280?s=40&v=4",
@@ -387,9 +387,9 @@
       "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "3,536",
-      "forks": "224",
-      "addStars": "216",
+      "stars": "3,639",
+      "forks": "230",
+      "addStars": "90",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9664363?s=40&v=4",
@@ -424,9 +424,9 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "100,958",
-      "forks": "13,158",
-      "addStars": "596",
+      "stars": "101,203",
+      "forks": "13,169",
+      "addStars": "557",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
@@ -456,9 +456,9 @@
       "description": "One has no future if one couldn't teach themself.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "18,460",
-      "forks": "17,882",
-      "addStars": "295",
+      "stars": "18,634",
+      "forks": "17,902",
+      "addStars": "148",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/152970?s=40&v=4",
