@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Thu, 29 Oct 2026 22:22:40 GMT",
+  "pubDate": "Fri, 30 Oct 2026 04:47:34 GMT",
   "items": [
     {
       "title": "cloudflare/security-audit-skill",
@@ -10,9 +10,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "52,770",
-      "forks": "3,384",
-      "addStars": "16,002",
+      "stars": "53,032",
+      "forks": "3,405",
+      "addStars": "14,320",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
@@ -37,9 +37,9 @@
       "description": "The PHP Interpreter",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "41,718",
-      "forks": "8,487",
-      "addStars": "1,201",
+      "stars": "41,726",
+      "forks": "8,493",
+      "addStars": "960",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2510034?s=40&v=4",
@@ -74,9 +74,9 @@
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "23,952",
-      "forks": "3,221",
-      "addStars": "3,516",
+      "stars": "24,077",
+      "forks": "3,226",
+      "addStars": "4,110",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/223140489?s=40&v=4",
@@ -106,9 +106,9 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "95,182",
-      "forks": "5,606",
-      "addStars": "7,283",
+      "stars": "95,724",
+      "forks": "5,641",
+      "addStars": "9,713",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
@@ -138,9 +138,9 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "226,401",
-      "forks": "22,611",
-      "addStars": "4,293",
+      "stars": "226,515",
+      "forks": "22,618",
+      "addStars": "4,250",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7857126?s=40&v=4",
@@ -175,9 +175,9 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "118,297",
-      "forks": "22,627",
-      "addStars": "5,322",
+      "stars": "118,408",
+      "forks": "22,645",
+      "addStars": "5,557",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
@@ -212,8 +212,8 @@
       "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "70,807",
-      "forks": "5,526",
+      "stars": "70,960",
+      "forks": "5,534",
       "addStars": "4,980",
       "contributors": [
         {
@@ -249,9 +249,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "308,467",
-      "forks": "27,432",
-      "addStars": "4,655",
+      "stars": "308,741",
+      "forks": "27,464",
+      "addStars": "4,894",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -286,9 +286,9 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "33,837",
-      "forks": "3,721",
-      "addStars": "2,612",
+      "stars": "33,884",
+      "forks": "3,726",
+      "addStars": "2,504",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -318,9 +318,9 @@
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "105,469",
-      "forks": "7,121",
-      "addStars": "3,940",
+      "stars": "105,686",
+      "forks": "7,139",
+      "addStars": "4,359",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
@@ -355,9 +355,9 @@
       "description": "A collection of agent skills that help you build great interfaces.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "9,159",
-      "forks": "348",
-      "addStars": "776",
+      "stars": "9,205",
+      "forks": "349",
+      "addStars": "980",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/87530089?s=40&v=4",
@@ -377,9 +377,9 @@
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "80,130",
-      "forks": "9,400",
-      "addStars": "1,930",
+      "stars": "80,169",
+      "forks": "9,401",
+      "addStars": "1,854",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
