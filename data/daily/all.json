@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Fri, 30 Oct 2026 17:25:28 GMT",
+  "pubDate": "Fri, 30 Oct 2026 21:53:53 GMT",
   "items": [
     {
       "title": "thedotmack/claude-mem",
@@ -10,8 +10,8 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "105,790",
-      "forks": "9,322",
+      "stars": "106,090",
+      "forks": "9,344",
       "addStars": "1,145",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,273",
-      "forks": "1,176",
+      "stars": "8,511",
+      "forks": "1,191",
       "addStars": "899",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "96,736",
-      "forks": "5,699",
+      "stars": "96,935",
+      "forks": "5,709",
       "addStars": "2,299",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,606",
-      "forks": "1,089",
+      "stars": "8,722",
+      "forks": "1,102",
       "addStars": "707",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,073",
-      "forks": "2,218",
+      "stars": "11,151",
+      "forks": "2,231",
       "addStars": "1,146",
       "contributors": [
         {
@@ -185,9 +185,9 @@
       "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "3,829",
-      "forks": "244",
-      "addStars": "233",
+      "stars": "3,866",
+      "forks": "246",
+      "addStars": "108",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9664363?s=40&v=4",
@@ -222,7 +222,7 @@
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "5,775",
+      "stars": "5,835",
       "forks": "537",
       "addStars": "117",
       "contributors": [
@@ -259,9 +259,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "307,243",
-      "forks": "25,851",
-      "addStars": "882",
+      "stars": "307,409",
+      "forks": "25,868",
+      "addStars": "889",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
@@ -286,8 +286,8 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "32,517",
-      "forks": "8,604",
+      "stars": "32,656",
+      "forks": "8,644",
       "addStars": "920",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "51,555",
-      "forks": "6,315",
+      "stars": "51,698",
+      "forks": "6,333",
       "addStars": "2,282",
       "contributors": [
         {
@@ -355,8 +355,8 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "185,103",
-      "forks": "21,883",
+      "stars": "185,238",
+      "forks": "21,889",
       "addStars": "287",
       "contributors": [
         {
@@ -392,8 +392,8 @@
       "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,457",
-      "forks": "353",
+      "stars": "6,523",
+      "forks": "356",
       "addStars": "717",
       "contributors": [
         {
@@ -429,8 +429,8 @@
       "description": "LIST OF ALL MY JAILBREAKS",
       "language": "",
       "languageColor": "",
-      "stars": "10,478",
-      "forks": "1,524",
+      "stars": "10,827",
+      "forks": "1,574",
       "addStars": "2,053",
       "contributors": [
         {
@@ -461,8 +461,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "309,265",
-      "forks": "27,513",
+      "stars": "309,368",
+      "forks": "27,519",
       "addStars": "1,255",
       "contributors": [
         {
@@ -498,8 +498,8 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "38,086",
-      "forks": "1,860",
+      "stars": "38,278",
+      "forks": "1,867",
       "addStars": "559",
       "contributors": [
         {
