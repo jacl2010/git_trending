@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Fri, 30 Oct 2026 21:53:53 GMT</pubDate>
+    <pubDate>Sat, 31 Oct 2026 04:32:11 GMT</pubDate>
     <item>
       <title>cloudflare/security-audit-skill</title>
       <link>https://github.com/cloudflare/security-audit-skill</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/cloudflare/security-audit-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>54,004</stars>
-      <forks>3,486</forks>
-      <addStars>14,320</addStars>
+      <stars>54,284</stars>
+      <forks>3,517</forks>
+      <addStars>12,838</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9935415?s=40&amp;v=4</avatar>
@@ -39,9 +39,9 @@
       <guid>https://github.com/AgriciDaniel/claude-seo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>24,455</stars>
-      <forks>3,259</forks>
-      <addStars>4,110</addStars>
+      <stars>24,598</stars>
+      <forks>3,271</forks>
+      <addStars>4,478</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/223140489?s=40&amp;v=4</avatar>
@@ -72,9 +72,9 @@
       <guid>https://github.com/pbakaus/impeccable</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>96,935</stars>
-      <forks>5,709</forks>
-      <addStars>9,713</addStars>
+      <stars>97,254</stars>
+      <forks>5,730</forks>
+      <addStars>11,323</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/43004?s=40&amp;v=4</avatar>
@@ -105,9 +105,9 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>309,368</stars>
-      <forks>27,519</forks>
-      <addStars>4,894</addStars>
+      <stars>309,523</stars>
+      <forks>27,543</forks>
+      <addStars>5,474</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4</avatar>
@@ -143,9 +143,9 @@
       <guid>https://github.com/TauricResearch/TradingAgents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>118,677</stars>
-      <forks>22,691</forks>
-      <addStars>5,557</addStars>
+      <stars>118,758</stars>
+      <forks>22,703</forks>
+      <addStars>5,490</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/48253104?s=40&amp;v=4</avatar>
@@ -181,9 +181,9 @@
       <guid>https://github.com/multica-ai/andrej-karpathy-skills</guid>
       <language/>
       <languageColor/>
-      <stars>226,812</stars>
-      <forks>22,646</forks>
-      <addStars>4,250</addStars>
+      <stars>226,945</stars>
+      <forks>22,659</forks>
+      <addStars>4,178</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/7857126?s=40&amp;v=4</avatar>
@@ -219,9 +219,9 @@
       <guid>https://github.com/Leonxlnx/taste-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>106,269</stars>
-      <forks>7,185</forks>
-      <addStars>4,359</addStars>
+      <stars>106,431</stars>
+      <forks>7,203</forks>
+      <addStars>4,712</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/219127460?s=40&amp;v=4</avatar>
@@ -257,9 +257,9 @@
       <guid>https://github.com/jakubkrehel/skills</guid>
       <language>Markdown</language>
       <languageColor>#083fa1</languageColor>
-      <stars>9,332</stars>
-      <forks>356</forks>
-      <addStars>980</addStars>
+      <stars>9,400</stars>
+      <forks>358</forks>
+      <addStars>1,107</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/87530089?s=40&amp;v=4</avatar>
@@ -280,9 +280,9 @@
       <guid>https://github.com/pingdotgg/t3code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>32,656</stars>
-      <forks>8,644</forks>
-      <addStars>2,142</addStars>
+      <stars>32,924</stars>
+      <forks>8,674</forks>
+      <addStars>2,775</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/51714798?s=40&amp;v=4</avatar>
@@ -318,9 +318,9 @@
       <guid>https://github.com/anthropics/knowledge-work-plugins</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>34,014</stars>
-      <forks>3,747</forks>
-      <addStars>2,504</addStars>
+      <stars>34,064</stars>
+      <forks>3,754</forks>
+      <addStars>2,083</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/305637556?s=40&amp;v=4</avatar>
@@ -351,9 +351,9 @@
       <guid>https://github.com/affaan-m/ECC</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>293,353</stars>
-      <forks>43,407</forks>
-      <addStars>6,594</addStars>
+      <stars>293,490</stars>
+      <forks>43,429</forks>
+      <addStars>6,506</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/124439313?s=40&amp;v=4</avatar>
@@ -384,9 +384,9 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>185,238</stars>
-      <forks>21,889</forks>
-      <addStars>1,877</addStars>
+      <stars>185,429</stars>
+      <forks>21,904</forks>
+      <addStars>1,888</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/122662504?s=40&amp;v=4</avatar>
@@ -422,9 +422,9 @@
       <guid>https://github.com/ruvnet/ruflo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>80,284</stars>
-      <forks>9,414</forks>
-      <addStars>1,854</addStars>
+      <stars>80,322</stars>
+      <forks>9,416</forks>
+      <addStars>1,723</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4</avatar>
