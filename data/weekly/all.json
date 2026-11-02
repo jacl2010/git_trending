@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sun, 01 Nov 2026 21:37:54 GMT",
+  "pubDate": "Mon, 02 Nov 2026 04:54:08 GMT",
   "items": [
     {
       "title": "Nutlope/hallmark",
@@ -10,9 +10,9 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "44,758",
-      "forks": "2,374",
-      "addStars": "12,062",
+      "stars": "45,104",
+      "forks": "2,396",
+      "addStars": "11,566",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "99,236",
-      "forks": "5,866",
-      "addStars": "12,031",
+      "stars": "99,579",
+      "forks": "5,892",
+      "addStars": "12,017",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "25,481",
-      "forks": "3,353",
-      "addStars": "4,814",
+      "stars": "25,635",
+      "forks": "3,365",
+      "addStars": "5,034",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/223140489?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "109,091",
-      "forks": "9,554",
-      "addStars": "4,575",
+      "stars": "109,625",
+      "forks": "9,582",
+      "addStars": "5,852",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "56,281",
-      "forks": "3,670",
-      "addStars": "11,908",
+      "stars": "56,546",
+      "forks": "3,686",
+      "addStars": "10,069",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
@@ -175,9 +175,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "310,578",
-      "forks": "27,645",
-      "addStars": "5,636",
+      "stars": "310,740",
+      "forks": "27,653",
+      "addStars": "5,896",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -212,9 +212,9 @@
       "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,951",
-      "forks": "391",
-      "addStars": "5,738",
+      "stars": "7,017",
+      "forks": "402",
+      "addStars": "5,760",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/177517595?s=40&v=4",
@@ -249,9 +249,9 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "37,662",
-      "forks": "8,896",
-      "addStars": "3,718",
+      "stars": "38,536",
+      "forks": "8,943",
+      "addStars": "6,926",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
@@ -286,9 +286,9 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "227,948",
-      "forks": "22,737",
-      "addStars": "4,277",
+      "stars": "228,111",
+      "forks": "22,750",
+      "addStars": "4,459",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7857126?s=40&v=4",
@@ -323,9 +323,9 @@
       "description": "A collection of agent skills that help you build great interfaces.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "10,027",
-      "forks": "391",
-      "addStars": "1,272",
+      "stars": "10,142",
+      "forks": "394",
+      "addStars": "1,607",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/87530089?s=40&v=4",
@@ -345,9 +345,9 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "119,482",
-      "forks": "22,860",
-      "addStars": "5,483",
+      "stars": "119,625",
+      "forks": "22,880",
+      "addStars": "5,432",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
@@ -382,9 +382,9 @@
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "107,693",
-      "forks": "7,277",
-      "addStars": "4,975",
+      "stars": "107,981",
+      "forks": "7,286",
+      "addStars": "5,336",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
@@ -419,9 +419,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "186,320",
-      "forks": "22,013",
-      "addStars": "2,389",
+      "stars": "186,435",
+      "forks": "22,026",
+      "addStars": "2,600",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
@@ -456,9 +456,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "294,733",
-      "forks": "43,628",
-      "addStars": "6,380",
+      "stars": "294,921",
+      "forks": "43,653",
+      "addStars": "6,299",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
@@ -488,9 +488,9 @@
       "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "15,316",
-      "forks": "3,519",
-      "addStars": "6,641",
+      "stars": "15,547",
+      "forks": "3,578",
+      "addStars": "6,644",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -520,9 +520,9 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "63,168",
-      "forks": "3,815",
-      "addStars": "556",
+      "stars": "63,215",
+      "forks": "3,817",
+      "addStars": "589",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&v=4",
