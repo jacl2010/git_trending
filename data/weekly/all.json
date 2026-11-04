@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Wed, 04 Nov 2026 19:02:03 GMT",
+  "pubDate": "Wed, 04 Nov 2026 23:08:21 GMT",
   "items": [
     {
       "title": "thedotmack/claude-mem",
@@ -10,8 +10,8 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "112,662",
-      "forks": "9,791",
+      "stars": "112,793",
+      "forks": "9,798",
       "addStars": "7,995",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "47,759",
-      "forks": "2,524",
+      "stars": "47,877",
+      "forks": "2,528",
       "addStars": "8,765",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "46,160",
-      "forks": "9,424",
+      "stars": "46,509",
+      "forks": "9,451",
       "addStars": "12,542",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "102,574",
-      "forks": "6,061",
+      "stars": "102,757",
+      "forks": "6,077",
       "addStars": "11,405",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "312,342",
-      "forks": "27,785",
+      "stars": "312,409",
+      "forks": "27,790",
       "addStars": "5,994",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "187,366",
-      "forks": "22,108",
+      "stars": "187,406",
+      "forks": "22,113",
       "addStars": "2,969",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "10,936",
-      "forks": "408",
+      "stars": "10,997",
+      "forks": "410",
       "addStars": "749",
       "contributors": [
         {
@@ -254,7 +254,7 @@
       "description": "A collection of agent skills that help you build great interfaces.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "10,762",
+      "stars": "10,798",
       "forks": "415",
       "addStars": "1,761",
       "contributors": [
@@ -276,8 +276,8 @@
       "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,577",
-      "forks": "461",
+      "stars": "7,593",
+      "forks": "463",
       "addStars": "3,898",
       "contributors": [
         {
@@ -313,8 +313,8 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "63,528",
-      "forks": "3,817",
+      "stars": "63,540",
+      "forks": "3,818",
       "addStars": "771",
       "contributors": [
         {
@@ -340,8 +340,8 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "229,421",
-      "forks": "22,845",
+      "stars": "229,489",
+      "forks": "22,849",
       "addStars": "3,921",
       "contributors": [
         {
@@ -377,8 +377,8 @@
       "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "40,291",
-      "forks": "2,167",
+      "stars": "40,298",
+      "forks": "2,165",
       "addStars": "1,232",
       "contributors": [
         {
@@ -414,8 +414,8 @@
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "26,593",
-      "forks": "3,460",
+      "stars": "26,646",
+      "forks": "3,465",
       "addStars": "3,751",
       "contributors": [
         {
@@ -446,8 +446,8 @@
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "76,419",
-      "forks": "10,138",
+      "stars": "76,497",
+      "forks": "10,149",
       "addStars": "3,490",
       "contributors": [
         {
@@ -483,8 +483,8 @@
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "109,956",
-      "forks": "7,395",
+      "stars": "110,026",
+      "forks": "7,398",
       "addStars": "5,972",
       "contributors": [
         {
