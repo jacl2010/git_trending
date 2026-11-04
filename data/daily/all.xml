@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Tue, 03 Nov 2026 22:50:00 GMT</pubDate>
+    <pubDate>Wed, 04 Nov 2026 05:16:32 GMT</pubDate>
     <item>
       <title>thedotmack/claude-mem</title>
       <link>https://github.com/thedotmack/claude-mem</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>111,824</stars>
-      <forks>9,732</forks>
-      <addStars>1,138</addStars>
+      <stars>112,133</stars>
+      <forks>9,754</forks>
+      <addStars>1,139</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/vercel-labs/agent-desktop</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>12,577</stars>
-      <forks>867</forks>
-      <addStars>3,792</addStars>
+      <stars>13,234</stars>
+      <forks>911</forks>
+      <addStars>3,791</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/70215676?s=40&amp;v=4</avatar>
@@ -72,9 +72,9 @@
       <guid>https://github.com/max-sixty/worktrunk</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>10,451</stars>
-      <forks>375</forks>
-      <addStars>437</addStars>
+      <stars>10,611</stars>
+      <forks>385</forks>
+      <addStars>438</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5635139?s=40&amp;v=4</avatar>
@@ -100,9 +100,9 @@
       <guid>https://github.com/JustVugg/colibri</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>47,214</stars>
-      <forks>5,461</forks>
-      <addStars>803</addStars>
+      <stars>47,358</stars>
+      <forks>5,471</forks>
+      <addStars>802</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/13022503?s=40&amp;v=4</avatar>
@@ -138,8 +138,8 @@
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>311,377</stars>
-      <forks>26,169</forks>
+      <stars>311,699</stars>
+      <forks>26,194</forks>
       <addStars>1,164</addStars>
       <contributors>
         <contributor>
@@ -166,9 +166,9 @@
       <guid>https://github.com/p-e-w/heretic</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>38,738</stars>
-      <forks>4,377</forks>
-      <addStars>699</addStars>
+      <stars>38,938</stars>
+      <forks>4,395</forks>
+      <addStars>701</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2702526?s=40&amp;v=4</avatar>
@@ -199,9 +199,9 @@
       <guid>https://github.com/spotify/portal-ai-plugins</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,022</stars>
-      <forks>235</forks>
-      <addStars>94</addStars>
+      <stars>3,084</stars>
+      <forks>239</forks>
+      <addStars>91</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/15789670?s=40&amp;v=4</avatar>
@@ -232,9 +232,9 @@
       <guid>https://github.com/floci-io/floci</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>28,696</stars>
-      <forks>3,199</forks>
-      <addStars>679</addStars>
+      <stars>28,976</stars>
+      <forks>3,224</forks>
+      <addStars>482</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2405682?s=40&amp;v=4</avatar>
@@ -252,14 +252,14 @@
           <url>https://github.com/okinaka</url>
         </contributor>
         <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/33106608?s=40&amp;v=4</avatar>
+          <name>AndreKurait</name>
+          <url>https://github.com/AndreKurait</url>
+        </contributor>
+        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/127635?s=40&amp;v=4</avatar>
           <name>exoego</name>
           <url>https://github.com/exoego</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/31652864?s=40&amp;v=4</avatar>
-          <name>vuthehuyht</name>
-          <url>https://github.com/vuthehuyht</url>
         </contributor>
       </contributors>
     </item>
@@ -270,9 +270,9 @@
       <guid>https://github.com/Usagi-org/ai-goofish-monitor</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>16,331</stars>
-      <forks>2,840</forks>
-      <addStars>204</addStars>
+      <stars>16,696</stars>
+      <forks>2,868</forks>
+      <addStars>228</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/34468774?s=40&amp;v=4</avatar>
@@ -303,8 +303,8 @@
       <guid>https://github.com/anomalyco/hex</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>4,539</stars>
-      <forks>255</forks>
+      <stars>4,711</stars>
+      <forks>263</forks>
       <addStars>410</addStars>
       <contributors>
         <contributor>
@@ -336,8 +336,8 @@
       <guid>https://github.com/D4Vinci/Scrapling</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>94,696</stars>
-      <forks>9,930</forks>
+      <stars>95,188</stars>
+      <forks>9,980</forks>
       <addStars>1,658</addStars>
       <contributors>
         <contributor>
@@ -374,8 +374,8 @@
       <guid>https://github.com/shiyu-coder/Kronos</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>46,488</stars>
-      <forks>7,660</forks>
+      <stars>46,597</stars>
+      <forks>7,671</forks>
       <addStars>503</addStars>
       <contributors>
         <contributor>
@@ -412,9 +412,9 @@
       <guid>https://github.com/Donchitos/Claude-Code-Game-Studios</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>34,606</stars>
-      <forks>4,588</forks>
-      <addStars>1,181</addStars>
+      <stars>34,832</stars>
+      <forks>4,612</forks>
+      <addStars>1,182</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/150119193?s=40&amp;v=4</avatar>
