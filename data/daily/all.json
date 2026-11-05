@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Thu, 05 Nov 2026 19:13:39 GMT",
+  "pubDate": "Thu, 05 Nov 2026 23:12:37 GMT",
   "items": [
     {
       "title": "NVIDIA/auto-ontology",
@@ -10,8 +10,8 @@
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "6,987",
-      "forks": "555",
+      "stars": "7,235",
+      "forks": "570",
       "addStars": "2,707",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "314,878",
-      "forks": "26,376",
+      "stars": "315,149",
+      "forks": "26,390",
       "addStars": "2,053",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "139,835",
-      "forks": "20,684",
+      "stars": "139,922",
+      "forks": "20,692",
       "addStars": "608",
       "contributors": [
         {
@@ -106,8 +106,8 @@
       "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,468",
-      "forks": "2,938",
+      "stars": "17,499",
+      "forks": "2,941",
       "addStars": "242",
       "contributors": [
         {
@@ -138,8 +138,8 @@
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "97,759",
-      "forks": "10,245",
+      "stars": "97,913",
+      "forks": "10,251",
       "addStars": "1,661",
       "contributors": [
         {
@@ -175,8 +175,8 @@
       "description": "Computer use CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "16,598",
-      "forks": "1,160",
+      "stars": "16,773",
+      "forks": "1,178",
       "addStars": "2,173",
       "contributors": [
         {
@@ -197,8 +197,8 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "11,428",
-      "forks": "431",
+      "stars": "11,490",
+      "forks": "437",
       "addStars": "546",
       "contributors": [
         {
@@ -224,8 +224,8 @@
       "description": "Extremely Fast Compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "12,324",
-      "forks": "1,631",
+      "stars": "12,357",
+      "forks": "1,632",
       "addStars": "16",
       "contributors": [
         {
@@ -256,8 +256,8 @@
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "22,270",
-      "forks": "1,886",
+      "stars": "22,342",
+      "forks": "1,889",
       "addStars": "199",
       "contributors": [
         {
@@ -293,8 +293,8 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "45,771",
-      "forks": "3,141",
+      "stars": "45,843",
+      "forks": "3,146",
       "addStars": "181",
       "contributors": [
         {
@@ -325,8 +325,8 @@
       "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,933",
-      "forks": "263",
+      "stars": "3,019",
+      "forks": "266",
       "addStars": "674",
       "contributors": [
         {
@@ -357,8 +357,8 @@
       "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "14,063",
-      "forks": "1,642",
+      "stars": "14,110",
+      "forks": "1,646",
       "addStars": "241",
       "contributors": [
         {
@@ -384,8 +384,8 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "55,695",
-      "forks": "6,269",
+      "stars": "55,868",
+      "forks": "6,280",
       "addStars": "214",
       "contributors": [
         {
@@ -416,8 +416,8 @@
       "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "30,255",
-      "forks": "3,323",
+      "stars": "30,374",
+      "forks": "3,330",
       "addStars": "784",
       "contributors": [
         {
@@ -453,8 +453,8 @@
       "description": "",
       "language": "C#",
       "languageColor": "#7355dd",
-      "stars": "7,169",
-      "forks": "257",
+      "stars": "7,244",
+      "forks": "259",
       "addStars": "977",
       "contributors": [
         {
@@ -478,9 +478,9 @@
           "url": "https://github.com/keremuysal"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2318346?s=40&v=4",
-          "name": "lukyrys",
-          "url": "https://github.com/lukyrys"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         }
       ]
     }
