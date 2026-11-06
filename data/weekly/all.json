@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Fri, 06 Nov 2026 18:39:34 GMT",
+  "pubDate": "Fri, 06 Nov 2026 22:39:37 GMT",
   "items": [
     {
       "title": "thedotmack/claude-mem",
@@ -10,8 +10,8 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "113,905",
-      "forks": "9,885",
+      "stars": "113,988",
+      "forks": "9,889",
       "addStars": "9,318",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "36,028",
-      "forks": "4,751",
+      "stars": "36,089",
+      "forks": "4,754",
       "addStars": "6,685",
       "contributors": [
         {
@@ -69,8 +69,8 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "49,390",
-      "forks": "9,732",
+      "stars": "49,713",
+      "forks": "9,739",
       "addStars": "16,235",
       "contributors": [
         {
@@ -106,8 +106,8 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "11,764",
-      "forks": "451",
+      "stars": "11,792",
+      "forks": "453",
       "addStars": "1,802",
       "contributors": [
         {
@@ -133,8 +133,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "49,437",
-      "forks": "2,626",
+      "stars": "49,573",
+      "forks": "2,629",
       "addStars": "6,994",
       "contributors": [
         {
@@ -170,8 +170,8 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "188,102",
-      "forks": "22,189",
+      "stars": "188,153",
+      "forks": "22,193",
       "addStars": "3,072",
       "contributors": [
         {
@@ -207,8 +207,8 @@
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "14,953",
-      "forks": "2,086",
+      "stars": "15,118",
+      "forks": "2,114",
       "addStars": "5,580",
       "contributors": [
         {
@@ -244,8 +244,8 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "104,634",
-      "forks": "6,214",
+      "stars": "104,765",
+      "forks": "6,221",
       "addStars": "9,303",
       "contributors": [
         {
@@ -276,8 +276,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "313,490",
-      "forks": "27,890",
+      "stars": "313,586",
+      "forks": "27,895",
       "addStars": "5,131",
       "contributors": [
         {
@@ -313,8 +313,8 @@
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "55,855",
-      "forks": "6,838",
+      "stars": "55,912",
+      "forks": "6,844",
       "addStars": "6,229",
       "contributors": [
         {
@@ -345,8 +345,8 @@
       "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "40,426",
-      "forks": "2,169",
+      "stars": "40,442",
+      "forks": "2,167",
       "addStars": "1,371",
       "contributors": [
         {
@@ -382,8 +382,8 @@
       "description": "A collection of agent skills that help you build great interfaces.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "11,240",
-      "forks": "433",
+      "stars": "11,268",
+      "forks": "436",
       "addStars": "1,840",
       "contributors": [
         {
@@ -404,8 +404,8 @@
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "77,603",
-      "forks": "10,324",
+      "stars": "77,664",
+      "forks": "10,331",
       "addStars": "4,132",
       "contributors": [
         {
@@ -441,8 +441,8 @@
       "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,258",
-      "forks": "2,124",
+      "stars": "15,294",
+      "forks": "2,127",
       "addStars": "1,355",
       "contributors": [
         {
@@ -473,7 +473,7 @@
       "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,001",
+      "stars": "6,041",
       "forks": "620",
       "addStars": "2,085",
       "contributors": [
@@ -505,8 +505,8 @@
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "98,745",
-      "forks": "10,343",
+      "stars": "98,808",
+      "forks": "10,350",
       "addStars": "7,487",
       "contributors": [
         {
@@ -542,8 +542,8 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "230,201",
-      "forks": "22,912",
+      "stars": "230,264",
+      "forks": "22,914",
       "addStars": "3,713",
       "contributors": [
         {
@@ -579,8 +579,8 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "47,031",
-      "forks": "7,777",
+      "stars": "47,059",
+      "forks": "7,781",
       "addStars": "2,979",
       "contributors": [
         {

@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Fri, 06 Nov 2026 18:39:34 GMT</pubDate>
+    <pubDate>Fri, 06 Nov 2026 22:39:37 GMT</pubDate>
     <item>
       <title>zed-industries/zed</title>
       <link>https://github.com/zed-industries/zed</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/zed-industries/zed</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>93,349</stars>
-      <forks>11,478</forks>
+      <stars>93,561</stars>
+      <forks>11,496</forks>
       <addStars>292</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/NVIDIA/auto-ontology</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,725</stars>
-      <forks>702</forks>
+      <stars>8,928</stars>
+      <forks>719</forks>
       <addStars>2,005</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/rails/rails</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>58,941</stars>
-      <forks>23,824</forks>
+      <stars>59,005</stars>
+      <forks>23,833</forks>
       <addStars>152</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/mpv-player/mpv</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>37,825</stars>
-      <forks>3,630</forks>
+      <stars>37,864</stars>
+      <forks>3,631</forks>
       <addStars>36</addStars>
       <contributors>
         <contributor>
@@ -163,8 +163,8 @@
       <guid>https://github.com/rust-lang/rust</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>121,311</stars>
-      <forks>17,357</forks>
+      <stars>121,407</stars>
+      <forks>17,364</forks>
       <addStars>186</addStars>
       <contributors>
         <contributor>
@@ -201,8 +201,8 @@
       <guid>https://github.com/react/react</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>252,145</stars>
-      <forks>51,801</forks>
+      <stars>252,234</stars>
+      <forks>51,809</forks>
       <addStars>244</addStars>
       <contributors>
         <contributor>
@@ -239,8 +239,8 @@
       <guid>https://github.com/angular/angular</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>101,232</stars>
-      <forks>28,906</forks>
+      <stars>101,325</stars>
+      <forks>28,910</forks>
       <addStars>128</addStars>
       <contributors>
         <contributor>
@@ -277,8 +277,8 @@
       <guid>https://github.com/symfony/symfony</guid>
       <language>PHP</language>
       <languageColor>#4F5D95</languageColor>
-      <stars>31,322</stars>
-      <forks>9,942</forks>
+      <stars>31,407</stars>
+      <forks>9,947</forks>
       <addStars>89</addStars>
       <contributors>
         <contributor>
@@ -315,8 +315,8 @@
       <guid>https://github.com/prometheus/prometheus</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>67,068</stars>
-      <forks>10,979</forks>
+      <stars>67,146</stars>
+      <forks>10,983</forks>
       <addStars>140</addStars>
       <contributors>
         <contributor>
@@ -348,8 +348,8 @@
       <guid>https://github.com/google/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>22,750</stars>
-      <forks>1,913</forks>
+      <stars>22,808</stars>
+      <forks>1,919</forks>
       <addStars>532</addStars>
       <contributors>
         <contributor>
@@ -386,8 +386,8 @@
       <guid>https://github.com/microsoft/vscode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>194,903</stars>
-      <forks>44,410</forks>
+      <stars>195,001</stars>
+      <forks>44,423</forks>
       <addStars>295</addStars>
       <contributors>
         <contributor>
@@ -424,8 +424,8 @@
       <guid>https://github.com/lz4/lz4</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>12,605</stars>
-      <forks>1,641</forks>
+      <stars>12,636</stars>
+      <forks>1,643</forks>
       <addStars>313</addStars>
       <contributors>
         <contributor>
@@ -457,9 +457,9 @@
       <guid>https://github.com/nushell/nushell</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>40,872</stars>
-      <forks>2,334</forks>
-      <addStars>88</addStars>
+      <stars>40,959</stars>
+      <forks>2,341</forks>
+      <addStars>177</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/547158?s=40&amp;v=4</avatar>
@@ -490,8 +490,8 @@
       <guid>https://github.com/etcd-io/etcd</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>52,540</stars>
-      <forks>10,578</forks>
+      <stars>52,595</stars>
+      <forks>10,590</forks>
       <addStars>123</addStars>
       <contributors>
         <contributor>
@@ -528,8 +528,8 @@
       <guid>https://github.com/openssl/openssl</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>31,247</stars>
-      <forks>11,581</forks>
+      <stars>31,277</stars>
+      <forks>11,580</forks>
       <addStars>24</addStars>
       <contributors>
         <contributor>
@@ -566,8 +566,8 @@
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>316,463</stars>
-      <forks>26,468</forks>
+      <stars>316,649</stars>
+      <forks>26,489</forks>
       <addStars>2,058</addStars>
       <contributors>
         <contributor>
@@ -594,8 +594,8 @@
       <guid>https://github.com/cloudflare/security-audit-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>63,480</stars>
-      <forks>4,115</forks>
+      <stars>63,850</stars>
+      <forks>4,140</forks>
       <addStars>2,524</addStars>
       <contributors>
         <contributor>
@@ -622,9 +622,9 @@
       <guid>https://github.com/astral-sh/ruff</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>50,565</stars>
-      <forks>2,598</forks>
-      <addStars>107</addStars>
+      <stars>50,664</stars>
+      <forks>2,606</forks>
+      <addStars>213</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1309177?s=40&amp;v=4</avatar>
