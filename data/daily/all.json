@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sat, 07 Nov 2026 21:23:18 GMT",
+  "pubDate": "Sun, 08 Nov 2026 04:56:51 GMT",
   "items": [
     {
       "title": "vercel-labs/agent-browser",
@@ -10,9 +10,9 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "46,744",
-      "forks": "3,202",
-      "addStars": "180",
+      "stars": "46,953",
+      "forks": "3,221",
+      "addStars": "190",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "65,512",
-      "forks": "4,258",
-      "addStars": "2,088",
+      "stars": "65,960",
+      "forks": "4,290",
+      "addStars": "2,085",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
@@ -69,9 +69,9 @@
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "23,317",
-      "forks": "1,950",
-      "addStars": "449",
+      "stars": "23,493",
+      "forks": "1,964",
+      "addStars": "443",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/277152880?s=40&v=4",
@@ -106,9 +106,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "317,582",
-      "forks": "26,570",
-      "addStars": "1,111",
+      "stars": "317,862",
+      "forks": "26,593",
+      "addStars": "1,100",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
@@ -133,9 +133,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "188,687",
-      "forks": "22,242",
-      "addStars": "386",
+      "stars": "188,904",
+      "forks": "22,266",
+      "addStars": "390",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
@@ -170,9 +170,9 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "14,390",
-      "forks": "1,179",
-      "addStars": "185",
+      "stars": "14,697",
+      "forks": "1,206",
+      "addStars": "96",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
@@ -202,9 +202,9 @@
       "description": "The Prometheus monitoring system and time series database.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "67,414",
-      "forks": "11,000",
-      "addStars": "325",
+      "stars": "67,474",
+      "forks": "11,009",
+      "addStars": "322",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4948210?s=40&v=4",
@@ -234,9 +234,9 @@
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "100,277",
-      "forks": "11,853",
-      "addStars": "1,819",
+      "stars": "100,923",
+      "forks": "11,931",
+      "addStars": "1,766",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/27065646?s=40&v=4",
@@ -271,9 +271,9 @@
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,861",
-      "forks": "2,389",
-      "addStars": "1,986",
+      "stars": "17,211",
+      "forks": "2,431",
+      "addStars": "1,955",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/46266943?s=40&v=4",
@@ -308,8 +308,8 @@
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "50,943",
-      "forks": "2,628",
+      "stars": "51,015",
+      "forks": "2,633",
       "addStars": "350",
       "contributors": [
         {
@@ -340,9 +340,9 @@
       "description": "A utility-first CSS framework for rapid UI development.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "98,408",
-      "forks": "7,102",
-      "addStars": "181",
+      "stars": "98,539",
+      "forks": "7,115",
+      "addStars": "122",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4323180?s=40&v=4",
@@ -372,9 +372,9 @@
       "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,028",
-      "forks": "110",
-      "addStars": "184",
+      "stars": "1,091",
+      "forks": "114",
+      "addStars": "186",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8651166?s=40&v=4",
@@ -409,9 +409,9 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "94,226",
-      "forks": "11,548",
-      "addStars": "1,119",
+      "stars": "94,335",
+      "forks": "11,555",
+      "addStars": "1,114",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/482957?s=40&v=4",
@@ -446,9 +446,9 @@
       "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,567",
-      "forks": "365",
-      "addStars": "185",
+      "stars": "4,688",
+      "forks": "376",
+      "addStars": "191",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/12445698?s=40&v=4",
@@ -478,9 +478,9 @@
       "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "518",
-      "forks": "85",
-      "addStars": "125",
+      "stars": "600",
+      "forks": "92",
+      "addStars": "123",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/23304?s=40&v=4",
