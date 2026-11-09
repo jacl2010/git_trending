@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Mon, 09 Nov 2026 15:47:35 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 21:43:40 GMT</pubDate>
     <item>
       <title>NVIDIA/auto-ontology</title>
       <link>https://github.com/NVIDIA/auto-ontology</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/NVIDIA/auto-ontology</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>10,881</stars>
-      <forks>887</forks>
+      <stars>10,982</stars>
+      <forks>897</forks>
       <addStars>9,327</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/vercel-labs/agent-desktop</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>20,173</stars>
-      <forks>1,495</forks>
+      <stars>20,367</stars>
+      <forks>1,507</forks>
       <addStars>13,712</addStars>
       <contributors>
         <contributor>
@@ -72,8 +72,8 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>190,445</stars>
-      <forks>22,407</forks>
+      <stars>190,823</stars>
+      <forks>22,434</forks>
       <addStars>3,169</addStars>
       <contributors>
         <contributor>
@@ -110,8 +110,8 @@
       <guid>https://github.com/max-sixty/worktrunk</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>12,225</stars>
-      <forks>474</forks>
+      <stars>12,258</stars>
+      <forks>475</forks>
       <addStars>2,313</addStars>
       <contributors>
         <contributor>
@@ -138,8 +138,8 @@
       <guid>https://github.com/milind-soni/OpenMausBot</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>19,367</stars>
-      <forks>2,663</forks>
+      <stars>19,579</stars>
+      <forks>2,682</forks>
       <addStars>7,621</addStars>
       <contributors>
         <contributor>
@@ -176,8 +176,8 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>115,259</stars>
-      <forks>10,009</forks>
+      <stars>115,364</stars>
+      <forks>10,020</forks>
       <addStars>6,443</addStars>
       <contributors>
         <contributor>
@@ -214,8 +214,8 @@
       <guid>https://github.com/Donchitos/Claude-Code-Game-Studios</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>37,385</stars>
-      <forks>4,914</forks>
+      <stars>37,497</stars>
+      <forks>4,921</forks>
       <addStars>5,235</addStars>
       <contributors>
         <contributor>
@@ -237,8 +237,8 @@
       <guid>https://github.com/vercel-labs/agent-browser</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>48,236</stars>
-      <forks>3,289</forks>
+      <stars>48,398</stars>
+      <forks>3,296</forks>
       <addStars>2,190</addStars>
       <contributors>
         <contributor>
@@ -270,8 +270,8 @@
       <guid>https://github.com/pingdotgg/t3code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>53,563</stars>
-      <forks>10,117</forks>
+      <stars>53,965</stars>
+      <forks>10,162</forks>
       <addStars>15,379</addStars>
       <contributors>
         <contributor>
@@ -308,8 +308,8 @@
       <guid>https://github.com/D4Vinci/Scrapling</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>100,357</stars>
-      <forks>10,486</forks>
+      <stars>100,497</stars>
+      <forks>10,502</forks>
       <addStars>8,342</addStars>
       <contributors>
         <contributor>
@@ -346,7 +346,7 @@
       <guid>https://github.com/The-PR-Agent/pr-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>15,684</stars>
+      <stars>15,715</stars>
       <forks>2,161</forks>
       <addStars>1,706</addStars>
       <contributors>
@@ -356,14 +356,14 @@
           <url>https://github.com/mrT23</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4869233?s=40&amp;v=4</avatar>
-          <name>okotek</name>
-          <url>https://github.com/okotek</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/3691490?s=40&amp;v=4</avatar>
           <name>PeterDaveHello</name>
           <url>https://github.com/PeterDaveHello</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4869233?s=40&amp;v=4</avatar>
+          <name>okotek</name>
+          <url>https://github.com/okotek</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/430992?s=40&amp;v=4</avatar>
@@ -379,8 +379,8 @@
       <guid>https://github.com/cloudflare/security-audit-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>67,620</stars>
-      <forks>4,424</forks>
+      <stars>67,964</stars>
+      <forks>4,456</forks>
       <addStars>10,600</addStars>
       <contributors>
         <contributor>
@@ -407,8 +407,8 @@
       <guid>https://github.com/Nutlope/hallmark</guid>
       <language>CSS</language>
       <languageColor>#663399</languageColor>
-      <stars>51,522</stars>
-      <forks>2,744</forks>
+      <stars>51,711</stars>
+      <forks>2,750</forks>
       <addStars>6,356</addStars>
       <contributors>
         <contributor>
@@ -445,8 +445,8 @@
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>319,349</stars>
-      <forks>26,736</forks>
+      <stars>319,633</stars>
+      <forks>26,760</forks>
       <addStars>9,635</addStars>
       <contributors>
         <contributor>
