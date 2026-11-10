@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Mon, 09 Nov 2026 21:43:40 GMT</pubDate>
+    <pubDate>Tue, 10 Nov 2026 01:07:12 GMT</pubDate>
     <item>
       <title>anthropics/skills</title>
       <link>https://github.com/anthropics/skills</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>190,823</stars>
-      <forks>22,434</forks>
-      <addStars>1,052</addStars>
+      <stars>190,989</stars>
+      <forks>22,442</forks>
+      <addStars>1,038</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/122662504?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/meta/astryx</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>19,726</stars>
-      <forks>1,503</forks>
-      <addStars>3,324</addStars>
+      <stars>20,086</stars>
+      <forks>1,528</forks>
+      <addStars>3,278</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2781099?s=40&amp;v=4</avatar>
@@ -82,9 +82,9 @@
       <guid>https://github.com/sherlock-project/sherlock</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>106,851</stars>
-      <forks>12,370</forks>
-      <addStars>4,294</addStars>
+      <stars>107,054</stars>
+      <forks>12,384</forks>
+      <addStars>4,267</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/27065646?s=40&amp;v=4</avatar>
@@ -120,9 +120,9 @@
       <guid>https://github.com/google-deepmind/mujoco</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>16,868</stars>
-      <forks>1,988</forks>
-      <addStars>579</addStars>
+      <stars>16,911</stars>
+      <forks>1,991</forks>
+      <addStars>574</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/6387526?s=40&amp;v=4</avatar>
@@ -158,9 +158,9 @@
       <guid>https://github.com/anthropics/claude-quickstarts</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>19,969</stars>
-      <forks>3,308</forks>
-      <addStars>560</addStars>
+      <stars>20,020</stars>
+      <forks>3,311</forks>
+      <addStars>551</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/286490957?s=40&amp;v=4</avatar>
@@ -196,9 +196,9 @@
       <guid>https://github.com/garrytan/gbrain</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>32,092</stars>
-      <forks>4,761</forks>
-      <addStars>215</addStars>
+      <stars>32,157</stars>
+      <forks>4,765</forks>
+      <addStars>216</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/19957?s=40&amp;v=4</avatar>
@@ -229,9 +229,9 @@
       <guid>https://github.com/vercel-labs/agent-browser</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>48,398</stars>
-      <forks>3,296</forks>
-      <addStars>914</addStars>
+      <stars>48,473</stars>
+      <forks>3,302</forks>
+      <addStars>916</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/366502?s=40&amp;v=4</avatar>
@@ -262,9 +262,9 @@
       <guid>https://github.com/ruvnet/RuView</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>103,386</stars>
-      <forks>13,397</forks>
-      <addStars>245</addStars>
+      <stars>103,463</stars>
+      <forks>13,404</forks>
+      <addStars>172</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4</avatar>
@@ -295,9 +295,9 @@
       <guid>https://github.com/ZhuLinsen/daily_stock_analysis</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>68,769</stars>
-      <forks>56,372</forks>
-      <addStars>505</addStars>
+      <stars>68,858</stars>
+      <forks>56,388</forks>
+      <addStars>506</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/42829555?s=40&amp;v=4</avatar>
@@ -333,8 +333,8 @@
       <guid>https://github.com/homeassistant-ai/ha-mcp</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>5,882</stars>
-      <forks>287</forks>
+      <stars>5,980</stars>
+      <forks>293</forks>
       <addStars>31</addStars>
       <contributors>
         <contributor>
@@ -361,9 +361,9 @@
       <guid>https://github.com/milind-soni/OpenMausBot</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>19,579</stars>
-      <forks>2,682</forks>
-      <addStars>1,589</addStars>
+      <stars>19,681</stars>
+      <forks>2,696</forks>
+      <addStars>1,587</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/46266943?s=40&amp;v=4</avatar>
