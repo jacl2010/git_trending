@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Wed, 11 Nov 2026 18:58:57 GMT",
+  "pubDate": "Wed, 11 Nov 2026 23:59:05 GMT",
   "items": [
     {
       "title": "NVIDIA/auto-ontology",
@@ -10,8 +10,8 @@
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "11,765",
-      "forks": "966",
+      "stars": "11,826",
+      "forks": "970",
       "addStars": "9,621",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "193,005",
-      "forks": "22,711",
+      "stars": "193,109",
+      "forks": "22,729",
       "addStars": "5,014",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Computer use CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "21,948",
-      "forks": "1,633",
+      "stars": "22,050",
+      "forks": "1,641",
       "addStars": "9,502",
       "contributors": [
         {
@@ -106,8 +106,8 @@
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "21,160",
-      "forks": "2,949",
+      "stars": "21,218",
+      "forks": "2,962",
       "addStars": "8,951",
       "contributors": [
         {
@@ -143,8 +143,8 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "49,760",
-      "forks": "3,481",
+      "stars": "49,845",
+      "forks": "3,487",
       "addStars": "3,606",
       "contributors": [
         {
@@ -175,8 +175,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "70,144",
-      "forks": "4,650",
+      "stars": "70,350",
+      "forks": "4,666",
       "addStars": "10,967",
       "contributors": [
         {
@@ -202,8 +202,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "321,826",
-      "forks": "26,977",
+      "stars": "322,005",
+      "forks": "26,999",
       "addStars": "9,872",
       "contributors": [
         {
@@ -229,8 +229,8 @@
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "101,573",
-      "forks": "10,586",
+      "stars": "101,632",
+      "forks": "10,589",
       "addStars": "7,291",
       "contributors": [
         {
@@ -266,8 +266,8 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "94,689",
-      "forks": "11,627",
+      "stars": "94,710",
+      "forks": "11,629",
       "addStars": "2,262",
       "contributors": [
         {
@@ -303,8 +303,8 @@
       "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "38,394",
-      "forks": "4,997",
+      "stars": "38,459",
+      "forks": "5,004",
       "addStars": "3,730",
       "contributors": [
         {
@@ -325,7 +325,7 @@
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "23,908",
+      "stars": "23,936",
       "forks": "1,994",
       "addStars": "2,024",
       "contributors": [
@@ -362,8 +362,8 @@
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "17,616",
-      "forks": "2,165",
+      "stars": "17,640",
+      "forks": "2,170",
       "addStars": "1,130",
       "contributors": [
         {
@@ -399,8 +399,8 @@
       "description": "the runtime your coding agents live on",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "50,260",
-      "forks": "4,060",
+      "stars": "50,329",
+      "forks": "4,063",
       "addStars": "2,196",
       "contributors": [
         {
