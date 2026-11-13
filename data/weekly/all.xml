@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Fri, 13 Nov 2026 18:54:48 GMT</pubDate>
+    <pubDate>Fri, 13 Nov 2026 23:11:28 GMT</pubDate>
     <item>
       <title>sherlock-project/sherlock</title>
       <link>https://github.com/sherlock-project/sherlock</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/sherlock-project/sherlock</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>111,016</stars>
-      <forks>12,851</forks>
+      <stars>111,097</stars>
+      <forks>12,855</forks>
       <addStars>14,381</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>194,070</stars>
-      <forks>22,818</forks>
+      <stars>194,118</stars>
+      <forks>22,830</forks>
       <addStars>6,055</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/milind-soni/OpenMausBot</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>22,117</stars>
-      <forks>3,065</forks>
+      <stars>22,160</stars>
+      <forks>3,074</forks>
       <addStars>9,104</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/vercel-labs/agent-browser</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>50,644</stars>
-      <forks>3,522</forks>
+      <stars>50,695</stars>
+      <forks>3,525</forks>
       <addStars>4,601</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/google/elephant-goldfish-model</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>18,526</stars>
-      <forks>1,378</forks>
+      <stars>18,591</stars>
+      <forks>1,386</forks>
       <addStars>5,555</addStars>
       <contributors>
         <contributor>
@@ -191,8 +191,8 @@
       <guid>https://github.com/ZhuLinsen/daily_stock_analysis</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>71,471</stars>
-      <forks>57,257</forks>
+      <stars>71,554</stars>
+      <forks>57,271</forks>
       <addStars>3,569</addStars>
       <contributors>
         <contributor>
@@ -229,8 +229,8 @@
       <guid>https://github.com/NVIDIA/auto-ontology</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>12,508</stars>
-      <forks>1,024</forks>
+      <stars>12,541</stars>
+      <forks>1,028</forks>
       <addStars>5,802</addStars>
       <contributors>
         <contributor>
@@ -267,8 +267,8 @@
       <guid>https://github.com/google-deepmind/mujoco</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>17,849</stars>
-      <forks>2,187</forks>
+      <stars>17,868</stars>
+      <forks>2,188</forks>
       <addStars>1,671</addStars>
       <contributors>
         <contributor>
@@ -305,8 +305,8 @@
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>323,691</stars>
-      <forks>27,164</forks>
+      <stars>323,792</stars>
+      <forks>27,172</forks>
       <addStars>8,731</addStars>
       <contributors>
         <contributor>
@@ -333,8 +333,8 @@
       <guid>https://github.com/addyosmani/agent-skills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>117,080</stars>
-      <forks>12,243</forks>
+      <stars>117,129</stars>
+      <forks>12,247</forks>
       <addStars>3,199</addStars>
       <contributors>
         <contributor>
@@ -371,8 +371,8 @@
       <guid>https://github.com/cloudflare/security-audit-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>71,765</stars>
-      <forks>4,779</forks>
+      <stars>71,880</stars>
+      <forks>4,788</forks>
       <addStars>10,700</addStars>
       <contributors>
         <contributor>
@@ -399,8 +399,8 @@
       <guid>https://github.com/zed-industries/zed</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>94,940</stars>
-      <forks>11,687</forks>
+      <stars>94,954</stars>
+      <forks>11,695</forks>
       <addStars>2,339</addStars>
       <contributors>
         <contributor>
@@ -437,8 +437,8 @@
       <guid>https://github.com/anthropics/claude-quickstarts</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>20,853</stars>
-      <forks>3,491</forks>
+      <stars>20,864</stars>
+      <forks>3,490</forks>
       <addStars>1,710</addStars>
       <contributors>
         <contributor>
@@ -475,8 +475,8 @@
       <guid>https://github.com/vercel-labs/agent-desktop</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>23,211</stars>
-      <forks>1,720</forks>
+      <stars>23,269</stars>
+      <forks>1,722</forks>
       <addStars>6,414</addStars>
       <contributors>
         <contributor>
@@ -498,8 +498,8 @@
       <guid>https://github.com/lobehub/lobehub</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>85,350</stars>
-      <forks>16,286</forks>
+      <stars>85,376</stars>
+      <forks>16,291</forks>
       <addStars>1,186</addStars>
       <contributors>
         <contributor>
