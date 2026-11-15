@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Sun, 15 Nov 2026 18:09:40 GMT",
+  "pubDate": "Sun, 15 Nov 2026 22:25:47 GMT",
   "items": [
     {
       "title": "meta/astryx",
@@ -10,8 +10,8 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "28,694",
-      "forks": "2,244",
+      "stars": "28,798",
+      "forks": "2,250",
       "addStars": "13,660",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "195,229",
-      "forks": "22,954",
+      "stars": "195,322",
+      "forks": "22,959",
       "addStars": "6,220",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "112,332",
-      "forks": "12,981",
+      "stars": "112,437",
+      "forks": "12,985",
       "addStars": "12,401",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,714",
-      "forks": "1,055",
+      "stars": "11,782",
+      "forks": "1,080",
       "addStars": "818",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "51,516",
-      "forks": "3,599",
+      "stars": "51,581",
+      "forks": "3,605",
       "addStars": "4,601",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "72,445",
-      "forks": "57,562",
+      "stars": "72,483",
+      "forks": "57,569",
       "addStars": "4,526",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "15,622",
-      "forks": "1,368",
+      "stars": "15,676",
+      "forks": "1,371",
       "addStars": "4,483",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "23,200",
-      "forks": "3,227",
+      "stars": "23,317",
+      "forks": "3,236",
       "addStars": "6,413",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "Open-source plugin for designing and reviewing software with agents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "19,596",
-      "forks": "1,458",
+      "stars": "19,701",
+      "forks": "1,460",
       "addStars": "5,539",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "18,051",
-      "forks": "2,211",
+      "stars": "18,063",
+      "forks": "2,213",
       "addStars": "1,859",
       "contributors": [
         {
@@ -360,8 +360,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "117,848",
-      "forks": "12,334",
+      "stars": "117,914",
+      "forks": "12,337",
       "addStars": "3,670",
       "contributors": [
         {
