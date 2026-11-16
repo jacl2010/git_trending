@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Mon, 16 Nov 2026 15:22:47 GMT",
+  "pubDate": "Mon, 16 Nov 2026 21:24:31 GMT",
   "items": [
     {
       "title": "GoogleChrome/modern-web-guidance-src",
@@ -10,8 +10,8 @@
       "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,815",
-      "forks": "688",
+      "stars": "7,937",
+      "forks": "693",
       "addStars": "5,692",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "29,396",
-      "forks": "2,292",
+      "stars": "29,509",
+      "forks": "2,304",
       "addStars": "13,501",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "12,309",
-      "forks": "1,153",
+      "stars": "12,477",
+      "forks": "1,224",
       "addStars": "1,719",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "195,757",
-      "forks": "22,984",
+      "stars": "195,971",
+      "forks": "23,004",
       "addStars": "6,077",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "51,890",
-      "forks": "3,626",
+      "stars": "51,970",
+      "forks": "3,628",
       "addStars": "4,217",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "15,897",
-      "forks": "1,387",
+      "stars": "15,966",
+      "forks": "1,391",
       "addStars": "4,556",
       "contributors": [
         {
@@ -212,8 +212,8 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "72,725",
-      "forks": "57,649",
+      "stars": "72,781",
+      "forks": "57,667",
       "addStars": "4,548",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "112,963",
-      "forks": "13,022",
+      "stars": "113,099",
+      "forks": "13,033",
       "addStars": "10,412",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "Open-source plugin for designing and reviewing software with agents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,180",
-      "forks": "1,495",
+      "stars": "20,315",
+      "forks": "1,503",
       "addStars": "5,060",
       "contributors": [
         {
@@ -318,8 +318,8 @@
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "18,154",
-      "forks": "2,205",
+      "stars": "18,174",
+      "forks": "2,206",
       "addStars": "1,922",
       "contributors": [
         {
@@ -355,8 +355,8 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "52,743",
-      "forks": "4,231",
+      "stars": "52,875",
+      "forks": "4,293",
       "addStars": "2,238",
       "contributors": [
         {
@@ -392,8 +392,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "118,196",
-      "forks": "12,346",
+      "stars": "118,295",
+      "forks": "12,355",
       "addStars": "3,889",
       "contributors": [
         {
@@ -429,8 +429,8 @@
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,688",
-      "forks": "1,069",
+      "stars": "13,738",
+      "forks": "1,073",
       "addStars": "2,294",
       "contributors": [
         {
@@ -461,8 +461,8 @@
       "description": "An open-source AI coding agent that lives in your terminal.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "30,595",
-      "forks": "3,544",
+      "stars": "30,627",
+      "forks": "3,546",
       "addStars": "1,469",
       "contributors": [
         {
