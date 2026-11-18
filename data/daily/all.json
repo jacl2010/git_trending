@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Wed, 18 Nov 2026 19:43:37 GMT",
+  "pubDate": "Wed, 18 Nov 2026 23:50:14 GMT",
   "items": [
     {
       "title": "elementalsouls/Claude-BugHunter",
@@ -10,8 +10,8 @@
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "11,096",
-      "forks": "1,496",
+      "stars": "11,333",
+      "forks": "1,511",
       "addStars": "2,322",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,139",
-      "forks": "1,890",
+      "stars": "17,181",
+      "forks": "1,893",
       "addStars": "315",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "59,578",
-      "forks": "5,409",
+      "stars": "59,717",
+      "forks": "5,424",
       "addStars": "384",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "69,856",
-      "forks": "6,235",
+      "stars": "69,970",
+      "forks": "6,241",
       "addStars": "1,062",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Modern Docker Management, Designed for Everyone",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "9,737",
-      "forks": "556",
+      "stars": "9,778",
+      "forks": "561",
       "addStars": "547",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,628",
-      "forks": "507",
+      "stars": "3,705",
+      "forks": "516",
       "addStars": "323",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "96,138",
-      "forks": "10,780",
+      "stars": "96,150",
+      "forks": "10,782",
       "addStars": "111",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "92,186",
-      "forks": "3,921",
+      "stars": "92,216",
+      "forks": "3,922",
       "addStars": "260",
       "contributors": [
         {
@@ -281,8 +281,8 @@
       "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,111",
-      "forks": "515",
+      "stars": "4,248",
+      "forks": "531",
       "addStars": "1,529",
       "contributors": [
         {
@@ -303,8 +303,8 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,361",
-      "forks": "1,363",
+      "stars": "10,388",
+      "forks": "1,366",
       "addStars": "369",
       "contributors": [
         {
@@ -340,8 +340,8 @@
       "description": "web development for the rest of us",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "89,721",
-      "forks": "6,215",
+      "stars": "89,627",
+      "forks": "6,210",
       "addStars": "694",
       "contributors": [
         {
@@ -372,8 +372,8 @@
       "description": "jQuery JavaScript Library",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "59,993",
-      "forks": "20,715",
+      "stars": "60,007",
+      "forks": "20,714",
       "addStars": "268",
       "contributors": [
         {
@@ -409,7 +409,7 @@
       "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "58,187",
+      "stars": "58,228",
       "forks": "5,888",
       "addStars": "239",
       "contributors": [
@@ -446,8 +446,8 @@
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "11,287",
-      "forks": "3,599",
+      "stars": "11,315",
+      "forks": "3,602",
       "addStars": "18",
       "contributors": [
         {
@@ -478,8 +478,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "319,912",
-      "forks": "28,541",
+      "stars": "321,301",
+      "forks": "28,553",
       "addStars": "823",
       "contributors": [
         {
@@ -515,8 +515,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "306,355",
-      "forks": "45,101",
+      "stars": "306,469",
+      "forks": "45,117",
       "addStars": "1,109",
       "contributors": [
         {
@@ -552,8 +552,8 @@
       "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "7,895",
-      "forks": "966",
+      "stars": "7,915",
+      "forks": "968",
       "addStars": "280",
       "contributors": [
         {
@@ -589,8 +589,8 @@
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "210,982",
-      "forks": "61,561",
+      "stars": "211,058",
+      "forks": "61,572",
       "addStars": "315",
       "contributors": [
         {
@@ -626,8 +626,8 @@
       "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "36,512",
-      "forks": "1,178",
+      "stars": "36,565",
+      "forks": "1,182",
       "addStars": "37",
       "contributors": [
         {
@@ -658,8 +658,8 @@
       "description": "A collection of MCP servers.",
       "language": "",
       "languageColor": "",
-      "stars": "97,974",
-      "forks": "20,331",
+      "stars": "98,007",
+      "forks": "20,350",
       "addStars": "52",
       "contributors": [
         {
