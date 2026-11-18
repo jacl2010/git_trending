@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Wed, 18 Nov 2026 15:26:26 GMT",
+  "pubDate": "Wed, 18 Nov 2026 19:43:37 GMT",
   "items": [
     {
       "title": "elementalsouls/Claude-BugHunter",
@@ -10,8 +10,8 @@
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "10,745",
-      "forks": "1,480",
+      "stars": "11,096",
+      "forks": "1,496",
       "addStars": "2,322",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,097",
-      "forks": "1,879",
+      "stars": "17,139",
+      "forks": "1,890",
       "addStars": "315",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "59,439",
-      "forks": "5,396",
+      "stars": "59,578",
+      "forks": "5,409",
       "addStars": "384",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "69,708",
-      "forks": "6,226",
+      "stars": "69,856",
+      "forks": "6,235",
       "addStars": "1,062",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Modern Docker Management, Designed for Everyone",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "9,649",
-      "forks": "547",
+      "stars": "9,737",
+      "forks": "556",
       "addStars": "547",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,539",
-      "forks": "495",
+      "stars": "3,628",
+      "forks": "507",
       "addStars": "323",
       "contributors": [
         {
@@ -217,9 +217,9 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "96,110",
-      "forks": "10,782",
-      "addStars": "199",
+      "stars": "96,138",
+      "forks": "10,780",
+      "addStars": "111",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45469?s=40&v=4",
@@ -254,8 +254,8 @@
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "92,146",
-      "forks": "3,915",
+      "stars": "92,186",
+      "forks": "3,921",
       "addStars": "260",
       "contributors": [
         {
@@ -281,8 +281,8 @@
       "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,894",
-      "forks": "496",
+      "stars": "4,111",
+      "forks": "515",
       "addStars": "1,529",
       "contributors": [
         {
@@ -303,8 +303,8 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,310",
-      "forks": "1,360",
+      "stars": "10,361",
+      "forks": "1,363",
       "addStars": "369",
       "contributors": [
         {
@@ -340,8 +340,8 @@
       "description": "web development for the rest of us",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "89,649",
-      "forks": "6,208",
+      "stars": "89,721",
+      "forks": "6,215",
       "addStars": "694",
       "contributors": [
         {
@@ -372,8 +372,8 @@
       "description": "jQuery JavaScript Library",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "59,974",
-      "forks": "20,706",
+      "stars": "59,993",
+      "forks": "20,715",
       "addStars": "268",
       "contributors": [
         {
@@ -409,8 +409,8 @@
       "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "58,141",
-      "forks": "5,884",
+      "stars": "58,187",
+      "forks": "5,888",
       "addStars": "239",
       "contributors": [
         {
@@ -446,8 +446,8 @@
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "11,248",
-      "forks": "3,591",
+      "stars": "11,287",
+      "forks": "3,599",
       "addStars": "18",
       "contributors": [
         {
@@ -478,8 +478,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "319,804",
-      "forks": "28,527",
+      "stars": "319,912",
+      "forks": "28,541",
       "addStars": "823",
       "contributors": [
         {
@@ -515,8 +515,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "306,206",
-      "forks": "45,081",
+      "stars": "306,355",
+      "forks": "45,101",
       "addStars": "1,109",
       "contributors": [
         {
@@ -552,9 +552,9 @@
       "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "7,846",
-      "forks": "962",
-      "addStars": "991",
+      "stars": "7,895",
+      "forks": "966",
+      "addStars": "280",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9414763?s=40&v=4",
@@ -589,8 +589,8 @@
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "210,882",
-      "forks": "61,556",
+      "stars": "210,982",
+      "forks": "61,561",
       "addStars": "315",
       "contributors": [
         {
@@ -626,8 +626,8 @@
       "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "36,407",
-      "forks": "1,167",
+      "stars": "36,512",
+      "forks": "1,178",
       "addStars": "37",
       "contributors": [
         {
@@ -658,8 +658,8 @@
       "description": "A collection of MCP servers.",
       "language": "",
       "languageColor": "",
-      "stars": "97,917",
-      "forks": "20,311",
+      "stars": "97,974",
+      "forks": "20,331",
       "addStars": "52",
       "contributors": [
         {
