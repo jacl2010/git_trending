@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/jacl2010/git_trending",
-  "pubDate": "Fri, 20 Nov 2026 06:08:29 GMT",
+  "pubDate": "Fri, 20 Nov 2026 15:10:37 GMT",
   "items": [
     {
       "title": "elementalsouls/Claude-BugHunter",
@@ -10,9 +10,9 @@
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,891",
-      "forks": "1,616",
-      "addStars": "1,349",
+      "stars": "13,585",
+      "forks": "1,654",
+      "addStars": "1,660",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "322,266",
-      "forks": "28,643",
-      "addStars": "2,028",
+      "stars": "322,595",
+      "forks": "28,658",
+      "addStars": "888",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "60,747",
-      "forks": "5,511",
-      "addStars": "898",
+      "stars": "61,084",
+      "forks": "5,532",
+      "addStars": "774",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "67,140",
-      "forks": "8,812",
-      "addStars": "238",
+      "stars": "67,529",
+      "forks": "8,853",
+      "addStars": "841",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/62287848?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,630",
-      "forks": "1,940",
-      "addStars": "384",
+      "stars": "17,750",
+      "forks": "1,953",
+      "addStars": "292",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -190,9 +190,9 @@
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "204,490",
-      "forks": "10,717",
-      "addStars": "825",
+      "stars": "204,895",
+      "forks": "10,742",
+      "addStars": "1,226",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20311743?s=40&v=4",
@@ -227,9 +227,9 @@
       "description": "The official NGINX Open Source repository.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "32,395",
-      "forks": "8,420",
-      "addStars": "73",
+      "stars": "32,491",
+      "forks": "8,427",
+      "addStars": "246",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/201187?s=40&v=4",
@@ -264,9 +264,9 @@
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "11,610",
-      "forks": "3,624",
-      "addStars": "246",
+      "stars": "11,689",
+      "forks": "3,631",
+      "addStars": "219",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2566854?s=40&v=4",
@@ -296,9 +296,9 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "68,808",
-      "forks": "4,624",
-      "addStars": "271",
+      "stars": "69,091",
+      "forks": "4,648",
+      "addStars": "634",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
@@ -328,9 +328,9 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "70,971",
-      "forks": "6,319",
-      "addStars": "954",
+      "stars": "71,246",
+      "forks": "6,337",
+      "addStars": "685",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
@@ -360,9 +360,9 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,802",
-      "forks": "1,390",
-      "addStars": "302",
+      "stars": "10,914",
+      "forks": "1,398",
+      "addStars": "315",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43076783?s=40&v=4",
@@ -397,9 +397,9 @@
       "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "2,057",
-      "forks": "137",
-      "addStars": "377",
+      "stars": "2,452",
+      "forks": "163",
+      "addStars": "874",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/34001140?s=40&v=4",
@@ -429,9 +429,9 @@
       "description": "The open-source agent for CI/CD reliability.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,237",
-      "forks": "1,910",
-      "addStars": "38",
+      "stars": "13,424",
+      "forks": "1,918",
+      "addStars": "465",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/33206282?s=40&v=4",
@@ -466,9 +466,9 @@
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "75,304",
-      "forks": "5,570",
-      "addStars": "182",
+      "stars": "75,558",
+      "forks": "5,584",
+      "addStars": "686",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25152247?s=40&v=4",
@@ -498,9 +498,9 @@
       "description": "The only downloader you need. 下载器的集大成者。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,016",
-      "forks": "808",
-      "addStars": "341",
+      "stars": "13,441",
+      "forks": "829",
+      "addStars": "1,082",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/87308195?s=40&v=4",
@@ -530,9 +530,9 @@
       "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "11,516",
-      "forks": "1,960",
-      "addStars": "126",
+      "stars": "11,952",
+      "forks": "1,991",
+      "addStars": "983",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/78066887?s=40&v=4",
