@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Wed, 25 Nov 2026 07:28:04 GMT</pubDate>
+    <pubDate>Wed, 25 Nov 2026 16:59:50 GMT</pubDate>
     <item>
       <title>backnotprop/plannotator</title>
       <link>https://github.com/backnotprop/plannotator</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/backnotprop/plannotator</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>14,954</stars>
-      <forks>1,438</forks>
+      <stars>15,046</stars>
+      <forks>1,447</forks>
       <addStars>1,956</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/google-labs-code/stitch-skills</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>12,765</stars>
-      <forks>1,530</forks>
+      <stars>12,901</stars>
+      <forks>1,534</forks>
       <addStars>2,626</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/GoogleChrome/modern-web-guidance-src</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>10,898</stars>
-      <forks>826</forks>
+      <stars>10,985</stars>
+      <forks>831</forks>
       <addStars>2,494</addStars>
       <contributors>
         <contributor>
@@ -114,14 +114,52 @@
       </contributors>
     </item>
     <item>
+      <title>n8n-io/nod</title>
+      <link>https://github.com/n8n-io/nod</link>
+      <description>Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websites, and asks before it acts. Runs on your machine with the model you choose. By n8n.</description>
+      <guid>https://github.com/n8n-io/nod</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>3,467</stars>
+      <forks>558</forks>
+      <addStars>1,011</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11021461?s=40&amp;v=4</avatar>
+          <name>aalises</name>
+          <url>https://github.com/aalises</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/16818300?s=40&amp;v=4</avatar>
+          <name>frstavares</name>
+          <url>https://github.com/frstavares</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5963309?s=40&amp;v=4</avatar>
+          <name>johancutych</name>
+          <url>https://github.com/johancutych</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/17594215?s=40&amp;v=4</avatar>
+          <name>BerniWittmann</name>
+          <url>https://github.com/BerniWittmann</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>alibaba/open-code-review</title>
       <link>https://github.com/alibaba/open-code-review</link>
       <description>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
       <guid>https://github.com/alibaba/open-code-review</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>56,145</stars>
-      <forks>4,633</forks>
+      <stars>56,292</stars>
+      <forks>4,648</forks>
       <addStars>2,638</addStars>
       <contributors>
         <contributor>
@@ -158,8 +196,8 @@
       <guid>https://github.com/mvanhorn/last30days-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>74,532</stars>
-      <forks>6,568</forks>
+      <stars>74,912</stars>
+      <forks>6,599</forks>
       <addStars>5,369</addStars>
       <contributors>
         <contributor>
@@ -191,8 +229,8 @@
       <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>59,261</stars>
-      <forks>4,886</forks>
+      <stars>59,323</stars>
+      <forks>4,887</forks>
       <addStars>1,258</addStars>
       <contributors>
         <contributor>
@@ -224,8 +262,8 @@
       <guid>https://github.com/tradermonty/claude-trading-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,357</stars>
-      <forks>1,540</forks>
+      <stars>8,420</stars>
+      <forks>1,550</forks>
       <addStars>1,504</addStars>
       <contributors>
         <contributor>
@@ -257,8 +295,8 @@
       <guid>https://github.com/ag-ui-protocol/ag-ui</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>21,626</stars>
-      <forks>2,177</forks>
+      <stars>21,691</stars>
+      <forks>2,180</forks>
       <addStars>1,753</addStars>
       <contributors>
         <contributor>
@@ -295,8 +333,8 @@
       <guid>https://github.com/meta/astryx</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>32,945</stars>
-      <forks>2,582</forks>
+      <stars>33,058</stars>
+      <forks>2,589</forks>
       <addStars>2,890</addStars>
       <contributors>
         <contributor>
@@ -328,8 +366,8 @@
       <guid>https://github.com/pookjw/HermesEnabler</guid>
       <language>Objective-C</language>
       <languageColor>#438eff</languageColor>
-      <stars>2,499</stars>
-      <forks>206</forks>
+      <stars>2,509</stars>
+      <forks>207</forks>
       <addStars>328</addStars>
       <contributors>
         <contributor>
@@ -366,8 +404,8 @@
       <guid>https://github.com/we-promise/sure</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>17,817</stars>
-      <forks>1,548</forks>
+      <stars>17,887</stars>
+      <forks>1,559</forks>
       <addStars>1,567</addStars>
       <contributors>
         <contributor>
@@ -399,8 +437,8 @@
       <guid>https://github.com/dream-num/univer</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>31,757</stars>
-      <forks>2,865</forks>
+      <stars>31,829</stars>
+      <forks>2,866</forks>
       <addStars>3,278</addStars>
       <contributors>
         <contributor>
@@ -437,8 +475,8 @@
       <guid>https://github.com/kajisho5/ffmpeg-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>10,814</stars>
-      <forks>925</forks>
+      <stars>10,993</stars>
+      <forks>934</forks>
       <addStars>2,993</addStars>
       <contributors>
         <contributor>
