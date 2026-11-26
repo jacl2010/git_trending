@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/jacl2010/git_trending</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Thu, 26 Nov 2026 07:16:15 GMT</pubDate>
+    <pubDate>Thu, 26 Nov 2026 16:40:37 GMT</pubDate>
     <item>
       <title>backnotprop/plannotator</title>
       <link>https://github.com/backnotprop/plannotator</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/backnotprop/plannotator</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>15,139</stars>
-      <forks>1,451</forks>
+      <stars>15,214</stars>
+      <forks>1,456</forks>
       <addStars>1,764</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/google-labs-code/stitch-skills</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>13,083</stars>
-      <forks>1,545</forks>
+      <stars>13,199</stars>
+      <forks>1,549</forks>
       <addStars>2,616</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/GoogleChrome/modern-web-guidance-src</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>11,116</stars>
-      <forks>835</forks>
+      <stars>11,208</stars>
+      <forks>840</forks>
       <addStars>2,309</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/n8n-io/nod</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,658</stars>
-      <forks>580</forks>
+      <stars>3,863</stars>
+      <forks>609</forks>
       <addStars>1,008</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/alibaba/open-code-review</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>56,437</stars>
-      <forks>4,666</forks>
+      <stars>56,587</stars>
+      <forks>4,677</forks>
       <addStars>2,259</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/mvanhorn/last30days-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>75,312</stars>
-      <forks>6,642</forks>
+      <stars>75,574</stars>
+      <forks>6,659</forks>
       <addStars>5,302</addStars>
       <contributors>
         <contributor>
@@ -229,8 +229,8 @@
       <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>59,400</stars>
-      <forks>4,890</forks>
+      <stars>59,467</stars>
+      <forks>4,893</forks>
       <addStars>1,203</addStars>
       <contributors>
         <contributor>
@@ -262,8 +262,8 @@
       <guid>https://github.com/tradermonty/claude-trading-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,497</stars>
-      <forks>1,556</forks>
+      <stars>8,551</stars>
+      <forks>1,561</forks>
       <addStars>1,422</addStars>
       <contributors>
         <contributor>
@@ -295,8 +295,8 @@
       <guid>https://github.com/ag-ui-protocol/ag-ui</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>21,771</stars>
-      <forks>2,189</forks>
+      <stars>21,818</stars>
+      <forks>2,190</forks>
       <addStars>1,421</addStars>
       <contributors>
         <contributor>
@@ -333,8 +333,8 @@
       <guid>https://github.com/meta/astryx</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>33,200</stars>
-      <forks>2,594</forks>
+      <stars>33,291</stars>
+      <forks>2,599</forks>
       <addStars>2,635</addStars>
       <contributors>
         <contributor>
@@ -366,8 +366,8 @@
       <guid>https://github.com/pookjw/HermesEnabler</guid>
       <language>Objective-C</language>
       <languageColor>#438eff</languageColor>
-      <stars>2,525</stars>
-      <forks>207</forks>
+      <stars>2,536</stars>
+      <forks>206</forks>
       <addStars>318</addStars>
       <contributors>
         <contributor>
@@ -404,8 +404,8 @@
       <guid>https://github.com/we-promise/sure</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>17,977</stars>
-      <forks>1,565</forks>
+      <stars>18,048</stars>
+      <forks>1,570</forks>
       <addStars>1,509</addStars>
       <contributors>
         <contributor>
@@ -431,14 +431,52 @@
       </contributors>
     </item>
     <item>
+      <title>obsidianmd/obsidian-skills</title>
+      <link>https://github.com/obsidianmd/obsidian-skills</link>
+      <description>Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.</description>
+      <guid>https://github.com/obsidianmd/obsidian-skills</guid>
+      <language>Shell</language>
+      <languageColor>#89e051</languageColor>
+      <stars>53,908</stars>
+      <forks>3,837</forks>
+      <addStars>704</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10565871?s=40&amp;v=4</avatar>
+          <name>kepano</name>
+          <url>https://github.com/kepano</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/25070796?s=40&amp;v=4</avatar>
+          <name>kpeez</name>
+          <url>https://github.com/kpeez</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/54458?s=40&amp;v=4</avatar>
+          <name>catlee</name>
+          <url>https://github.com/catlee</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12980454?s=40&amp;v=4</avatar>
+          <name>bencharoenwong</name>
+          <url>https://github.com/bencharoenwong</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>dream-num/univer</title>
       <link>https://github.com/dream-num/univer</link>
       <description>Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.</description>
       <guid>https://github.com/dream-num/univer</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>31,899</stars>
-      <forks>2,869</forks>
+      <stars>31,936</stars>
+      <forks>2,871</forks>
       <addStars>2,319</addStars>
       <contributors>
         <contributor>
@@ -475,8 +513,8 @@
       <guid>https://github.com/kajisho5/ffmpeg-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>11,238</stars>
-      <forks>947</forks>
+      <stars>11,413</stars>
+      <forks>956</forks>
       <addStars>3,048</addStars>
       <contributors>
         <contributor>
